@@ -1,0 +1,8 @@
+accoustic
+radio frequency (RF)
+radar
+camera (visual/daylight range)
+camera (infrared)
+camera (uv)
+camera (multi-spectral)
+LIDAR
