@@ -21,4 +21,4 @@ for url in links:
 	html = urllib.request.urlopen(url).read()
 	soup = BeautifulSoup(html)
 	text = soup.get_text()
-	print(text) 
+	print(text)
