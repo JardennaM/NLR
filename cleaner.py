@@ -36,14 +36,8 @@ def extract_sents(txtfile):
 		new_sent = sent.lower()
 		tokens = word_tokenize(new_sent)
 		l_sents.append(tokens)
-
-
-
 	
 	return l_sents
-
-
-sents = extract_sents('pages/classification/accoustic_5.txt')
 
 
 def remove_stopwords_punctuation(sentences):
@@ -63,7 +57,17 @@ def remove_stopwords_punctuation(sentences):
 	return new_sents
 
 
-sents2 = remove_stopwords_punctuation(sents)
+# testing
+txtfile = 'pages/classification/accoustic_5.txt'
+sentences = extract_sents(txtfile)
 
-for item in sents2:
-	print(item)
+#sentences = remove_stopwords_punctuation(sentences)
+
+
+for s in sentences:
+	if 'accoustic' in s or 'detection' in s:
+		print(s)
+
+
+
+

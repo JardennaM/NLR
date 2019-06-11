@@ -1,20 +1,25 @@
-from nltk.corpus import stopwords
-from nltk.cluster.util import cosine_distance
 import numpy as np
-import networkx as nx
+import spacy
+import en_core_web_sm
+import pke
 
+# initialize keyphrase extraction model, here TopicRank
+extractor = pke.unsupervised.TopicRank()
 
-def read_article(file_name):
-    file = open(file_name, "r")
-    filedata = file.readlines()
-    article = filedata[0].split(". ")
-    sentences = []
-    print(article)
-   	for sentence in article:
-		print(sentence)
-	 	sentences.append(sentence.replace("[^a-zA-Z]", " ").split(" "))
-	 	sentences.pop() 
-    
-    return sentences
+# load the content of the document, here document is expected to be in raw
+# format (i.e. a simple text file) and preprocessing is carried out using spacy
 
-print(read_article('pages/classification/accoustic_5.txt'))
+txtfile = 'pages/classification/accoustic_3.txt'
+extractor.load_document(input=txtfile, language='en')
+
+# keyphrase candidate selection, in the case of TopicRank: sequences of nouns
+# and adjectives (i.e. `(Noun|Adj)*`)
+extractor.candidate_selection()
+
+# candidate weighting, in the case of TopicRank: using a random walk algorithm
+extractor.candidate_weighting()
+
+# N-best selection, keyphrases contains the 10 highest scored candidates as
+# (keyphrase, score) tuples
+keyphrases = extractor.get_n_best(n=20)
+print(keyphrases)
