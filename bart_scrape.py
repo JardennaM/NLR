@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 from nltk.corpus import wordnet as wn
 from googlesearch import search
 
-termfile = open('terms.txt').readlines()
+termfile = open('terms_bart.txt').readlines()
 
-terms = ['drone detection %s'%term.rstrip("\n\r") for term in termfile]
-
+terms = ['drone detection %s'%term.rstrip("\n\r\t") for term in termfile]
+print(terms)
 links = []
 
 for term in terms:
