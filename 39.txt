@@ -1,0 +1,297 @@
+This information is from https://detect-inc.com/drone-detection-defense-systems/
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection & Defense Systems - Detect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+About
+Products 
+
+Aircraft Birdstrike Avoidance Radar
+Avian & Bat Radar Systems
+Security & Surveillance Radars
+Drone Detection & Defense Systems
+Wind Energy Bird & Bat Radars
+Bird Control Radar Systems
+Aircraft Detection Lighting Systems
+Ground-Based Sense-And-Avoid (GBSAA)
+
+
+Events
+News
+Contact
+Careers
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Products 
+
+Aircraft Birdstrike Avoidance Radar
+Avian & Bat Radar Systems
+Security & Surveillance Radars
+Drone Detection & Defense Systems
+Wind Energy Bird & Bat Radars
+Bird Control Radar Systems
+Aircraft Detection Lighting Systems
+Ground-Based Sense-And-Avoid (GBSAA)
+
+
+Events
+News
+Contact
+Careers
+ 
+
+
+
+
+
+
+
+
+
+×
+Twitter Accounts
+
+
+Choose One:
+
+
+
+
+
+
+
+
+Close
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection & Defense Systems 
+
+
+DeTect has developed a unique drone/small UAV detection and defense solution, DroneWatcher, consisting of three technologies that can operate independently or together to provide complete, multi-layer security:
+DroneWatcherAPP uses advanced signals intelligence technology to turn an Android smartphone or tablet into a drone and small UAV finder that detects, tracks and records information on ~95% of consumer and prosumer drones with a range of up to 1/4 – 1/2 mile. The APP also records data including the drone type, ID and other information that can be used to document incursions and support apprehension and prosecution by local law enforcement. Multiple devices using the APP can create a crowd sourced network for wide area coverage and detection with real-time web based situational awareness displays and automatic warning of drone incursions via visual and audible alerts and text messaging. The free APP is available on Google Play. View the privacy policy.
+DroneWatcherRF is able to detect over 95% of the commercially-available, consumer and prosumer drones on the market out to 1-2 miles providing detailed information including drone type, ID and other data. The DroneWatcher RF is a compact, unobtrusive electric box that is installed around the perimeter of a facility with only nominal power and network requirements (self-contained solar and cellular versions are available). New drone signatures are continually being added to DeTect’s DroneWatcherRF identification database. DroneWatcher RF also includes DeTect’s proprietary drone interdiction and inception functionality.
+HARRIER DSR (drone surveillance radar) is primary surveillance radar designed specifically for detection and tracking of small, low flying, non-cooperative targets in high clutter environments. DSR is able to detect and track small consumer, prosumer and military cooperative and non-cooperative drones within line of sight and at longer ranges out to 2+ miles with a longer range for larger UAVs. The HARRIER DSR detects and tracks uncontrolled, programmed drones flying on autopilot that are not detectable by DroneWatcher APP and RF and interfaces with and control a wide range of ancillary sensors including video and DeTect third party interception technologies.
+DroneWatcher Layered Drone Surveillance & Interdiction
+DeTect’s DroneWatcher system delivers a flexible, highly customizable multi-layered solution for finding, tracking, alerting and interdiction of drones/sUAVs includes signals intelligence (SIGINT) and radar technologies. Each DeTect technology can be used as a stand alone sensor or can be combined to provide the level of security specific to each user’s requirements. Additionally, the technology is upgradable to meet the security challenges presented by continually evolving drone capabilities, features and threats.
+The DroneWatcher APP, available through Google Play in free, Pro and Pro Premium versions provide a low cost effective technology for protecting personal privacy and for small business security. For large area coverage, multiple DroneWatcher APP enabled devices using DeTect’s optional DroneWatcherWEB service can be crowdsourced to provide wide-area drone control and interdiction at public events (such as indoor and outdoor concerts, fairs, and rallies), sporting events (such as NASCAR, stadium sports, golf tournaments, marathons, tennis and other outdoor competitions), airports, prisons, power plants, government facilities, industrial sites and for general law enforcement.
+For higher level security requirements, the APP can be integrated with the DroneWatcher RF and/or HARRIER Drone Surveillance Radar to provide 100% security for covered airspace with the APP and RF sensors detecting, tracking and identifying RF controlled drones and the HARRIER DSR providing detection and tracking of non-cooperative, non-RF controlled, or auto programmed drones and UAVs. Both DroneWatcher and the HARRIER DSR also can include DeTect’s proprietary drone interdiction and inception functionality.
+The DroneWatcherWEB is DeTect’s Web service that provides real-time consolidated, custom situational awareness web display for each user site, including wide area views for large complexes, cities and counties. DroneWatcherWEB is highly flexible and includes custom visual, audible and text message alerting options. The web service additionally logs all sensor detections including drone ID signatures, location, flight path and other parameters that can be used to support law enforcement prosecutions for illegal intrusions.
+HARRIER Drone Surveillance Radar
+The HARRIER DSR uses advanced, military grade radar solid-state Doppler designed for small RCS targets in complex clutter environment and provides reliable detection of non-RF and GPS programmed flight drones to 2+ miles. DeTect’s solid-state radar technology offers significant increased performance, longer useful life and lower maintenance costs over conventional magnetron-based systems. HARRIER also includes an advanced SQL datasystem that provide real-time drone target classification and rejection of false positive targets from birds. The system interfaces with third party video, acoustic and other technologies and includes a consolidated Web Service for real-time user situational awareness displays for specific sites and regions. HARRIER has a tested record of exceptional performance with the following general detection ranges for drone size ranges:
+
+Large (Global Hawk class) to 14+ nm
+Medium (Raven class) to 4-6+ nm
+Micro UAVs (DJ Phantom class) to 2+ nm
+DeTect’s HARRIER system also includes DeTect’s proprietary drone interdiction technology and/or the system can be integrated with and control third-party interdiction technologies.
+
+Interoperable Integrated Technology
+DroneWatcher and HARRIER systems can operate as a stand alone facility and force protection systems detecting and alerting perimeter intrusions by air, water and land. The systems are also multifunctional and can be programmed to detect multiple intruders types including simultaneous locating, tracking and alerting of sUAVs, aircraft, ultralights, ships and boats crossing pre-set site perimeters or entering restricted zones, providing automated visual and audible notifications thought DeTect’s web service to security and law enforcement forces by text message, pager or cellular phone and direct read-out at remote monitoring stations.
+Automatic detection and tracking capabilities includes user defined monitoring and alarm zones. Systems are offered in fixed skid and mobile configurations and can be linearly networked to cover large areas and lines such as border crossings, coastlines and large facilities. DeTect’s technology is highly customizable providing radar, video, and thermal detection and acoustic deterrent through a single user interface display with advanced alerting and response features all viewable and controllable remotely in real-time. HARRIER features include:
+
+Microsoft Windows-based operating software
+User displays & interfaces developed for non-technical user
+Integrated radar, thermal, video, acoustic, sonar & deterrents
+Intelligent Radar feature provides real-time target identification
+Automatic false positive (birds) rejection
+Display activated “point-and-click” video zoom & deterrent activation
+Compatible with other security & display systems
+Site-specific underlay maps
+Mobile mapping technology
+Identifies & tracks each target by size, position, speed & heading
+Audible & visual intrusion alarms
+Optional notification by email & radio pager
+Automated data recording, archiving & reporting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aircraft Birdstrike Avoidance Radar
+Avian & Bat Radar Systems
+Wind Energy Bird & Bat Radars
+Drone Detection & Defense Systems
+Aircraft Detection Lighting Systems
+Security & Surveillance Radars
+ 
+
+
+
+
+© 2003-2019 DeTect, Inc., All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+

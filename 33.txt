@@ -1,0 +1,181 @@
+This information is from https://www.heliguy.com/drone-detection-i113
+
+Drone Detection - Layered Solution Drone Detector - Heliguy              
+
+
+
+
+
+0191 296 1024
+
+
+
+  
+
+|
+ info@heliguy.com
+
+  
+Search
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Search
+Quote
+Login
+ Language  Change Language Close  
+
+
+VAT (inc) 
+VAT (ex) 
+
+GBP (£)
+
+
+ my basket
+
+
+(0)
+
+
+£0.00£0.00 
+
+(ex VAT)
+
+(ex VAT)
+
+
+(inc VAT)
+
+(inc VAT)
+
+
+
+
+
+Basket Summary (0)
+View Full Basket  
+/
+
+£
+
+
+
+EUR (€)
+
+
+USD ($)
+
+
+GBP (£)
+
+currency
+€EUR$USD£GBP
+  
+
+
+0
+
+
+
+
+Consumer   Foldable drones with 4K camerasDJI Mavic SeriesDJI Mavic 2DJI Mavic AirDJI Mavic ProCompact drones with 1080p cameraDJI Spark SeriesDJI SparkRyze TelloTelloHigh-end aerial imagingDJI Phantom SeriesDJI Phantom 4 Pro V2All Phantom 4 and AccessoriesAll Phantom 3 and AccessoriesHandheld gimbals and camerasDJI Osmo RangeDJI Osmo ActionDJI Osmo PocketDJI Osmo Mobile 2All Osmo and AccessoriesExtra accessories for DJI dronesDJI Consumer AccessoriesDJI Smart ControllerDJI GogglesDJI CrystalSky MonitorsHeliguy Repair Refresh
+
+Professional   Filmmaking drones and gimbalsProfessional CinematographyDJI Inspire 2DJI Inspire 1Aerial cameras for professionalsZenmuse Gimbal CamerasDJI Zenmuse X7DJI Zenmuse X5SDJI Zenmuse X5RDJI Zenmuse X5View All Zenmuse and AccessoriesCamera StabilizersDJI Ronin SeriesDJI Ronin 2DJI Ronin-SDJI Ronin MXDJI Ronin MView All Ronin and AccessoriesProfessional AccessoriesPro AccessoriesDJI MasterWheelsDJI Force ProDJI CrystalSky MonitorsDJI Cendence RemoteDJI Battery StationDrone InsuranceTeradek Bond
+
+Enterprise   Drones for commercial applicationsEnterprise DronesDJI Matrice 200 V2DJI Matrice 210 V2DJI Matrice 210 RTK V2DJI Mavic 2 Enterprise DualDJI Mavic 2 EnterpriseDJI Phantom 4 RTKDJI Matrice 200 Series V1DJI Matrice 600DJI Wind Series DronesView All Matrice 200 and AccessoriesSensors for enterprise applicationsPayloadsDJI Zenmuse XT2DJI Zenmuse Z30DJI Zenmuse X5SSlantrange 4P SensorsViewpro SensorsOtherTeradekElistairParaZero Drone ParachuteSoftware for drone operatorsSoftwareDJI FlightHub BasicDJI FlightHub AdvancedDroneDeployDJI Flight SimulatorDJI TerraHeliguy ServicesCommercial DronesHECTICDrone InsuranceProtect sensitive airspaceCounter DroneDrone DetectionAeroScope SeriesDJI AeroScope PortableDJI AeroScope StationaryView all AeroScope
+
+Training   CAA approved trainingPfCO TrainingPfCO Full CourseAdoption from Other NQEFlight Assessment Preparation DayView All PfCO TrainingSpecialist training for specific drone applicationsBespoke TrainingEmergency Services Drone Operators Training (ES-DOT)Using Your Farm DroneOther Training DaysEnterprise EventsDrones for Enterprise and Networking Event
+
+Repairs   Tutorials for fixing common issuesKnowledgebaseTutorials and FAQsRepairs from our UK based, DJI trained tech teamDrone RepairsBook a RepairDJI Approved Repair CentreFull service of your equipmentDrone ServicingBook a Drone Service
+
+Rental 
+
+Refurbished 
+ inc VAT ex VAT   
+  
+
+Free Next Day Delivery
+
+
+  
+
+
+Earn Loyalty Points 
+
+
+
+  
+
+
+50 Day Returns Policy
+
+
+
+    
+
+Home
+
+Drone Detection
+Drone DetectionDrone Detection GuideHow to detect, identify and combat rogue drones in sensitive airspace.See Our SolutionRogue and illegal drone use has been dominating the headlines recently. The disruption caused at Gatwick Airport in December 2018 - following a host of alleged UAV sightings - thrust the issue into the spotlight and showed just how crucial it is for sites to be armed with drone-detection technology.This type of defence system raises alarm bells early, giving enough time to take action against a potential drone threat. This awareness gives enough time to take corrective action - the first step in your security.Defending against UAVs is nothing new and the market is well established, with multiple solutions available. Anti-drone systems feature technologies including microwave and radar detection, radio monitoring and optical scanning technology.  Heliguy Drone Detection ExpertiseHeliguy is an expert in drone detection, specialising in DJI’s AeroScope solution.  Following the Gatwick chaos, Heliguy has been a key drone-detection partner, installing and testing AeroScope at a number of major UK airports as well as putting the sites’ existing defence systems through their paces.  This vital work with leading airports comes on the back on Heliguy showcasing the specialist AeroScope system at Operation Zenith - a world-first demonstration at Manchester Airport to test how drones and traditional aircraft can safely share the same airspace.  The ground-breaking live-action scenarios were streamed to specially-invited guests at the Royal Aeronautical Society, in London.Heliguy Layered Drone Detection - Simple yet PowerfulTo take drone detection to the next level and to have a comprehensive and all-encompassing strategy, a layered solution is an extremely effective cause of action. Our exclusive partnership with Operational Solutions (OSL) allows us to offer this incredibly capable set up.Harnessing the power of multiple systems - including DJI AeroScope - this integrated approach offers a complete detection package.AeroScope is a sophisticated piece of kit and is the best in the business for detecting DJI drones and providing in-depth, real-time information about a potential UAV threat. However, AeroScope can only detect DJI drones. This is nothing to be scoffed at, as the company’s UAVs account for the vast majority of popular drones. But, with this in mind, it is important to plug the gaps - and this is where a multi-sensor solution comes in.DJI AeroScope
++OSL Interface
++RGB Camera
++Infrared Camera
++Robin ELVIRA Radar
+In partnership with: What does the Layered Solution include?This integrated solution features AeroScope, working in tandem with the OSL Face interface - a one-stop-shop piece of visual software. This intelligent platform integrates all radars onto one map - eliminating the need for multiple computer monitors in an easy-to-use format.  The sophisticated Face interface also uses AI to help capture evidence using the integrated camera sensor. OSL’s map-based interface, Face, is comprised of colour-coded tracks. Red tracks indicate drones and their flight path. Orange tracks represent suspected drones. Green tracks represent birds and other moving targets.   All track types can be toggled on and off, and the track visualisations and colours are all user configurable. Google Earth imagery is used as background mapping as standard and is automatically downloaded when connected to the internet.  How is Radar utilised in Heliguy's Drone Detection Solution?To take your drone defence even further, the advanced Robin ELVIRA can be integrated into this layered solution and is the final piece in the jigsaw.  ELVIRA is a purpose-built drone detection and tracking tool, combining smart software with affordable radar, offering a large coverage area.   It has been specifically designed to meet a variety of challenges. These include:  Working in low-visibility conditions and in urban environments full of obstacles; Detecting multiple targets simultaneously; Reliance on the drone and controller radio signals, which are only present when the drone is actively controlled; Distinguishing drones from other moving objects, like birds, to avoid false alarmsSetup Options for Layered Drone DetectionAeroScope Mobile +A portable drone detection kit.Enquire hereIncludes :  1 x AeroScope Mobile Unit  OSL Face Interface  1 x RGB Camera  1 x Infrared CameraAeroScope G8 +A large scale drone detection solution.enquire hereIncludes :  1 x AeroScope G8 Unit  OSL Face Interface  1 x RGB Camera  1 x Infrared Camera  1 x Robin ELVIRAAeroScope G16 +The ultimate drone detection setup.enquire hereIncludes :  1 x AeroScope G16 Unit  OSL Face Interface  2 x RGB Camera  2 x Infrared Camera  1 x Robin ELVIRAWhere can drone detection systems be deployed?Airports
+Prisons
+Government Sites
+Military Sites
+Festivals
+Arenas
+How does DJI's Drone Detection Work?AeroScope monitors the movements of drones in a certain area in real time, helping to identify friendly drones and potential foes.  This comprehensive platform receives important information about the UAVs which are flying in its range, including serial number, speed, direction, home position and the make and model of the aircraft.  AeroScope does this in order to provide real-time telemetry data and drone registration details.  This information helps AeroScope users make an informed response and security decision as soon as possible, helping to prevent accidental drone collisions or disruption and ensure that drone pilots are acting within the regulations in any given area. Identify
+Is this a drone? Is it a known operator? Can the make and model be determined?Monitor
+Where in the airspace is the drone located? What is it's current flight path? Can the operator be located?Alert
+Has a threat been detected? Decide on the immediate path of action. Alert the relevant parties ASAP!What DJI drone detection solutions are available?DJI AeroScope Mobile
+View mobile solutionThe Mobile AeroScope unit can be set up quickly and easily anywhere it’s needed. It’s perfect for use at temporary events, mobile deployments or other instances where you need to protect the airspace around you at short notice. It has a range of about 5km.DJI AeroScope Stationary
+view static solutionThe Stationary unit is designed to be in continuous use outdoors. One of the most significant advantages of using it is the ability to customise and configure the unit precisely to the site that needs to be monitored. In ideal conditions, a Stationary set-up has a range of 50km and can identify drones in as little as two seconds. Data gathered by AeroScope can be hosted on a private server for particularly sensitive airspace and you can integrate with other security systems to provide a more complete picture of the monitored airspace.Choosing a Static Antenna
+How large is the airspace you want to monitor? Where is your antenna mounted? How wide an angle do you want AeroScope to cover?G8 Antenna
+Suitable for directional detection when mounted towards the edge of airspace.ORG16 Antenna
+Suitable for mounting in the centre of the airspace for a wide angle of detection. The G16 is a high gain antenna.   
+ sign up to keep up to date with all of our latest offers & products
+
+  
+Follow UsFollow Us On FacebookFollow Us On TwitterFollow Us On InstagramFollow Us On PinterestFollow Us On YouTubeFollow Us On LinkedInView Our Blog
+Learn
+Blog
+About Us
+Contact Us
+Customer Reviews
+Careers
+Retail
+Delivery Information
+Refunds & Returns
+Finance
+Terms and Conditions
+Redeem Your Quote
+Accreditations
+© 2019 Heliguy. All Rights Reserved.
+eCommerce by Visualsoft
+Colena Ltd t/a Heliguy Registered office Unit 9 Jupiter Court, Orion Business Park, North Shields, Tyne & Wear, NE29 7SE, United KingdomCompany Registration Number 05819252 VAT no. GB875093202
+
+
+
+?
+         
+
+    
+Top  

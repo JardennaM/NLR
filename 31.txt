@@ -1,0 +1,474 @@
+This information is from https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+
+
+
+
+
+
+
+9 Counter-Drone Technologies To Detect And Stop Drones Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+radar systems
+
+
+
+
+
+
+/files/image-1.jpeg
+
+
+
+
+
+
+
+March 22 2019
+9 Counter-Drone Technologies To Detect And Stop Drones Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+This article provides an overview of Counter-Drone equipment you can buy today. You might also know it as Anti-Drone or Counter-UAS (C-UAS) technology. 
+We’ve focused on what’s currently available in the market so if you need to implement (or are thinking about implementing) a counter-drone solution, then this is the article for you. 
+Read on for an (almost entirely) unbiased look at the anti-drone market, including helpful pros and cons on each technology. And we’ve even provided links to vendors for you. How’s that for helpful?
+By the end of the article, you should have a good idea of what technology you need. And, what you don’t need.
+First off, we’re splitting all the tech into two categories: Monitoring Equipment and Countermeasures.
+ 
+DRONE MONITORING EQUIPMENT
+ 
+Monitoring equipment can be passive (simply looking or listening) or active (sending a signal out and analysing what comes back) and can perform several functions, including:
+
+Detection
+Classification or Identification
+Locating and Tracking
+Alerting
+
+ 
+You should be aware that not all equipment performs all of the above functionality at the same time.
+Detection means the technology is able to detect drones. Detection alone usually isn’t enough though. A radar that detects drones may also detect birds, for example. 
+That’s why classification is useful. Technology that classifies drones will usually be able to separate drones from other types of objects - like planes, trains, and automobiles, for example.
+One step further is identification. Some equipment can identify a particular model of drone, or even identify the drone’s or controller’s digital fingerprint, like a MAC address for example. This level of identification can be handy for prosecution purposes.
+Being alerted that a drone is present somewhere in the vicinity is already useful. But your situational awareness, and ability to deploy countermeasures is greatly enhanced if you know the drone’s (and/or the controller’s) exact location. Some equipment will even allow you to track the drone location in real-time. 
+There are four main types of drone monitoring equipment:
+
+Radio Frequency (RF) Analysers
+Acoustic Sensors (Microphones)
+Optical Sensors (Cameras)
+Radar
+
+ 
+RADIO FREQUENCY (RF) ANALYSERS
+ 
+
+Photo Credit: Rohde & Schwarz
+RF Analysers consist of one or more antennas to receive radio waves and a processor to analyse the RF spectrum. They’re used to try to detect radio communication between a drone and its controller. 
+Some systems are able to identify the more common drone makes and models, and some can even identify the MAC addresses of the drone and controller (if the drone uses Wi-Fi for communication). This is especially useful for prosecution purposes – proving that a particular drone and controller were active. 
+Some high-end systems can also triangulate the drone and its controller when using multiple radio units spread far apart.
+Pros: Can be low cost, detects (and sometimes identifies) multiple drones and controllers, passive so no licence required, some can triangulate drone and controller position.
+Cons: Doesn’t always locate and track drones, can’t detect autonomous drones, less effective in crowded RF areas, typically short range.
+Vendors: Vendors of radio frequency analysers include: Dedrone, Rohde & Schwarz, and Aaronia.
+
+ACOUSTIC SENSORS (MICROPHONES)
+ 
+
+Photo Credit: Squarehead Technologies
+Usually, a microphone, or microphone array (lots of microphones), which detect the sound made by a drone and calculate a direction. More sets of microphone arrays can be used for rough triangulation.
+Pros: Medium cost, doesn’t normally locate but can provide drone direction
+Cons: Doesn’t work as well in noisy environments, very short range (max. 300-500m)
+Vendors: Vendors include Squarehead Technologies.
+
+OPTICAL SENSORS (CAMERAS)
+ 
+ 
+Photo Credit: Hertz Systems
+Essentially a video camera. As well as standard daylight cameras, optical sensors can be infrared or thermal imaging.
+Pros: Provides visuals on the drone and it’s (potential) payload, can record images as forensic evidence for use in eventual prosecution.
+Cons: Difficult to use for detection by itself, high false-alarm rates, mostly poor performance in dark, fog, etc.
+Vendors: Too many to mention...
+
+RADAR
+ 
+
+Photo Credit: Robin Radar Systems
+A device using radio energy to detect an object. Radar sends out a signal and receives the reflection, measuring direction and distance (position). Most radars send their radio signal as a burst, then listen for the ‘echo’. Almost all radars are designed to NOT pick up small targets. They are designed for large object tracking, like passenger aircraft.
+Pros: Long range, constant tracking, highly accurate localisation, can handle hundreds of targets simultaneously, can track all drones regardless of autonomous flight, independent of visual conditions (day, night, fog, etc.)
+Cons: Detection range dependant on drone size, most do not distinguish birds from drones, requires transmission license and frequency check to prevent interference.
+Vendors: Well, that’d be us then! But...
+...we should probably point out here that our own Drone Detection Radar, ELVIRA®, is not like the standard radars described above. 
+First of all ELVIRA® is an FMCW radar. FMCW stands for Frequency Modulated Continuous Wave. What that means is that the radar is always sending and always receiving, which results in accurate and fast tracking with quick update rates.
+But the really unique thing is that ELVIRA® is a micro-doppler radar. 
+Doppler radars are able to track moving objects and discard static objects so you won't see them on your screen. Nothing new there.
+Micro-doppler radar, however, is able to detect movement - specifically, speed differences - within moving objects. And drones tend to have propellers which create a large spectrum of speed differences. Part of the propeller is moving towards you and part is moving away. 
+By using this technique our radar can identify drones easily, and, most importantly, distinguish drones from birds.
+
+DRONE COUNTERMEASURES EQUIPMENT
+ 
+Countermeasures can be grouped as either:
+
+Physically destroying the drone;
+Neutralising the drone; or
+Taking control of the drone.
+
+ 
+It’s important to note that, although the technology is available, current regulations in most countries forbid the use of any of the following technologies to be used for neutralising drones. 
+Exceptions are sometimes made for military or law enforcement agencies.
+
+RF JAMMERS
+ 
+
+Photo Credit: Battelle
+An RF Jammer is a static, mobile, or handheld device which transmits a large amount of RF energy towards the drone, masking the controller signal. This results in one of four scenarios, depending on the drone:
+
+Drone makes a controlled landing in its current position
+Drone returns to user-set home location (which could be set to a target position instead of home)
+Drone falls uncontrolled to the ground
+Drone flies off in a random uncontrolled direction.
+
+ 
+Pros: Medium cost, non-kinetic neutralisation.
+Cons: Short range, can affect (and jam) other radio communications, can result in unpredictable drone behaviour, could unintentionally send the drone to its target.
+Vendors: Hertz Systems, and HP Wust provide jamming systems.
+
+GPS SPOOFERS
+ 
+
+Photo Credit: Centum
+This device sends a new signal to the drone, replacing the communication with GPS satellites it uses for navigation. In this way, the drone is ‘spoofed’ into thinking it’s somewhere else. By dynamically altering the GPS coordinates in real-time, the drone’s position can be controlled by the spoofer. Once control is gained the drone can be directed to a ‘safe zone’, for example.
+Pros: Medium cost, non-kinetic neutralisation.
+Cons: Short range, can affect (and jam) other radio communications.
+Vendors: Centum provides a GPS Spoofer.
+ 
+HIGH POWER MICROWAVE (HPM) DEVICES
+ 
+
+Photo Credit: Diehl Defence
+High Power Microwave (HPM) devices generate an Electromagnetic Pulse (EMP) capable of disrupting electronic devices. The EMP interferes with radio links and disrupts or even destroys the electronic circuitry in drones (plus any other electronic device within range) due to the damaging voltage and currents it creates. HPM devices may include an antenna to focus the EMP in a certain direction, reducing potential collateral damage. 
+Pros: Within range, the drone can be stopped effectively, non-kinetic.
+Cons: High cost, risk of unintentionally disrupting communications or destroying other electronic devices in the area, drone effectively switches off instantly falling uncontrolled to the ground.
+Vendors: Diehl Defence provides a HPEM solution.
+ 
+NETS & NET GUNS
+ 
+
+Photo Credit: OpenWorks Engineering
+Firing a net at a drone, or otherwise bringing a net into contact with a drone stops the drone by prohibiting the rotor blades. There are three main types:
+
+Net Cannon fired from the ground: can be hand-held, shoulder-launched, or turret-mounted. Anywhere from 20m to 300m effectiveness. Can be used with or without a parachute for controlled descent of the captured drone.
+Net cannon fired from another drone: overcomes the limited range of a net cannon on the ground. Can be difficult to capture another moving drone. Normally used with a parachute for controlled descent of the captured drone.
+Hanging net deployed from a ‘net drone’. The drone is captured by manoeuvring the friendly net carrying drone towards the rogue drone. The ‘net drone’ will normally be capable of either carrying the rogue drone to a safe zone, or if it is too heavy, can release the captured drone with or without a parachute for controlled descent.
+
+ 
+Pros: Physically captures drone – good for forensics and prosecution, ground-launched net cannons are semi-automatic with high accuracy, drone deployed nets have long range, low risk of collateral damage.
+Cons: Kinetic solution could result in debris depending on parachute options, drone deployed nets imprecise and long reload time, ground-launched nets have a short range.
+Vendors: Delft Dynamics offers a drone-mounted net cannon and OpenWorks Engineering offer both shoulder-mounted and turret-mounted net cannons. 
+ 
+HIGH-ENERGY LASERS
+ 
+
+Photo Credit: Lockheed Martin
+A high-powered optical device which produces an extremely focused beam of light, or laser beam. The laser defeats the drone by destroying the structure and/or the electronics.
+Pros: Physically stops the drone.
+Cons: High cost, risk of collateral damage, large system, mostly experimental technology.
+Vendors: Lockheed Martin and Raytheon. 
+
+BIRDS OF PREY
+ 
+
+Photo Credit: Georges Gobet / AFP via Getty Images
+Eagles have been trained to capture small drones. This can be a low-tech solution but requires a lot of man-power for training (at least 1 year per bird) and maintaining the birds of prey. The counter-drone team within the Dutch police, who were the original users, disbanded the service due to the birds not always capturing drones on command. That's not to say this solution wouldn't work for you though.
+Pros: If the birds are available at your location, interception of the drone can be quick and accurate with low risk of collateral damage.
+Cons: Difficult to operationalise, birds don’t always listen to capture command, man-power intensive training and maintenance, birds could be a hazard themselves in some environments.
+Vendors: Guard From Above delivers birds of prey and training.
+
+INTEGRATING IT ALL TOGETHER
+ 
+
+Photo Credit: ESG
+It’s more than likely that the best counter-drone solution for you is going to be a mix of the above technologies. Which mix exactly? Well, that’s going to be dependant on your specific use case.
+We work with several integrators all over the world who integrate our radars into modular counter-drone systems so you don’t have to. This solves the headache of dealing with multiple vendors and means you don’t need to integrate different hardware and software together. 
+Talking about software; Command & Control (C2) software can make or break your counter-drone system. All the data from those different sensors and technologies need to be collected, processed and displayed in a user-friendly way that makes sense and is actionable.
+
+Photo Credit: ESG
+So it pays to make sure you're getting a scalable, sensor-agnostic, and user-friendly C2 solution with your system.
+Good examples of counter-drone C2 systems are ESG’s Taranis, and Operational Solutions’ FACE.
+Here’s a small selection of companies offering complete and modular counter-drone systems worldwide.
+
+
+ESG (DE)
+
+
+Operational Solutions (UK)
+
+
+Aselsan (TR)
+
+
+Hertz Systems (PL)
+
+
+Meritis (CH)
+
+
+IGP (NL)
+
+
+Drone Detect Sys (CH)
+
+
+
+
+
+
+
+Headline Photo Credit: USMC
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interested in our counter-drone systems?
+Let’s get in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+Markets
+
+
+Aviation
+Wind Farms
+Drone Detection
+
+
+
+
+
+
+Products
+
+
+2D Lite
+3D Fixed
+3D Flex
+Max®
+Elvira®
+
+
+
+
+
+
+Projects
+
+
+Amsterdam Schiphol Airport
+Berlin Brandenburg Airport
+Kavarna Wind Farm
+Tahkoluoto Wind Farm
+Guardion Modular Drone Defence System
+Meritis Integrated Drone (uav) Defence
+
+
+
+
+
+
+Press
+
+
+News
+Blog
+Downloads
+Press releases
+Videos
+
+
+
+
+
+
+About us
+
+
+Mission and Ambition
+Our History
+Our partners
+Code of conduct
+Team
+
+Terms & Conditions:
+
+Sales
+Purchase
+
+ 
+
+
+
+
+
+Contact
+
+Robin Radar SystemsLaan van Waalhaven 3552497 GM The HagueThe NetherlandsT +31(0)8 8700 8700info@robinradar.com
+Reg: 27371517
+VAT: NL822016321B01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Markets
+Aviation
+Wind Farms
+Drone Detection
+
+
+Products
+Projects
+
+Press
+News
+Blog
+Downloads
+Videos
+
+
+About Us
+Jobs
+Team
+References
+Contact
+
+
+
+
+
+Robin Radar SystemsLaan van Waalhaven 3552497 GMThe HagueThe NetherlandsT +31(0)8 8700 8700info@robinradar.com
+Reg No: 27371517
+VAT No: NL822016321B01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robin Radar makes use of the following third party tools which use cookies: Homerun for recruitment and LinkedIn and Youtube for company promotion. Click here for more information about our privacy policy
+I understand
+
+
+
+
+
+
+
+
+
+
+
+ 

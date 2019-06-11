@@ -1,0 +1,572 @@
+This information is from https://www.droneshield.com/how-droneshield-works
+
+
+
+
+
+
+
+
+
+How DroneShield Works | DroneShield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+                Government & Military
+              
+
+
+
+                Prisons
+              
+
+
+
+                Events and Commercial Venues
+              
+
+
+
+                Critical Infrastructure
+              
+
+
+
+                Airports
+              
+
+
+
+                Executive Protection
+              
+
+
+
+
+
+Products
+
+
+
+                How DroneShield Works
+              
+
+
+
+                View All Products
+              
+
+
+
+                DroneGun Tactical
+              
+
+
+
+                RfPatrol
+              
+
+
+
+                DroneSentinel
+              
+
+
+
+                DroneSentry
+              
+
+
+
+                DroneCannon RW
+              
+
+
+
+                DroneNode
+              
+
+
+
+                DroneShield Complete
+              
+
+
+
+
+
+Company
+
+
+
+                About Us
+              
+
+
+
+                Investor Relations
+              
+
+
+
+                Board of Directors
+              
+
+
+
+                Key Staff
+              
+
+
+
+                Advisory Staff
+              
+
+
+
+
+
+Media Room
+
+
+
+                Videos
+              
+
+
+
+                Press Coverage
+              
+
+
+
+                Press Releases
+              
+
+
+
+                Media Gallery
+              
+
+
+
+
+
+Brochures
+
+
+
+                Brochure Download
+              
+
+
+
+                Counterdrone Handbook Download
+              
+
+
+
+
+
+Contact Us
+
+
+
+                Contact
+              
+
+
+
+                How to Buy
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+                Government & Military
+              
+
+
+
+                Prisons
+              
+
+
+
+                Events and Commercial Venues
+              
+
+
+
+                Critical Infrastructure
+              
+
+
+
+                Airports
+              
+
+
+
+                Executive Protection
+              
+
+
+
+
+
+Products
+
+
+
+                How DroneShield Works
+              
+
+
+
+                View All Products
+              
+
+
+
+                DroneGun Tactical
+              
+
+
+
+                RfPatrol
+              
+
+
+
+                DroneSentinel
+              
+
+
+
+                DroneSentry
+              
+
+
+
+                DroneCannon RW
+              
+
+
+
+                DroneNode
+              
+
+
+
+                DroneShield Complete
+              
+
+
+
+
+
+Company
+
+
+
+                About Us
+              
+
+
+
+                Investor Relations
+              
+
+
+
+                Board of Directors
+              
+
+
+
+                Key Staff
+              
+
+
+
+                Advisory Staff
+              
+
+
+
+
+
+Media Room
+
+
+
+                Videos
+              
+
+
+
+                Press Coverage
+              
+
+
+
+                Press Releases
+              
+
+
+
+                Media Gallery
+              
+
+
+
+
+
+Brochures
+
+
+
+                Brochure Download
+              
+
+
+
+                Counterdrone Handbook Download
+              
+
+
+
+
+
+Contact Us
+
+
+
+                Contact
+              
+
+
+
+                How to Buy
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+How DroneShield Works
+View All Products
+DroneGun Tactical
+RfPatrol
+DroneSentinel
+DroneSentry
+DroneCannon RW
+DroneNode
+DroneShield Complete
+
+
+
+ 
+
+
+
+
+
+
+
+
+Download DroneShield’s FREE Counterdrone Handbook
+
+
+
+ How DroneShield WorksDroneShield offers a complete system of products and services to aid your security team in the defense of threats made possible by drone technology.01 | DetectionDroneShield offers an enterprise-grade sensor fusion software engine with proprietary multi-sensor detection technologies that work together to detection drones. An example of these ‘best in class’ networked sensors is RadarZero which is custom built to detect small drones in three dimensions. DroneShield offers stand-alone detection solutions such as the RfPatrol, body worn RF detection device.
+
+
+
+
+
+
+
+DroneShield RadarZero
+
+
+
+
+
+
+
+DroneShield RfPatrol  02 | Analysis & IdentificationDroneShield utilises a multi-sensor approach to analyse and identify incoming drone threats.The radar sensor tracks a moving object, separating it from the background clutter such as trees or birds.The radio frequency sensor provides a direction of bearing to the target, matching a set of RF signatures, which are regularly updated.Camera and thermal sensors allow for a visual confirmation to the user, with an ability for high definition zoom during day or night.This multi-sensor analysis allows us to detect drones with high accuracy, delivering low false-alarm rates.(DroneShield ComputeNode mobile onsite server solution pictured below)  
+
+
+
+
+
+
+
+ 03 | Monitoring & AlertingInstant alerts are delivered independently through a variety of methods, including On-Screen Monitor, SMS, email, or existing video or incident management systems (API). DroneShield easily integrates into your established security system.Our detection system, ‘DroneShield Complete’ is a browser-based visual interface, giving you live visibility of surrounding drone activity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+   04 | ResponseDroneShield also offers safe and highly effective countermeasures once a drone threat has been identified. DroneShield countermeasures allow for the controlled management of drone payload such as explosives, with no damage to common drone models or the surrounding environment. Countermeasures have been developed for long range coverage in a wide range of environmental conditions.(DroneGun Tactical pictured below) 
+
+
+
+
+
+
+
+ For more information contact:info@droneshield.com
+
+
+
+
+
+
+
+
+
+Back to Top
+SolutionsPrisonsAirportsGovernmentEvents and Commercial VenuesCritical InfrastructureExecutive ProtectionProductsHow DroneShield Works View All ProductsDroneGun TacticalRfPatrolDroneSentinelDroneSentryDroneCannon RWDroneNodeDroneShield CompleteCompanyAbout UsInvestor RelationsBoard of DirectorsKey StaffAdvisory StaffVideosMedia RoomPress CoveragePress ReleasesMedia GalleryBlogBrochuresBrochure DownloadCounterDrone HandbookContact UsContactHow to Buy©  2019 DRONESHIELD | ALL RIGHTS RESERVEDABN: 26 608 915 859Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Member Login
+Welcome, (First Name)! 
+ 
+
+  
+
+     
+Forgot?
+Show 
+Stay Logged In
+Log In
+ 
+
+
+Enter Member Area
+ (Message automatically replaces this text)
+OK
+
+  
+
+ My Profile
+
+
+Log Out    
+
+
+
+
+
+
+
+
+
+

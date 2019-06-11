@@ -23,7 +23,7 @@ for i in range(len(links)):
 		file = open('%s.txt'%i, 'w')
 		file.write('This information is from %s\n\n'%url)
 		html = urllib.request.urlopen(url).read()
-		soup = BeautifulSoup(html)
+		soup = BeautifulSoup(html, parser='html')
 		[s.extract() for s in soup('script')]
 		[s.extract() for s in soup('style')]
 		text = soup.get_text()
