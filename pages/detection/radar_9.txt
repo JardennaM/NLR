@@ -1,0 +1,960 @@
+
+
+
+
+
+Drone detection radar testing | Rohde & Schwarz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looks like you're from Netherlands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+Location
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Choose Location
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+
+
+Test and measurement
+
+
+
+
+
+
+
+Aerospace and defense
+
+
+
+
+
+
+
+Radar/EW testing
+
+
+
+
+
+
+
+Drone detection radar testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone detection radar testing
+
+
+
+
+
+
+
+
+
+Testing radar designs for clear and reliable detection of small UAVs
+
+With the recent advances in technology and increased public interest, the number of commercial unmanned aerial vehicles (UAV) – or drones – and their applications are rising dramatically. While providing numerous advantages in applications such as aerial surveillance, high-resolution imaging/mapping and facility inspection, there is a growing need to ensure safe and secure operation and to counter unauthorized, criminal or even terroristic activities. Test and measurement solutions from Rohde & Schwarz provide the means to validate radar system designs to enable clear and reliable detection of small UAVs in the lower air space.
+
+Contact us for more information.
+
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+
+
+
+
+
+
+
+
+Drone detection
+
+
+RF monitoring, GNSS and radar test solutions for ensuring safe and secure commercial UAV operation. Get the full overview in our brochure.
+
+
+Download brochure
+
+
+
+
+
+
+
+Related applications
+
+
+
+
+
+
+
+Drone detection: Radar waveform generation using R&S Pulse Sequencer software
+
+
+Download now
+
+
+
+
+
+
+Overview of tests on radar systems and components
+
+
+More information
+
+
+
+
+
+
+Pulsed RADAR signal generation and measurements
+
+
+More information
+
+
+
+
+
+
+Baseband signal generator for UWB and aerospace and defense application
+
+
+Download now
+
+
+
+
+
+
+Pulsed phase noise measurements
+
+
+More information
+
+
+
+
+
+
+
+
+
+Related products
+
+
+
+
+
+
+
+
+
+
+
+
+Network analyzers
+
+
+Product information
+
+
+
+
+
+
+
+
+
+
+
+Signal generators
+
+
+Product information
+
+
+
+
+
+
+
+
+
+
+
+Signal and spectrum analyzer
+
+
+Product information
+
+
+
+
+
+
+
+
+
+
+
+Oscilloscopes
+
+
+Product information
+
+
+
+
+
+
+
+
+
+Radar/EW testing solutions
+
+
+
+
+
+
+
+
+
+
+
+
+Multifunctional radar system testing
+
+Master complexity, agility and latest advancements in technology with Rohde & Schwarz measurement solutions and unlock the performance of your multifunctional radar design with real-world simulation scenarios in your lab.
+
+More information
+
+
+
+
+
+
+
+
+
+
+
+Smart jammer testing
+
+As Digital Radio Frequency Memory (DRFM) is at the heart of every next generation smart jammer design, learn about R&S test and measurement solutions to validate the performance from component to system level.
+
+More information
+
+
+
+
+
+
+
+
+
+
+
+Radar component testing
+
+When optimizing the performance of latest RADAR and EW system designs, make sure you get the most out of processing speeds, power consumption and RF performance.
+
+More information
+
+
+
+
+
+
+
+
+
+
+
+Scenario generation and receiver testing
+
+Test your radar and EW reciever system against todays complex theatre scenarios including real-world interferences and multiple moving emitters and take advantage of a fully deterministic, repeatable and reliable scenario generation solution from Rohde & Schwarz.
+
+More information
+
+
+
+
+
+
+
+
+
+
+
+Active electronically scanned array testing
+
+Latest technology trends such as GaN and digital RF front ends are the driving the development of Active Electronically Scanned Arrays (AESA). Maximise the performance of antenna designs with the highest precision instruments and complex electromagnetic environment simulations.
+
+More information
+
+
+
+
+
+
+
+
+
+Request information
+Do you have questions or need additional information? Simply fill out this form and we will get right back to you.
+
+
+
+
+Salutation*
+
+Mr.
+Ms.
+
+
+
+First Name*
+
+
+
+Last Name*
+
+
+
+
+
+Company*
+
+
+
+E-mail*
+
+
+
+Phone
+
+
+
+
+
+Location*
+
+Please select your location.
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium/Luxembourg
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, The Democratic Republic Of The
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Côte D'Ivoire
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic Of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Republic Of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia, The Former Yugoslav Republic Of
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States Of
+Moldova, Republic Of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russian Federation
+Rwanda
+Réunion
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic Of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+
+
+
+Inquiry*
+
+
+
+Email confirmation*
+
+
+
+City*
+
+
+
+
+
+Marketing permission
+I want to receive information from Rohde & Schwarz via
+
+
+
+
+
+Email  
+
+
+
+
+
+Post
+
+
+
+
+What does this mean in detail?
+I agree that Rohde & Schwarz GmbH & Co. KG and the Rohde & Schwarz entity or subsidiary company mentioned in the imprint of this website, may contact me via the chosen channel (email or postal mail) for marketing and advertising purposes (e.g. information on special offers and discount promotions) related to, but not limited to, products and solutions in the fields of test and measurement, secure communications, monitoring and network testing, broadcast and media, and cybersecurity.
+Your rights
+This declaration of consent may be withdrawn at any time by sending an email with the subject "Unsubscribe" to news@rohde-schwarz.com. Additionally, a link to unsubscribe from future email advertisements is contained in each email sent. Further details on the use of personal data and the withdrawal procedure are set out in the Statement of Privacy.
+
+
+
+
+Get Information
+
+
+
+			Your request has been sent successfully. We will contact you shortly.
+		
+An error is occurred, please try it again later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Facebook
+ 
+
+
+YouTube
+ 
+
+
+RSS Feeds
+ 
+
+
+LinkedIn
+ 
+
+
+Twitter
+ 
+
+
+
+
+
+
+
+
+
+
+				Rohde & Schwarz Benelux B.V.
+			
+
+
+					The Rohde & Schwarz electronics group offers innovative solutions in all fields of wireless communications as well as in IT security. Founded more than 80 years ago, the independent company has an extensive sales and service network with subsidiaries and representatives in more than 70 countries.
+				
+
+
+
+Address
+
+Rohde & Schwarz Benelux B.V.
+Ptolemaeuslaan 900, 3528 BV Utrecht, Nederland
+
+
+
+Contact
+
++0031-30-6001700
+
+info.bnl@rohde-schwarz.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+			© 2019 Rohde&Schwarz
+		
+
+
+
+
+									Imprint
+								
+
+
+
+									Statement of privacy
+								
+
+
+
+									Terms of website use
+								
+
+
+
+									Jobs & Career
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To enable us to optimize our website for you, cookies may be saved on your computer when you visit our website in order to analyze website browsing habits.More Information
+
+Accept

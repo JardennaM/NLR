@@ -1,0 +1,489 @@
+%PDF-1.6
+%öäüß
+1 0 obj
+<<
+/Metadata 2 0 R
+/Names 3 0 R
+/OpenAction 4 0 R
+/Outlines 5 0 R
+/PageMode /UseNone
+/Pages 6 0 R
+/Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author ()
+/CreationDate (D:20170806221055-04'00')
+/Creator (LaTeX with hyperref package)
+/Keywords ()
+/ModDate (D:20171004093553-04'00')
+/PTEX.Fullbanner (This is MiKTeX-pdfTeX 2.9.4902 \(1.40.14\))
+/Producer (pdfTeX-1.40.14)
+/Subject ()
+/Title ()
+/Trapped /False
+>>
+endobj
+2 0 obj
+<<
+/Length 3774
+/Subtype /XML
+/Type /Metadata
+>>
+stream
+
+
+
+
+application/pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-08-06T22:10:55-04:00
+LaTeX with hyperref package
+2017-10-04T09:35:53-04:00
+2017-10-04T09:35:53-04:00
+
+pdfTeX-1.40.14
+False
+This is MiKTeX-pdfTeX 2.9.4902 (1.40.14)
+uuid:619c437e-bc0b-4500-8a2f-3f3d619b79e3
+uuid:c4400604-759a-46a2-b646-d0e51de8124b
+
+
+
+
+endstream
+endobj
+3 0 obj
+<<
+/Dests 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/D [9 0 R /Fit]
+/S /GoTo
+>>
+endobj
+5 0 obj
+<<
+/Count 6
+/First 10 0 R
+/Last 11 0 R
+/Type /Outlines
+>>
+endobj
+6 0 obj
+<<
+/Count 10
+/Kids [12 0 R 13 0 R]
+/Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Kids [14 0 R 15 0 R 16 0 R 17 0 R 18 0 R]
+/Limits [(Doc-Start) (table.caption.13)]
+>>
+endobj
+9 0 obj
+<<
+/Annots [19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R
+29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R
+39 0 R]
+/Contents [40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R
+50 0 R]
+/CropBox [0 0 612 792]
+/MediaBox [0 0 612 792]
+/Parent 12 0 R
+/Resources 51 0 R
+/Rotate 0
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/A 52 0 R
+/Next 53 0 R
+/Parent 5 0 R
+/Title (Introduction)
+>>
+endobj
+11 0 obj
+<<
+/A 54 0 R
+/Parent 5 0 R
+/Prev 55 0 R
+/Title (References)
+>>
+endobj
+12 0 obj
+<<
+/Count 6
+/Kids [9 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R]
+/Parent 6 0 R
+/Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Count 4
+/Kids [61 0 R 62 0 R 63 0 R 64 0 R]
+/Parent 6 0 R
+/Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Kids [65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R]
+/Limits [(Doc-Start) (cite.Luecken2011)]
+>>
+endobj
+15 0 obj
+<<
+/Kids [71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R]
+/Limits [(cite.MAV_Mag_2013) (cite.footnote40)]
+>>
+endobj
+16 0 obj
+<<
+/Kids [77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R]
+/Limits [(cite.footnote41) (cite.wei2008detection)]
+>>
+endobj
+17 0 obj
+<<
+/Kids [83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R]
+/Limits [(cite.xiang2011development) (subsection.2.5)]
+>>
+endobj
+18 0 obj
+<<
+/Kids [89 0 R]
+/Limits [(subsection.3.1) (table.caption.13)]
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/D (cite.sun2011bordersense)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [178.086 278.914 185.06 289.858]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/D (cite.tripicchio2015towards)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [251.011 278.914 257.985 289.858]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/D (cite.barrado2010wildfire)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [98.816 268.393 105.79 279.337]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/D (cite.maza2011experimental)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [116.175 268.393 123.149 279.337]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/D (cite.semsch2009autonomous)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [207.862 268.393 214.836 279.337]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/D (cite.xiang2011development)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [289.278 268.393 296.252 279.337]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/D (cite.siebert2014mobile)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [164.738 257.873 171.712 268.816]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/D (cite.Andreas_2013)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [247.485 257.873 254.458 268.816]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/D (cite.Amazon_PrimeAir_2013)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [268.242 257.873 275.216 268.816]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/D (cite.pignaton2010uav)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [137.344 247.955 149.299 258.296]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/D (cite.merwaday2016improved)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [162.249 247.955 174.204 258.296]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/D (cite.Andreas_2013)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [100.157 215.79 107.131 226.734]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/D (cite.DIY_Drones_Website)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [117.751 215.79 129.706 226.734]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/D (cite.Weigand_2012)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [139.33 215.79 151.285 226.734]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/D (cite.footnote45)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [357.852 377.078 369.807 388.021]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/D (cite.footnote44)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [342.28 238.585 354.235 249.529]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/D (cite.DroneDetect)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [381.327 122.858 393.282 133.802]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/D (cite.Dedrone)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [443.828 122.858 455.783 133.802]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/D (cite.Dronewatcher)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [534.425 122.858 546.381 133.802]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/D (cite.SkyDroner)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [353.019 112.338 364.974 123.281]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/D (cite.SkySafe)
+/S /GoTo
+>>
+/Border [0 0 1]
+/C [0 1 0]
+/H /I
+/Rect [433.497 112.338 445.452 123.281]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Filter /FlateDecode
+/Length 10
+>>
+stream
+xœ+ä  î |
+endstream
+endobj
+41 0 obj
+<<
+/Filter /FlateDecode
+/Length 544
+>>
+stream
+H‰¬S[oÓ0~ï¯ðc"-Æ—ø’Çmc‰¶x0­×ZKìÊM&

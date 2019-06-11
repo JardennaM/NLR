@@ -1,0 +1,1517 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Detection and tracking of drones using advanced acoustic cameras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+View Cart 
+
+
+        Help
+    
+
+
+
+
+
+
+
+
+
+  
+
+Email or Username
+Forgot your username?
+
+
+
+
+Password
+Forgot your password?
+
+
+ Show
+
+
+
+
+Remember Email/Username on this computer
+
+
+Remember Password
+
+
+
+
+
+
+Please wait...
+
+
+
+
+                No SPIE account? Create an account 
+Institutional Access:Sign in with your institutional credentials
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    CONFERENCE PROCEEDINGS
+                
+
+
+
+        Papers
+    
+
+
+
+        Presentations
+    
+
+
+
+
+
+
+
+        Journals
+
+
+
+
+        Advanced Photonics
+    
+
+
+
+
+
+        Journal of Applied Remote Sensing
+    
+
+
+
+        Journal of Astronomical Telescopes, Instruments, and Systems
+    
+
+
+
+        Journal of Biomedical Optics
+    
+
+
+
+        Journal of Electronic Imaging
+    
+
+
+
+        Journal of Medical Imaging
+    
+
+
+
+        Journal of Micro/Nanolithography, MEMS, and MOEMS
+    
+
+
+
+        Journal of Nanophotonics
+    
+
+
+
+        Journal of Photonics for Energy
+    
+
+
+
+        Neurophotonics
+    
+
+
+
+        Optical Engineering
+    
+
+
+
+
+
+        Ebooks
+    
+
+
+
+
+Advanced Search >
+
+
+
+
+
+
+
+
+                            Home
+                        
+>
+
+                            Proceedings
+                        
+>
+
+                            Volume 9647
+                        
+>
+Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Translator Disclaimer
+    
+
+
+
+
+                        You have requested a machine translation of selected content from our databases. This functionality is provided solely for your convenience and is in no way intended to replace human translation. Neither SPIE nor the owners and publishers of the content make, and they explicitly disclaim, any express or implied representations or warranties of any kind, including, without limitation, representations and warranties as to the functionality of the translation feature or the accuracy or completeness of the translations.
+                    
+
+                        Translations are not retained in our system. Your use of this feature and the translations is subject to all use restrictions contained in the Terms and Conditions of Use of the SPIE website.
+                    
+
+
+
+
+
+
+
+
+
+13 October 2015
+Detection and tracking of drones using advanced acoustic cameras
+
+
+
+ Joël Busset;                         Florian Perrodin;                         Peter Wellig;                         Beat Ott;                         Kurt Heutschi;                         Torben Rühl;                         Thomas Nussbaumer 
+
+
+Author Affiliations +
+
+ Joël Busset,1 Florian Perrodin,1 Peter Wellig,2 Beat Ott,2 Kurt Heutschi,3 Torben Rühl,4 Thomas Nussbaumer4 
+ 1Distran GmbH (Switzerland)						 2Armasuisse (Switzerland)						 3EMPA (Switzerland)						 4RUAG Defence (Switzerland)
+				
+
+
+
+
+Proceedings Volume 9647, Unmanned/Unattended Sensors and Sensor Networks XI; and Advanced Free-Space Optical Communication Techniques and Applications; 96470F (2015) https://doi.org/10.1117/12.2194309Event: SPIE Security + Defence, 2015, Toulouse, France
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                ARTICLE
+                            
+
+
+
+
+
+                                SECTIONS
+ 
+
+
+1. INTRODUCTION
+2. DESCRIPTION OF THE SYSTEM
+2.1 System overview
+2.2 Tracking
+2.3 3D localization
+2.4 Sound extraction
+3. RESULTS
+3.1 Drone tracking
+3.2 Speech extraction
+4. CONCLUSION
+
+
+
+
+
+                                FIGURES & TABLES
+                            
+
+
+
+
+
+                                SUPPLEMENTAL CONTENT
+                            
+
+
+
+
+
+                                REFERENCES
+                            
+
+
+
+
+
+                                CITED BY
+                            
+
+
+
+
+DOWNLOAD PDF 
+
+SAVE TO MY LIBRARY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ PERSONAL SIGN IN
+ Full access may be available with your subscription
+
+ 
+
+Email or Username
+Forgot your username?
+
+
+
+
+Password
+Forgot your password?
+
+
+Show
+
+
+
+
+Remember Email/Username on this computer
+
+
+Remember Password
+
+
+
+
+
+                    No SPIE account? Create an account 
+Institutional Access:Sign in with your institutional credentials
+
+ 
+
+
+
+
+
+
+
+
+
+ SUBSCRIBE TO DIGITAL LIBRARY
+
+
+
+50 downloads per 1-year subscription
+
+
+Members: $195
+
+
+Non-members: $335
+ADD TO CART
+
+
+
+25 downloads per 1 - year subscription
+
+
+Members: $145
+
+
+Non-members: $250
+ADD TO CART
+
+
+
+
+
+ PURCHASE SINGLE ARTICLE
+
+
+
+Includes PDF, HTML & Video, when available
+
+
+Members: $14.40
+
+
+Non-members: $18.00
+ADD TO CART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This will count as one of your downloads.
+You will have access to both the presentation and article (if available).
+
+
+
+DOWNLOAD NOW
+
+
+
+
+
+
+
+ 
+ This content is available for download via your institution's subscription. To access this item, please sign in to your personal account.
+ 
+
+Email or Username
+Forgot your username?
+
+
+
+
+Password
+Forgot your password?
+
+
+ Show
+
+
+
+
+Remember Email/Username on this computer
+
+
+Remember Password
+
+
+
+
+
+                No SPIE account? Create an account 
+
+ 
+
+
+
+
+
+
+
+
+My Library
+
+
+
+
+
+
+
+
+
+                            You currently do not have any folders to save your paper to! Create a new folder below.
+                        
+
+
+                            Create New Folder
+                        
+
+
+
+
+
+
+                            SAVE >
+                        
+
+
+
+
+
+
+
+
+ 
+
+                    Folder Name
+                
+
+
+
+
+                    Folder Description
+                
+
+
+
+
+
+                    SAVE
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+Recent events of drones flying over city centers, official buildings and nuclear installations stressed the growing threat of
+uncontrolled drone proliferation and the lack of real countermeasure. Indeed, detecting and tracking them can be difficult
+with traditional techniques. A system to acoustically detect and track small moving objects, such as drones or ground
+robots, using acoustic cameras is presented. The described sensor, is completely passive, and composed of a 120-element
+microphone array and a video camera. The acoustic imaging algorithm determines in real-time the sound power level
+coming from all directions, using the phase of the sound signals. A tracking algorithm is then able to follow the sound
+sources. Additionally, a beamforming algorithm selectively extracts the sound coming from each tracked sound source.
+This extracted sound signal can be used to identify sound signatures and determine the type of object.
+The described techniques can detect and track any object that produces noise (engines, propellers, tires, etc). It is
+a good complementary approach to more traditional techniques such as (i) optical and infrared cameras, for which the
+object may only represent few pixels and may be hidden by the blooming of a bright background, and (ii) radar or other
+echo-localization techniques, suffering from the weakness of the echo signal coming back to the sensor. The distance of
+detection depends on the type (frequency range) and volume of the noise emitted by the object, and on the background
+noise of the environment. Detection range and resilience to background noise were tested in both, laboratory environments
+and outdoor conditions. It was determined that drones can be tracked up to 160 to 250 meters, depending on their type.
+Speech extraction was also experimentally investigated: the speech signal of a person being 80 to 100 meters away can be
+captured with acceptable speech intelligibility.
+
+
+
+
+
+1.INTRODUCTIONIn recent years, unmanned aerial vehicles have been made easily available to the public, even for non technical people. Toys and DIY Drones can be bought on shops for couple of hundreds euros and come with high-definition cameras, precise positioning and can even perform acrobatic maneuvers. While civilian uses of drones have received a growing interest, the threat of weaponized drones has increased over the last few years. Indeed, many events have been reported that confirmed drones threatening potential. In September 2013, Chancellor Merkel has been threatened1 by a Parrot AR Drone: which landed at her feet without any reaction from her security service. It turned out that the drone was sent by the Pirate Party, in an attempt to raise her awareness about drones dangerous potential. In 2015, many drones were spotted in France near nuclear power plants; it was determined2 that they could pose a significant threat to the power plants.Some systems have already been proposed to detect such UAVs. Video camera3 have been used to detect fast moving UAVs, either using appearance-based, motion-based or hybrid methods. Appearance-based methods suffer from the diversity of drone types, as they are largely customizable. Motion-based methods have difficulties to distinguish between drones and birds, as their motion can be quite similar. Visual detection is also dependent of the line of sight.Radar is also a common method to detect flying objects. To detect small UAVs, high-frequency electromagnetic waves are required to get a significant echo from the target. It was reported that the detection range could reach 90km,4 but is largely affected by weather conditions. Equipment makes this technique very expensive to implement and restricts its use to extremely specific cases. Additionally, civilian UAVs are generally built of non-reflective materials, such as plastic, which adds up to the difficulty of the radar detection.Data-link related methods use the data-link between the UAV and the pilot or a ground station. Current small civilian UAVs use either Wifi or ultra-high frequency (UHF) radio. Methods5 have been reported to successfully help the detection of UAVs. They are however of limited use in case of autonomous UAVs, which, for example, follow a predetermined GPS path and do not need any control or data link.Acoustic methods6 enable the detection and the identification of UAVs. To detect UAVs, acoustic features are extracted and classified. The rotor speed and the altitude can be estimated7 and detection can be done even if the drone is out of sight. Current methods rely on a single or a limited number of sensors,8 and basic direction of arrival (DOA) estimation algorithms, which prevent the precise and unambiguous detection and localization of the UAVs, especially if several UAVs are present at the same time. This issue is overcome by the use of more microphones, which also increases the capability of extracting a sound from a specific direction, thus allowing better accuracy in the identification of the threat, not limited to UAVs but also to vehicle or people.Hybrid methods,6,9 using more than one of the previously described means of detection, enable to combine the advantages of the used techniques.In this paper, a system with a spherical microphone array composed of 120 elements and a video camera is presented. Contrary to the acoustic methods previously mentioned, it does not rely on the single source assumption. The hardware allows to unambiguously detect the location of one or several drones, either in 2D (angular position) or in three dimensions, using more sensors and triangulation. In section 2, the system hardware is presented. In section 3, the features of the system, such as tracking, 3D localization and identification are described. Results are discussed in section 4.2.DESCRIPTION OF THE SYSTEM2.1System overviewThe system relies mainly on acoustic sensors to detect UAVs. The commercially available system Distran Omni360 is used and represented Fig. 1. It is composed of a 120 elements microphone array,10 spherically arranged on a structure that allows both, the precise placement of the microphones, while being acoustically transparent at the considered frequencies. Two options are available for the video camera: either a wide angle camera (approx. 110° diagonal angle of view) can be used if a direction is to be privileged, or an omnidirectional camera PointGrey Ladybug can be placed in the center of the device. The system is connected by two USB3 cables to a computer. It can be powered by a battery or on mains.Figure 1:The microphone array of Distran, Omni360, was used. The LadyBug is placed at the acoustic center of the acoustic camera.Acoustic imaging enables to determine in real-time the sound power level coming from all directions, using the phase of the signals acquired by the microphones. No assumption is made on the number of objects to be tracked, so the technique works even in noisy environments and in presence of multiple UAVs. Acoustic images are produced at rates up to 60Hz, to be able to track fast moving objects. The factory calibration of the camera’s optical lens allows to precisely superimpose the acoustic image and the video image. An example acoustic image is shown in Fig. 2.Figure 2:Acoustic image superimposed with an optical image. The central speaker was active and echoes of the room are clearly visible.The particularity of this acoustic camera is that, contrary to planar acoustic cameras, it is able to produce fully spherical acoustic images. In this application, it is thus able to detect and track sound sources located in any direction relative to the camera. Furthermore, the microphones are arranged in such a way that the camera does not have a privileged direction but a uniform resolution over the full sphere. The aluminum structure of the array ensures the precise placement of the microphones in 3D, important for producing high-quality acoustic images.Similar to a video camera at short ranges, the distance to the object has to be known or manually adjusted, due to the finite depth of field of the acoustic focusing. When the object is farther than about 4 meters, the depth of field can be considered as infinite. However, the distance between acoustic center (from the camera) and optical center (from the video) has to be taken into account if the used optical camera is not at located inside the sphere, to avoid parallax errors.The system can be operated either by a dedicated graphical interface (AURA) or by a MATLAB interface. The graphical interface shows in real-time the acoustic images with minimum delay and enables to change the imaging parameters graphically. The MATLAB interface allows the user to programmatically interact with the software imaging process.2.2TrackingThe acoustic camera produces sound pressure level (SPL) spherical images, where each pixel relates to the sound pressure level of sounds coming from the corresponding direction. It is visually represented as a 2D acoustic image (example shown Fig. 2), where the intensity is shown by a color code (the jet colormap here). At a developer level, the spherical acoustic image can directly be used. It gives the correspondence between spherical coordinates (θ, ϕ) and SPL values. In general, UAVs can be clearly seen on the acoustic images: they create a high SPL blob on the image in the direction of their location, but echoes or diverse background noises may create additional blobs that are sometimes stronger than the UAV itself. A simple extraction of the maximum of the image would thus not be reliable to detect the position of the object. A tracking algorithm solves this problem, by being able to follow sound sources over time. It takes as an input the spherical acoustic images and tracks objects from frame to frame, preventing the false detection of intermittent sources. This technique enables the tracking of UAVs even when their sound is weak and when they are not visible in every frame. The tracker outputs the (θ, ϕ) coordinates of the objects with respect to time directly in MATLAB.The tracker was implemented using the assumption that the sound of an UAV is mostly continuous. It relies on a particle filter that takes into account the speed of the object and the noise on the acoustic measurement. It makes no assumption on the type of noise (except its relative continuity), and can therefore track any object that produces noise (engines, propellers, tires, etc).2.33D localizationWhereas one acoustic camera only provides angular information about the position of the target, using the combined outputs of several acoustic cameras enables to also measure the distance to the target. At the time of publication, only a theoretical study of the problem was conducted.Figure 3a illustrates the two dimensional problem of finding the position of the source S, knowing the acoustic cameras relative poses, i.e their relative positions and relative orientations.Figure 3:Triangulation problem: (a) Finding the position of S knowing the angles θ2, θ2 and the distance d. (b) Definition of the uncertainty area and of the uncertainty measure p.The techniques that can be used are similar to the multiple views geometry theory from computer vision.11 In such a case, the directional (θ, ϕ) output of the acoustic camera tracker is used in place of the pixel coordinate of the detected target in computer vision.Three problems need to be addressed (i) co-location: the determination of the relative poses (angles and distances) of the acoustic cameras, (ii) synchronization in time of the acoustic cameras, and (iii) labeling: matching of the targets between the acoustic images of each camera.Co-location can be solved by classical measuring methods such as total station theodolite (TST). Acoustic methods12 can also be used. In,12 acoustic events are generated at a sufficiently high SNR and the relative times of arrival (TOAs) enable to deduce the relative position of the microphone arrays, provided the number of acoustic events is sufficient. Acoustic methods are easier, faster and cheaper to implement. Though, imprecisions in the co-localization can decrease the precision of the target distance estimator by adding an unknown bias.Synchronization of time can be implemented in many ways, depending on the available resources and the environment. A common clock can be shared amongst the microphone arrays, or synchronization protocols can be used to synchronize clocks, through wires or wireless protocols. Another solution is to use reference clocks or to synchronize the clocks of the microphone arrays with a reference clock. This is done practically by synchronizing each microphone array with a GPS signal, for example, using NTP and a GPS module.Labeling consists of matching a set of sound sources detected from a camera with the one of another. With two cameras, acoustic signature can be extracted to compute a descriptor of each sound source. Then descriptors are compared amongst the different cameras and sources are matched. With more than two cameras, a cross validation between all the sets enables to eliminate invalid matches in most cases. Invalid matches results in wrong estimation of the 3D location of a sound source.The actual performance of the system in terms of distance estimation depends on both the relative position of the cameras and the precision of each acoustic camera. A simulation of the precision p, defined in Fig. 3b, has been computed for different situations. It is shown in Fig. 4. With only two cameras as shown in Fig. 4a and 4d, the system cannot measure the depth of a sound source arriving on its side (close to the axis formed by the two cameras). With 3 acoustic cameras as shown in Fig. 4b, the depth can be measured for sound sources in any direction. Further increase of the number of acoustic cameras — the case of four camera is depicted in Fig. 4c — is mainly beneficial to extend the coverage area of the system. The simulations assume that the 2, 3 and 4 acoustic cameras are evenly distributed on a circle of 10 meter diameter and that each acoustic camera has a 0.5° angular precision. Figure 4d simulates the case of one omnidirectional camera and one planar camera. The planar acoustic camera only contributes when the sound source is placed in front of it (y-axis positive on the plot). It is also important to note that the precision of a planar array decreases when the sound source is far from the main direction of the camera, which leads to a smaller precision in depth measurement on the sides. Though it is not possible to measure depth on the back and the sides of this system, the angular measurement (direction) is still possible in all directions, thanks to the omnidirectional camera.Figure 4:Simulated range precision p using 2 to 4 cameras. (a) with 2 Omni360. (b) with 3 Omni360. (c) with 4 Omni360. (d) with one Omni360 and one planar camera (Distran Universal13).From these figures, we can determine that a system of 3 acoustic cameras or more, placed on a 10 meters perimeter and which elements individually have a 0.5° precision, can localize a sound source with 16 m precision in depth (and less than a meter laterally) up to a distance of 75 meters. As for the angular precision of the complete system, it is, in all the considered cases, similar to the one of each acoustic camera.Table 1:Detection range with various types of drones. Experiments were conducted on a field close to a road with traffic.Type of droneMaximum distance of detectionParrot AR Drone 2.0150mDJI Phantom2290mDJI Flamewheel F450160m2.4Sound extractionIndependently from the acoustic imaging, microphone arrays can act as directive microphones where the direction can be digitally steered. The main advantages of digital steering over traditional shotgun microphones are that the direction can be changed without any mechanical movement, which enables to steer in several directions at the same time and to select these steering directions during post-processing, on previously recorded data. This steering technique is used to suppress background interference and to focus on the signal of interest. Such focusing can be realized with beamforming algorithms. Computed in time-domain or in frequency domain, beamformers output a linear combination of the microphone signals. The weights of this combination are chosen either dependently (adaptive beamformer) or independently (fixed beamformer) of the input data. A fixed beamformer was used in the experiments.The output of the beamformer can be processed exactly as traditional mono-channel signals, using classical algorithms such as denoising. In particular it can be used by a human operator to listen to the signal being tracked. It can also be used to feed a signal identification algorithm.3.RESULTS3.1Drone trackingDrone tracking was conducted outdoors, on a roof-top in a city as represented in Fig. 5 and on a field with a road nearby. Lots of perturbing sound sources were present in both cases: on the roof-top, helicopters, trains, cleaning trucks and other noises were present; the experiment on the field was noisy due to the traffic on the road. Thus the drone detection range varies depending on the environment. The distance was measured with the help of a laser telemeter. The difference in speed of light and sound becomes clearly visible for sources at large distances.Figure 5:AR Drone being tracked from a roof top. The echo at the railing is visible on the bottom of the image.The beamformer feature can help to identify the object being tracked. By extracting the sound coming from the direction indicated by the acoustic image, the spectrogram can be computed. Such an example is represented Fig. 6 in the case of an experiment with the AR Drone located in a distance of about 140m. One clearly sees oscillating tones at about 4kHz from the four propellers, constantly changing speed due to the electronic controller.Figure 6:Spectrogram of the output of the beamformer pointing in the drone direction. The four oscillating horizontal lines at about 4kHz (red arrow) correspond to the four propellers main frequency emission. From the recording of a single omnidirectional microphone, the lines are not visible and the quadrotor cannot be heard.3.2Speech extractionSpeech extraction was conducted indoors with artificial sound sources to enhance reproducibility. Four loudspeakers evenly distributed around the acoustic camera played a recording of a crowd of people talking. The total noise level created by the four speakers was adjusted for 63 dB(A) at the acoustic camera. The level of a fifth speaker, at 7.3 m in the front of the camera, was initially set to 65 dB(A) at 1 m distance and lowered by 6, 12 and 15 dB, to simulate greater distances. In single microphone mode, the listening test revealed already insufficient speech intelligibility at a distance of 7.3 m. In beamformer mode, intelligibility was acceptable up to a distance of 15 m. This is illustrated on the sound files available online comparing the recording of a single microphone† and the output of the beamformer‡. With respect to directivity, the array outperforms a Sennheiser ME67 microphone that was tested as well.For a typical noise scenario with an A-weighted sound pressure level of 53 dB(A), the speech signal of a person being 80 to 100 m away can be captured by the array with sufficient quality and acceptable speech intelligibility.4.CONCLUSIONThe performance of a 120 elements microphone array for detecting drones and other distant objects was investigated. Different drones were tested and the detection range was reported to be between 150 and 290m, which represents an area of 7ha to 26ha covered by the system, depending on the type of drone to be detected. Beamforming capabilities of the system were also investigated and the directivity was reported to be better than the one of commercial shotgun microphones. This is especially useful for an operator to dispel doubt in real-time or on recordings — as the direction of the beamformer can be chosen after the recording, or to improve success rate of an identification system connected to the output of the beamformer. This system can also be coupled to complementary detection systems such as thermal cameras and pan-tilt zoom camera to improve the sensitivity of the system.REFERENCES[1] Gallagher, S., “German chancellor s drone attack shows the threat of weaponized UAVs,” (2013). URL: http://arstechnica.com/information-technology/2013/09/.Google Scholar
+        [2] Jouan, A., “Survols de centrales: un expert reconnu s’inquiète,” (2014). URL: http://goo.gl/eMlHdI.Google Scholar
+        [3] Rozantsev, A., Lepetit, V., and Fua, P., “Flying Objects Detection from a Single Moving Camera,” (2014). arXiv:1411.7715.Google Scholar
+        [4] Eshel, T., “Mobile Radar Optimized to Detect UAVs, Precision Guided Weapons,” (2013). URL: defense-update.com/20130208_mobile-radar-optimized-to-detect-uavs-precision-guided-weapons..Google Scholar
+        [5] Azimi, A., “Competition offers solutions to detecting UAVs,” (2012). URL: https://www.dvidshub.net/news/.Google Scholar
+        [6] Vasquez, J. R., Tarplee, K. M., Case, E. E., Zelnio, A. M., and Rigling, B. D., “Multisensor 3D tracking for counter small unmanned air vehicles (CSUAV),” SPIE Acquisition, Tracking, Pointing, and Laser Systems Technologies XXII 6971 (2008).Google Scholar
+        [7] Pham, T. and Srour, N., “TTCP AG-6: acoustic detection and tracking of UAVs,” SPIE Unattended/Unmanned Ground, Ocean, and Air Sensor Technologies and Applications VI5417, 24–30 (2004).Google Scholar
+        [8] Case, E. E., Zelnio, A. M., and Rigling, B. D., “Low-cost acoustic array for small UAV detection and tracking,” National Aerospace and Electronics Conference, Proceedings of the IEEE, 110–113 (2008).Google Scholar
+        [9] Chellappa, R., Qian, G. Q. G., and Zheng, Q. Z. Q., “Vehicle detection and tracking using acoustic and video sensors,” 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing 3(4), 793–796 (2004).Google Scholar
+        [10] Distran, “Omni360,” (2015). URL: http://www.distran.ch/en/products/omni360.Google Scholar
+        [11] Hartley, R. and Zisserman, A., [Multiple view geometry in computer vision], Cambridge university press (2003).Google Scholar
+        [12] Thrun, S., “Affine structure from sound,” Advances in Neural Information Processing Systems 18, 1353 (2006).Google Scholar
+        [13] Distran, “Universal,” (2015). URL: http://www.distran.cn/en/products/universal.Google Scholar
+        [1] SPIE_audio_without_bf_norm.mp3 http://dx.doi.org/doi.number.goes.here[2] SPIE_audio_with_bf_norm.mp3 http://dx.doi.org/doi.number.goes.here
+
+
+
+
+
+                    © (2015) COPYRIGHT Society of Photo-Optical Instrumentation Engineers (SPIE). Downloading of the abstract is permitted for personal use only.
+                
+
+
+
+
+
+Citation
+Download Citation
+
+
+
+Joël Busset, Florian Perrodin, Peter Wellig, Beat Ott, Kurt Heutschi, Torben Rühl, and Thomas Nussbaumer
+"Detection and tracking of drones using advanced acoustic cameras", Proc. SPIE 9647, Unmanned/Unattended Sensors and Sensor Networks XI; and Advanced Free-Space Optical Communication Techniques and Applications, 96470F (13 October 2015); doi: 10.1117/12.2194309; https://doi.org/10.1117/12.2194309
+
+
+
+
+
+
+
+
+
+
+
+Access the abstract
+
+
+
+
+
+
+
+PROCEEDINGS
+8 PAGES
+
+
+
+DOWNLOAD PDF
+
+
+
+                        SAVE TO MY LIBRARY
+                    
+
+
+
+
+
+
+
+
+
+
+SHARE
+
+
+
+
+
+
+
+
+
+GET CITATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <
+                        Previous Article
+|
+Next Article
+                        >
+
+                
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+KEYWORDS
+
+
+
+
+
+                        Cameras
+                    
+
+
+
+
+
+
+                        Acoustics
+                    
+
+
+
+
+
+
+                        Unmanned aerial vehicles
+                    
+
+
+
+
+
+
+                        Imaging systems
+                    
+
+
+
+
+
+
+                        Detection and tracking algorithms
+                    
+
+
+
+
+
+
+                        Phased arrays
+                    
+
+
+
+
+
+
+                        Sensors
+                    
+
+
+
+ 
+
+
+                        Video
+                    
+
+
+
+
+
+
+                        Spherical lenses
+                    
+
+
+
+
+
+
+                        Clocks
+                    
+
+
+
+
+
+
+Show All Keywords
+
+
+
+
+
+
+
+RELATED CONTENT
+
+
+
+
+
+
+Focus-of-attention for human activity recognition from UAVs
+
+Proceedings of SPIE (October 06 2014)
+
+
+Robust real-time horizon detection in full-motion video
+
+Proceedings of SPIE (June 08 2014)
+
+
+Optical and acoustical UAV detection
+
+Proceedings of SPIE (October 20 2016)
+
+
+Efficient object tracking in WAAS data streams
+
+Proceedings of SPIE (February 02 2011)
+
+
+Acoustic data analysis and scenario over watch from an aerostat...
+
+Proceedings of SPIE (May 24 2012)
+
+
+Fast detection and localization algorithm for circular targets
+
+Proceedings of SPIE (October 12 2008)
+
+
+Uncooled microbolometer sensors for unattended applications
+
+Proceedings of SPIE (September 17 2003)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to Digital Library
+
+
+
+
+
+Receive Erratum Email Alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Erratum Email Alerts notify you when an article has been updated or the paper is withdrawn.
+                
+
+
+
+                    Visit My Account to manage your email alerts.
+                
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Email or Username
+Forgot your username?
+
+
+
+
+Password
+Forgot your password?
+
+
+  Show
+
+
+
+
+Remember Email/Username on this computer
+
+
+Remember Password
+
+
+
+
+
+                No SPIE account? Create an account 
+Institutional Access:Sign in with your institutional credentials
+
+ 
+
+
+
+
+
+
+
+
+
+                The alert successfully saved.
+            
+
+
+
+                Visit My Account to manage your email alerts.
+            
+
+
+
+                CLOSE
+            
+
+
+
+
+
+
+
+                The alert did not successfully save. Please try again later.
+            
+
+
+
+                CLOSE
+            
+
+
+
+
+
+
+
+
+
+
+
+        Joël Busset, Florian Perrodin, Peter Wellig, Beat Ott, Kurt Heutschi, Torben Rühl, Thomas Nussbaumer, "Detection and tracking of drones using advanced acoustic cameras," Proc. SPIE 9647, Unmanned/Unattended Sensors and Sensor Networks XI; and Advanced Free-Space Optical Communication Techniques and Applications, 96470F (13 October 2015);
+        
+
+
+Include:
+
+
+
+ Citation Only
+
+
+ Citation & Abstract
+
+
+
+
+
+Format:
+
+
+
+ RIS (Zotero)
+
+
+ EndNote
+
+
+ BibTex
+
+
+ Medlars
+
+
+ ProCite
+
+
+ Ref Works
+
+
+
+
+
+
+
+                DOWNLOAD CITATION
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access provided by  Univ. of Amsterdam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Site Map
+
+ 
+        Home
+    
+
+ 
+        Conference Papers
+    
+
+ 
+        Conference Presentations
+    
+
+ 
+        Journals
+    
+
+ 
+        eBooks
+    
+
+ 
+        About
+    
+
+ 
+        Subscriptions
+    
+
+
+
+
+Information for Authors
+
+ 
+        Proceedings Authors
+    
+
+ 
+        Journal Authors
+    
+
+ 
+        eBook Authors
+    
+
+
+
+
+Information for Reviewers
+
+ 
+        Reviewer Guidelines
+    
+
+
+
+Information for Librarians
+
+ 
+        Resources
+    
+
+ 
+        Subscriptions
+    
+
+
+
+
+Contact & Support
++1 888 902 0894(United States)+1 360 685 5580(International)
+Hours:8:00 am to 5:00 pm PST
+Help | Contact Us
+
+
+Connect
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+        SPIE Privacy Policy
+    
+|
+
+        Terms of Use
+    
+
+
+						© 2019 SPIE
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    CONFERENCE PROCEEDINGS
+                
+
+
+
+        Papers
+    
+
+
+
+        Presentations
+    
+
+
+
+
+
+
+
+        Journals
+
+
+
+
+        Advanced Photonics
+    
+
+
+
+
+
+        Journal of Applied Remote Sensing
+    
+
+
+
+        Journal of Astronomical Telescopes, Instruments, and Systems
+    
+
+
+
+        Journal of Biomedical Optics
+    
+
+
+
+        Journal of Electronic Imaging
+    
+
+
+
+        Journal of Medical Imaging
+    
+
+
+
+        Journal of Micro-Nanolithography, MEMS, and MOEMS
+    
+
+
+
+        Journal of Nanophotonics
+    
+
+
+
+        Journal of Photonics for Energy
+    
+
+
+
+        Neurophotonics
+    
+
+
+
+        Optical Engineering
+    
+
+
+
+
+
+        Ebooks
+    
+
+
+
+
+
+Help |
+                Advanced Search >
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keywords/Phrases
+
+
+Keywords
+
+
+
+
+in
+
+All Fields
+Abstract
+Author Name
+Affiliation
+DOI / ISSN / ISBN
+Figure & Table Captions
+Keywords
+Title
+Volume Title
+
+Remove
+
+
+
+AND
+OR
+NOT
+
+
+
+
+
+in
+
+All Fields
+Abstract
+Author Name
+Affiliation
+DOI / ISSN / ISBN
+Figure & Table Captions
+Keywords
+Title
+Volume Title
+
+Remove
+
+
+
+AND
+OR
+NOT
+
+
+
+
+
+in
+
+All Fields
+Abstract
+Author Name
+Affiliation
+DOI / ISSN / ISBN
+Figure & Table Captions
+Keywords
+Title
+Volume Title
+
+Remove
+
+
+
++ Add another field
+
+Search In:
+
+
+
+
+Proceedings
+
+
+Volume
+
+
+
+
+
+
+
+Journals +
+
+
+Volume
+
+
+
+Issue
+
+
+
+Page
+
+
+
+
+
+Advanced Photonics
+
+Journal of Applied Remote Sensing
+
+Journal of Astronomical Telescopes  Instruments  and Systems
+
+Journal of Biomedical Optics
+
+Journal of Electronic Imaging
+
+Journal of Medical Imaging
+
+Journal of Micro/Nanolithography, MEMS, and MOEMS
+
+Journal of Nanophotonics
+
+Journal of Photonics for Energy
+
+Neurophotonics
+
+Optical Engineering
+
+SPIE Reviews
+
+
+
+
+eBooks +
+
+
+
+Field Guide Series
+
+Press Monograph
+
+Spotlight
+
+Tutorial Text
+
+Other Press
+
+
+
+Publication Years
+
+
+Range
+
+
+
+
+
+
+Single Year
+
+
+
+
+
+Clear Form

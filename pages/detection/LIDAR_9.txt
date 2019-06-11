@@ -1,0 +1,288 @@
+
+
+
+Drone-based LiDAR: what to know
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industries
+
+Agriculture
+Energy
+
+Solar
+Wind
+Utilities
+Oil and Gas
+
+AEC
+
+Construction
+
+
+Technology
+
+Drones
+
+DJI Matrice 200
+DJI Matrice 210
+DJI Matrice 600 Pro
+BirdsEyeView FireFLY6 Pro
+
+Sensors
+Software
+
+PrecisionAnalytics
+PrecisionMapper
+PrecisionFlight
+PrecisionFlight Pro
+
+Packages
+
+Services
+
+Drone Pilot Network
+Consulting
+Servicing
+BVLOS
+
+Learning
+About
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrecisionHawk  » Latest Articles
+
+
+
+							Categories
+						
+
+
+
+
+
+
+Browse All Categories
+
+BVLOS
+Policy
+Utilities
+Oil and Gas
+Agriculture
+Insurance
+LiDAR
+Solar
+Wind
+
+
+
+
+
+
+
+
+
+						04.17.2018 
+            
+					
+Drone-based LiDAR: what to know
+
+
+
+
+
+
+
+
+
+In our eBook Beyond the Edge, you’ll learn about advanced drone-based sensing and four key sensors: thermal, multispectral, hyperspectral, and LiDAR. Read it now.
+In this post, we’ve aggregated the key facts about LiDAR discussed in the book.
+
+LiDAR (Light Detection and Ranging)
+If you need to capture high-quality and accurate elevation data, drone-based LiDAR sensors are the tool for you.
+LiDAR (Light Detection and Ranging) sensors use light energy, emitted from a laser, to scan the ground and measure the ranges of what bounces back. The end result is a rich set of elevation data that can be used to produce high-resolution maps and 3D models of natural and man-made objects.
+LiDAR technology dates back to the 1960s, where it was first used by engineers and surveyors to produce high-fidelity topographical maps that included roads, streams and other important landscape features. 
+LiDAR vs. Photogrammetry
+LiDAR is different from photogrammetry, the use of photography in surveying and mapping to measure distances between objects. With LiDAR, your results are more exact (this equates to half a foot using LiDAR versus four feet with photogrammetry) and it can also accurately measure where vegetation occurs, how dense the vegetation is and the topography of the ground underneath. 
+Compared to other aerial survey methods, drone-based LiDAR collection yields the highest fidelity data. The point cloud generated from drone-based LiDAR can yield 100–500 points per square meter at a vertical elevation accuracy of 2–3 centimeters. 
+“With higher density, or a higher resolution, the detail of information you receive from the drone-based LiDAR sensor is more robust. A more dense point cloud gives research teams more flexibility to run the data through a range of algorithms and analyses,” shared Director of Data & LiDAR Services Jamie Young, CP, CMS-L, GISP.
+
+Putting LiDAR to Work
+LiDAR sensors are used by a variety of organizations including government agencies, construction companies and insurances agencies. These sensors can be used to survey and monitor ground elevation changes and the impact on field assets such as substations, towers and wind turbines; build bare earth topographic models of flood prone areas to increase the accuracy of risk assessments and improve emergency planning; generate elevation maps to identify areas requiring improved drainage; create 3D models of crops to monitor drought stress at different growth stages and optimize water use and more.
+Collecting LiDAR Data
+When surveying vegetation, a flight plan with adequate overlap is required to ensure there is proper penetration. Additionally, altitude, speed and line spacing play a key role in successful data collection in areas with vegetation. Set ground control points near the corners of the area of interest and at high and low elevation points.
+Man-made structures absorb a lot of light and this impacts how strongly the laser bounces back to the sensor. “When using a drone to survey buildings, bridges and other man-made structures, you'll need to fly at a lower altitude. This is especially necessary if your area of interest includes asphalt, black tops or concrete,” stated Matt Tompkins, Director of Flight Operations.
+To optimize your budget, employ multiple LiDAR data collection methods such as manned aircraft and drones.  Drone-based LiDAR can examine key corridors where high fidelity data is needed and the remaining project area can be scanned by manned aircraft. This hybrid strategy is an ideal solution for large projects as well as one-time surveys. 
+Redefine the Limits of LiDAR
+Organizations are overcoming a wide range of challenges by employing drone-based LiDAR. Like those pioneering the practice today, you have the opportunity to change the way your organization collects and uses data to solve problems.  To learn more about how advanced drones, sensors, and flight operations are redefining the limits of remote sensing, read our eBook Beyond the Edge. Or speak with an expert on our solutions team today.
+
+Share
+  
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industries
+
+Agriculture
+Construction
+Solar
+Wind
+Utilities
+Oil and Gas
+
+Technology
+
+Drones
+Sensors
+Software
+Packages
+
+Services
+
+Drone Pilot Network
+Consulting
+Servicing
+BVLOS
+
+Resources
+
+BVLOS Waiver Case
+Advanced Sensors
+Keynote Speeches
+
+About
+
+Careers
+Contact
+Learning
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2019 Copyright. All rights reserved. | Privacy Policy

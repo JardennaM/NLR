@@ -1,0 +1,585 @@
+ 
+
+
+
+
+
+
+
+Drone Detection Radar | Watch our Product Presentation!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+About Us
+Products
+News
+Contact Us
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection Radar
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ For video press play: 
+
+
+
+
+
+
+
+
+
+
+
+
+The Ultimate Innovation in Drone Detection Radar
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miltronix’s suite of state-of-the-art Air Surveillance Radar options are designed to fill critical gaps in air surveillance to protect national borders, vital infrastructure and other critical high value assets. These sophisticated solid-state Drone Detection Radar is specially designed to detect, locate, and display Drones of various sizes that might be flying within the Radar’s area of coverage.
+
+
+
+
+
+
+The flexibility in design offered by these radars enables them to detect fixed and rotary wing drones of various sizes. These radars have the capability to effectively and efficiently detect all kinds of Drones including those with low RCS with validation provided by a sophisticated high resolution long range Electro / Optical sensor. The Miltronix Drone Detection Radar can be integrated with a range of Anti-Drone systems.
+
+
+
+ 
+
+
+
+
+
+
+The Drone Challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+The advent of Drones and their extensive use in recent times have created a challenge for existing radar systems, which have traditionally specialized in detecting and tracking civilian and military aircraft and helicopters. Further, Drone designs now include stealth features to further minimize detection, which is in addition to their use of composite materials. This has resulted in the fact that even large Drones now have an RCS of that of a bird, which traditional radar systems are not designed to detect. To add to the challenge of detection by traditional radar systems, a Drone moves in a more random manner than traditional aircraft, and at low to medium altitudes with varying speeds.
+
+
+
+
+
+
+To detect modern Drones, a sophisticated and sensitive 3D radar is required that can detect very low RCS flying objects, including those that are low flying. It is essential that the system should also be capable of providing real-time alerts in declared threat zones, and archiving data for future analysis and reporting. Miltronix Drone Detection Radar provides all this along with a built- in high resolution, long range Electro-Optical sensor for validating the Radar detected targets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection Radar – Salient Features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Doppler Radar
+
+
+Capability To Detect & Monitor Non-Conventional Air Targets Like Drones
+
+
+Target Differentiation and Validation Using High Resolution Long Range E/O Device with a Range of up to 4 Kms
+
+
+Fully custom designed option to Detect and Monitor Drones
+
+
+Fully Solid State and Fully Coherent Radar
+
+
+X Band Radar
+
+
+Spread Spectrum Technology
+
+
+Covers Entire Surveillance Airspace in 3D
+
+
+Electronically Scanning Vertical Multi-Beam Array Antenna
+
+
+Clutter Resistant Beams Effectively Detect Low Flying Targets
+
+
+User Selectable Short Range Mode & Long Range Mode
+
+
+Unique Continuous 3D Digital Zoom
+
+
+3D Clutter Mapping Feature
+
+
+In-built GPS based, Automatic GIS Mapping Engine
+
+
+Radar Can Detect Targets up to 10 Km away
+
+
+Frequency Agility With Multiple Center Frequencies
+
+
+Mono Pulse feature for Enhanced Resolution
+
+
+Scan >100 targets Simultaneously
+
+
+
+
+
+
+
+
+
+
+Accurate Target Height Information
+
+
+3D Display, PPI and A Scope View
+
+
+
+Customized software capable of:
+
+Radar Data Processing
+Target Detection & Monitoring
+Clutter Removal
+Data Display & Integration into ATC and C4I Systems
+Countermeasure Systems
+Data Archiving for future analysis
+Data Analytics
+
+
+
+
+Live Zoom / Spotlight Feature in Display
+
+
+Threat Warning via Alarm Zones
+
+
+Ability to feed 3D Target Coordinates to Anti-Drone Systems
+
+
+TCP/IP network integration
+
+
+High MTBF
+
+
+System provided with UPS and Power Supply Back Up.
+
+
+Fast and Easy Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection Radar – System Specifications
+
+
+
+
+
+
+
+
+
+
+
+
+Radar Frequency:
+X Band
+
+
+Radar Target Detection Range:
+10 KM
+
+
+Drone Validation Range:
+4 KM
+
+
+Range Resolution:
+50 m
+
+
+Range Accuracy:
+< 50 m
+
+
+Antenna Gain:
+>41 dB
+
+
+Elevation:
+Multi Beam, Electronically Scanning
+
+
+Elevation Coverage:
+> 42°
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Azimuth Coverage:
+360 Degree with sector Blanking Option
+
+
+Revolutions Per Minute:
+6 RPM
+
+
+Multiple PRF:
+Yes
+
+
+Multiple Pulse Width:
+Yes
+
+
+CFAR:
+Yes
+
+
+Max No. of Targets Detected:
+Up To a 1000
+
+
+False Tracks:
+PD 1E10-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit 223 Dunsfold Park Cranleigh Surrey GU6 8GA United KingdomMiltronix is the trading name for Miltronix Limited registered
+in England and Wales Company No: 10495473T: +44 20 3971 8866  E: info@miltronix.co.uk  W:   www.miltronix.co.ukCOntact Us
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+About Us
+Products
+News
+Contact Us
+ 
+
+
+
+
+
+
+
+
+Start Typing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 

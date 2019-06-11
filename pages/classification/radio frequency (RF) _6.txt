@@ -1,0 +1,255 @@
+
+
+
+
+
+RF-Sensors - Long range detection | Bavak Security Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+Contact usNederlands 
+
+
+
+
+
+
+
+
+
+
+ Bavak Security GroupAbout usSecurity SolutionsPerimeter Access ControlBavak SpeedgatesBavak-BollardsBavak RoadblockersBavak Arm BarriersIntegrated Security SolutionsSecurity Management SystemsDrone Detection SystemsIntegrated Military SolutionsScreening SystemsX-ray Inspection SystemsWalkthrough Metal DetectorsUnder Vehicle Inspection SystemsRental ServicesSectorsGovernmentCritical infrastructureCorrectional FacilitiesBusinessNews and ArticlesServicesTrainingMaintenance & Support
+
+
+Search for:
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RF-Sensors
+
+
+
+
+
+
+
+
+RF-SensorsBMessemaker2019-04-17T16:20:06+02:00 
+
+
+Overview ¦ How it works ¦ Software ¦ RF-Sensors ¦ Sensor Extensions ¦ Portable Detection Solutions
+
+
+
+
+RF-Sensors: the cornerstone of complete airspace securityDedrone RF-Sensors detect drones and remote controls by their radio frequency (RF) signatures. Commercial, hobbyist, and homebrew drones are detected, including the entire DJI product line​.
+
+
+
+
+RF-100OVERVIEW
+The RF-100 detects and classifies drones via multiple, integrated software-defined radios (SDRs). Detection range can reach up to 1,5 kilometre, depending on installation and environment characteristics.
+BEST FOR
+
+Long-range detection and early-warning
+Detects and classifies commercial and hobbyist drones
+Built-in reporting identifies critical drone threats
+Understanding how many drones intrude into the airspace
+Early detection of drones, even before they take off
+Classification of drone characteristics and incident logging
+
+
+
+
+
+
+
+
+
+
+
+
+
+RF-300OVERVIEW
+The RF-300 detects and classifies drones via multiple, integrated software-defined radios (SDRs). RF-Sensors detection range can reach up to 1 kilometre, depending on installation and environment characteristics.
+BEST FOR
+
+RF-based localization finds drones and pilots
+Automatically tracks and plots flight and pilot position on map
+Supplements RF-100 and video-based detection
+Understanding how many drones intrude into the airspace
+Early detection of drones, even before they take off
+Classification of drone characteristics and incident logging
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+AddressBavak Beveiligingsgroep BV
+Zwarteweg 19 - 2201 AA Noordwijk
+P.O. Box 334 - 2200 AH Noordwijk
+the Netherlands
+Tel: +31 (0)71 403 5544
+info@bavak.com
+ 
+
+Information Contact us About us Customer Login 
+
+NewsletterSubscribe to our newsletter:
+
+
+
+
+
+Leave this field empty if you're human: 
+ 
+
+Get Social
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+		Copyright 2016-2018 Bavak Beveiligingsgroep BV  |  All Rights Reserved	
+
+
+
+ 
+ 
+ 
+ 
+ 

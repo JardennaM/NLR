@@ -1,0 +1,755 @@
+
+
+
+
+
+Using Open LiDAR to Remove Low Noise from Photogrammetric UAV Point Clouds | rapidlasso GmbH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rapidlasso GmbH
+fast tools to catch reality
+
+
+
+
+Menu
+Skip to content
+Products
+
+LAStools
+BLAST
+pricing
+LICENSE
+
+
+LAStools
+
+download
+lasview
+
+README
+
+
+lasinfo
+
+README
+
+
+lasground
+
+README
+
+
+lasclassify
+
+README
+
+
+las2dem
+
+README
+
+
+las2iso
+
+README
+
+
+lascolor
+
+README
+
+
+lasgrid
+
+README
+
+
+lasoverlap
+
+README
+
+
+lasoverage
+
+README
+
+
+lasboundary
+
+README
+
+
+lasclip
+
+README
+
+
+lasheight
+
+README
+
+
+lastrack
+
+README
+
+
+lascanopy
+
+README
+
+
+lasthin
+
+README
+
+
+lasoptimize
+
+README
+
+
+lassort
+
+README
+
+
+lasreturn
+
+README
+
+
+lasduplicate
+
+README
+
+
+lascontrol
+
+README
+
+
+lastile
+
+README
+
+
+las2txt
+
+README
+
+
+lassplit
+
+README
+
+
+txt2las
+
+README
+
+
+lasvalidate
+
+README
+
+
+
+
+BLAST
+
+blast2dem
+
+README
+
+
+blast2iso
+
+README
+
+
+
+
+LASzip
+
+download
+video
+paper
+developer site
+pointzip
+
+
+PulseWaves
+
+download
+sample data
+specification
+developer site
+discussion group
+
+
+Blog
+
+press releases
+workshops & seminars
+tutorials
+videos
+
+
+Events
+
+calendar
+LASmoons
+
+participants
+
+
+
+
+Support
+
+tutorials
+user forum
+videos
+linkedin group
+facebook page
+twitter feed
+university page
+
+
+Contact
+ 
+
+
+
+
+
+
+Using Open LiDAR to Remove Low Noise from Photogrammetric UAV Point Clouds
+
+			Posted on April 9, 2019 by martin isenburg 
+
+
+We collected drone imagery of the restored “Kance” tavern during the lunch stop of the UAV Tartu summer school field trip (actually the organizer Marko Kohv did that, as I was busy introducing students to SUP boarding). With Agisoft PhotoScan we then processed the images into point clouds below the deck of the historical “Jõmmu” barge on the way home (actually Marko did that, because I was busy enjoying the view of the wetlands in the afternoon sun). The resulting data set with 7,855,699 points is shown below and can be downloaded here.
+7,855,699 points produced with Agisoft Photoscan
+Generating points using photogrammetric techniques in scenes containing water bodies tends to be problematic as dense blotches of noise points above and below the water surface are common as you can see in the picture below. Especially the low points are troublesome as they adversely affect ground classification which results in poor Digital Elevation Models (DTMs).
+Clusters of low noise points nearly 2 meters below the actual surface in water areas.
+In a previous article we have described a LAStools workflow that can remove excessive low noise. In this article here we use external information about the topography of the area to clean our photogrammetry points. How convenient that the Estonian Land Board has just released their entire LiDAR archives as open data.
+Following these instructions here you can download the available open LiDAR for this area, which has the map sheet index 475681. Alternatively you can download the four currently available data sets here flown in spring 2010, in summer 2013, in spring 2014, and in summer 2017. In the following we will use the one flown in spring 2014.
+We can view both data sets simultaneously in lasview. By adding ‘-faf’ to the command-line we can switch back and forth between the two data sets by pressing ‘0’ and ‘1’.
+lasview -i Kantsi.laz ^
+        -i 475681_2014_tava.laz ^
+        -points 10000000 ^
+        -faf
+We find cut the 1 km by 1 km LiDAR tile down to a 250 m by 250 m tile that nicely surrounds our photogrammetric point set using the following las2las command-line:
+las2las -i 475681_2014_tava.laz ^
+        -inside_tile 681485 6475375 250 ^
+        -o LiDAR_Kantsi.laz
+
+lasview -i Kantsi.laz ^
+        -i LiDAR_Kantsi.laz ^
+        -points 10000000 ^
+        -faf
+Scrutinizing the two data sets we quickly find that there is a miss-alignment between the dense imagery-derived and the comparatively sparse LiDAR point clouds. With lasview we investigate the difference between the two point clouds by hovering over a point from one point cloud and pressing <i> and then hovering over a somewhat corresponding point from the other point cloud and pressing <SHIFT>+<i>. We measure displacements of around 2 meters vertically and of around 3 to 3.5 meter in total.
+          The miss-alignment between sparse LiDAR and dense photogrammetry points is clearly visible in open terrain areas.             The miss-alignment error between sparse LiDAR and dense photogrammetry points is easily measured along the roof of the building.          We can measure a displacement of around 2 meters vertically and around 3 to 3.5 meter in total.       
+Before we can use the LiDAR points to remove the low noise from the photogrammetric points we must align them properly. For simple translation errors this can be done with a new feature that was recently added to lasview. Make sure to download the latest version (190404 or newer) of LAStools to follow the steps shown in the image sequence below.
+          Press ‘x’ once, select an area-of-interest around the house, and press ‘x’ again.             Use pop-up menu via right-click to select “reclassify points as” some unique and non-existing classification such as “road surface”.          Draw a polygon on a flat part of the roof.                Press ‘r’ to register the edit.             Use pop-up menu via right-click to change to “color by classification”.             Many wrong points. Use pop-up menu to render only “road surface”.                So many wrong points. Use pop-up menu to select “reclassify points as never classified”.          Draw a polygon around the wrong points. above.             Press ‘r’ to register the edit.                Press ‘e’ to continue editing and draw a polygon around the wrong points below.             Press ‘r’ to register the edit. Repeat until only points forming a planar area remain.                Press ‘p’ to compute a plane through these points.             Press ‘a’ to turn on all points.          Press ‘1’ to turn on the LiDAR points only (only works if lasview was run with option ‘-faf’) and press ‘t’ to triangulate them. Hover over a point and press ‘i’.                Hover over another point and press ‘i’ again. The distance from the plane to the point is displayed in the black control window.             Hover over another point and press ‘i’ again. The distances are similar.             Use pop-up menu to select “reclassify points as keypoint” and draw a polygon around the flat part of the triangulated surface.                Some wrong points again. Use pop-up menu to select “reclassify points as never classified”.          Draw a polygon around the wrong points and press ‘r’ to register the edit.          Once only the LiDAR points from the same roof that also form a plane are left press ‘l’.             A list of distances and an average distance / translation vector are output in the control window. We use this to shift the photogrammetry points closer to the LiDAR.       
+las2las -i Kantsi.laz ^
+        -translate_xyz 0.89 -1.90 2.51 ^
+        -o Kantsi_shifted.laz
+
+lasview -i Kantsi_shifted.laz ^
+        -i LiDAR_Kantsi.laz ^
+        -points 10000000 ^
+        -faf
+The result looks good in the sense that both sides of the photogrammetric roof are reasonably well aligned with the LiDAR. But there is still a shift along the roof so we repeat the same thing once more as shown in the next image sequence:
+          Comparing a wireframe TIN of the LiDAR with the photogrammetry points shows another misalignment.             Using the same technique as earlier we classify a subset of points from the building facade to a unique class and fit a plane.          By picking various different LiDAR points shows the perpendicular displacement vectors to the plane.                By picking various different LiDAR points shows the perpendicular displacement vectors to the plane.             By picking various different LiDAR points shows the perpendicular displacement vectors to the plane.             By picking various different LiDAR points shows the perpendicular displacement vectors to the plane.       
+We use a suitable displacement vector and apply it to the photogrammetry points, shifting them again:
+las2las -i Kantsi_shifted.laz ^
+        -translate_xyz -1.98 -0.95 0.01 ^
+        -o Kantsi_shifted_again.laz
+
+lasview -i Kantsi_shifted_again.laz ^
+        -i LiDAR_Kantsi.laz ^
+        -points 10000000 ^
+        -faf
+The result is still not perfect as there is also some rotational error and you may find another software such as Cloud Compare more suited to align the two point clouds, but for this exercise the alignment shall suffice. Below you see the match between the photogrammetry points and the LiDAR TIN before and after shifting the photogrammetry points with the two (interactively determined) displacement vectors.
+          Original alignment.             After manual alignment with two interactively determined translation vectors.       
+The final steps of this exercise use las2dem and the already ground-classified LiDAR compute a 1 meter DTM, which we then use as input to lasheight. We classify the photogrammetry points using their height above this set of ground points with 1 meter spacing: points that are 40 centimeter or more below the LiDAR DTM are classified as noise (7), points that are between 40 below to 1 meter above the LiDAR DTM are classified to a temporary class (here we choose 8) that has those points that could potentially be ground points. This will help, for example, with subsequent ground classification as large parts of the photogrammetry points – namely those on top of buildings and in higher vegetation – can be ignored from the start by a ground classification algorithm such as lasground.
+las2dem -i LiDAR_Kantsi.laz ^
+        -keep_class 2 ^
+        -kill 1000 ^
+        -o LiDAR_Kantsi_dtm_1m.bil
+lasheight -i Kantsi_shifted_again.laz ^
+          -ground_points LiDAR_Kantsi_dtm_1m.bil ^
+          -classify_below -0.4 7 ^
+          -classify_between -0.4 1.0 8 ^
+          -o Kantsi_cleaned.laz
+Below the results we have achieved after “roughly” aligning the two point clouds with some new lasview tricks and then using the LiDAR elevations to classify the photogrammetry points into “low noise”, “potential ground”, and “all else”.
+          Photogrammetry points colored by RGB.             Photogrammetry points colored by elevation.          Photogrammetry points colored by classification.                Points 40 centimeter or more below the LiDAR DTM classified as low noise.             Same as before but colored by RGB.             Points between 40 centimeter below and 100 centimeter above the LiDAR DTM classified as potential ground.             Points higher than 100 centimeter above the LiDAR DTM.       
+We thank the Estonian Land Board for providing open data with a permissive license. Special thanks also go to the organizers of the UAV Summer School in Tartu, Estonia and the European Regional Development Fund for funding this event. Especially fun was the fabulous excursion to the Emajõe-Suursoo Nature Reserve and through to Lake Peipus aboard, overboard and aboveboard the historical barge “Jõmmu”. If you look carefully you can also find the barge in the photogrammetry point cloud. The photogrammetry data used here was acquired during our lunch stop.
+Fun aboard and overboard the historical barge “Jõmmu”.
+Share this:TwitterFacebookLike this:Like Loading...
+
+Related
+ 
+
+		This entry was posted in Agisoft, classification, DEM, dense-matching, drone, DSM, DTM, LAS, LAStools, lasview, LAZ, LiDAR, manual editing, noise, open data, photogrammetry, Pix4D, quality assurance, semi-global matching, UAV. Bookmark the permalink.
+			
+
+
+Post navigation
+← No Sugarcoating: Sweet LiDAR from RiCOPTER carrying VUX-1UAV over Sugarcane
+Smooth DTM from Drone LiDAR off Velodyne HDL 32A mounted on DJI M600 UAV → 
+
+
+Leave a Reply Cancel reply 
+
+
+
+Enter your comment here...
+
+
+
+
+Fill in your details below or click an icon to log in:
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+Email (required) (Address never made public)
+
+
+
+Name (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your WordPress.com account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Google account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Twitter account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Facebook account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+Cancel
+Connecting to %s
+
+
+
+
+ Notify me of new comments via email. Notify me of new posts via email.
+ 
+
+
+
+ 
+
+
+
+
+
+
+@LAStools tweets
+
+				RT @LAStools: #LiDAR scanners by @VelodyneLiDAR, @RIEGL, @Quanery, @OusterLiDAR, and now also @TeledyneOptech are small enough for #UAV-bas… 				6 hours ago
+
+
+				RT @LAStools: New Brunswick first Canadian Province to have complete #LiDAR coverage available as #opendata available for download now: ove… 				6 hours ago
+
+
+				RT @PederBocher: Thank you Martin Isenburg @rapidlasso for providing free licenses to @LAStools for our advanced GIS course @KarenBlixenCam… 				1 week ago
+
+
+				RT @LAStools: @cartocalypse @HarelDan @GeoJSON Those German longitude and latitude coordinates with 15 decimal digits  inspired the followi… 				2 weeks ago
+
+@rapidlasso tweets
+
+#LiDAR #LiDAR #LiDAR It is the rad capitalization of #LiDAR #LiDAR #LiDAR that makes our field of laser science and…  twitter.com/i/web/status/1… 1 week ago
+
+
+				RT @LAStools: #LiDAR scanners by @VelodyneLiDAR, @RIEGL, @Quanery, @OusterLiDAR, and now also @TeledyneOptech are small enough for #UAV-bas… 				1 week ago
+
+
+				RT @LAStools: No #duck or #tree was harmed while @rapidlasso explained relation between one #laserpulse and the #discretereturns it can gen… 				2 weeks ago
+
+
+				RT @PederBocher: Thank you Martin Isenburg @rapidlasso for providing free licenses to @LAStools for our advanced GIS course @KarenBlixenCam… 				2 weeks ago
+
+@PulseWaves tweets
+
+				RT @LAStools: New @rapidlasso blog: Removing Excessive Noise from Dense-Matching Point Clouds  rapidlasso.com/2017/07/04/rem… #LiDAR #esriIMF #AGIT… 				1 year ago
+
+
+				RT @rapidlasso: Share, visualize, measure #LiDAR in 3D via Web browser with free #laspublish of @LAStools  twitter.com/LAStools/statu… #esriuc #… 				1 year ago
+
+
+				RT @scholl_victoria: A great workshop by @LAStools Martin Isenburg at @WSL_research in Zürich - from preprocessing steps to advanced workfl… 				1 year ago
+
+
+				RT @LAStools: Comparing #LiDAR first return #TIN with spike-free #TINs using different freeze values.  rapidlasso.com/2016/02/03/gen… #EsriUC #Esri… 				1 year ago
+
+
+				RT @LAStools: Flights of @YellowScan #UAV carrying @VelodyneLidar processed with @LAStools for @rapidlasso's talk at #LiDAR for #Drone conf… 				1 year ago
+
+ 
+
+
+Search
+
+
+ 
+
+
+
+  Recent Posts 
+
+LASmoons: Olumese Efeovbokhan
+
+
+How Many Decimal Digits for Storing Longitude & Latitude?
+
+
+Clean DTM from Agisoft Photogrammetric Points of Urban Scene
+
+
+Smooth DTM from Drone LiDAR off Velodyne HDL 32A mounted on DJI M600 UAV
+
+
+Using Open LiDAR to Remove Low Noise from Photogrammetric UAV Point Clouds
+
+
+No Sugarcoating: Sweet LiDAR from RiCOPTER carrying VUX-1UAV over Sugarcane
+
+
+LASmoons: David Bandrowski
+
+
+Digital Pothole Removal: Clean Road Surface from Noisy Pix4D Point Cloud
+
+
+Scripting LAStools to Create a Clean DTM from Noisy Photogrammetric Point Cloud
+
+
+In Sweden, all they Wanted for Christmas was National LiDAR as Open Data
+
+
+CyArk partners with Google, takes over “Don’t be Evil” Mantra, opens LiDAR Archive
+
+
+LASmoons: Sebastian Flachmeier
+
+
+City of Guadalajara creates first Open LiDAR Portal of Latin America
+
+
+Scrutinizing LiDAR Data from Leica’s Single Photon Scanner SPL100 (aka SPL99)
+
+
+Estonia leads in Open LiDAR: nationwide & multi-temporal Point Clouds now Online
+
+
+ 
+
+
+
+Agisoft ArcGIS archaeology art ASPRS award bare-earth billions biomass BLAST buildings canopy capacity building CHM classification compression conferences copyright DEM dense-matching density distribution download portal drone DSM DTM eBee editing ERDAS IMAGINE ESRI featured user forestry full waveform geomorphology green hardware HoverMap in the news invasive species iso-contours LAS LASlayers LASmoons LAS Optimizer LAStools lasview LASzip LAX LAY LAZ license LiDAR manual editing maps median ground mobile mobile mapping nframes noise open-washing open data open formats open source Optech orienteering photogrammetry pit-free Pix4D Potree press releases product news PulseWaves QGIS quality assurance quality checking raster REDD+ RIEGL semi-global matching SenseFly single photon spacing spatial indexing spike-free SURE TIN Trimble tutorials UAV vegetation Velodyne Veloydyne videos VisionMap visualization VUX1 Wine workshops YellowScan zLAS  
+
+
+
+ 
+
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post to
+
+
+
+Cancel
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+%d bloggers like this:

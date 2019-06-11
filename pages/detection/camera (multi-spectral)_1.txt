@@ -1,0 +1,289 @@
+
+
+
+Drone-based Multispectral Sensing: what to know
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industries
+
+Agriculture
+Energy
+
+Solar
+Wind
+Utilities
+Oil and Gas
+
+AEC
+
+Construction
+
+
+Technology
+
+Drones
+
+DJI Matrice 200
+DJI Matrice 210
+DJI Matrice 600 Pro
+BirdsEyeView FireFLY6 Pro
+
+Sensors
+Software
+
+PrecisionAnalytics
+PrecisionMapper
+PrecisionFlight
+PrecisionFlight Pro
+
+Packages
+
+Services
+
+Drone Pilot Network
+Consulting
+Servicing
+BVLOS
+
+Learning
+About
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrecisionHawk  » Latest Articles
+
+
+
+							Categories
+						
+
+
+
+
+
+
+Browse All Categories
+
+BVLOS
+Policy
+Utilities
+Oil and Gas
+Agriculture
+Insurance
+LiDAR
+Solar
+Wind
+
+
+
+
+
+
+
+
+
+						05.21.2018 
+            
+					
+Drone-based Multispectral Sensing: what to know
+
+
+
+
+
+
+
+
+
+In our eBook Beyond the Edge, you’ll learn about advanced drone-based sensing and four key sensors: thermal, multispectral, hyperspectral, and LiDAR. Read it now.
+In this post, we’ve aggregated the key facts about multispectral sensing discussed in the book.
+Learning from Various Spectra of Light
+Enterprises dealing with crops or vegetation will find a wide variety of uses for drone-based multispectral sensors.
+Multispectral sensors are instrumental in plant health and management. They are used in a variety of industries including the agriculture, energy and construction industries. These sensors also have a variety of uses in each field, including: Reviewing data related to environmental mitigation activities such as monitoring plant and tree health, performing more effective crop management with plot-level statistics on plant count, height, vigor, leaf area and canopy cover or reviewing the health of forestry and vegetation to determine which portion of land to clear for commercial projects. Detailed insight can also be secured using algorithms from Vegetation Indices. 
+How Multispectral Sensors Work
+While a standard visual sensor only collects red, green and blue wavelengths of light, multispectral sensors are able to collect wavelengths that fall outside the visible spectrum as well. These include near-infrared radiation (NIR), short-wave infrared radiation (SWIR) and others. 
+“Multispectral sensors capture data on the reflection of light energy off objects in the environment. That data can be compared to other nearby objects to understand crucial difference between them,” shared Scott Hatcher, a Geospatial Scientist. “To go further, to universally compare reflectors, you must use calibrated sensors and process them differently. Whether to pursue this or not is dependent on the use case. Define your problem!”
+Multispectral sensors contain between three to five spectral bands and fall into two categories: modified and multiband. 
+Modified sensors are created when a special filter is placed on a standard visual sensor. As a result, modified sensors collect three bands of light at once through the same lens. Filters can come in many different formats to display different combinations of spectral bands. The most common formats sacrifice one of the visual bands to record near-infrared information (NIR). For instance, an R-G-NIR filter sacrifices blue in order to collect near-infrared energy (~700 - 800 nm). 
+By contrast, multiband sensors are manufactured specifically for multispectral data collection. Each band is collected by a dedicated sensor so there is no need for multiple flights. As a result, multiband sensors also enable you to mix different band combinations to meet your needs. 
+
+How to Collect Multispectral Data Using Drones
+When collecting data with multispectral sensors, reflectance panels should be used. These panels are placed on the ground and reflect light at a consistent level. Before and after each flight, secure images while flying over the panel. This enables date, time and location data to be tied to lighting conditions and is necessary for calibration during data processing. 
+Director of Flight Operations, Matt Tompkins suggests: “When you collect data over very homogeneous areas such as mature corn crops, be sure you avoid overlapping and fly at a consistent altitude and speed. This will prevent problems when images are stitched together during processing,”
+Finally, when collecting data with a modified sensor, use consistent camera settings during each flight. 
+Before leaving the field, be sure to perform a quick review to ensure you captured all required data. When using a multiband sensor, this can be done with the specialized software created by the sensor manufacturer. It generally takes a few hours to process multispectral data and create an orthomosaic (stitched image).
+Once the data has been stitched into an orthomosaic, further analysis can transform the bands in indices that are sensitive to vegetation health and stress, segment the imagery into objects of interest, or create three dimensional models of the area using photogrammetry. This requires using GIS software or remote sensing software.  Once completed, these data products can be the start of a complex algorithmic processing chain that produces actionable information.
+Redefine the Limits of Multispectral Sensing
+Organizations are overcoming a wide range of challenges by employing drone-based multispectral sensing. Like those pioneering the practice today, you have the opportunity to change the way your organization collects and uses data to solve problems.
+To learn more about how advanced drones, sensors and flight operations are redefining the limits of remote sensing, read our eBook Beyond the Edge. Or speak with an expert on our solutions team today.
+
+Share
+  
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industries
+
+Agriculture
+Construction
+Solar
+Wind
+Utilities
+Oil and Gas
+
+Technology
+
+Drones
+Sensors
+Software
+Packages
+
+Services
+
+Drone Pilot Network
+Consulting
+Servicing
+BVLOS
+
+Resources
+
+BVLOS Waiver Case
+Advanced Sensors
+Keynote Speeches
+
+About
+
+Careers
+Contact
+Learning
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2019 Copyright. All rights reserved. | Privacy Policy

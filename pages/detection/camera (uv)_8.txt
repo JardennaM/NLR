@@ -1,0 +1,558 @@
+
+
+
+
+
+
+
+
+
+
+                            Power line inspection with UgCS
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UgCS
+
+
+
+
+
+
+Applications
+
+
+
+
+UgCS Photogrammetry tool for land surveying
+
+
+UgCS for magnetic and other low altitude mission planning
+
+
+UgCS for PV Solar Panel inspections
+
+
+UgCS for Powerline inspections
+
+
+UgCS for GPR-drone integrated system
+
+
+UgCS for GPA-drone integrated system
+
+
+
+
+
+
+Supported Drones
+
+
+
+
+Pricing
+
+
+
+
+Download
+
+
+
+
+Download UgCS
+
+
+Download UgCS for DJI
+
+
+Download UgCS 3.3 BETA
+
+
+UgCS v.2.13 for UgCS ONE
+
+
+Download Telemetry Sync Tool
+
+
+
+
+
+
+Support
+
+
+
+
+Get Support
+
+
+UgCS Manuals
+
+
+F.A.Q.
+
+
+How-to instructions
+
+
+Video Demo & Tutorials
+
+
+Annual Support&Upgrade packs
+
+
+UgCS SDK
+
+
+
+
+
+
+Resellers
+
+
+
+
+NEWS
+
+
+
+
+About
+
+
+
+
+Contacts
+
+
+Education partners
+
+
+Meet the team
+
+
+Services and Experience
+
+
+Careers
+
+
+Membership & initiatives
+
+
+EU Funds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+Powerline inspection with UgCS
+For the overall surveying industry, including powerline infrastructure inspection - Aerial Unmanned Vehicle (UAV) usage brings vital time and money saving and decreases exposure of staff to dangerous environments. 
+UgCS provides convenient tools to acquire data of any powerline inspection type to detect:
+
+Concrete basement defects
+Insulator overheating
+Wire overheating
+Wire breaks
+Tower mechanical defects
+Corridor inspection to detect unauthorized objects or vegetation in secured territory
+Wire sag estimation
+Corona detection*.
+     
+
+In the following sections, we will explain specifics on how to perform a powerline inspection using the functionality and tools of UgCS. The process consist of the following steps: 
+
+
+Import inspection area coordinates (e.g. the positions of powerline towers)
+
+Plan the mission
+    
+Choosing the equipment: drone and payload
+Inspection mission planning
+Deploy ground control points
+
+
+
+Fly the inspection mission
+
+Process acquired data:
+    
+Image geotagging
+Image processing
+
+
+Import map into UgCS for repeated inspections (optional).
+     
+
+1. Import inspection area coordinates
+Defining the geography of inspection is the essential thing for mission planning. Typically customers ordering an inspection provide coordinates of the inspection area to UAV service provider in some common format like CSV or KML. To import a linear object from CSV/KML format files into UgCS:
+
+In mission editor click “Add new route”
+Select “Import” in file option and browse the needed CSV / KML file*
+Press "Next" and continue with UgCS standard route creation procedure (see chapter Plan mission).
+
+*Please note that KML/CSV import is available for UgCS PRO and UgCS ENTERPRISE users.
+Image 1: Linear powerline inspection route planned in UgCS 
+2. Plan mission
+Choosing the equipment: drone and payload
+For UAV survey missions the choice lies between fix wing or copter drones. UgCS supports both UAVs types, therefore the choice of equipment, depends on the type of inspection. The most obvious pros and cons of fixed-wing vs. copter drones:
+
+
+
+Fixed wing
+Copter drones
+
+
+
+Pros
+
+
+long range
+high speed
+
+
+
+
+hover over an object
+possible to fly very close to an object
+lower safe altitude
+high payload capacity
+small area for take-off and landing
+
+
+
+
+Cons
+
+
+not possible to hover
+not possible to fly very close to an object
+higher safe altitude
+smaller payload capacity
+bigger area for take-off and landing
+images can be blurry due to high speed
+
+
+
+
+short range
+low speed
+
+
+
+
+
+
+Also for the sensors, the best way to choose the right one is to determine the needed result.
+A brief summary of EO, IR, UV cameras or LIDAR application, according to powerline inspection type:
+
+
+
+Inspection type
+
+
+Suitable payload
+
+
+Output product for analysis
+
+
+
+
+Concrete basement defects
+
+
+EO camera
+
+
+Images
+
+
+
+
+Insulator overheating
+
+
+IR camera
+
+
+Images or video
+
+
+
+
+Corona detection
+
+
+UF camera
+
+
+Images or video
+
+
+
+
+Wire overheating
+
+
+IR camera
+
+
+Images or video
+
+
+
+
+Wire break
+
+
+EO camera
+
+
+Images or video
+
+
+
+
+Tower mechanical defects
+
+
+EO camera
+
+
+Images or video
+
+
+
+
+Corridor inspection, detection of unauthorized objects and vegetation in secured territory
+
+
+EO camera
+
+
+Point cloud from images
+
+
+
+
+LIDAR
+
+
+Point cloud
+
+
+
+
+Wire sag estimation
+
+
+EO camera
+
+
+Point cloud from images
+
+
+
+
+LIDAR
+
+
+Point cloud
+
+
+
+
+ 
+
+Image 2: Picture taken with EO camera (image courtesy © Fly & See)
+ 
+
+Image 3: Picture taken with IR camera Flir Vue Pro 640 (image courtesy © Fly & See)
+ 
+
+Image 4: Point cloud from RiCOPTER with VUX-SYS (VUX-1UAV + IMU/GNSS unit)
+(image courtesy ©Riegl Laser Measurement Systems)
+ 
+Planning the route
+Having geography data and suitable equipment for the inspection, the route can be planned in UgCS. There are several important features that may greatly simplify planning.
+Working with multiple segments/waypoints simultaneously
+In UgCS it is possible to select multiple waypoints at the same time. To select all waypoints click CTRL (cmd)+A or while holding CTRL (cms) select individual waypoints. It will be possible to bulk edit:
+
+speed;
+altitude;
+turn type;
+add/remove actions (e.g. camera by time or servo by time).
+
+
+Image 5: UgCS route inspector
+It is also possible to move and rotate selected waypoints at once with the handle.
+
+Image 6: Handle to move or rotate selected segments
+Usually, for inspection, the GSD is set relative to the ground. For some powerline inspections, it is needed to set GSD relative to the wire. In this case, the inspection's latitude should be increased to tower height.
+Using circular segments
+To inspect the tower from a different point of views around it, the UgCS Circle tool should be used. UgCS will direct the drone to look to the center of circle route.
+
+Image 7: UgCS Circle route
+Control gimbal to capture nadir or oblique images
+Depending on autopilot support, UgCS support actions to control camera attitude along the route. Therefore it is possible to set the camera to nadir or oblique position, to take images according to desired inspection's goal.
+
+Image 8: UgCS camera control parameters
+Control video recording setting along the route
+UgCS enables to control camera's recording mode - e.g. it is possible to set, that video recording starts just before the powerline's tower and stops right after the drone has passed the tower. This is useful to reduce video length - simplifying acquired data analysis - having videos with only useful data.
+To set up video recording (for integrated cameras like DJI's) only for specific part of the route:
+
+insert additional points before and after the tower
+for the point before tower add "Set camera mode" action to "start recording"
+for the point set after the tower - add "Set camera mode" action to "stop recording"
+
+
+Image 9: Adding "Set camera mode" action to start/stop recording
+Route planning in complex elevations
+For inspection flights at a complex landscape, it is mandatory to check the whole route according to landscape profile. UgCS provides several means to create a safer flight:
+
+
+UgCS elevation database - the data itself is an SRTM with 90m precision
+
+UgCS PRO / UgCS ENTERPRISE users have the option to import any elevation data (DEM) for the inspection region
+
+UgCS route planner always tries to calculate actual flight path in a safe distance from digital elevation model (DEM)
+The Elevation profile view displays the path and respective elevation along it.
+
+
+Image 10: UgCS Elevation profile view
+Deploy ground control points
+Ground control points have to be used to create Survey-Grade result. For a map with approximate precision, it is sufficient to rely just on RTK GPS and capabilities of data processing software. 
+3. Fly the inspection mission
+If the mission is planned carefully, flying it is the most straightforward step. We will not go into detail in this topic, as flying the mission depends on chosen UAV and equipment (for detailed information, please refer to equipment’s and UgCS documentation).
+Important issues before flying:
+
+In most countries, there are strict regulations for UAV usage. Always comply with the regulations! Usually, these rules can be found on the website of local aviation authority.
+In some countries, special permission for any kind of aerial photo/video shooting is needed. Please check local regulations.
+In most cases missions are planned before arriving in flying location (e.g., in office, at home) using satellite imaginary from Google maps, Bing, etc. Before flying always check actual circumstances at the location. There could be a need to adjust take-off/landing points, for example, to avoid tall obstacles (e.g., trees, masts, powerlines) in the inspection area.
+
+4. Process the acquired data
+Image geotagging
+Image geotagging is optional if ground control points were used, but almost any data processing software will require less time to process geotagged images.
+Some latest and professional drones with an integrated camera can geotag images automatically during flight, in other cases, images can be geotagged in UgCS after the flight.
+Very important: UgCS uses telemetry log from the drone, that is received via a radio channel, to extract drone’s position for certain moment (when pictures were taken). To geotag pictures using UgCS assure robust telemetry reception during flight.
+For detailed information how to geotag images using UgCS refer to UgCS User Manual.
+Image processing
+Starting UgCS PRO version 2.12 UgCS MAPPER beta is launched - a desktop geo-referenced image processing software, to create 2D maps in-field, requiring no internet connection. In-field assembled map provides certainty for UAV surveyors that acquired images quality and density is sufficient. This information is crucial to decide whether the flight should be repeated before leaving the inspection area.
+To make more detailed analysis and 3D models from acquired images, third-party software can be used. 
+5. Import map into UgCS for repeated inspections (optional)
+Powerline inspections usually have to be repeated regularly. Data acquired during the first inspection flight can be imported into UgCS as map layer (GeoTiff file) and used for more precise mission planning. Detailed instructions how to use Map overlay can be found in UgCS User Manual.
+*Corona detection with UF camera is still a very specific topic for UAV. More detailed information on this topic can be found: http://www.ofilsystems.com/articles/index.html
+ 
+UgCS Tutorial: Simple Mission planning
+Tutorial demonstrating how to plan a simple mission combining linear and circle flight path in UgCS v.2.11.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Partners and Resellers
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More...
+
+
+
+
+
+
+UgCS.com is operated by SPH Engineering, Latvia. © SPH Engineering - all rights reserved.
+ Software EULA |  Terms of Sale | Privacy  |  Cookies

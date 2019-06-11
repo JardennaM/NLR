@@ -1,0 +1,561 @@
+
+
+
+
+
+Drone Detection Radar | Get to know our Drone Detection System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/files/robin-radar-06.jpg
+
+
+
+
+
+
+
+The only affordable drone detection radar combining 360-degree coverage, fast-tracking, and most importantly; fully automatic drone classification.
+Drone Detection and Tracking for Security & Safety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Does your radar automatically classify drones? Right, that’s what we thought.
+
+
+
+You want to detect and track drones - small objects which traditional radar can’t see. And even if you’ve managed to find a radar which can see small objects, it’s unlikely it can tell birds apart from drones.
+At Robin Radar Systems, we’ve specialised in detecting and tracking small objects for 33 years. Birds actually. And even though we started with tracking birds, we validated our data with drones, in order to prove our radar tracking accuracy.
+
+
+
+
+So we’re in a unique position, with a wealth of experience, to detect, track, and classify (read separate) birds from drones. And that’s exactly what we’ve built ELVIRA® to do.
+Where most other radars don’t provide classification of birds and drones, providing a high operator-workload, ELVIRA® does that for you, automatically.
+So you can concentrate on what action to take about the unauthorised drone in your airspace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show moreShow less
+
+
+
+
+
+
+
+
+
+
+Show moreShow less
+
+
+
+
+
+
+
+
+
+
+Show moreShow less
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELVIRA®
+
+
+
+FMCW
+
+
+X-Band 9650MHz
+
+
+Real-time position and track in 2D
+
+
+4W average power output
+
+
+1.3s track update rate
+
+
+5km instrumented range
+
+
+
+
+Show moreShow less
+
+
+
+
+
+
+
+Introduction
+
+
+
+
+
+
+Detect up to 5 km
+Need unlimited 360-degree coverage? We’ve got you covered.
+
+
+
+ELVIRA® covers a full 360 degrees and comes with a standard instrumented range of five kilometres. It can detect larger fixed-wing targets at a range of up to five kilometres, with smaller multi-rotor drones detected at up to three kilometres.
+Completely securing an area though, relies on more than just range detection. It requires flexibility and reliability.
+ 
+
+
+
+
+ELVIRA® allows unlimited coverage by providing the means to combine multiple radar devices into an integrated sensor network. The output from multiple radars can be incorporated into one unambiguous picture, meaning a single drone causes a single alarm.
+You won’t have numerous confusing alarms being created for a single drone being tracked by several radars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Detect Up to 5 km
+
+
+
+
+
+
+
+Affordable & smart
+Military capability. A fraction of the price.
+
+
+
+Radars are expensive. And military radars are seriously expensive. Don’t expect to receive much pocket change from a million Euros when purchasing a military radar re-purposed to do drone detection. And by the way, you probably shouldn’t be expecting it to classify drones separately from birds either.
+
+
+
+
+But it doesn’t need to be that way. In much the same way that drone technology itself has recently become affordable and accessible, we’ve combined affordable hardware, with extremely smart software, to provide you with a military drone detection and tracking capability, at a fraction of the cost of a military system.
+
+
+
+
+
+
+
+
+
+
+/files/robin-radar-35.jpg
+
+
+Affordable & Smart
+
+
+
+
+
+
+Tracking exact flight paths
+Learning curve? More like, operating straight out of the box.
+
+
+
+You don’t need to be a rocket scientist to use our drone detection radars. In fact, you don’t even need to be a radar scientist.
+We’ve built our radars to be simple, intuitive, and easy for you to use. And that goes for both the hardware and the software.
+We’ve colour coded the radar interface so you can be confident everything’s running smoothly, and in the unlikely event something’s wrong, you’ll be notified automatically.
+The radar display is a map-based interface (Google Earth as standard), comprising easy to understand colour-coded tracks.
+Red tracks indicate drones and their flight path. Orange tracks represent suspected drones. Green tracks represent birds and other moving targets.
+All track types can be toggled on and off, and the track visualisations and colours are all user configurable.
+Oh, and you can, of course, push our drone tracks and alarms, in real-time, to your own external security systems and command and control systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tracking Exact Flight Paths
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch and see how ELVIRA® detects and track drones
+
+
+
+
+
+
+
+
+
+“As front-runner in radar ornithology, we want to work with state-of-the-art technology. We think Max is the most advanced avian radar of its time.”
+EELCO WAARDENBURG, DIRECTOR AT BUREAU WAARDENBURG
+
+
+
+
+
+“I am convinced that avian radar will become a self-evident part of next generation bird strike mitigation policies at larger civil airports. In part, because it allows us to objectively measure and use risk as a performance indicator, rather than the rare occurrence of incidents.”
+BART STRAVER, MANAGER BIRD CONTROL AT AMSTERDAM SCHIPHOL AIRPORT
+
+ 
+
+
+“The Mainport Innovation Fund stimulates start-ups with innovative and sustainable products in aviation. ROBIN Radar has developed a system which detects birds at great distances.”
+Peter Hartman, (former) CEO of KLM
+
+
+
+
+
+“Military aircraft fly low, fast and are extra sensitive for bird strikes. ROBIN systems are linked to our existing air defence radars to identify bird intensities up to 150 kilometres. Since we've started using this information, we've reduced the number of bird strikes by over 50%.”
+Lt. Gen. Sander Schnitger, Commander Royal Netherlands Air Force
+
+ 
+
+
+“With this technology, ROBIN meets the growing need for more accurate and real-time information about movements of (large) birds in the vicinity of the airport.”
+Jos Nijhuis, CEO of Schiphol Airport
+
+
+
+
+
+“Bird strikes are an increasing safety and economic concern.”
+Mr. Y. Wang, Chief Aerodrome Section ICAO
+
+ 
+
+
+“Balancing wild life protection and passenger safety by reducing the bird strike risk needs an open dialogue between all involved. That should be based on facts. Avian radar has the capability to provide unbiased facts and is thus a vital element for the decision making process.”
+Captain Rob van Eekeren, executive director World Birdstrike Association
+
+
+
+
+
+“Having full 3D capabilities is crucial for us. That’s why we chose Max.”
+Camilla Rosenquist, Wildlife Manager at Copenhagen Airport
+
+ 
+
+
+“If you can’t measure it, you can’t manage it.”
+Richard Dolbeer, Wildlife consultant
+
+
+
+
+
+“ESA uses a win–win approach that promotes the added value of space in a fair and unbiased way, and supports the development of sustainable space-based services for the benefit of society. The successful operational outcome has proven that this can play a fascinating role in bringing together user interests and communities.”
+Amnon Ginati, head of department at ESA about the ROBIN success story
+
+ 
+
+
+
+
+
+
+Interested in our radars for drone detection?
+Let’s get in touch
+
+
+
+
+Interested?
+
+
+
+
+01 / 
+
+
+
+
+
+
+
+
+
+
+radar systems
+
+
+
+
+
+
+
+
+
+Markets
+
+
+Aviation
+Wind Farms
+Drone Detection
+
+
+
+
+
+
+Products
+
+
+2D Lite
+3D Fixed
+3D Flex
+Max®
+Elvira®
+
+
+
+
+
+
+Projects
+
+
+Amsterdam Schiphol Airport
+Berlin Brandenburg Airport
+Kavarna Wind Farm
+Tahkoluoto Wind Farm
+Guardion Modular Drone Defence System
+Meritis Integrated Drone (uav) Defence
+
+
+
+
+
+
+Press
+
+
+News
+Blog
+Downloads
+Press releases
+Videos
+
+
+
+
+
+
+About us
+
+
+Mission and Ambition
+Our History
+Our partners
+Code of conduct
+Team
+
+Terms & Conditions:
+
+Sales
+Purchase
+
+ 
+
+
+
+
+
+Contact
+
+Robin Radar SystemsLaan van Waalhaven 3552497 GM The HagueThe NetherlandsT +31(0)8 8700 8700info@robinradar.com
+Reg: 27371517
+VAT: NL822016321B01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Markets
+Aviation
+Wind Farms
+Drone Detection
+
+
+Products
+Projects
+
+Press
+News
+Blog
+Downloads
+Videos
+
+
+About Us
+Jobs
+Team
+References
+Contact
+
+
+
+
+
+Robin Radar SystemsLaan van Waalhaven 3552497 GMThe HagueThe NetherlandsT +31(0)8 8700 8700info@robinradar.com
+Reg No: 27371517
+VAT No: NL822016321B01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robin Radar makes use of the following third party tools which use cookies: Homerun for recruitment and LinkedIn and Youtube for company promotion. Click here for more information about our privacy policy
+I understand
