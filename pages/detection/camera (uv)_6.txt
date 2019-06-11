@@ -1,7 +1,7 @@
+url: https://www.highlinedivision.com/hld/php/services/servicesCorona.php
 
 
 
-UViRCO Technologies -   CoroCAM 8 UAV
 
 
 
@@ -30,14 +30,20 @@ UViRCO Technologies -   CoroCAM 8 UAV
 
 
 
+Corona, Infrared & HD Inspection
 
 
 
 
 
+		-
 
 
+ 
 
+ 
+		   
+		
 
 
 
@@ -46,66 +52,9 @@ UViRCO Technologies -   CoroCAM 8 UAV
 
 
 
+			      
+			
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About
-
-About UsHistoryCertifications
-
-ISO CertificationB-BBEE Certification 
-TimelinePAIADisclaimerOnline Privacy PolicyStandard Conditions of Sale
-Technology
-
-CoroCAM TechnologyInspection
-Applications
-
-CoroCAM Applications
-Products
-
-Products Overview
-
-Multi-Spectral Solar BlindSolar Blind 
-CoroCAM 6DCoroCAM 7CoroCAM 8CoroCAM 8 UAVCoroCAM 8 VMI
-Contact
-
-Contact UViRCOContact a DistributorBecome a DistributorUViRCO Product Enquiry
  
 
 
@@ -114,205 +63,267 @@ Contact UViRCOContact a DistributorBecome a DistributorUViRCO Product Enquiry
 
 
 
-CoroCAM 8 UAV...multipurpose3 in 1Solar Blind UV, Visible and LWIR 
 
 
-­ 
 
 
 
-CoroCAM 8 UAVRiaan Rossow2019-03-05T10:04:49+00:00 
-CoroCAM 8 UAV
-Combined IR and Corona imaging camera for use on UAV
 
- Download the CoroCAM 8 UAV brochure HERE
-The CoroCAM 8 UAV is a combined thermal IR, solar blind corona and video camera, sized and balanced to fit into a standard commercial gimbal and to be lofted by an Enterprise grade UAV.
-The UAV also allows for inspection from various directions of hard to reach overhead hardware. Having the camera closer to the hardware under inspection allows the visible camera to capture more detailed images of the physical condition of the components. This is required in order to assign maintenance priority using the EPRI guideline.
-The combination of these 3 cameras makes it possible to do both thermal IR and UV inspections at the same time, saving time and effort. Co-location of electrical discharges and hot spots give the inspector more insight into the kind and cause of a fault.
-Installation onto the UAV or a tri-pod is quick and easy. The CoroCAM 8 UAV can be remote controlled from a standard radio controller using PWM and SBUS or from a laptop running CoroBASE using an Ethernet data link. Recordings can be done on the CoroCAM 8 UAV or at a combination HDMI display/recorder ground station.
-FEATURESSPECIFICATIONSIMAGES AND VIDEOS
-Unique Features
-Combined UV/VIS & IR imaging | Radiometric IR | Fast installation & startup | High resolution video recording | Translucent UV overlay | Onboard GPS with booster antenna port | I/O connectors (HDMI, Ethernet, USB, RS232/485, PPM, SBUS) | Simple & powerful user interface | Onboard and external power options | Designed for UAV use | Remote control options
 
-A high sensitivity UV detector, which can detect UVc light at 2.05×10-18 W/cm2, this allows for the detection of the smallest corona discharges
-A 9Hz (or optional 25Hz) Radiometric IR camera module
-Control of a limited number of camera functions from a standard RC controller using PPM or SBUS
-Remote control of all camera functions from Laptop via a wireless Ethernet link
-Syncronised Smooth or Stepped Zoom of all 3 camera channels. IR & UV channels are zoomed digitally, visible is zoomed optically to minimum FOV, then digitally enlarged
-Manual or Autofocus for the Visible channel, UV and IR channels has manual focus or can be synchronized with the Visible channel
-Onboard still images, video and radiometric data recording in high-quality formats
-Fast set up & boot up avoids the need for power saving modes
-The On Screen Display (OSD) shows all the relevant information
-Easy operation of the camera via a multi-function keypad
-Manual or Auto Exposure of Visible and IR (Level) cameras, UV (Gain) is manually set
-Integrated GPS with internal and complementary external booster antenna
-Metadata recording of camera settings and measurement plus environmental variables manually entered – distance, air temperature, air pressure, ambient humidity, and wind speed
-Resizable UV Intensity sampling box
-UV overlay colors have 6 pre-sets or 255 selectable hue levels
-UV overlay translucency control
-UV threshold, Integration & Noise Reduction control
-14 IR color palettes with contrasting Isotherms
-Auto or Manual IR Span
-Integrated LED Flashlight and optional Laser pointer
-Camera software update via download to SD card
-A USB port for media download and Ethernet port for remote control
-A 15 Month warranty
 
 
 
+Home
+ 
+Services
 
 
 
-Zoom
-Visible Camera Zoom: 28x optical, 12x digital | LWIR Camera Optical Zoom: 1x optical, 8x digital | UV Camera Zoom: 8x
 
 
-Fields of View
-Optical Wide Zoom: 16° | Optical Tele Zoom: 2° | UV & IR Channel Zoom: Digital to match visible FOV – up to 4x zoom | FOV with UV Overlay: All Optical FOVs | Digital Enlargement / Zoom: 12x from minimum optical FOV | Focus: Automatic or manual on visible & IR channels, UV slaved to visible/IR or independent manually | Minimum Focus Distance: UV 0.7 m, VIS 0.7 m, IR 2.3m
+Hotline Insulator Washing
 
 
-Sensitivity (Typical)
-Ultraviolet: (Solar Blind Mode) 2.05 x 10-18 Watt/cm2 | (Non Solar Blind mode) ~1 x 10-18 Watt/cm2 | Infrared (NEdT): <50mk | Visible: 0.4 lx (F1.35, 50 % IRE, ICR off), normal 0.01 lx (F1.35, 50 % IRE, ICR on), auto low light
 
 
-Resolution
-Ultraviolet: 640 x 480 pixels | Infrared: 640 x 512 pixels | Visible: 768 x 576 pixels
 
 
-Image Enhancements
-Ultraviolet: Averaging & Integration | Infrared: Auto flat field correction (0.5s) Auto level and span | Visible: Auto low light, manual exposure
+Preventive Maintenance Program
 
 
-Display Specifications
-Channel Fusion: Threshold Mask, Variable Translucency | Fusion Accuracy: Better than 1 milliradian | IR & UV palettes: Standard IR + UV Rainbow
 
 
-Interface
-Key pad: Multi-function buttons | Menu: Icon Based Menu System | Remote Control: Via Ethernet, SBUS, PWM
 
 
-Camera I/O
-USB: Auto connect USB 2.0 | Ethernet: Video streaming & remote control | Composite Video: PAL formats
+RTV High Voltage Insulator Coating in Hotline
 
 
-Image & Data Storage
-Image Format: Displayed channels saved as JPEG or AVI (H.264 compression) | UCF Radiometric file contains: Displayed image, raw UV image, Radiometric LWIR values and Meta-data | Meta-data contains: Camera settings, GPS location, range to object | Storage Media: SD Card (up to 64GB)
 
 
-Firmware Features
-Image Series Numbering: Allows for auto sorting of images at download to PC for reporting | Gallery & Playback: Review recorded media | Field Upgradable: Download latest firmware | Quick Startup: Power on to record capable in 60 s
 
 
-Power
-Battery: Watson Li-ion, Type L| Operating Time: 4hrs maximum
+Corona, Infrared & HD Inspection
 
 
-Physical Specifications
-Weight: 1.6 Kg | Dimensions: 188 mm L x 156 mm W x 129 mm H | Operating Temp: -15 °C to 55 °C | Storage Temp: -20 °C to 60 °C
 
 
-Protection
-Storage / Transport Case: Pelican style plastic hard case | Camera Body: Tested to IP 43 | Physical Protection: Impact absorbing covers | Safety Standard: CE,IEC1010-1
 
 
-Gimbal Compatability
-Includes: Gremsy T3, DJI Ronin, and more
+Overhead Power Lines Construction
 
 
 
-Standard System
 
-CoroCAM 8 UAV
-Li-ION battery (x2), Charger
-8 GB SD card
-Operating manual
-Protective hard carry case
-Basic analysis & reporting software
 
-Optional Accessories
 
-Accessory pack I – Advanced inspection guide, featuring the EPRI field guide
+Formation
 
 
 
 
-Images
 
 
+Engineering Services
 
 
 
 
 
 
+Laboratory & Dissolved Gas Analysis
 
 
 
 
 
 
+Calibration Services
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Videos
-
-
-Features & Specifications are subject to change without notice.
 
 
 
 
  
+Drones
  
- 
-
-
- 
-PAIA
-DISCLAIMER
-ONLINE PRIVACY POLICY
-STANDARD CONDITIONS OF SALE
-
-
-
-
- 
- 
- 
+QHSE
 
 
 
 
 
-© Copyright 2015 UViRCO Technologies
+Quality ISO 9001
 
 
 
- 
- 
- 
- 
- 
+
+
+
+Environmental ISO 14001
+
+
+
+
+
+
+Health & Safety OHSAS 18001
+
+
+
+
+
+
+Quality, Health & Safety & Environmental Management Plan
+
+
+
+
+
+
+QHSE 2018 Integrated Policy
+
+
+
+
+
+
+
+Projects
+
+
+
+Careers
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+Corona, Infrared & HD Inspection
+High Line Division S.L. develops an exhaustive Inspection Program for Overhead Transmission & Distribution Power Lines, Substations and overhead mounted electrical equipment patrolling customers installations, where we performs a Visual inspection for recording High Definition Imagery in form of HD Pictures & Videos, Corona Detection, Partial Discharges and Arcing Inspection using the most advanced Ultraviolet Camera and Infrared Inspection & Thermal Imaging Monitoring for Hot spots detection.
+
+
+
+   Visual inspection - Inspection Team equipped with high Definition camera, binoculars and occasionally as per customer requirements with a tellurometer for installation earth resistance measurement. This team will collect all relevant data over Inspection Check List as per HLD Inspection Procedures where all inputs to be classified by relevance (0,1,2), where "0" is correct conditions, "1" existence of Non urgent anomalies to be recorded and "2" is when urgent action is required due to serious finding, in this event we record the anomaly and report immediately to customer for its attention.
+
+
+
+
+
+
+   Corona Detection, Partial Discharges and Arcing Inspection, Corona & Partial Discharges happen due to gas ionization around an high voltage overhead transmission or distribution installation. Normally appears when exist a superior gradient, normally more than 30kV/cm in the air. In overhead power lines as exist a strong electrical field, air molecules turn to ionize, it means, to win or to lose one free electron, becoming non neutral electrical loads, further this ionized particles moves around the electrical source in a continuous manner. Problem comes when electrical field exceeds certain value, then these particles start to crash each other and high quantity of energy is dissipated and areas around the conductor or hardware becomes conductive due to corona causing failures and subsequent power outages. Therefor Corona and Partial Discharges inspection becomes a major when Preventive Inspections takes place.
+
+
+
+   Infrared Inspection & Thermal Imaging Monitoring, We perform Infrared inspection and thermal imaging monitoring as a part of our Preventive Maintenance Program for the detection of Hot spots and imminent failure at:
+
+
+   Overhead Networks Cable Termination
+   Fuse Holder & Disconnect switches connections
+   Power Transformers, OCBs & SF6s
+   MV Incoming Connections
+   HV Open Switchyard connections
+   Loose breaker connection
+   Faulty crimps
+   Loose UPS cell links
+   Faulty UPS cells under discharge
+   Badly torque bus bar connections
+   HV Switchgear
+   Motors
+   HV Cables
+
+
+
+
+
+
+
+
+
+
+
+Visual, Corona & Infrared Inspection of overhead power lines and Substations can be performed in three different ways:
+
+   Land Inspection, by patrolling the lines and Substations by 4x4 vehicles
+   Aerial by Helicopters, we have achieved agreements with several helicopters operators along the globe to provide this service worldwide
+   Aerial by UAV Drones, Our partnership enable us to use Hybrid UAV Drones with almost 4 flying hours autonomy to provide this service worldwide.
+
+   LAND INSPECTION
+Crews performing land inspection patrol the lines by 4X4 vehicles with Crews equipped with hand carried HD cameras, binoculars and hand tools set. Any damage or incident encountered will be properly filmed, photographed and written down on daily work report and associated Check Lists. Besides, any relevant event observed will be immediately reported to customerÂ´s responsible for quick resolution action. Live works technicians will climb towers when necessary for accurate and detailed observation of potential incidents. Inspection to be developed in live line basis will include checkup of condition status of right of way, access, signalization, vegetation, steel structures, foundations, legs corrosion, insulators, surge arrestors, conductors, hardware and fittings comprising wind dampers, spacers, clamps, cotter keys, warning lights and spheres, and OPGW.
+
+
+
+   HELICOPTER INSPECTION:
+Aerial Inspection from Helicopters is the fastest and reliable solution to cover large distances of overhead Transmission & Distribution Power Lines. High Line Division S.L. has achieved agreements with several operators along the globe in order to provide this service worldwide. At the time we perform visual inspection recording high definition imagery, latest technology gimbals featuring infrared and ultraviolet cameras for Corona & Partial Discharges Detection
+
+
+   UAV DRONE INSPECTION:
+In order to reduce to our customers the operational time, costs and personnel involved in performing overhead transmission lines inspection, as well as following up our objective to implement the latest techniques in our operations we include the aerial UAV Drone inspection to our core business. For this purpose, at the first stage we started with the use of Helicopters and currently with Unmanned Aerial Vehicles (UAV), commonly named Drones.
+We faced the challenge of increasing the low autonomy of these aircrafts. Nowadays, with an average of half an hour power supply from electrical batteries, which in the scenario of very high voltage transmission lines (300 kV and above) forced to stop uncountable times the inspection flight to replace batteries. Finally we succeed this challenge with a Hybrid drone, Petrol and Electric supply, where the petrol engine generates electric power to refill the battery during the flight of the UAV.
+
+
+
+
+
+
+
+
+Our Aerial UAV Drones are equipped with the following features: 
+
+   High Definition imagery recording.
+   Infrared High Quality Camera for infrared inspection and thermal imaging monitoring for hotspot detections.
+   High Quality Ultraviolet Camera for Partial Discharges and Corona detection.
+   Large autonomy of flights (from 2 to 4 hours autonomy).
+   Transmission of video and data in separated frequency for HD, IR & UV signals
+   Full storing data
+   Maximum range for radio link and video transmission to  Ground Station
+   Maximum range camera control
+   Online Streaming of UAV inspection
+   Possibility to introduce geo references and automatize the inspection flight
+
+High Line Division Crews strictly follows international standards and regulations for live line works, also complies with our Company policies regarding Quality, Health & Safety and Environment Protection. Proof of our commitment is the triple certification awarded by TUV Nord Certification Organization for the ISO 9001 regarding our Quality Management System, ISO 14001 for Environmental and OHSAS 18001 for Occupational Health & Safety.
+
+
+
+
+
+
+Scroll
+
+
+
+
+High Line Division S.L.
+
+
+
+Madrid OfficeC/ Polo Sur 5.28850 Torrejon de Ardoz- Madrid, SpainPhone: +34 91 6717464
+
+
+Dubai OfficeAl Fattan Plaza #201Airport Road - P.O. Box 92434 - Dubai, UAEPhone: +971 4 286 8982 - Fax: +971 4 286 8983
+
+
+
+
+
+
+				©
+				2019				High Line Division S.L.
+			
+
+				Designed by  
+				
+
+					 HighLine Division S.L.
+				
+
+
+
  

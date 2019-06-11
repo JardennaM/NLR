@@ -1,0 +1,19 @@
+url: https://wcsecure.weblink.com.au/clients/droneshield/headline.aspx?headlineid=6801087
+
+%PDF-1.6%âãÏÓ
+1 0 obj
+<>
+/Font <>
+/XObject <>
+/ProcSet [/PDF /Text /ImageC]
+>>
+/Parent 456 0 R
+/MediaBox [0 0 595.2756 841.8898]
+/CropBox [0 0 595.2756 841.8898]
+/Rotate 0
+/Contents 2 0 R
+/Thumb 235 0 R
+>>
+endobj
+2 0 obj
+<

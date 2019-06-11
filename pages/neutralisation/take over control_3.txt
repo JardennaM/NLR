@@ -1,0 +1,374 @@
+url: https://www.diyphotography.net/the-dronedefender-aims-to-neutralize-drone-threats-and-illegal-activity/
+
+
+
+
+
+The DroneDefender aims to neutralize drone threats and illegal activity - DIY Photography
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIY PhotographyHacking Photography - one Picture at a timeNews
+Inspiration
+Reviews
+Tutorials
+DIY
+Gear
+
+ 
+Search
+
+ 
+
+
+ 
+
+
+
+
+
+  
+
+ @diyphotography
+
+ Telegram Me
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+Leave this field empty if you're human: 
+
+ Submit A Story
+
+The DroneDefender aims to neutralize drone threats and illegal activity
+October 20, 2015 by Liron Samuels 11 Comments ShareTweetPinterest 
+
+
+Source: Battelle/YouTube
+Battelle recently announced the DroneDefender, an inexpensive, handheld, point-and-shoot system that will prevent the ever-growing number of drones out there from becoming security or safety threats.
+Using radio control frequency disruption technology, the DroneDefender can disable a potentially dangerous or hostile drone from a distance of up to 400 meters by making it believe it is out of range. This will cause the drone to follow its built-in safety protocol (hover, return home, or slowly descend) and prevent detonation or other remote-controlled functions.
+
+Said to be the “first portable, accurate, rapid-to-use counter-weapon to stop suspicious or hostile drones in flight, providing critical security protection at home and abroad”, the DroneDefender seems ideal in defending restricted airspace and sensitive facilities.
+With no fear of collateral damage, it could also be extremely useful in protecting government buildings (*cough* the White House *cough*), embassies and schools.
+The anti-drone system is lightweight (up to 10 lbs, depending on configuration), easy to use and can work for five hours straight. It also has a cold start time of less than 0.1 seconds, so law enforcement agencies will never find themselves waiting on the DroneDefender to start up.
+Source: Battelle/YouTube
+The DroneDefender is planned to go on sale in 2016, but don’t count on buying one of these to take out your neighbors drone. Although the device can be used stateside due to the fact that it’s designed to neutralize the drone threat without damaging it, the DroneDefender operates on non-consumer frequencies that are controlled by the FCC, so its sale will be limited to government agencies.
+Earlier this month Califronia Governor Jerry Brown vetoed a bill that would prohibit civilians from flying drones over prisons and jails. The reason for the bill was that drones are being used to drop contraband over prisons, but the governor rejected it stating that the bill would create a new crime, when the aforementioned actions are already illegal. The DroneDefender could somewhat solve the problem of these flying contraband smugglers.
+This defense system seems promising, and I imagine it won’t be long before we see a similar system that does not require human intervention.
+
+[Battelle via Digital Trends]
+FIND THIS INTERESTING? SHARE IT WITH YOUR FRIENDS!ShareTweetPinterest 
+
+
+
+
+
+
+Related posts:
+
+
+If Spiderman And a Drone Had a Baby, The Drone Catcher Would Be It
+
+Can We Stop Calling Them Drones?  They’re Just RC Helicopters With A Camera
+
+The Tesla Drone Concept Boasts 30MP Camera, 4K Video, 60 Minute Flight Time, & Eliminates Need For A Gimbal
+
+DJI officially launches Phantom 4 Advanced, new and improved version of Phantom 4
+
+
+
+Filed Under: Gear Tagged With: Anti-drone, Battelle, drone, DroneDefenderAbout Liron SamuelsLiron Samuels is a wildlife and commercial photographer based in Israel.
+When he isn't waking up at 4am to take photos of nature, he stays awake until 4am taking photos of the night skies or time lapses.
+You can see more of his work on his  website  or follow him on  Facebook.
+« Mitakon’s Speedmaster 135mm f/1.4 is a $3,000 limited-edition monster of a lens“Entering the national air space is a very serious matter” – All Drone Owners Will Need To Register »
+
+
+
+
+
+
+Andrew Sharpe
+
+
+
+And what will it do to planes that you aim it at? Small private planes might be reachable, and jammers are illegal for just this reason…
+
+
+
+
+
+
+Jason Wright
+
+
+
+Ever been in a plane that was radio controlled on 2.4Gh? I didn’t think so.
+It will do nothing to anything that isn’t being radio controlled by a specific frequency. Autonomous drones will fly right past and laugh as the idiots on the ground wave their magic toy-breaking stick at it.
+
+
+
+
+
+
+Andrew Sharpe
+
+
+
+Of course the plane is not controlled at 2.4Ghz. However, there are reasons that activity on those frequencies on planes is disallowed, see http://www.tc.faa.gov/its/worldpac/techrpt/ar06-41.pdf , section 6.3.2  “The 2.4-GHz Band”. Therefore, sending that sort of jammer at those frequencies to a plane is probably not a good idea.
+
+
+
+
+
+
+
+
+
+
+Shachar Weis
+
+
+
+It is illegal to interfere with ratio systems in the US. This generates enough RF to be super illegal to use anywhere outside a warzone.
+
+
+
+
+
+
+Thomas Reiner
+
+
+
+Do you think the police care? And if the they will put a exception for this…
+
+
+
+
+
+
+Axel Guldstrand
+
+
+
+Emil Hjerdin
+
+
+
+
+
+
+Jason Wright
+
+
+
+This only jams radio control frequency. Anybody with actual harmful intent would simply use a non-standard control system and radio harden their drone. This is just a toy to break other peoples toys. I can’t imagine it would be legal and I doubt it would be safe (many drones don’t have a working fail-safe). At best it could be used to cause an otherwise harmless toy to drop on somebodies head. Nice.
+
+
+
+
+
+
+Rick
+
+
+
+Their web page (http://www.battelle.org/our-work/national-security/tactical-systems/battelle-dronedefender) indicates it also disrupts GPS signals effectively eliminating GPS based route tracking.  This would also disrupt the “return home” function potentially causing the drone to fly in errant directions or hover until it dropped.
+
+
+
+
+
+
+Rick
+
+
+
+http://www.battelle.org/our-work/national-security/tactical-systems/battelle-dronedefender
+
+
+
+
+
+
+
+
+
+
+Harry Simon
+
+
+
+What’s wrong with a 12 gauge ?
+
+
+
+
+
+
+Jeremiah Johnson
+
+
+
+A high powered pellet gun works great on drones.
+
+
+
+
+
+
+ 
+
+
+
+
+
+Popular on DIYP
+
+
+
+NASA makes their entire media library publicly accessible and copyright free
+You could be fined $5,000 for flying a drone anywhere in Canada
+Shooting water droplet refractions for magical macro photos
+DJI Osmo Action vs. DJI Osmo Pocket: in-depth comparison
+2019 Africa Geographic Photographer of the Year disqualified for photo manipulation
+Watch: Photographer nukes camera by opening a collapsible reflector
+DJI quietly released a new drone and a cinematography service at CineGear
+Patent shows Canon’s EOS R stabilisation will be an in-body and in-lens hybrid system
+The Zhiyun Crane 3 goes up against the DJI Ronin-S in this side-by-side real world comparison
+A Neat Trick To Determine Your Dominant Eye
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+Recent Comments
+
+
+ 
+I plan on buying THIS gear in 2019
+Previous Polls
+
+ 
+
+
+
+
+
+Dunja Djudjic is a writer and photographer from Novi Sad, Serbia. You can see her work on Flickr, Behance and her Facebook page.
+
+John Aldred is based in Scotland and photographs animals in the studio and people in the wild.
+You can find out more about John on his website and follow his adventures on YouTube and Facebook.
+
+JP Danko is a commercial photographer based in Toronto, Canada. JP
+can change a lens mid-rappel, swap a memory card while treading water, or use a camel as a light stand.
+To see more of his work please visit his studio website blurMEDIAphotography, or follow him on Twitter, 500px, Google Plus or YouTube.
+JP’s photography is available for licensing at Stocksy United.
+
+Tom Saimon is a fashion and editorial photographer based in Haifa, Israel. You can see more of his spectacular work on his website say hi Facebook and Instagram
+
+  Recent Posts
+
+
+Sony announces the 600mm f/4 GM OSS and 200-600mm f/5.6-6.3 G OSS lenses
+
+
+Sigma issues product advisory for its 70-200mm f/2.8 Sports and 60-600mm f/4.5-6.3 lenses
+
+
+Six more reasons why I don’t shoot at fan conventions
+
+
+How many photos should you stack when shooting the night sky?
+
+
+Why I’ll never be a wedding photographer
+
+
+
+Copyright © DIYPhotography 2006 - 2019 | About | Contact | Advertise | Write for DIYP | Full Disclosure | Privacy Policy

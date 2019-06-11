@@ -1,0 +1,823 @@
+url: https://www.aviationtoday.com/2017/03/16/day-life-us-air-force-drone-pilot/
+
+
+
+
+
+
+
+A Day in the Life of a US Air Force Drone Pilot - Avionics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Edition
+
+
+
+
+October/November 2018
+
+ 
+
+
+
+
+
+Categories
+
+CommercialBusiness & GAATM ModernizationRegulationMilitaryConnectivityUnmannedEmbedded Avionics 
+
+
+
+
+Events & Products
+
+Digital EditionNews ArchiveMagazine ArchiveVideo InsightIndustry ReportsAEROSPACE ACRONYM & Abbreviation GuideRotor & Wing InternationalAircraft Value News 
+
+
+
+
+
+
+
+
+
+Close 
+
+
+
+
+
+
+
+
+
+
+ Search
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Subscribe
+
+  MENU
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Edition
+
+
+
+
+October/November 2018
+
+ 
+
+
+
+
+
+Categories
+
+CommercialBusiness & GAATM ModernizationRegulationMilitaryConnectivityUnmannedEmbedded Avionics 
+
+
+
+
+Events & Products
+
+Digital EditionNews ArchiveMagazine ArchiveVideo InsightIndustry ReportsAEROSPACE ACRONYM & Abbreviation GuideRotor & Wing InternationalAircraft Value News 
+
+
+
+
+
+
+
+
+
+Close 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Edition
+
+
+October/November 2018
+
+ 
+
+Contact UsNews Archive 
+
+
+
+
+
+
+
+
+Categories
+
+CommercialBusiness & GAATM ModernizationRegulationMilitaryConnectivityUnmannedEmbedded Avionics 
+
+
+
+
+Content
+
+Digital EditionNews ArchiveMagazine ArchiveVideo InsightIndustry ReportsAEROSPACE ACRONYM & Abbreviation GuideRotor & Wing InternationalAircraft Value News 
+
+
+
+
+
+Events
+
+GCA SummitAvionics for NextGenEvent CalendarJob CenterWebinars 
+
+
+
+
+About Us
+
+Contact UsSubscribe / RenewAdvertisingE-lettersContribute to AvionicsPrivacy Policy 
+
+
+
+
+
+ 
+
+
+
+
+
+
+CommercialBusiness & GAATM ModernizationRegulationMilitaryConnectivityEmbedded Avionics 
+
+
+
+
+
+
+
+Latest News
+
+
+
+
+
+
+
+
+
+
+Uber Adds Jaunt As Sixth eVTOL Vehicle Manufacturing Partner
+
+
+
+
+
+
+
+
+
+
+
+Corporate jet internet: All you need to know in one eBook
+
+
+
+
+
+
+
+
+
+
+
+Honeywell and Denso Collaborate on Electric and Hybrid Powertrains for UAM
+
+
+
+
+
+
+
+
+
+
+
+Raytheon, UTC Aerospace Businesses To Combine Into $74 Billion Aerospace And Defense Company
+
+
+
+
+
+
+
+
+
+
+
+Getting BVLOS off the Ground with 91.113
+
+
+
+
+
+
+
+
+
+
+
+Hybrid-Electric Cessna 337 Takes Maiden Flight
+
+
+
+
+
+
+
+
+
+
+
+Air Canada Makes Deal to Offer Drone Cargo Services
+
+
+
+
+
+
+
+
+
+
+
+FAA Approves Flight Testing of Amazon's New Fully Electric Delivery Drone
+
+
+
+
+
+
+
+
+
+
+
+L3 Wins Multi-Million Air Force Contract for C-130H Avionics Upgrade
+
+
+
+
+
+
+
+
+
+
+
+How Volocopter's Two-Seater Wants to Overcome the Challenges Facing UAM
+
+
+
+
+
+
+
+
+
+
+
+EASA Issues First Space-based ADS-B Surveillance as a Service Certification
+
+
+
+
+
+
+
+
+
+
+
+Boeing Invests in Global Drone MRO Network with an Eye Toward UAM Repair
+
+
+
+
+
+
+
+
+
+
+
+SmartSky's 5G-Ready ATG Network Clears Critical Certification Threshold
+
+
+
+
+
+
+
+
+
+
+
+Wing Slat Track Woes: Boeing's 737 MAX Issues Mount
+
+
+
+
+
+
+
+
+
+
+
+Honeywell Shrinks Fly-By-Wire System for Air Taxi Market
+
+
+
+
+
+
+
+
+
+
+
+Airlines are Increasingly Connecting Artificial Intelligence to Their MRO Strategies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Military, Unmanned
+A Day in the Life of a US Air Force Drone Pilot
+
+
+
+
+By S.L. Fuller | March 16, 2017				Send Feedback 
+
+
+
+
+drones 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An MQ-1B Predator, left, and an MQ-9 Reaper taxi to the runway in preparation for takeoff . The aircraft are assigned to the 432nd Wing, which trains pilots, sensor operators and other remotely piloted aircraft crewmembers, and conducts combat surveillance and attack operations worldwide. Photo:U.S. Air Force by Airman 1st Class Christian Clausen.
+
+The U.S. Air Force selected 30 enlisted airmen for the next phase of drone pilot training for the Northrop Grumman RQ-4 Global Hawk last week. Originally, only officers could fly the Global Hawk, and General Atomics Aeronautical Systems Inc.'s MQ-1 Predator and MQ-9 Reaper (called “Predator B” by the manufacturer). Now, that has changed.
+According to U.S. Air Force 1st Lt. James Klein, although some Global Hawk pilots were sorry to lose their position, most were not upset. The Global Hawk is the only one of the three drones that is not equipped with weapons, and has the most potential for an uneventful day at the controls. The flight plan is pre-programmed, so the main duty is to watch the live video feed. Currently, the U.S. Air Force's fleet of drones conducts combat and non-combat missions globally.
+
+
+
+RQ-4A Global Hawk photo courtesy of U.S. Air Force
+
+
+When replaced with enlisted airmen, some of the former Global Hawk pilots would then be assigned to a different drone. Klein says this is a welcome move as the Predator and Reaper have been undermanned. But there is a difference between flying a Global Hawk and flying a Reaper or Predator.
+“On the Predators and Reapers, we deploy weapons, so that's probably the biggest difference. You do actually fly it,” Klein says. “You can put it on autopilot, but you do have a joystick, you have throttle, you have all that, so you do fly the aircraft. It's a pretty significant difference.”
+Klein pilots the Predator. The Predator XP is the latest version of the family, which started with RQ-1 first flown by the Air Force in 1995. The Predator XP features both line-of-sight and beyond-line-of-sight data link systems, and can be integrated with multiple intelligence, surveillance and reconnaissance (ISR) sensors. This includes electro-optical infrared cameras and multi-mode radar; the latter features synthetic aperture radar  mode.
+The Predator drone also has a ground moving target indicator, and an automatic identification system. Its radar has a maritime wide area search mode. MQ-1B has a wingspan of 55 feet, is 27 feet in length, 7 feet tall and has an empty weight of 1,130 pounds.
+Based in Las Vegas, Klein flies his drone over the Middle East. He describes his job at 99% boredom and 1% adrenaline rush, which is exactly how others have described it to him. Yes, the Predator is combat-capable. But its main job — and the only job of the Global Hawk — is ISR. Every now and then the situation gets intense and Klein is required to fire. But most of his time is spent monitoring.
+Klein says the Predator has two cameras: one on the bottom of the dome and one on the nose. The one on the nose, he said, does not have great resolution so it’s used mostly to check the weather while the other camera stays focused on the ground. The two cameras can be pulled up on different screens in the control center.
+The job, though, doesn’t come without its quirks. For example, there is a 1.5- to 2.5-second delay between manual control input and video feed. If a pilot commands the drone to turn right, it will do so immediately. But the pilot won’t see it until a second or two later. Klein says this is due to encryption, and it’s something that pilots get used to very, very quickly. Situational awareness can also be an issue for drone pilots, since they are not actually in the airspace with the aircraft. And a crowded airspace adds another level of difficulty. Although pilots are not involved with flight planning, they do have to make sure the drone stays on a course that does not conflict with anything else in the airspace.
+There are three different shifts that drone pilots have, Klein says: days (8 a.m. to 4 p.m.); swings (4 p.m. to 12 a.m.); and mids (12 a.m. to 8 a.m.). This is how he describes a normal day as a Predator pilot:
+Arrival is required 30 minutes to an hour before the shift starts, depending on squadron. During this time, a mass brief takes place. Topics including weather, changes in Special Instruction for the area in which the drones will be flying that day, and an overview in overall changes from the previous day.
+Intel then briefs individual crews on the day’s specific mission. Crew readiness is also assessed with discussions including amount of sleep, current levels of stress and health. Any hindrances would then be mitigated.
+Next, the crew goes to the Ground Control Station (GCS) to a final brief from the shift it is replacing. Personnel swap one at a time — sensor operator (who controls the cameras and the laser that guides the missiles) first, then pilot — and the mission continues. Crews can communicate with ground troops through phone, radio or Internet Relay Chat (mIRC).
+Performing the mission usually calls for time spent staring at buildings or villages, looking for persons of interests. If one were sighted, the drone would follow along to keep track of any arising situations.
+At the end of the shift, the crews commute home. In all, the workday lasts about 10-12 hours, depending on any work required outside of flying.
+Going home at the end of a long day can be nice, but it also has its drawbacks. For example, if a pilot was required to fire at someone during the shift, going home to your family right after — unable to talk about what happened at work —can be difficult.
+“In a deployed location, when you are in a traditional aircraft, there is time to decompress before you finally get back home,” Klein says. “The Air Force has done a very good job, though, in giving us a plethora of resources to talk to and work with for dealing with … and different techniques for de-stressing.”
+
+
+Senior Airman Bethany Lamb and Tech. Sgt. Travis Wheeler load an inert missile onto a MQ-1 Predator during a load crew competition. Photo courtesy of  U.S. Air Force by Airman 1st Class Michael Shoemaker
+
+Piloting a drone was not Klein’s first choice — that slot goes to piloting manned aircraft. Unmanned aircraft was his second choice to pilot, but he recognizes the benefits that come with drones, like safety. Klein says there are stigmas both inside the service and outside, concerning the legitimacy of the piloting. Some manned aircraft pilots have been moved to the remotely piloted aircraft (RPAs) field, which is not always received well by the pilot. And the amount of publicity drones get when they do fire can be taxing. But Klein notes that the drone field is still growing, both in the military and in the civil sector, which leaves many possibilities.
+“Outside the Air Force, a lot of jobs pay a lot of money for people with prior experience. It's a growing field, and the Air Force is one of the only places to get that experience,” Klein said. “As new RPAs come out, you have a really good chance to be at the forefront of new technology, too, inside the Air Force.”
+
+
+
+
+
+
+
+Receive the latest avionics news right to your inbox
+
+
+
+
+				Sign Up
+			
+
+
+
+
+
+
+
+
+
+More On This Topic
+
+
+Raytheon, UTC Aerospace Businesses To Combine Into $74 Billion Aerospace And Defense Company
+						
+
+
+
+L3 Wins Multi-Million Air Force Contract for C-130H Avionics Upgrade
+						
+
+
+
+How Lockheed is Using Intermittent Detection to Diagnose Fighter Jet Faults
+						
+
+
+
+Boeing Bags $259 Million Air Force Deal for Weapon Planning Software
+						
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Also On Avionics
+
+
+
+								UTC Acquires Predictive Analytics Provider Predikto
+							
+
+
+
+
+								Airservices Australia Examines Deploying Aireon’s Space-Based ADS-B
+							
+
+
+
+
+								Emirates Orders Five Phenom 100E Jets to Keep Pace with Growing Fleet
+							
+
+
+
+
+								Astronics Aerosat Scores First Flightstream VVIP Customer
+							
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+The Pulse of Aviation Electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Quick Links
+
+
+CommercialBusiness & GAMilitaryEmbedded AvionicsATM ModernizationConnectivityAdvertiseWebinarsVideo InsightSubscribe to AvionicsContact UsJob Center 
+
+
+
+
+
+
+Recent Issues
+
+
+
+
+
+
+
+
+
+
+																June 2019
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+																May 2019
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+																April 2019
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+© 2019, Access Intelligence, LLC. All rights reserved. Learn more about licensing or reproducing content on this site. | privacy policy

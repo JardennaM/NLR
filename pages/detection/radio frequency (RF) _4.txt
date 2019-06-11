@@ -1,3 +1,5 @@
+url: https://www.hindawi.com/journals/wcmc/2018/6795931/
+
 
 
 
@@ -223,10 +225,10 @@ To receive news and publication updates for Wireless Communications and Mobile C
 
 
 
-Views 771
+Views 789
 Citations 0
 ePub 5
-PDF 163
+PDF 166
 
 
 

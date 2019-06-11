@@ -1,0 +1,484 @@
+detection|accoustic|https://www.sqhead.com/drone-detection/
+detection|accoustic|https://anti-drone.eu/products/acoustic-sensors/
+detection|accoustic|https://www.researchgate.net/publication/317978772_Drone_detection_by_acoustic_signature_identification
+detection|accoustic|https://counterdronesolutions.com.au/technology/drone-detection/
+detection|accoustic|https://www.mdpi.com/2504-446X/2/1/4/pdf
+detection|accoustic|http://www.drone-detector.com/en/
+detection|accoustic|https://pictec.eu/portfolio/antidrone-2/
+detection|radio frequency (RF) |https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+detection|radio frequency (RF) |https://www.researchgate.net/publication/304620599_Investigating_Cost-effective_RF-based_Detection_of_Drones
+detection|radio frequency (RF) |https://arxiv.org/pdf/1901.07703
+detection|radio frequency (RF) |https://www.hindawi.com/journals/wcmc/2018/6795931/
+detection|radio frequency (RF) |https://www.bavak.com/integrated-security-solutions/drone-detection-systems/rf-sensors/
+detection|radio frequency (RF) |https://omniscient.io/products/drone-detection/
+detection|radio frequency (RF) |https://www.dronedefence.co.uk/products/drone-detection/
+detection|radio frequency (RF) |https://counterdronesolutions.com.au/technology/drone-detection/
+detection|radio frequency (RF) |https://counterdronesolutions.com.au/droneshield/
+detection|radar|https://www.robinradar.com/drone-detection-radar
+detection|radar|https://advancedradartechnologies.com/products/art-drone-sentinel/
+detection|radar|http://miltronix.co.uk/portfolio/drone-detection-radar/
+detection|radar|https://www.dedrone.com/products/hardware/extensions/drone-detection-radar
+detection|radar|https://www.uasvision.com/2017/03/10/uav-drone-detection-radar-from-kelvin-hughes/
+detection|radar|http://www.elva-1.com/news_events/a40120
+detection|radar|https://www.flir.com/news-center/military/flir-launches-drone-and-land-target-detection/
+detection|camera (visual/daylight range)|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+detection|camera (visual/daylight range)|https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10799/107990N/Real-time-detection-of-drones-at-large-distances-with-25/10.1117/12.2324678.full
+detection|camera (visual/daylight range)|https://vumii.com/modern-drone-threats-and-detection-solutions/
+detection|camera (visual/daylight range)|https://industrialcamera.net/security-surveillance-system-products-services/uav-detection/
+detection|camera (visual/daylight range)|https://hackaday.com/2019/01/01/ask-hackaday-how-would-you-detect-a-marauding-drone/
+detection|camera (visual/daylight range)|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038671/
+detection|camera (visual/daylight range)|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621353/
+detection|camera (visual/daylight range)|https://www.researchgate.net/publication/221374629_Collision_avoidance_for_UAV_using_visual_detection
+detection|camera (visual/daylight range)|https://www.ugcs.com/page/solar-panel-inspection-with-ugcs
+detection|camera (visual/daylight range)|https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
+detection|camera (infrared)|https://www.sciencedirect.com/science/article/pii/S2352146517311043
+detection|camera (infrared)|https://www.hgh-infrared.com/es/Aplicaciones/Seguridad/Drone-UAV-Detection-and-Tracking
+detection|camera (infrared)|https://altigator.com/drone-embedded-thermal-camera-for-security-and-surveillance/
+detection|camera (infrared)|https://www.mdpi.com/2504-446X/3/2/34/pdf
+detection|camera (infrared)|https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
+detection|camera (infrared)|https://infraredcameras.com/applications/aerial-uav/
+detection|camera (infrared)|https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10799/107990N/Real-time-detection-of-drones-at-large-distances-with-25/10.1117/12.2324678.full
+detection|camera (infrared)|https://vumii.com/modern-drone-threats-and-detection-solutions/
+detection|camera (infrared)|https://www.flir.com/suas/
+detection|camera (infrared)|https://www.workswell-thermal-camera.com/gis-gas-imaging-system-for-drones/
+detection|camera (uv)|https://www.ofilsystems.com/products/rompact.html
+detection|camera (uv)|https://www.shop.thebioniceye.co.uk/drones/specialist/uveyelight-detail
+detection|camera (uv)|https://www.nasa.gov/langley/business/nasa-langley-s-ultraviolet-corona-detection-system-lifts-off-on-drone
+detection|camera (uv)|http://deeterdesigns.com/index.php/potential-new-products/drone-corona-cameras/
+detection|camera (uv)|https://www.bergeng.com/category/corona-airborne.html
+detection|camera (uv)|http://www.directindustry.com/prod/ofil-ltd/product-65565-2004409.html
+detection|camera (uv)|https://www.highlinedivision.com/hld/php/services/servicesCorona.php
+detection|camera (uv)|https://www.uvirco.com/products/corocam-8-uav/
+detection|camera (uv)|http://www.lucintsystems.com/
+detection|camera (multi-spectral)|https://www.dronezon.com/learn-about-drones-quadcopters/multispectral-sensor-drones-in-farming-yield-big-benefits/
+detection|camera (multi-spectral)|https://www.precisionhawk.com/blog/media/topic/drone-based-multispectral-sensing-what-to-know
+detection|camera (multi-spectral)|https://www.spectralcam.com/
+detection|camera (multi-spectral)|https://www.spectralcam.com/maia-tech/
+detection|camera (multi-spectral)|https://www.spectralcam.com/maia-tech-2/
+detection|camera (multi-spectral)|https://www.spectralcam.com/maia-m2-modular/
+detection|camera (multi-spectral)|https://www.spectralcam.com/download-2/
+detection|camera (multi-spectral)|https://sentera.com/sensors/
+detection|camera (multi-spectral)|https://sentera.com/phx-drone/
+detection|camera (multi-spectral)|https://sentera.com/product/sentera-quad-sensor/
+detection|LIDAR|http://www.neptectechnologies.com/security-lidar/
+detection|LIDAR|https://www.dronezon.com/learn-about-drones-quadcopters/best-lidar-sensors-for-drones-great-uses-for-lidar-sensors/
+detection|LIDAR|https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10636/1063605/Potential-of-lidar-sensors-for-the-detection-of-UAVs/10.1117/12.2303949.full
+detection|LIDAR|https://leddartech.com/lidar/lidar-modules/
+detection|LIDAR|https://www.wur.nl/en/product/Unmanned-Aerial-Vehicle-for-Laser-Scanning-LiDAR-UAV.htm
+detection|LIDAR|https://enterprise.dji.com/news/detail/how-lidar-is-revolutionizing-mapping-and-geospatial-data
+detection|LIDAR|https://www.mdpi.com/1424-8220/18/7/2071/pdf
+classification|accoustic|https://pictec.eu/portfolio/antidrone-2/
+classification|accoustic|https://www.mdpi.com/2504-446X/2/1/4/pdf
+classification|accoustic|https://www.sqhead.com/drone-detection/
+classification|accoustic|https://etd.ohiolink.edu/!etd.send_file?accession=wright1547384408540764&disposition=inline
+classification|accoustic|https://anti-drone.eu/products/acoustic-sensors/
+classification|accoustic|https://www.researchgate.net/publication/317978772_Drone_detection_by_acoustic_signature_identification
+classification|accoustic|https://arxiv.org/pdf/1901.07703
+classification|accoustic|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+classification|radio frequency (RF) |https://arxiv.org/pdf/1901.07703
+classification|radio frequency (RF) |http://arxiv.org/abs/1901.07703
+classification|radio frequency (RF) |https://www.researchgate.net/publication/330576417_Micro-UAV_Detection_and_Classification_from_RF_Fingerprints_Using_Machine_Learning_Techniques
+classification|radio frequency (RF) |https://www.hindawi.com/journals/wcmc/2018/6795931/
+classification|radio frequency (RF) |https://www.bavak.com/integrated-security-solutions/drone-detection-systems/rf-sensors/
+classification|radio frequency (RF) |https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+classification|radio frequency (RF) |https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359474/
+classification|radar|https://www.robinradar.com/drone-detection-radar
+classification|radar|https://www.nature.com/articles/s41598-018-35880-9
+classification|radar|https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.2017-0090
+classification|radar|https://arxiv.org/pdf/1901.07703
+classification|radar|https://ieeexplore.ieee.org/document/8444497/
+classification|radar|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308692/
+classification|camera (visual/daylight range)|https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10799/107990N/Real-time-detection-of-drones-at-large-distances-with-25/10.1117/12.2324678.full
+classification|camera (visual/daylight range)|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+classification|camera (visual/daylight range)|https://www.x20.org/drone-gimbal-m2-gyro-stabilized/
+classification|camera (visual/daylight range)|http://www.hse-uav.com/thermal_imaging_night_vision.htm
+classification|camera (visual/daylight range)|https://www.loc.gov/law/help/regulation-of-drones/sweden.php
+classification|camera (visual/daylight range)|https://www.dxomark.com/dxomark-benchmarks-for-popular-drone-camera-sensors/
+classification|camera (visual/daylight range)|https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
+classification|camera (visual/daylight range)|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621353/
+classification|camera (visual/daylight range)|https://www.researchgate.net/publication/316673697_Classifications_applications_and_design_challenges_of_drones_A_review
+classification|camera (infrared)|https://www.x20.org/drone-uav-csuas-detection-classification-countermeasure-defeat-eo-ir-systems/
+classification|camera (infrared)|https://www.mdpi.com/2504-446X/3/2/34/pdf
+classification|camera (infrared)|https://www.heliguy.com/blog/2015/08/28/infrared-and-thermal-sensors-on-drones/
+classification|camera (infrared)|https://iopscience.iop.org/article/10.1088/1757-899X/322/5/052005
+classification|camera (infrared)|https://www.hgh-infrared.com/Applications/Security/Drone-UAV-Detection-and-Tracking
+classification|camera (infrared)|https://www.dronefly.com/thermal-drones.html
+classification|camera (infrared)|https://www.electro-optical.com/node_70/Security/Drone-Small-UAV-Detection
+classification|camera (uv)|https://www.highlinedivision.com/hld/php/services/servicesCorona.php
+classification|camera (uv)|https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
+classification|camera (uv)|https://www.ofilsystems.com/products/rompact.html
+classification|camera (uv)|https://candrone.com/products/corona-camera
+classification|camera (uv)|https://uavcoach.com/thermal-camera-drone/
+classification|camera (uv)|https://www.hgh-infrared.com/index.php/News/Press-Releases/Spynel-360-Panoramic-Camera-ensures-Airport-Safety-against-drone-flyovers
+classification|camera (uv)|https://www.irinfo.org/articles-2019/03-01-2019-brady/
+classification|camera (uv)|https://www.lifepixel.com/shop/our-services/full-spectrum-camera-conversion/dji-drone-camera-full-spectrum-conversion
+classification|camera (multi-spectral)|https://www.dronezon.com/learn-about-drones-quadcopters/multispectral-sensor-drones-in-farming-yield-big-benefits/
+classification|camera (multi-spectral)|https://altigator.com/multispectral-and-hyperspectral-drone-imagery/
+classification|camera (multi-spectral)|https://tandfonline.com/doi/full/10.1080/22797254.2018.1527661
+classification|camera (multi-spectral)|https://www.mdpi.com/2072-4292/10/9/1484/pdf
+classification|camera (multi-spectral)|https://www.researchgate.net/publication/259471193_Introducing_a_low-cost_mini-UAV_for_thermal-and_multispectral-imaging
+classification|camera (multi-spectral)|https://www.researchgate.net/publication/318253221_Fusion_of_Multispectral_Imagery_and_Spectrometer_Data_in_UAV_Remote_Sensing
+classification|camera (multi-spectral)|https://www.forestinventory.no/?tag=multispectral-aerial-cameras&lang=en
+classification|camera (multi-spectral)|https://www.dronenerds.com/dev7/products/cameras-sensors/multispectral.html
+classification|camera (multi-spectral)|http://www.uavcropdustersprayers.com/ndvi_multi_spectral_cameras.htm
+classification|LIDAR|https://www.mdpi.com/1999-4907/10/2/145/pdf
+classification|LIDAR|https://www.pythagoras.net/solutions/uav
+classification|LIDAR|https://www.vrmesh.com/products/survey.asp
+classification|LIDAR|https://www.lidarusa.com/sample-data.html
+classification|LIDAR|https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)
+classification|LIDAR|https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)#Binning_of_the_point_cloud
+classification|LIDAR|https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)#Terrain_analysis
+classification|LIDAR|https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)#Vegetation_analysis
+classification|LIDAR|https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)#Bonus_tasks
+classification|LIDAR|https://geoawesomeness.com/drone-lidar-or-photogrammetry-everything-your-need-to-know/
+identification|accoustic|https://www.researchgate.net/publication/317978772_Drone_detection_by_acoustic_signature_identification
+identification|accoustic|https://anti-drone.eu/products/acoustic-sensors/
+identification|accoustic|https://www.sqhead.com/drone-detection/
+identification|accoustic|https://www.mdpi.com/2504-446X/2/1/4/pdf
+identification|accoustic|https://counterdronesolutions.com.au/technology/drone-detection/
+identification|accoustic|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+identification|accoustic|http://www.dronefence.de/Solution.php
+identification|radio frequency (RF) |https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+identification|radio frequency (RF) |https://www.hindawi.com/journals/wcmc/2018/6795931/
+identification|radio frequency (RF) |https://www.researchgate.net/publication/304620599_Investigating_Cost-effective_RF-based_Detection_of_Drones
+identification|radio frequency (RF) |https://arxiv.org/pdf/1901.07703
+identification|radio frequency (RF) |https://omniscient.io/products/drone-detection/
+identification|radio frequency (RF) |https://counterdronesolutions.com.au/technology/drone-detection/
+identification|radio frequency (RF) |https://counterdronesolutions.com.au/droneshield/
+identification|radio frequency (RF) |https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359474/
+identification|radio frequency (RF) |https://www.dronedefence.co.uk/products/drone-detection/
+identification|radio frequency (RF) |https://invisidiction.com/services/faq/
+identification|radar|https://www.robinradar.com/drone-detection-radar
+identification|radar|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+identification|radar|https://www.aerodefensetech.com/component/content/article/adt/features/articles/33023
+identification|radar|https://anti-drone.eu/products/radar-systems/
+identification|radar|https://www.idscorporation.com/pf/no-drone/
+identification|radar|http://dmtradar.com/solutions/drone-detection/
+identification|radar|https://www.fhr.fraunhofer.de/en/businessunits/security/Detection-of-small-drones-with-millimeter-wave-radar.html
+identification|radar|https://www.nature.com/articles/s41598-018-35880-9
+identification|radar|http://miltronix.co.uk/portfolio/drone-detection-radar/
+identification|camera (visual/daylight range)|https://www.slideshare.net/DCHALAMBALIS/homeland-security-solutions
+identification|camera (visual/daylight range)|https://www.x20.org/product/m1-d-micro-ptz-infrared-camera/
+identification|camera (visual/daylight range)|https://buybestquadcopter.com/best-drones-under-200/
+identification|camera (visual/daylight range)|https://www.dpreview.com/news/2888661655/senators-urge-faa-to-quickly-approve-drone-identification-rules
+identification|camera (visual/daylight range)|https://www.dpreview.com/news/6425711085/faa-to-test-speeding-up-remote-id-rules-for-drones-with-new-pilot-programs
+identification|camera (visual/daylight range)|https://www.pcmag.com/review/365082/autel-robotics-evo
+identification|camera (visual/daylight range)|https://www.adimec.com/hd-daylight-full-motion-video-cameras-now-fill-the-low-light-identification-gap/
+identification|camera (visual/daylight range)|https://vumii.com/the-use-of-johnsons-criteria-for-thermal-camera-and-systems-performance/
+identification|camera (infrared)|https://www.sciencedirect.com/science/article/pii/S2352146517311043
+identification|camera (infrared)|https://www.hgh-infrared.com/es/Aplicaciones/Seguridad/Drone-UAV-Detection-and-Tracking
+identification|camera (infrared)|https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
+identification|camera (infrared)|https://www.x20.org/uav-drone-detection-anti-drone-defense-systems/
+identification|camera (infrared)|https://altigator.com/infrared-thermography-by-drone/
+identification|camera (infrared)|https://www.photonics.com/Articles/Thermal_Camera-Equipped_UAVs_Spot_Hard-to-Find/a63435
+identification|camera (infrared)|https://www.flir.com/suas/
+identification|camera (infrared)|https://www.vision-systems.com/non-factory/article/16748301/machine-learning-system-and-ir-cameras-mounted-on-drones-successfully-identify-koala-populations
+identification|camera (infrared)|https://vumii.com/modern-drone-threats-and-detection-solutions/
+identification|camera (uv)|http://deeterdesigns.com/index.php/potential-new-products/drone-corona-cameras/
+identification|camera (uv)|https://www.ofilsystems.com/products/rompact.html
+identification|camera (uv)|http://www.directindustry.com/prod/ofil-ltd/product-65565-2004409.html
+identification|camera (uv)|http://www.thebioniceye.co.uk/applications/uv-corona
+identification|camera (uv)|https://www.nasa.gov/langley/business/nasa-langley-s-ultraviolet-corona-detection-system-lifts-off-on-drone
+identification|camera (uv)|https://www.highlinedivision.com/hld/php/services/servicesCorona.php
+identification|camera (uv)|https://www.uvirco.com/products/corocam-8-uav/
+identification|camera (uv)|https://www.bergeng.com/category/corona-airborne.html
+identification|camera (uv)|https://www.tester.co.uk/ofil-daycor-rompact-uv-visible-bi-spectral-block-camera-module-for-uav-helicopter
+identification|camera (multi-spectral)|https://www.dronezon.com/learn-about-drones-quadcopters/multispectral-sensor-drones-in-farming-yield-big-benefits/
+identification|camera (multi-spectral)|https://www.photonics.com/Articles/Drones_with_Multispectral_Cameras_Bring/a58350
+identification|camera (multi-spectral)|https://www.researchgate.net/publication/304365987_USE_OF_A_MULTISPECTRAL_UAV_PHOTOGRAMMETRY_FOR_DETECTION_AND_TRACKING_OF_FOREST_DISTURBANCE_DYNAMICS
+identification|camera (multi-spectral)|https://www.mdpi.com/2504-446X/2/3/29/pdf
+identification|camera (multi-spectral)|https://www.sciencedirect.com/science/article/pii/S2405844018328184
+identification|camera (multi-spectral)|https://tandfonline.com/doi/full/10.1080/22797254.2018.1527661
+identification|camera (multi-spectral)|https://twitter.com/scion_research/status/1069689178630217728
+identification|camera (multi-spectral)|https://www.forestinventory.no/?tag=multispectral-aerial-cameras&lang=en
+identification|camera (multi-spectral)|https://www.flyblacksky.com/turf-health
+identification|camera (multi-spectral)|https://www.precisionhawk.com/blog/media/topic/sensors-101-basics-lidar-thermal-hyperspectral-multispectral-technology
+identification|LIDAR|http://www.neptectechnologies.com/security-lidar/
+identification|LIDAR|https://www.dronezon.com/learn-about-drones-quadcopters/best-lidar-sensors-for-drones-great-uses-for-lidar-sensors/
+identification|LIDAR|https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10636/1063605/Potential-of-lidar-sensors-for-the-detection-of-UAVs/10.1117/12.2303949.full
+identification|LIDAR|https://enterprise.dji.com/news/detail/how-lidar-is-revolutionizing-mapping-and-geospatial-data
+identification|LIDAR|https://3dinsider.com/lidar-sensors/
+identification|LIDAR|https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know
+identification|LIDAR|https://www.researchgate.net/publication/326072454_LiDAR_from_drones_employed_for_mapping_archaeology_-_Potential_benefits_and_challenges
+identification|LIDAR|https://www.mdpi.com/2220-9964/8/1/39/pdf
+identification|LIDAR|https://www.wur.nl/en/product/Unmanned-Aerial-Vehicle-for-Laser-Scanning-LiDAR-UAV.htm
+intent|method|https://www.imaging-resource.com/news/2016/10/31/how-to-hack-a-drone-researcher-develops-method-to-take-control-of-consumer
+intent|method|https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle
+intent|method|https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle#Terminology
+intent|method|https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle#History
+intent|method|https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle#Functions
+intent|method|https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle#Market
+intent|method|https://www.leadingedgeonly.com/innovation/view/drone-pilot-detection-system
+intent|method|http://tadviser.com/index.php/Article:Unmanned_aerial_vehicle_(drone,_UAV)
+intent|method|https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b69c6993&appId=PPGMS
+decision support|GUI|http://file.scirp.org/Html/6-9701701_27464.htm
+decision support|GUI|https://www.researchgate.net/publication/287207354_Development_of_a_Control_and_Vision_Interface_for_an_ARDrone
+decision support|GUI|https://dronebusiness.center/decision-making-model-uav-implementation-12986/
+decision support|GUI|https://www.researchgate.net/figure/GRAPHICAL-USER-INTERFACE-GUI-FOR-INTERAC-TION-WITH-TWO-DRONES_fig2_309717575
+decision support|GUI|https://link.springer.com/chapter/10.1007/978-981-13-3149-7_7
+decision support|GUI|https://www.airmap.com/airmap-data-layers-infographic/
+decision support|GUI|https://www.airmap.com/enterprise-services/
+decision support|method|https://www.mdpi.com/2079-9292/8/4/452/pdf
+decision support|method|https://www.mdpi.com/2079-8954/7/1/11/pdf
+decision support|method|https://www.precisionhawk.com/beyond-visual-line-of-sight-bvlos-drone-operations
+decision support|method|https://dronebelow.com/2018/09/12/brain-inspired-decision-making-ability-in-uavs/
+decision support|method|https://www.airmap.com/airmap-data-layers-infographic/
+decision support|method|https://blog.dronedeploy.com/making-smarter-decisions-with-aerial-data-15dcf81c5c69
+decision support|method|https://ieeexplore.ieee.org/abstract/document/7977165/
+decision support|method|https://bettstetter.com/research/uav/
+command|GUI|http://file.scirp.org/Html/6-9701701_27464.htm
+command|GUI|https://www.researchgate.net/publication/272672460_Simple_GUI_Wireless_Controller_of_Quadcopter
+command|GUI|http://mindworks.shoutwiki.com/wiki/Drone_Mission_Planning_Software
+command|GUI|http://ardupilot.org/planner/
+command|system|https://www.insitu.com/information-delivery/command-and-control
+command|system|https://reseiwe.com/wifi-for-uavs/
+command|system|https://www.uasvision.com/2019/02/12/flymotion-e-one-mobile-drone-command-trailer/
+command|system|https://flymotionus.com/
+command|system|https://www.incendium.dk/meks-builds-drone-command-vehicle-integrated-with-secure-video-streaming/
+command|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/
+command|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/#Checklist
+command|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/#Place
+command|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/#Ground
+command|system|https://www.freewave-china.com/unmanned-systems-drones-robots/
+command|integration|https://drone.io/
+command|integration|https://blog.drone.io/
+command|integration|https://docs.drone.io/
+command|integration|https://cloud.drone.io/
+command|integration|http://plugins.drone.io/
+command|integration|https://www.uasvision.com/2019/02/12/flymotion-e-one-mobile-drone-command-trailer/
+command|integration|https://reseiwe.com/wifi-for-uavs/
+command|integration|https://linoxide.com/linux-how-to/setup-drone-continuous-integration-linux/
+command|integration|https://www.eurocockpit.be/campaign/integrating-drones-safely
+command|archtitecture|https://www.mdpi.com/1424-8220/19/6/1379/pdf
+command|archtitecture|https://gcn.com/articles/2018/03/26/darpa-offset-drone-architecture.aspx
+command|archtitecture|http://ktgy.com/projekt-kb-drone-landing-pads-voice-commands-see-house-2050/
+command|archtitecture|https://www.hsdl.org/?view&did=805955
+command|archtitecture|https://www.researchgate.net/publication/331929918_A_Distributed_Architecture_for_Human-Drone_Teaming_Timing_Challenges_and_Interaction_Opportunities
+command|archtitecture|https://blog.drone.io/drone-1/
+command|archtitecture|https://docs.drone.io/config/pipeline/steps/
+command|open/closed |https://www.theverge.com/2018/12/20/18149819/london-gatwick-airport-drone-shutdown-reports
+command|open/closed |https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle
+command|open/closed |https://homebusinessmag.com/business-spotlight/drone-command-live-will-help-you-launch-exciting-100000-home-business/
+command|open/closed |https://www.usatoday.com/story/tech/talkingtech/2016/12/26/what-learned-after-crashing-four-drones/95808234/
+command|open/closed |https://pyparrot.readthedocs.io/en/latest/minidronecommands.html
+command|open/closed |https://jaxenter.com/flying-quadcopters-fantom-135398.html
+command|open/closed |https://time.com/3769831/this-is-how-drones-work/
+command|open/closed |https://www.theverge.com/2019/2/1/18207081/super-bowl-2019-drones-atlanta-fbi
+command|total crew required|https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516
+command|total crew required|https://www.precisionhawk.com/beyond-visual-line-of-sight-bvlos-drone-operations
+command|total crew required|https://zingdrones.com/part-107-drone-laws-september-2018/
+command|total crew required|https://www.easa.europa.eu/the-agency/faqs/regulations
+command|total crew required|https://www.telegraph.co.uk/news/uknews/defence/9552547/The-air-force-men-who-fly-drones-in-Afghanistan-by-remote-control.html
+command|total crew required|https://www.latimes.com/nation/la-na-drone-pilot-crisis-20151109-story.html
+command|total crew required|http://www.gazette.gc.ca/rp-pr/p2/2019/2019-01-09/html/sor-dors11-eng.html
+command|total crew required|https://www.thedailybeast.com/how-america-broke-its-drone-force
+command|total crew required|https://www.aviationtoday.com/2017/03/16/day-life-us-air-force-drone-pilot/
+control|GUI|http://file.scirp.org/Html/6-9701701_27464.htm
+control|GUI|https://www.researchgate.net/publication/272672460_Simple_GUI_Wireless_Controller_of_Quadcopter
+control|GUI|https://www.sciencedirect.com/science/article/pii/S1474667016435585
+control|GUI|https://www.uavnavigation.com/products/gcs/gcs-software
+control|GUI|https://blog.dronetrest.com/flight-controller-firmware/
+control|GUI|http://mindworks.shoutwiki.com/wiki/Drone_Mission_Planning_Software
+control|GUI|http://mindworks.shoutwiki.com/wiki/Drone_Mission_Planning_Software#Problem_Definition
+control|system|https://www.dronezon.com/learn-about-drones-quadcopters/what-is-drone-technology-or-how-does-drone-technology-work/
+control|system|https://www.uavnavigation.com/support/kb/general/general-system-info/flight-control-system-description
+control|system|https://www.robotshop.com/community/tutorials/show/how-to-make-a-drone-uav-lesson-4-flight-controller
+control|system|https://www.robotshop.com/blog/en/make-uav-lesson-1-platform-rtf-arf-kit-custom-13989
+control|system|https://www.robotshop.com/community/tutorials/show/how-to-make-a-drone-uav-lesson-5-assembly
+control|system|https://www.robotshop.com/uk/lynxmotion-quadrino-nano-drone-uav-flight-controller-with-gps.html
+control|system|https://www.sciencedirect.com/science/article/pii/S1877050917300479
+control|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/
+control|system|http://uavcoach.com/how-to-fly-a-quadcopter-guide/#Definitions
+control|integration|https://dronecontroluk.com/
+control|integration|https://www.airmap.com/airhub-launches-drone-management-software-with-airmap-utm-integration-enhanced-safety-commercial-operators-europe/
+control|integration|https://www.eurocockpit.be/campaign/integrating-drones-safely
+control|integration|https://www.embention.com/news/utm-drone-integration-in-controlled-airspace/
+control|integration|https://flytbase.com/flytcloud/
+control|integration|https://arstechnica.com/cars/2018/03/first-test-of-drone-air-traffic-control-to-happen-in-switzerland-this-year/
+control|integration|https://www.amsterdamdroneweek.com/events/integrated-infrastructure
+control|integration|https://www.nesta.org.uk/report/flying-high-challenge-future-of-drone-technology-in-uk-cities/exploring-urban-drone-integration/
+control|integration|https://www.robotshop.com/community/tutorials/show/how-to-make-a-drone-uav-lesson-4-flight-controller
+control|archtitecture|http://cstwiki.wtb.tue.nl/index.php?title=System_Architecture_Robotic_Drone_Referee
+control|archtitecture|https://www.researchgate.net/figure/DroneChain-Blockchain-based-Drone-Communication-Architecture_fig1_320339062
+control|archtitecture|https://customers.microsoft.com/fr-fr/story/droneworks
+control|archtitecture|https://www.mathworks.com/videos/drone-simulation-and-control-part-5-tuning-the-pid-controller-1540450868204.html
+control|archtitecture|https://www.researchgate.net/publication/325721148_Proposal_of_Continuous_Remote_Control_Architecture_for_Drone_Operations
+control|archtitecture|https://www.sciencedirect.com/science/article/pii/S1877050917300479
+control|archtitecture|https://www.robotshop.com/community/tutorials/show/how-to-make-a-drone-uav-lesson-4-flight-controller
+control|archtitecture|https://www.robotshop.com/blog/en/make-uav-lesson-1-platform-rtf-arf-kit-custom-13989
+control|open/closed |https://www.dronerush.com/parrot-anafi-drone-announced-price-specs-availability-12759/parrot-anafi-folding-drone-remote-control-open-and-closed/
+control|open/closed |https://www.express.co.uk/travel/articles/1062483/gatwick-airport-drone-latest-news-update-flights-suspended
+control|open/closed |https://www.forbes.com/sites/jonobacon/2015/05/06/creating-the-open-drone-ecosystem/
+control|open/closed |https://horizon-magazine.eu/article/drone-jamming-system-protect-european-airports-public-spaces.html
+control|open/closed |https://www.bbc.com/news/technology-46639099
+control|open/closed |https://opensource.com/article/18/2/drone-projects
+control|open/closed |http://mavlab.tudelft.nl/open-phd-position-bringing-swarms-of-tiny-drones-to-the-real-world/
+control|open/closed |https://www.pcmag.com/article/337889/drone-regulations-what-you-need-to-know
+control|open/closed |https://www.abc.net.au/news/2018-12-21/gatwick-airport-closed-by-drones---heres-how-it-happened/10645724
+control|total crew required|https://www.easa.europa.eu/easa-and-you/civil-drones-rpas
+control|total crew required|https://www.precisionhawk.com/beyond-visual-line-of-sight-bvlos-drone-operations
+control|total crew required|https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516
+control|total crew required|https://www.telegraph.co.uk/news/uknews/defence/9552547/The-air-force-men-who-fly-drones-in-Afghanistan-by-remote-control.html
+control|total crew required|http://ijtte.com/study/344/download/OPERATIONS_OF_DRONES_IN_CONTROLLED_AIRSPACE_IN_EUROPE.html
+control|total crew required|https://www.uave.co.uk/vacancies.php
+control|total crew required|https://www.iaa.ie/general-aviation/drones
+control|total crew required|https://turnuav.com/
+control|total crew required|http://www.gazette.gc.ca/rp-pr/p2/2019/2019-01-09/html/sor-dors11-eng.html
+intervention|capture |https://www.dutchdronecompany.com/services/inspections/
+intervention|capture |https://medium.com/nanonets/how-we-flew-a-drone-to-monitor-construction-projects-in-africa-using-deep-learning-b792f5c9c471
+intervention|capture |https://www.pix4d.com/blog/drone-data-without-a-drone-crane-camera
+intervention|capture |https://arxiv.org/abs/1808.09563
+intervention|capture |https://www.wired.com/story/guide-drones/
+intervention|capture |https://dronecatcher.nl/
+intervention|capture |https://www.raytheon.com/news/feature/beam-on
+intervention|capture |https://www.dronedeploy.com/solutions/agriculture/
+intervention|capture |https://www.e-zigurat.com/blog/en/can-drones-be-utilized-in-construction-for-creating-accurate-bim-models/
+intervention|capture |https://www.autodesk.com/redshift/drone-construction-site/
+intervention|take over control|https://www.droneii.com/drone-autonomy
+intervention|take over control|https://www.globalresearch.ca/danger-drones/5680089
+intervention|take over control|https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html
+intervention|take over control|https://dronecampaignnetwork.wordpress.com/drone-wars-out-of-control/
+intervention|take over control|https://www.emeraldinsight.com/doi/abs/10.1108/S1529-213420150000019011
+intervention|take over control|https://www.sesarju.eu/news/uspacedemonstrators
+intervention|take over control|https://eit.europa.eu/news-events/news/eit-digital-supported-drone-uav-retina-helps-emergency-management
+intervention|take over control|https://www.buzzfeednews.com/article/danvergano/terminator-with-wings
+intervention|kinetic (bullets)|https://www.militaryaerospace.com/unmanned/article/16707131/the-new-world-of-counterdrone-technology
+intervention|kinetic (bullets)|https://www.wired.com/2017/02/sky-net-illegal-drone-plan/
+intervention|kinetic (bullets)|https://dronebelow.com/kinetic-systems-as-drone-countermeasures/
+intervention|kinetic (bullets)|https://www.realcleardefense.com/articles/2017/05/23/battles_can_be_won_with_kinetics_but_wars_are_won_with_influence_111436.html
+intervention|kinetic (bullets)|https://www.digitaltrends.com/cool-tech/dronebullet-anti-drone-tech/
+intervention|kinetic (bullets)|https://bgr.com/2015/10/16/drone-defender-rifle-radio-wave-gun/
+intervention|kinetic (bullets)|https://arstechnica.com/tech-policy/2017/04/man-takes-drone-out-for-a-sunset-flight-drone-gets-shot-down/
+intervention|kinetic (bullets)|https://riis.com/blog/no-counter-uas-silver-bullet/
+intervention|kinetic (missiles)|https://www.raytheon.com/news/feature/beam-on
+intervention|kinetic (missiles)|https://www.battelle.org/government-offerings/national-security/payloads-platforms-controls/counter-UAS-technologies/dronedefender
+intervention|kinetic (missiles)|https://www.unmannedairspace.info/counter-uas-systems-and-policies/airshare-launches-drone-inception-missile-system/
+intervention|kinetic (missiles)|https://www.armytimes.com/native/raytheon/2018/09/04/beam-on-a-wide-range-of-counter-drone-technologies-comes-of-age/
+intervention|kinetic (missiles)|https://www.scmp.com/news/china/military/article/3009199/chinese-made-missiles-and-drones-used-libya-conflict-un-experts
+intervention|kinetic (missiles)|https://techcrunch.com/2018/12/05/whitefox-defense-lands-12-million-as-the-demand-for-drone-defense-technologies-intensifies/
+intervention|kinetic (missiles)|https://www.wsj.com/articles/bring-missile-defense-down-to-earth-11548890589
+intervention|kinetic (missiles)|https://fas.org/category/drones-2/
+intervention|kinetic (missiles)|https://tech.slashdot.org/story/19/05/10/0049220/drones-used-missiles-with-knife-warhead-to-take-out-single-terrorist-targets
+intervention|Datalink jamming|https://www.septentrio.com/en/insights/jam-proofing-drones
+intervention|Datalink jamming|https://www.dronewatch.nl/2018/03/14/zowel-de-handel-in-als-het-gebruik-van-drone-jammers-is-verboden-in-nederland/
+intervention|Datalink jamming|http://www.nsf-journal.hr/online-issues/case-studies/id/1227
+intervention|Datalink jamming|https://fstoppers.com/aerial/french-secret-service-jammed-and-crashed-drone-flying-near-summer-residence-276746
+intervention|Datalink jamming|https://www.airmap.com/security-drone-of-things/
+intervention|Datalink jamming|https://www.asi-mag.com/drones-protecting-airports-and-aircraft/
+intervention|Datalink jamming|https://www.g4s.com/media-centre/news/2018/08/30/the-future-of-drones-in-security
+intervention|GPS jamming|https://www.scmp.com/news/hong-kong/law-and-crime/article/2170669/hk13-million-damage-caused-gps-jamming-caused-46-drones
+intervention|GPS jamming|https://www.maritime-executive.com/editorials/military-hardware-proves-vulnerable-to-gps-jamming
+intervention|GPS jamming|https://www.wired.com/2017/02/sky-net-illegal-drone-plan/
+intervention|GPS jamming|https://www.theverge.com/2019/6/9/18658901/us-army-testing-jamming-resistant-gps-global-positioning-system-russia-2nd-cavalry-regiment
+intervention|GPS jamming|https://www.crfs.com/blog/how-to-deal-with-gps-jamming-and-spoofing/
+intervention|GPS jamming|https://www.septentrio.com/en/insights/jam-proofing-drones
+intervention|GPS jamming|https://www.researchgate.net/publication/313109966_Defeating_drone_jamming_with_hardware_sandboxing
+intervention|GPS jamming|https://arxiv.org/pdf/1901.03535
+intervention|GPS jamming|http://dronehackademy.net/en/how-and-why-to-protect-ourselves-from-unmanned-aerial-vehicles/
+intervention|Laser|https://www.popularmechanics.com/military/research/a22677285/darpa-drones-recharged-laser-silent-falcon/
+intervention|Laser|https://www.raytheon.com/news/feature/beam-on
+intervention|Laser|https://www.wired.com/2017/02/sky-net-illegal-drone-plan/
+intervention|Laser|https://www.scmp.com/news/china/diplomacy-defence/article/2161331/china-race-counter-drone-tech-and-laser-weapons-it
+intervention|Laser|http://dronehackademy.net/en/how-and-why-to-protect-ourselves-from-unmanned-aerial-vehicles/
+intervention|Laser|https://thenewsrep.com/113877/watch-raytheon-shows-how-drone-swarms-and-lasers-will-soon-make-warfare-a-sci-fi-horror-show/
+intervention|Laser|https://www.fraunhofer.de/en/research/current-research/defense-against-drones.html
+intervention|Laser|https://www.lasernavigation.it/en/products/autonomous-vtol-drone/
+intervention|High Power Microwave|https://www.raytheon.com/news/feature/beam-on
+intervention|High Power Microwave|https://www.military.com/daily-news/2019/05/01/raytheon-directed-energy-weapons-down-drones-air-force-demonstration.html
+intervention|High Power Microwave|https://www.nextbigfuture.com/2018/03/high-energy-lasers-and-microwave-anti-drone-weapons-will-be-a-multi-billion-market-by-2023.html
+intervention|High Power Microwave|https://www.suasnews.com/2018/03/high-power-microwaves-lasers-defeat-multiple-drones-us-army-exercise/
+intervention|High Power Microwave|https://www.armytimes.com/native/raytheon/2018/09/04/beam-on-a-wide-range-of-counter-drone-technologies-comes-of-age/
+intervention|High Power Microwave|https://www.wearethemighty.com/gear-tech/microwave-laser-drone-swarm-defense
+intervention|High Power Microwave|https://www.prnewswire.com/news-releases/high-power-microwaves-and-lasers-defeat-multiple-drones-during-us-army-exercise-300616322.html
+intervention|High Power Microwave|https://www.israeldefense.co.il/en/node/33700
+neutralisation|capture |https://anti-drone.eu/applications/drone-neutralization.html
+neutralisation|capture |https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+neutralisation|capture |https://openworksengineering.com/skywall-100/
+neutralisation|capture |https://www.aerosociety.com/news/defeating-drones/
+neutralisation|capture |https://www.dronedefence.co.uk/
+neutralisation|capture |https://www.bbc.com/news/business-45824096
+neutralisation|capture |https://dronecontroluk.com/
+neutralisation|capture |https://www.wired.com/2017/02/sky-net-illegal-drone-plan/
+neutralisation|capture |https://www.skylock1.com/anti-drone-solutions/
+neutralisation|take over control|https://www.theverge.com/2016/4/20/11463872/best-way-to-kill-neutralize-takeover-drone-eagle
+neutralisation|take over control|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+neutralisation|take over control|https://www.diyphotography.net/the-dronedefender-aims-to-neutralize-drone-threats-and-illegal-activity/
+neutralisation|take over control|https://www.eurocockpit.be/news/unwelcome-arrival-drones-airports
+neutralisation|take over control|https://www.skylock1.com/
+neutralisation|take over control|https://www.skylock1.com/anti-drone-solutions/
+neutralisation|take over control|https://www.g4s.com/en-us/-/media/g4s/usa/files/whitepapers/drones_threat_from_above.ashx
+neutralisation|take over control|https://dronecontroluk.com/
+neutralisation|take over control|https://www.elt-roma.com/product/adrian
+neutralisation|take over control|https://apsystems.tech/
+neutralisation|kinetic (bullets)|https://www.theatlantic.com/technology/archive/2018/03/drone-swarms-are-going-to-be-terrifying/555005/
+neutralisation|kinetic (bullets)|https://www.militaryaerospace.com/unmanned/article/16707131/the-new-world-of-counterdrone-technology
+neutralisation|kinetic (bullets)|https://www.thedrive.com/the-war-zone/22223/army-buys-small-suicide-drones-to-break-up-hostile-swarms-and-potentially-more
+neutralisation|kinetic (bullets)|https://www.janes.com/article/82548/northrop-grumman-explores-airburst-munitions-for-c-uas-applications
+neutralisation|kinetic (bullets)|https://www.airforce-technology.com/features/taking-drone-threats-raytheon-showcases-counter-uas-technology/
+neutralisation|kinetic (bullets)|https://www.researchgate.net/publication/323285276_Using_Kinetic_Energy_Non-Lethal_Weapons_to_Neutralize_Low_Small_Slow_Unmanned_Aerial_Vehicles
+neutralisation|kinetic (bullets)|https://www.theamericanconservative.com/articles/inside-the-chilling-proliferation-of-artificially-intelligent-drones/
+neutralisation|kinetic (missiles)|https://www.militaryaerospace.com/unmanned/article/16707131/the-new-world-of-counterdrone-technology
+neutralisation|kinetic (missiles)|http://mil-embedded.com/articles/counter-drone-technologies-are-evolving-to-counter-countermeasures/
+neutralisation|kinetic (missiles)|https://www.airforce-technology.com/features/taking-drone-threats-raytheon-showcases-counter-uas-technology/
+neutralisation|kinetic (missiles)|https://www.battelle.org/government-offerings/national-security/payloads-platforms-controls/counter-UAS-technologies
+neutralisation|kinetic (missiles)|https://www.battelle.org/government-offerings/national-security/payloads-platforms-controls/counter-UAS-technologies/dronedefender
+neutralisation|kinetic (missiles)|https://www.wired.com/beyond-the-beyond/2018/02/us-army-countermeasures-armed-commercial-hobby-drones/
+neutralisation|Datalink jamming|https://digi.lib.ttu.ee/i/file.php?DLID=9378&t=1
+neutralisation|Datalink jamming|https://www.japcc.org/detecting-and-neutralizing-mini-drones/
+neutralisation|Datalink jamming|https://www.septentrio.com/en/insights/jam-proofing-drones
+neutralisation|Datalink jamming|https://arxiv.org/pdf/1702.01251
+neutralisation|Datalink jamming|https://www.crfs.com/drone-detection/
+neutralisation|Datalink jamming|https://roshel.ca/electronic-warfare/anti-drone-counter-uav-systems/
+neutralisation|Datalink jamming|https://www.droneshield.com/blog-content/2017/1/14/drone-defence-jammers-101
+neutralisation|Datalink jamming|https://www.uasvision.com/2019/05/06/belarus-unveils-groza-p2-mobile-c-uav-system/
+neutralisation|GPS jamming|https://www.japcc.org/detecting-and-neutralizing-mini-drones/
+neutralisation|GPS jamming|https://www.droneshield.com/blog-content/2017/1/14/drone-defence-jammers-101
+neutralisation|GPS jamming|https://fstoppers.com/aerial/technical-and-legal-challenges-anti-drone-systems-193666
+neutralisation|GPS jamming|http://www.mgteurope.com/mgt-europe-mgt-droneranger-radar-detection-and-rf-jamming/
+neutralisation|GPS jamming|http://antidronesolutions.tarideal.com/
+neutralisation|GPS jamming|https://terrahexen.com/en/oferta/produkt/uav-detection-systems/
+neutralisation|GPS jamming|https://www.g4s.com/en-us/-/media/g4s/usa/files/whitepapers/drones_threat_from_above.ashx
+neutralisation|GPS jamming|https://wcsecure.weblink.com.au/clients/droneshield/headline.aspx?headlineid=6801087
+neutralisation|GPS jamming|https://counterdronesolutions.com.au/droneshield-dronecannon-rw/
+neutralisation|GPS jamming|https://www.wired.com/2017/02/sky-net-illegal-drone-plan/
+neutralisation|Laser|https://www.thedrive.com/aerial/11505/the-7-most-significant-anti-drone-weapons
+neutralisation|Laser|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+neutralisation|Laser|https://www.uasvision.com/2019/01/02/rafaels-drone-dome-defeated-gatwick-drone/
+neutralisation|Laser|https://www.smartsecsystems.com/drones
+neutralisation|Laser|https://anti-drone.eu/applications/drone-neutralization.html
+neutralisation|Laser|https://www.eurocockpit.be/news/unwelcome-arrival-drones-airports
+neutralisation|Laser|https://www.skylock1.com/
+neutralisation|Laser|http://unmanned.life/anti-drone
+neutralisation|Laser|https://www.g4s.com/en-us/-/media/g4s/usa/files/whitepapers/drones_threat_from_above.ashx
+neutralisation|High Power Microwave|https://www.japcc.org/detecting-and-neutralizing-mini-drones/
+neutralisation|High Power Microwave|https://www.robinradar.com/9-counter-drone-technologies-to-detect-and-stop-drones-today
+neutralisation|High Power Microwave|https://defence.nridigital.com/global_defence_technology_oct18/taking_out_drone_threats_raytheon_showcases_counter_uas_technology
+neutralisation|High Power Microwave|http://mil-embedded.com/articles/counter-drone-technologies-are-evolving-to-counter-countermeasures/
+neutralisation|High Power Microwave|https://english.nctv.nl/current_topics/news/2015/Protectionfromunmannedmobilesystems.aspx
+neutralisation|High Power Microwave|https://idstch.com/home5/international-defence-security-and-technology/security/directed-energy-weapons-counter-drones-carrying-ieds-biological-chemical-agents/
+neutralisation|High Power Microwave|https://www.bizjournals.com/albuquerque/news/2018/04/05/raytheon-touts-test-results-of-unique-technology.html
+neutralisation|High Power Microwave|https://www.suasnews.com/2018/03/high-power-microwaves-lasers-defeat-multiple-drones-us-army-exercise/
+forensics|logging|https://www.zdnet.com/article/how-drone-forensics-can-reveal-pilot-identity/
+forensics|logging|https://commons.erau.edu/cgi/viewcontent.cgi?article=1513&context=jdfsl
+forensics|logging|https://www.academia.edu/32482710/Forensic_Analysis_of_Unmanned_Aerial_Vehicle_to_Obtain_GPS_Log_Data_as_Digital_Evidence
+forensics|logging|https://arxiv.org/pdf/1804.08649
+forensics|logging|https://ieeexplore.ieee.org/document/8560767/
+forensics|logging|https://medium.com/@haniahshafi/digital-forensics-is-ready-for-its-latest-challenge-drones-936c1418e928
+forensics|logging|https://www.researchgate.net/publication/324994744_Drone_Forensic_Analysis_Using_Open_Source_Tools_in_The_Journal_of_Digital_Forensics_Security_and_Law
+forensics|tracking|http://insideunmannedsystems.com/extracting-forensic-data-from-drones/
+forensics|tracking|https://www.droneforensics.com/
+forensics|tracking|https://eforensicsmag.com/product/drone-forensics/
+forensics|tracking|https://www.sciencedirect.com/science/article/pii/S1742287617302001
+forensics|tracking|https://medium.com/@haniahshafi/digital-forensics-is-ready-for-its-latest-challenge-drones-936c1418e928
+forensics|tracking|https://www.dataforensics.org/drone-forensics/
+forensics|tracking|https://www.zdnet.com/article/how-drone-forensics-can-reveal-pilot-identity/
+forensics|tracking|https://articles.forensicfocus.com/2018/03/06/oxygen-drone-forensics/
+forensics|tracking|https://phys.org/news/2018-06-drone-forensics-boost-nist-website.html
+forensics|other|http://insideunmannedsystems.com/extracting-forensic-data-from-drones/
+forensics|other|https://www.zdnet.com/article/how-drone-forensics-can-reveal-pilot-identity/
+forensics|other|https://www.nist.gov/news-events/news/2018/06/drone-forensics-gets-boost-new-data-nist-website
+forensics|other|https://arxiv.org/pdf/1804.08649
+forensics|other|https://accessdata.com/blog/the-emerging-world-of-drone-forensics-extracting-data-from-an-unmanned-aeri
+forensics|other|https://medium.com/@haniahshafi/digital-forensics-is-ready-for-its-latest-challenge-drones-936c1418e928
+forensics|other|https://ieeexplore.ieee.org/document/8328747/
+forensics|other|https://commons.erau.edu/cgi/viewcontent.cgi?article=1513&context=jdfsl

@@ -1,0 +1,326 @@
+url: https://docs.drone.io/config/pipeline/steps/
+
+
+
+Steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version 1.0.0
+
+
+Language EN
+
+
+
+
+
+
+
+keyboard_backspace
+          back
+        
+
+
+
+
+
+
+
+
+            Home
+            
+
+
+
+
+                Project Configuration
+                
+
+
+
+
+                Pipeline
+                
+
+
+
+
+
+
+
+
+Steps
+The top-level steps section defines sets of steps that are executed sequentially. Each step starts a new container that includes a clone of your repository, and then runs the contents of your commands section inside it.
+Example pipeline:
+kind: pipeline
+name: default
+
+steps:
+- name: frontend
+  image: node
+  commands:
+  - npm install
+  - npm test
+
+- name: backend
+  image: golang
+  commands:
+  - go build
+  - go test
+
+The commands are executed inside the root directory of your git repository. The root of your git repository, also called the workspace, is a mounted volume shared by all steps in your pipeline. This allows filesystem changes to persist between steps.
+The container exit code is used to determine whether the step is passing or failing. If a step returns a non-zero exit code, the step is marked as failing. The overall pipeline status is also marked as failing, and remaining pipeline steps are skipped.
+
+Conditions
+The when section can be used to conditionally execute pipeline steps based on runtime information, such as branch, event and status. This section includes some basic examples. Please see the conditions documentation for more information.
+Example event conditions:
+kind: pipeline
+name: default
+
+steps:
+- name: build
+  image: golang
+  commands:
+  - go build
+  - go test -short
+
+- name: integration
+  image: golang
+  commands:
+  - go test -v
+  when:
+    event:
+    - pull_request
+
+Example event conditions:
+when:
+  event:
+  - push
+  - pull-request
+
+Example branch conditions:
+when:
+  branch:
+  - master
+  - feature/*
+
+Platform
+The platform section defines the target operating system and architecture. This ensures the build is routed to the correct build runner. If undefined, the default linux/amd64 architecture is assumed.
+kind: pipeline
+name: default
+
+platform:
+  os: linux
+  arch: arm
+
+steps:
+- name: build
+  image: golang
+  commands:
+  - go build
+  - go test -short
+
+Example linux arm:
+platform:
+  os: linux
+  arch: arm
+
+Example linux arm64:
+platform:
+  os: linux
+  arch: arm64
+
+Example windows:
+platform:
+  os: windows
+  arch: amd64
+
+Plugins
+Plugins are docker containers that encapsulate commands, that can be shared and re-used in your pipeline. Examples of plugins include sending Slack notifications, building and publishing Docker images, and uploading artifacts to S3.
+Example Slack plugin:
+kind: pipeline
+name: default
+
+steps:
+- name: build
+  image: golang
+  commands:
+  - go build
+  - go test
+
+- name: notify
+  image: plugins/slack
+  settings:
+    room: general
+    webhook: https://...
+
+The great thing about plugins is they are just Docker containers. This means you can easily encapsulate logic, bundle in a Docker container, and share your plugin with your organization or with the broader community.
+Reference
+This section defines a subset of yaml configuration paramters. Please see our configuration reference for a full list.
+commands
+Commands executed inside the container. You can think of the commands section as your traditional build script.
+steps:
+- name: build
+  image: golang
+  commands:
+  - go build
+  - go test
+
+There is no magic here. The above commands are converted to a simple shell script. The commands in the above example are roughly converted to the below script:
+#!/bin/sh
+set -e
+
+go build
+go test
+
+The above shell script is then executed as the docker entrypoint. The below docker command is an (incomplete) example of how the script is executed:
+docker run --entrypoint=build.sh golang
+
+
+detach
+Runs the step in the background and immediately continues to the next step. Detached are used to define services directly in the pipeline, when you need direct control over when a service starts. Note that the exit code of a detached step is ignored, and cannot fail the pipeline.
+steps:
+- name: start
+  image: node
+  detach: true
+  commands:
+  - npm start
+
+
+environment
+Set container environment variables. You can use either an array or a dictionary. Any boolean values; true, false, yes no, need to be enclosed in quotes to ensure they are not converted to True or False by the YML parser.
+steps:
+- name: build
+  image: golang
+  environment:
+    GOOS: linux
+    GOARCH: amd64
+    CGO_ENABLED: 0
+
+Note that you cannot expand variables in the environment section. You should instead expand variables in the commands section.
+steps:
+  - name: build
+    image: golang
+-   environment:
+-     PATH: $PATH:/go
+    commands:
++   - export PATH=$PATH:/go
+    - go build
+    - go test
+
+
+
+image
+Specify the image to start the container from. Drone supports any valid image from any compatible Docker registry, including private registries.
+image: golang
+image: golang:1.7
+image: library/golang:1.7
+image: index.docker.io/library/golang
+image: index.docker.io/library/golang:1.7
+
+If the image does not exist, Drone instructs Docker to pull it. If the image is private you will need to configure registry credentials.
+
+privileged
+Gives extended privileges to this container. Docker will enable access to all devices on the host as well as set some configuration in AppArmor or SELinux to allow the container nearly all the same access to the host as processes running outside containers on the host.
+steps:
+- name: build
+  image: golang
+  privileged: true
+
+pull
+Instruct Docker to check for a newer version of the image in the remote container registry. If a newer version is available it is automatically downloaded.
+steps:
+- name: build
+  image: golang
+  pull: always
+
+
+volumes
+Mount host paths or named volumes.
+steps:
+- name: build
+  image: docker
+  commands:
+  - docker build .
+  volumes:
+  - name: docker
+    path: /var/run/docker.sock
+
+volumes:
+- name: docker
+  host:
+    path: /var/run/docker.sock
+
+Note that named volumes are supported. If you would like to configure a named volume please consult our detailed volume documentation.
+
+
+
+
+
+
+On This Page:
+
+
+Steps
+Conditions
+Platform
+Plugins
+Reference
+
+commands
+detach
+environment
+image
+privileged
+pull
+volumes
+
+
+
+
+
+
+Getting Help
+
+
+Mailing List
+
+Search for information in the mailing list archives, or post a question.
+
+Chat Support
+
+Real-time chat support from maintainers and community members.

@@ -1,4 +1,11 @@
-Dedrone – RF Sensors
+url: https://counterdronesolutions.com.au/technology/drone-detection/
+
+
+
+
+
+
+Drone Detection Solutions - Counter Drone Solutions
 
 
 
@@ -6,4 +13,263 @@ Dedrone – RF Sensors
 
 
 
-ProductsProductsOverviewSoftwareHardwareMitigationVideosSolutionsFederal Government and MilitaryCorrectional FacilitiesLocal Government and First RespondersEnterprises and Data CentersEnergy and UtilitiesAirportsStadiums and ArenasPublic EventsVIPs and Private PropertyCustomersResourcesDrone Incident CenterEventsHelp & SupportLibraryWebinarsPartnersPartner ProgramPartner LoginTechnology PartnersAboutAbout UsJobsBlogPressGet A demoContact SalesWebinarsProductsProductsOverviewSoftwareHardwareMitigationVideosSolutionsFederal Government and MilitaryCorrectional FacilitiesLocal Government and First RespondersEnterprises and Data CentersEnergy and UtilitiesAirportsStadiums and ArenasPublic EventsVIPs and Private PropertyCustomersResourcesDrone Incident CenterEventsHelp & SupportLibraryWebinarsPartnersPartner ProgramPartner LoginTechnology PartnersAboutAbout UsJobsBlogPressGet A demoContact SalesWebinarsProductsProductsOverviewSoftwareHardwareMitigationVideosSolutionsFederal Government and MilitaryCorrectional FacilitiesLocal Government and First RespondersEnterprises and Data CentersEnergy and UtilitiesAirportsStadiums and ArenasPublic EventsVIPs and Private PropertyCustomersResourcesDrone Incident CenterEventsHelp & SupportLibraryWebinarsPartnersPartner ProgramPartner LoginTechnology PartnersAboutAbout UsJobsBlogPressGet A demoContact SalesWebinarsRF SensorsThe cornerstone of complete airspace securityNowhere to Hide, Nowhere to FlyDedrone RF Sensors detect drones and remote controls by their radio frequency (RF) signatures. Commercial, hobbyist, and homebrew drone models are detected, including the popular DJI line.Models At a GlanceRF-100Long-range detection and early-warningDetects and classifies commercial and hobbyist dronesBuilt-in reporting identifies critical drone threatsView DetailsvsRF-300RF-based localization finds drones and pilotsAutomatically tracks and plots flight and pilot position on mapSupplements RF-100 and video-based detectionView DetailsWant to learn more?free webinarLive demoProductsOverviewSoftwareHardwareMitigationVideosSolutionsFederal GovernmentCorrectional FacilitiesLocal GovernmentEnterprisesEnergy and UtilitiesAirportsStadiumsPublic EventsVIP PartnersPartner ProgramPartner LoginTechnology PartnersAboutAbout UsCustomersJobsBlogPressContactResourcesWebinarsDrone IncidentsLibraryEventsSupportFollow UsEnglishEnglishDeutsch© 2019 Dedrone   |   Privacy   |   Legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia: Phone 0498 530 672|office@counterdronesolutions.com.au 
+
+
+
+
+
+
+
+
+
+
+
+
+ HomeProductsOur Services1. Provider of Counter Drone Solutions2. Installation, Training, & Commissioning3. Drone Surveillance Service4. Event Security Support5. Third Party Product Assessments6. Consulting & Expert Industry Advice7. Implementing Drones To Support Your Security Plan8. Tabletop Exercises & Red Teaming9. Remote Pilot Licence Training RePL10. Our Training PortalThe RiskAirportsPrisonsEvents & VenuesInfrastructurePorts and MarineSuperyachtsMovie SetsVIPs & PrivacyTechnologyDrone DetectionCounter DroneLegal ChallengesAbout UsMedia/BlogsContact Us 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Drone Detection		
+
+
+wpctrdrone 
+
+
+			2018-04-13T07:58:27+00:00		
+
+
+
+Drone Detection Solutions & Technology
+
+
+
+
+
+
+
+The Many Drone Detection OptionsThere are many drone detection and counter drone systems available in the marketplace.  Some operate independently, and others utilise a number of integrated technologies. Not all capabilities are available for domestic environments due to legislative challenges such as the use of jammers and destructive outcomes such as kinetic systems. Some of the common drone detection, counter drone, and integrated solutions on the market are discussed below.
+
+
+
+
+
+
+
+
+Electronic IdentificationAn alternative form of counter drone technology is electronic identification.  Electronic identification systems can remotely access information including the location, model, height, and track of an drone that is operating in the vicinity of a clients facilities.  These systems are not without legal challenges and in some states of Australia their use would be illegal.  This is another example of buyer beware and why Counter Drone Solutions has experienced legal professionals on our team.
+Until recently, none of major manufactures provided any form of detection support to address the significant risk that their products have created.  Now, Chinese manufacture DJI has developed a electronic identification solution, called ‘Aeroscope’ that will detect their drones which, based on the industry share,  includes about 70% of the market. This system looks promising but is not yet readily available. Its capabilities are currently been deployed to support the security layer of a major sporting event.  It is expected that other drone manufactures are likely to follow suit.
+
+
+
+
+DJI Aeroscope
+
+
+
+
+
+
+
+
+
+
+
+
+Radar (Radio Detection and Ranging)Radar systems are complex but the below section will explain the three main radar types in simplistic terms for ease of understanding. The choice of a drone radar will depend on the detection range requirements, location, size of the facility to be protected, and the capital outlay.
+Active Radar:  A conventional radar uses a rotating antenna to sweep the sky, sending out radio pulses and detecting those which are reflected back from objects such as aircraft or drones. By measuring the time taken for the reflected signal to return, and its frequency shift, it is possible to determine the range, position and speed. To be effective at long range, radar systems require high power, often in the megawatt range. Active radars are more costly than passive and compact radars.
+Passive Radar:  Unlike an active radar, a passive radar system does not emit a radio wave but receives transmitted signals from other sources such as commercial broadcast and communications signals.  When the signal it is receiving, is interrupted or reflected by an aircraft or drone, it causes a time delay between the arrival of the original broadcast signal and the reflected signal at the radar’s receiving antennae.  By measuring the time difference, the frequency shift, the direction of the signal, the objects location, heading and speed can be calculated. Compared to active radar, passive radars have a lower procurement cost, lower maintenance costs due to the lack of transmitter and moving parts, are physically small and hence easily deployed in places where conventional radars cannot be, and lower operating costs as it relies on signals already in the air.
+Compact Surveillance Radars: Compact surveillance radars have been traditionally used for the detection of ground targets.  However, they have been enhanced by some manufacturers to specifically detect drones at ranges of 700 meters and across a wide field of view.  These compact surveillance radars are cost effective, light weight, and compact which permits them to be mounted in many locations. However, they have limited range and capability and will not be suited to all facilities or locations.
+The challenge for aircraft radars is that they are designed to detect large, fast moving objects, not drones with a small profile, that are flying slowly, and at low altitude.   Drone radars are challenged with differentiating between a bird and a drone that results in false positives.
+
+
+
+
+
+
+
+
+Acoustic SensorsAcoustic sensors listen to the surrounds and detect the unique sound signatures of drones.  Once a sound is detected it is compared to a database of existing sounds to identify the drone type and sends an alert to security via a text, email or an integrated security system. Acoustic sensors are useful where other detection equipment, such as radar or RF, are ineffective.  Acoustic sensors are cost effective and their systems are user friendly but would not be suitable as a standalone solution, rather part of an integrated drone detection system.
+The challenge with acoustic sensors is that they rely on a library of sounds emitted by known drones, and if the library is not up to date it will not detect. Maintaining an up to date sound library in the developing industry is a real challenge and will never cover 100% of drones that might operate at any given time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Radio Frequency (RF)A radio frequency spectrum is divided into a number of frequency bands which specifies the general purpose and use for each band. Drones predominantly operate on the ISM band (industrial, scientific, and medical) which is internationally reserved for the use of radio frequency (RF) energy rather than for communications.
+Drones operate in different parts of the ISM radio spectrum depending on the type of drone, the command link, video link or range extender being used.  Common off the shelf drones use command and video download links that operate on the 2.4 GHz and 5.8 GHz radio frequency.  However, there are drones that use 433 MHz, 900MHz and 1.2 GHz for video download or long range flight.
+To detect these drones, a radio frequency (RF) system , such as a spectrum analyser or software defined radio,  is used to monitor the radio frequency spectrum to detect the command and control (C2) links between the controller and the drone and/or the downlink video link from the drone to the controller. Once detected, some of the more advanced RF systems can also identify the manufacture and type of the drone which can be useful in threat assessments and counter drone options.  Many spectrum RF systems will simply report a detection somewhere within its range, whereas a system with a multiple antenna solution, can use triangulation to identify the geo location of the drone and potentially the controller.
+Because drones can operate autonomously with no communication to the controller, RF detectors are not always able to detect them and therefore an integrated system is more reliable.
+
+
+
+
+
+
+
+
+Electro-Optical (EO)Electro-optical systems detect based on a drones visual signature.  Some optics systems include the ability to scan the sky, looking for variations in pixels, that could represent the presence of a drone.  Like radar systems, they sometimes detect birds and these false positives need to be quickly discounted to ensure a true risk is identified.
+Whilst systems can detect drones, identification may be an important factor if you need to determine whether the drone poses a threat or is carrying contraband. There are many camera systems on the market that are integrated into drone detection and counter drone solutions to aid in the identification of the drone.
+The image resolution and range of these cameras is based on the quality of the optics which is linked to cost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Infrared (IR)Drones fly in day and night time conditions and therefore we need a solution that can detect them at night and even in complete darkness. Infrared cameras detect drones based on their heat signature.  The more heat an object produces, the more thermal contrast it generates, and the easier it is to see. Because of this, infrared imaging even functions in zero-light conditions. It also has extreme long-range capabilities, making it ideal for drone detection.
+The quality of the optics, detection capability, and effective range are all linked to cost.  A infrared solution would not normally be used in isolation, but rather as a part of an integrated solution.
+
+
+
+
+
+
+
+
+Combined SensorsMany systems integrate a variety of different sensors so they provide a more robust detection capability.
+The use of multiple detection elements will increase the probability of successful detection, given that on individual detection system is entirely fail proof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+		Copyright 2017 | Counter Drone Solutions | All Rights Reserved | 	
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+error: Content is protected !!

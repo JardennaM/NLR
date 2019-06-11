@@ -1,0 +1,206 @@
+url: http://www.nsf-journal.hr/online-issues/case-studies/id/1227
+
+
+
+
+
+
+
+
+
+	The 2014 UAV Threat To French Nuclear Power Plants(Svezak 18, br. 1-2, 2017.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+News
+Online Issues
+Volumes And Issues
+Editorials
+Focus
+Case Studies
+Intelligence Systems
+Security
+Book Reviews
+
+
+Contributors
+Call For Papers
+Guidelines
+About The Journal
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Case Studies
+
+
+
+
+
+
+
+The 2014 UAV Threat To French Nuclear Power Plants(Svezak 18, br. 1-2, 2017.)
+
+07 pro 2017 05:27:00 
+1390 views
+
+
+
+André RansonIntroductionAfter the first oil shock in 1974, the French government decided to expand the country’s nuclear power capacity and today France derives about 75% of its electricity from nuclear energy, with 59 nuclear reactors in operation, using a Westinghouse pressurized water process. And there are many questions: should we close the oldest nuclear power plants? How to dismantle them? Will the wind and solar energies be enough to meet future demand? What about the costs? What about the nuclear waste? Should we go on and invest in 3rd generation nuclear generators?Whatever the orientations chosen by the Nuclear Policy Council, one element remains crucial: the security of existing nuclear power plants. Often nuclear opponents and NGOs such as Greenpeace   point to the vulnerabilities of nuclear power plants and recall the memory of Chernobyl and Fukushima. 
+
+Every time, the State authorities and the manufacturers answer that all necessary measures are taken to prevent threats and avoid accidents. Dialogue is difficult, on the one hand because enormous financial interests are at stake and lobbies on both sides are powerful and well organized, on the other hand because a number of measures taken to ensure the safety and security of nuclear settlements are to be kept secret while our fellow citizens demand transparency. Due to the lack of information the citizen think government is hiding something.Illegal Drone OverflightsIn this context, a new phenomenon appeared in 2014. Between Oct. 5 and Nov. 13, workers or bystanders at 13 nuclear plants operated by the French electricity firm EDF reported to have heard in the sky, at night, engine noises similar to that of lawn mowers and to have seen red and green flashing lights. They said to have spotted several unidentified drones having been flown over the sites sometimes for a few minutes, sometimes longer, sometimes with repeated passages. On the evening of October 19, and again on October 31, simultaneous drones were seen at sites hundred miles apart, which suggest a coordinated action by a group of people. The majority of these suspicions remained unconfirmed: there was no precise pictures of these flying objects, there was no physical recognition of drones during the many hours of helicopter flights carried out following the warnings. And it has since been established that some situations had a rational explanation. On October 19, at Gravelines, it was a small urgency medical aircraft which was authorized a usually forbidden direct flight towards a nearby airport. At Cattenom on October 14, due to the fog, aircontol changed the normal approach route to Luxembourg airfield and an airliner overflew the plant at the exact time when a supposed drone was reported.   Figure 1: Documented illegal Drone overflightsBut on the contrary, some illegal over flights were truly documented. At Golfech, Gendarmerie was able to follow a drone by car from the ground for several kilometres before it disappeared. Finally, of the 37 initially counted flights over nuclear facilities and some others sensitive installations, violating the law, 19 have been identified as realized by drones.Crisis ManagementThese information produced a large psychological effect and triggered considerable discussion by the media and the public: was it a campaign of harassment by the nuclear industry’s opponents, in line with previous regular attempts of intrusion by activists inside civilian nuclear installations? or was it a test on security by some terrorist group in relation with the Middle-East French policy against Islamic state, two years after the attack at the In Amenas gas plant in Algeria?  Could a drone carrying explosives cause substantial damage to a nuclear power plant?Operators in the Energy sector and the State authorities could not remain silent. The first official organization to react was the Parliamentary Office for Scientific and Technological Assessment which organized two hearings on November 24th, one being classified, and the other opened to media. Representatives from the Civil Aviation Agency, the Nuclear Safety Agency, the Atomic Energy Commission, the ministry of Defense, the ministry of Interior, drone manufacturers, managers of unmanned aircrafts associations, many others were invited to advice on the current situation. Among them, Greenpeace France, an organization which had attempted  several times in the past to illegally  penetrate nuclear facilities but denied any links to the recent flights. As early as mid September, Greenpeace had commissioned an engineering cabinet based in London, John Large and associates, to report on possible assault scenarios using drones. According to Large, the risk posed by a terrorist drone attack meant that most of the nuclear power stations should be immediately closed. Jonh Large explained that a drone could hit the distribution grid serving the plant, making it dependant on its diesel generators to cool the reactor; then the generators could be taken out by another drone with a relatively small explosive payload.Even if these scenarios have been challenged by many experts, and the operator EdF has specified that the overflights had had no consequence on the security of the plants, it remained that no one knew who was behind these flights and what was the exact nature of the flying objects. How then could we ensure that France was not facing a potential risk?That is why the prime minister instructed the National Defense and Security General Secretary to review the security of sensitive industrial installations and present him with proposals to allow a more effective fight against the malicious use of drones. Until May 2015, NDSGD conducted an in-depth situation analysis and presented the Parliament in October 2015 with a report which developed along three pillars:(1) An assessment of risks and threat made by the Ministry of Environment and Energy(2) What was to be done in the legal field with the  adaptation of existing legislative and regulatory provisions, under the authority of the Ministry of Interior(3) Finally the development of a counter drone capability, based on techniques of detection and neutralization, entrusted to the Minister of Defense Figure 2: Development of Civilian Drones in France: Challenges and Possible Responses from The State The objective was to better act against malicious acts, which in France is part of Nuclear Security, together with Nuclear Safety, radiation protection and civil security actions in the event of an accident.Threat AssessmentWe need to consider the weapons and the targets. The first topic is the Drone (UAV) itself. What are we talking about? A UAV is an aircraft without any person on board, being remotely piloted (the aerial vector and the segment on the ground are then connected by data links) or being programmed to fly independently by GPS programmed route. It can be normally reused at the end of the flight. It carries a payload, being lethal or non-lethal such as a sensor. We are confronted with two sorts of threat, military drones and outlaw civilian drones. Drones developed for military purposes weight from a few kilograms to several tons, can fly between one hour and more than thirty hours, over distances that can range from 10 kms to several thousands kms. They require  considerable investment, a high technical level and a complex logistic chain. Only a handful of countries have such large drones (HALE, MALE or TACTICAL) in their arsenal. The proliferating threat is made up of small size civilian drones, mini or micro (one or a few kilograms), flying some 30 minutes, traveling a distance of 1 or 2 kms, which cost some thousands Euros. The vast application of the civilian drones consist of aerial shots with airborne cameras with a WiFi downlink to a mobile control and image viewing device. Those Drones are flying at very low altitude, without means of identification. The battery-powered drones, propelled by three or even four eight horizontal rotors can remain stationary and carry out narrow maneuvers. Their load capacity is generally 5 to 10 kgs, sometimes more. They can be transported in the trunk of a car and the process for launch may last only minutes. They are not subject to drastic rules for their acquisition and can be easily bought on line. They constitute a threat which is difficult to identify and virtually undetectable by the radar network deployed by the Air Force.To undermine the security of a sensitive site, one can follow three courses of action: aggression, the purpose being to inflict damages to the installation using explosives for example, something similar to IED (Improvised Explosive Device)espionage, in order to detect onsite vulnerabilities, even if drones cannot provide radically new information compared to available data and satellite sources, or to spy in real-time on guard procedures,sort of psy-ops operations such as claimed intrusion by Greenpeace militants in the past, aimed at undermining the confidence placed in the protection of the sites.Whatever the purpose, terrorists will find with a drone all the characteristics they seek: a low cost unnoticed flying device bringing a payload without endangering a pilot. They may adapt an Unmanned Aerial System through modifications of commercially available models with additional components, and then use it to monitor a site, fly over fences to deliver weapons to the bad guys inside or place explosive at specific locations, thus bypassing the security gates and checks. The criteria the small UAS must meet are range, mass of payload and agility of flight. Let us now consider the targets. The energy sector is one of the 12 sectors of vital importance identified in a 2006 ruling, along with Food – Electronic communications information systems – Space and Research – Water management – Transportation and so on. As such the energy sector is subject to special protection measures for all or part of its activities, facilities and production systems.For each sector, a National Safety Directive describes the threats, identifies the generic vulnerabilities and lists the measures to implement depending on the level of the threat. The operators use the NSD as a framework to develop their security policy. Then, the vital operator – there are 233 of them,  in this case Electricity of France – identifies the points of vital importance within its production system and proposes specific protection plans for each of its vital points, with measures of prevention and reaction. These plans, which are classified, set up how public forces articulate with the operator’s security personnel when a threat materializes. The drone issue is just one more specific issue. The critical nuclear infrastructures have been designed and dimensioned to withstand particularly severe external aggressions such as large-scale earthquakes or accidental aircraft crash. Modern nuclear reactors are able to withstand the impact from an airliner, the containment tank being made of 40mm steel and the shield building wall constructed of more than 1000mm of reinforced concrete interlaced with steel rods. These potential aggressions, using drones as vectors, would not necessarily aim at creating the conditions leading to a nuclear accident.  There may simply intend to destabilize the energy production system. One critical issue is to maintain the cooling system of the radioactive fuel located in the reactor but also in the deactivation pool. A simple rupture of pipe or a breach in a fuel pool may oblige to stop the production of the plant.   Figure 3: Threat AssessmentBut from the threat assessment process, it emerged that micro or mini drones do not constitute real threatening aggressive devices because of their limited autonomy, their reduced carrying capacity and their difficult maneuverability in densely occupied areas. Even if most of the flights remained unexplained and if simultaneous flights seem to rule out accidental over flights, these incidents seemed to be more provocative and challenge-like activities and the risk associated was considered very low.However, the difficulties encountered by police and judicial authorities in identifying and punishing the perpetrators gave the impression that they were powerless to respond to what can evolve in the future – the post 2020 period -  towards a more real and dangerous threat. Hence the decisions on enforced regulations and counter drones capacities.Law and regulations The need to work on new rules is obvious because the use of drones that was once reserved for the armed forces has been growing in the public. Drones, which are remotely piloted aircraft, are regarded by the law as conventional aircraft. They are therefore subject to the same flight bans in certain areas, and violation of these provisions exposes offenders to the same penalties. Since 2012  the pilots of ‘leisure drones’ must pilot at sight, within a maximum altitude of 150 m As far as the Nuclear power stations are concerned, any overflight of these installations at less than 1000 meters of altitude and within a five-kilometer zone around the power station is prohibited. Since 2009, the specialized platoons of the gendarmerie (PSPG), responsible for the security of the Critical Nuclear Plants have arrested 156 people during intrusion attempts, mostly by environmental extremists. There is no criminal offence specific to illegal intrusion into civilian nuclear installation and fraudulent entry is prosecuted on the same basis as intrusion into a single house. The offender risks up to one year in prison and 45,000 Euros in fines. But an analysis of judiciary decisions shows that the prosecuted persons are sentenced to light penalties, therefore not very dissuasive. Investigations have shown that a large proportion of illegal over flights were carried out by people who were unaware of the drones regulations. Regulation must evolve towards greater responsibility of tele pilots to reduce the number of risky behaviors and malicious uses.  At the same time, one must make sure that an economically dynamic sector is not strangled by new regulations. Several proposals have been raised on the strengthening of the legal framework for the protection of nuclear installation, notably the possibility for local homeland authorities to regulate the movement and parking of vehicles within a radius of 5 kilometres around the installations (ruling n°2014-792 du 10 July 2014). Then in October 2016 the parliament passed a law on increasing the safety of the use of civilian drones, which will be fully implemented in 2018. This law creates the offence of overflying prohibited areas listed specifically, including nuclear power plants. The law now sanctions the use of drones in these areas, "by clumsiness or negligence", with up to six months in prison and a fine up to 15,000 Euros. If their mass exceeds 800 grams, drones should be equipped with a light fleshing device, an electronic signalling device and a capacity limiting device.  Their pilots must have a specific training and know the conditions of use related to aerial navigation. Additional measures might be considered in the future, such the installation onboard drones of a transponder which obliges to give the position in the airspace or of a “chip” allowing remote deactivation by the law enforcement forces. At the EU level, recommendations were issued on November 10, 2016 by the transport committee of the European Parliament asking the EU to finalize regulations covering oversight of the operation of unmanned aircraft systems in civilian airspace. The European Commission would be responsible for drafting safety rules for the design and operation of drones, including situations in which additional systems are required to limit their altitude or access to sensitive sites. It would also establish procedures for registering and marking unmanned aircrafts. The control of nuclear risks is made of two complementary approaches that have their own logic : Safety and Security which generally have two different meanings (Ref IAEA Glossary):  Safety, i.e. prevention of accidents, is mainly a technical issue while Security, i.e. prevention and detection of malicious acts is mostly connected with intelligence. From the hearings, it appeared that coordination of safety and security issues is essential. There can be no dissociation of the two subjects.The question of safety is governed in a clear way. The Nuclear Safety Authority, which is an organization independent from the government, establishes the safety requirements and verifies that the operators, of whom safety is the primary responsibility, comply with these rules. Intervention in the event of an accident is the responsibility of the operator EdF and the specialized nuclear services. On the security side, since 2009, EDF’s 20 civilian nuclear sites are under the protection of specialized gendarmerie protection platoons (PSPG). The number of gendarmes per site varies from about forty to fifty, with specific equipment and training. Their task is to neutralize a terrorist threat as defined by the national safety directive for the nuclear sector. In case of intrusions, their priority mission is to regroup around the points of vital importance of the site in order to secure them, and not to prosecute non violent militants. Only when all risks to the point of vital importance are removed that intruders can actually be apprehended. As far as Drones are concerned, the action of Gendarmerie is not isolated. The law enforcement action in airspace and compliance with no-fly zones is under the responsibility of the Air Force National Air Operations Center. Actions can go as far as the destruction of a threatening aircraft. The High Authority for Air Defence (HADA) under the direct authority of the Prime Minister contributes to the compliance with the Civilian Aviation Code regulations, in particular with regard to the overflight of prohibited areas. The mission requires robust coordination with numerous bodies: police, gendarmerie, customs, the Civilian Aviation Agency, the airlines and air clubs, the centralization of all information and a decision making in a single place. The coordination tool is the SGDNS and intervention in the event of a threat is the responsibility of the government, the Gendarmerie and the Air Force. Even if one wishes to mix the Safety and Security functions, it is impossible to question the sovereign prerogatives of the State which is the only one authority empowered with the employment of Police and Military forces. So the future lies in greater on site coordination between the two structures, an integrated decision making process and a larger public communication through An existing but underused dialogue body called the High Committee for Transparency and Information on Nuclear Safety (HCTISN). Counter drones capacities All the 2014 hearings highlighted also the need for the Services that have responsibility for airspace security and public safety to be equipped with the appropriate means to more easily detect malicious uses, identify the devices involved and their telepilots and, where appropriate, neutralize those aircraft before they cause damage. . The GSDNS provided 1M € funding to increase the research effort, particularly on detection. Small aerial drones are slow, fly low and are not metallic. Given their small Radar Equivalent Surface (SER) detection is to be based on a combination of various means such as passive radars and acoustic. Audio allows a panoramic pre-detection; then it is possible to aim with a video to determine in a smaller angle what we are dealing with. Some years ago, the Franco-German AVALON project, which means Automatic Detection of Drones by audio and video methods, was developed by the Franco-Research Saint-Louis Institute. For the neutralization, one can imagine passive countermeasures such as passive protection of the targets with nets or smoke or jamming techniques, either data link jamming or jamming the GPS, making the drone blind, and active counter-measures such as kinetic defenses and laser defense systems with option of blindness of the sensors. Three projects which are built of known “technology bricks” were supported in 2015 and 2016 by the National Research Agency : The ANGELAS project combining active and passive radar, radiogonometry and also acoustic detection will identify the flying object through high-resolution camera and create an electronic bubble that will jam the radio link between the suspect drone and the radio controllerThe BOREADES project which uses a combination of optics and electronics to identify the targetThe SPID project which focuses on the same technological assets but has the particularity of being installed in a vehicle and being able to be deployed in less than 30 minutes. From a live presentation organized on November 18 2016, we concluded that it is easier to spot a small drone than to neutralize it: they can evolve in GPS programmed flight without a radio link; and interfering with the GPS link can induce collateral effects on many users. If the drone is destroyed by kinetic action, the debris can hurt people or damage installations when falling on the ground. The Air force announced it had acquired eagles capable of intercepting and neutralizing drones in sensitive areas (4 royal eagles). Police in the Netherlands have been training bald eagles to intercept small drones from some years.Of course, France is not the only nation threatened by malicious drones. In the United States, Michigan Tech University developed a drone interceptor that catches a drone by dropping a net. Others methods are envisaged such as jets of water mixed with others components. In Israël, Rafael Advanced Defense Systems unveiled in April 2016 the Drone Dome, a system which uses radar and cameras to detect and track the movements of drones flying in prohibited areas and then disrupts their electronic systems, thereby ending.ConclusionToday, the French authorities speak of ‘a real, emerging and evolving threat” which will become a very common one after 2020 and that we should neither dramatize nor downsize. Nuclear plants are not likely to be the most worrying targets in terms of damages when compared with airports for example. But as soon as we talk of nuclear, some kind of paranoia raises into public opinion. For the future, the challenge remains to detect who are the potential aggressors before they act through a difficult homeland intelligence process and then to determine who is empowered to decide for the neutralization of a drone, an action  that might result in many unwanted and dangerous side effects.  References1. NDSGD report, October 2015.
+Gallery / Galerija slika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Izrada i hosting Institut za elektroničko poslovanje, 2016.
+
+						 | 
+						Uvjeti uporabe | 
+						Izjava o privatnosti

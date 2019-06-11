@@ -1,0 +1,187 @@
+url: https://www.dataforensics.org/drone-forensics/
+
+
+
+
+
+
+
+
+Drone Forensics - Detailed Analysis Done & Explained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us    Live Chat 
+
+
+
+
+
+
+
+    
+ 
+
+
+Home
+Freebies
+News
+Updates
+Support
+Company 
+
+About Us
+Contact Us
+Forums
+
+
+
+
+
+
+
+
+
+
+
+ Data Forensics / Drone Forensics: An Unrevealed Dome
+Blog
+
+
+
+
+
+
+
+Drone Forensics: An Unrevealed Dome
+Anuraag Singh | October 26th, 2017 |				    News
+“Drone technologies used in Crime” this idea has cloaked the minds of US government since the involvement of drone has been encountered in an illegal panorama that can be killing of human, unlawful video and/or image capturing or haulage biological and/or chemical destructive weapons. So, increase in criminal cases involving drones or we can say UAV (Unmanned Aerial Vehicles) draws the attention of Forensic evangelist. The arena called Drone Forensics is a subsystem of Wireless Forensics (Wi-Fi Forensics) which is a part of Digital Forensics. So we can say Drone forensics is a category of Digital forensics.
+What is a Drone?
+The aircraft with no pilot on board or a remotely controlled aircraft is known as UAV ( an acronym for Unmanned Aerial Vehicle) often called Drone. Federal Aviation Administration (FAA) is a US body that controls and sets the drone rules and regulations. Basically, to fly UAV in the US for non- recreational purpose a Certificate of Authorization (COA) is needed from FAA.
+
+What is Drone Camera?
+Drone deployed with camera in its aerial system structure used to capture video or image of the specified or targeted area is referred as drone camera. Drone camera is kind of flying quad-copter with a camera which can be remotely or automatically controlled by the tablet or a mobile (specifically by handheld device). In technical terms work of a drone is to collect the data and transfer it to the centralized server for storage.
+
+System Components
+
+In this section, outward airframe structure is not elaborated as from the forensic point of view outward airframe is not an important domain. The inside airframe of the drone camera is the part used to recover evidence and artifacts. Major System Components are mentioned below.
+
+Imaging Sensor’s and Data Collection
+Antenna Tracking System
+Detectors, Spectrometers, and Spectrophotometers
+Autopilot Navigation
+UAV Engines
+Ground Stations
+Launch System
+Auto landing Recovery
+
+
+Hardware Configuration In Drone Camera
+
+Hardware configuration for the Wireless drone Camera is composed of the wireless router which consists of a wireless chipset that operates at 802.11 frequency set according to the specifications.
+For collecting and forwarding the data a high power CPU is equipped. Front and vertical HD camera are being deployed to provide full range coverage.
+Various sensors such as image sensors, embedded inertial sensor (gyrometers and accelerometers), and velocity sensors or absolute position (such as GPS) are used mostly depending on the type and purpose.
+Remote Device and USB is used to save the data.
+
+Software configuration In Drone Camera
+
+Software configuration for the Wireless drone camera is composed of an embedded OS (operating system) and window sniffer to acquire traffic. Mostly Linux is preferred as OS for drone and for 802.11 wireless network detection, intrusion detection and for sniffer Kismet System is used.
+Why Drone Forensics?
+Mainly Drone was invented with a mindset that the system will be used for recreational activities, at the time of disaster’s, ecosystem monitoring and for other activities which will be helpful for education, inventions, entertainment, security surveillance services. But unfortunately, a technology can be harmful if it is not used for good deeds. Same is the case with drone device as the evolvement of drone device in illegal actions such as at the time of wars drone camera are used for keeping a spy on opponents, drone deployed with weapons used for mass devastation. So the evolvement of drone in crime has sought the attention of forensic researchers towards Drone Forensics.
+What is Drone Forensics and its Ontology? 
+A branch of digital forensics encircling the recovery and investigation of drone device found in crimes is referred as Drone forensics. Basically, the drone is wireless device so it’s forensic is subsystem included in the wireless forensic model as a server is also involved in the operation, the drone is being controlled by the Server at the ground level. So It involves the forensics of the server present at ground level where information is being transferred and stored and the forensics of the drone device. Here the prime focus is to discuss the Forensic Ontology for drone camera. Drone Forensics is the amalgamation of various forensic done on an individual component of the drone. Some sectors are mentioned below which comprise of the basic drone ontology.
+OS Forensics: – Operating system can be a good source to gather the information. Servers at the ground to which Drone is connected and drone itself need an OS to operate. LINUX is the one which is most preferred one and deployed at both the ends. LINUX file system can be a great source to have artifacts and evidence. The data in Kernel file system is valuable in the investigation. Root file systems (Ext2, Ext3, Ext4), JFS, Resier FS and XFS file systems of LINUX can be a great help in file carving.
+SNIFFER APPLICATION FORENSICS: – The sniffer application used at both the ends is a great source of artifacts and evidence. ”Kismet” is the most preferred application system used in drones. The log files of the Kismet are stored in /var/log/kismet directory and support dump, csv, network, XML, Cisco, weak, GPS are the File type supported in Log of kismet. So artifacts can be drawn from these file types.
+IMAGE FORENSICS: – The Drone Image forensics can be done on the bases of below-mentioned categories:-
+
+Format-Based Forensics: – In this, the type of format supported by the camera used is important. Mostly the latest drones are supporting digital HD camera which supports JPEG file. So performing file carving on JPEG file structure can help to get useful artifacts. The JPEG image structure consists of the header in the beginning with “FFD8FFEO” and trailer at the end with “FFD9” and rest is the image text itself. The header consists of the thumbnail version of the image and three components of the camera signature can be collected from the thumbnail. Similar artifacts can be gathered by performing file carving on any image format depending on format supported by the drone device and the server at the ground.
+
+
+Camera-Based Forensics: – Single sensors with conjugation of color filters are used to capture Color images by the digital camera. The recorded image by pixels consist of noise can be used for forensics.
+
+
+Geometric-Based Forensics:- The coordinates used by the camera can be used for the forensic purpose. And the coordinates of the device are also helpful.
+
+
+Video Forensics:-Motion, Re-projected, Projectile are some areas or we can say domain which is used for video forensics.
+
+So doing the file carving on all above-mentioned categories can be beneficial in drone forensics.
+Summary
+Altogether, it can be summarized that drone forensics ontology is based on the separate forensics or can say file carving of OS supported by the device, Image, and Application used for sniffing at drone device and server-side separately. The OS, IMAGE and SNIFFER APPLICATION are a rich source of artifacts and evidence in the case of Drone Forensics.
+
+
+
+  
+
+
+
+     
+
+
+
+     
+
+
+
+
+
+
+
+
+  © 2019 Data Forensics | All Right Reserved.
+
+
+ Legal | HTML

@@ -1,15 +1,15 @@
+url: http://www.lucintsystems.com/
 
 
 
 
 
 
+Lucint Systems
 
 
 
 
-                            Power line inspection with UgCS
-                    
 
 
 
@@ -17,169 +17,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-UgCS
-
-
-
-
-
-
-Applications
-
-
-
-
-UgCS Photogrammetry tool for land surveying
-
-
-UgCS for magnetic and other low altitude mission planning
-
-
-UgCS for PV Solar Panel inspections
-
-
-UgCS for Powerline inspections
-
-
-UgCS for GPR-drone integrated system
-
-
-UgCS for GPA-drone integrated system
-
-
-
-
-
-
-Supported Drones
-
-
-
-
-Pricing
-
-
-
-
-Download
-
-
-
-
-Download UgCS
-
-
-Download UgCS for DJI
-
-
-Download UgCS 3.3 BETA
-
-
-UgCS v.2.13 for UgCS ONE
-
-
-Download Telemetry Sync Tool
-
-
-
-
-
-
-Support
-
-
-
-
-Get Support
-
-
-UgCS Manuals
-
-
-F.A.Q.
-
-
-How-to instructions
-
-
-Video Demo & Tutorials
-
-
-Annual Support&Upgrade packs
-
-
-UgCS SDK
-
-
-
-
-
-
-Resellers
-
-
-
-
-NEWS
-
-
-
-
-About
-
-
-
-
-Contacts
-
-
-Education partners
-
-
-Meet the team
-
-
-Services and Experience
-
-
-Careers
-
-
-Membership & initiatives
-
-
-EU Funds
 
 
 
@@ -196,313 +33,227 @@ EU Funds
 
 
 Home
+Products
+Applications
 
+Company
 
 
 
 
 
 
-Powerline inspection with UgCS
-For the overall surveying industry, including powerline infrastructure inspection - Aerial Unmanned Vehicle (UAV) usage brings vital time and money saving and decreases exposure of staff to dangerous environments. 
-UgCS provides convenient tools to acquire data of any powerline inspection type to detect:
 
-Concrete basement defects
-Insulator overheating
-Wire overheating
-Wire breaks
-Tower mechanical defects
-Corridor inspection to detect unauthorized objects or vegetation in secured territory
-Wire sag estimation
-Corona detection*.
-     
 
-In the following sections, we will explain specifics on how to perform a powerline inspection using the functionality and tools of UgCS. The process consist of the following steps: 
 
 
-Import inspection area coordinates (e.g. the positions of powerline towers)
+Home
+Products
+Applications
 
-Plan the mission
-    
-Choosing the equipment: drone and payload
-Inspection mission planning
-Deploy ground control points
+Company
 
 
+☰ Menu
 
-Fly the inspection mission
 
-Process acquired data:
-    
-Image geotagging
-Image processing
 
 
-Import map into UgCS for repeated inspections (optional).
-     
+Lucint builds imaging systems.
+Fully-automated and flight-ready, Lucint's multispectral photogrammetry systems provide reliable service in rugged environments.
 
-1. Import inspection area coordinates
-Defining the geography of inspection is the essential thing for mission planning. Typically customers ordering an inspection provide coordinates of the inspection area to UAV service provider in some common format like CSV or KML. To import a linear object from CSV/KML format files into UgCS:
 
-In mission editor click “Add new route”
-Select “Import” in file option and browse the needed CSV / KML file*
-Press "Next" and continue with UgCS standard route creation procedure (see chapter Plan mission).
 
-*Please note that KML/CSV import is available for UgCS PRO and UgCS ENTERPRISE users.
-Image 1: Linear powerline inspection route planned in UgCS 
-2. Plan mission
-Choosing the equipment: drone and payload
-For UAV survey missions the choice lies between fix wing or copter drones. UgCS supports both UAVs types, therefore the choice of equipment, depends on the type of inspection. The most obvious pros and cons of fixed-wing vs. copter drones:
 
+Automated Photogrammetric Cameras
+Lucint provides rugged, industrial-quality  cameras, systems, and components. Fragile consumer cameras can't withstand the abuse of long-term commercial field service. And, the short life cycle of consumer cameras limits the potential return on investment. We build tools, not toys.
+We design for any aerial or terrestrial platform, many spectral bands, and a wide range of spatial resolutions. Small UAVs can easily carry our Lucint12 camera - a complete aerial imaging system-in-a-box. Our systems, designed for small light manned aircraft, collect thousands of acres of imagery, faster and more cost-effectively than drones.
+ We have extensive experience designing, building, and integrating multi-camera collection systems that cover the full spectral range from UV to long wave/thermal IR. Image processing experience allows us to deliver useful, actionable final products.
+How We Configure Systems
+Lucint will rapidly configure a system to meet your imaging requirements. With our modular approach using both commercial off-the-shelf products and hardware of our own design, we can build your system quickly and cost-effectively. We cover UV, RGB visible, NIR, SWIR, and LW, thermal IR bands.  Additionally, when the application requires it, we tune the system to narrow spectral bands of interest. In addition to focal plane arrays, we also have experience blending LIDAR data with imagery.
 
+System Configuration
 
-Fixed wing
-Copter drones
 
 
 
-Pros
+Our modular approach allows us to configure a systems customized to your specifications, at an off-the-shelf price.  We can deliver your system quickly and cost effectively.
+We cover the spectral range, to cover your requirements. By integrating GPS and IMU systems, we augment the imagery with precise metadata.
 
 
-long range
-high speed
 
+Image Processing
 
 
 
-hover over an object
-possible to fly very close to an object
-lower safe altitude
-high payload capacity
-small area for take-off and landing
 
+We process the collected imagery into useful products. For agricultural applications, we deliver full-color RGB, NIR, color IR, and NDVI imagery.   For various construction, utilities, and inspection tasks, we extract 3D information, or overlay the imagery on LIDAR data.
+ Please discuss your needs with us -- we can develop custom processing algorithms to turn images into answers.
 
 
 
-Cons
 
 
-not possible to hover
-not possible to fly very close to an object
-higher safe altitude
-smaller payload capacity
-bigger area for take-off and landing
-images can be blurry due to high speed
+Imaging System Products
 
 
 
 
-short range
-low speed
 
+Lucint12 Vision
 
+Includes on-board processing, image sensor, GPS, lens controller, storage in a small, light, weatherproof enclosure.
 
 
 
 
-Also for the sensors, the best way to choose the right one is to determine the needed result.
-A brief summary of EO, IR, UV cameras or LIDAR application, according to powerline inspection type:
 
 
+Multi-camera Systems
 
-Inspection type
+Lucint can configure multiple cameras to cover multiple bands and increase swath width and coverage.
 
 
-Suitable payload
 
 
-Output product for analysis
 
 
+LucintEB
 
+LucintEB controls, downloads, and synchronizes multiple thermal cameras and simplifies cabling.
 
-Concrete basement defects
 
 
-EO camera
 
 
-Images
 
+Custom Imaging Systems
 
+An imaging solution built and designed to meet your application and needs.
 
 
-Insulator overheating
 
+View all Products
 
-IR camera
 
 
-Images or video
+Lucint Camera System Features
 
+  Configurable
+  Cost-Effective
+  Complete
+  Manufactured in the USA
+  Georeferencing Metadata
+  Extended Temperature Range
 
 
 
-Corona detection
 
+Looking for a custom solution?
+Contact Us
 
-UF camera
 
 
-Images or video
 
+Applications
+Lucint develops systems for a wide variety of applications. In the growing Ag market, our ability to capture and process multi spectral data is key to maximizing yield. From utility lines to gas leak detection to corona detection, our imaging systems can provide data necessary for safety and maintenance. Surveying construction projects with multiple image collections throughout the effort gauges resource management and productivity. Call us and let’s discuss the specifics of your application. 
+Learn More
 
 
+Camera Platforms
 
-Wire overheating
 
 
-IR camera
 
 
-Images or video
 
+Manned Aircraft
 
 
+Given current limits on UAV capabilities and regulations, small light manned aircraft deliver the quickest, and most cost-effective method to cover large areas.  Our multi-camera systems were designed for ease of integration. 
 
-Wire break
 
 
-EO camera
 
 
-Images or video
 
 
+Heavy Lift UAV
 
 
-Tower mechanical defects
+For heavy lift multirotor drones, we have developed multi-camera, multispectral systems including RGB, NIR, and long wave thermal imagers.
 
 
-EO camera
 
 
-Images or video
 
 
 
+Small UAV
 
-Corridor inspection, detection of unauthorized objects and vegetation in secured territory
 
+Our Lucint12 camera includes a sensor, GPS, lens controller, and processor in a small, light, rugged, weather-proof enclosure. At 19 ounces, medium size UAVs can easily carry this payload.
 
-EO camera
 
 
-Point cloud from images
 
 
 
+Get in Touch!
 
-LIDAR
 
 
-Point cloud
 
 
+First Name: (required)
 
 
-Wire sag estimation
 
+Last Name: (required)
 
-EO camera
 
 
-Point cloud from images
 
 
+Organization: 
 
 
-LIDAR
 
+Title: 
 
-Point cloud
 
 
 
 
- 
+Email: (required)
 
-Image 2: Picture taken with EO camera (image courtesy © Fly & See)
- 
 
-Image 3: Picture taken with IR camera Flir Vue Pro 640 (image courtesy © Fly & See)
- 
 
-Image 4: Point cloud from RiCOPTER with VUX-SYS (VUX-1UAV + IMU/GNSS unit)
-(image courtesy ©Riegl Laser Measurement Systems)
- 
-Planning the route
-Having geography data and suitable equipment for the inspection, the route can be planned in UgCS. There are several important features that may greatly simplify planning.
-Working with multiple segments/waypoints simultaneously
-In UgCS it is possible to select multiple waypoints at the same time. To select all waypoints click CTRL (cmd)+A or while holding CTRL (cms) select individual waypoints. It will be possible to bulk edit:
+Telephone: 
 
-speed;
-altitude;
-turn type;
-add/remove actions (e.g. camera by time or servo by time).
 
 
-Image 5: UgCS route inspector
-It is also possible to move and rotate selected waypoints at once with the handle.
 
-Image 6: Handle to move or rotate selected segments
-Usually, for inspection, the GSD is set relative to the ground. For some powerline inspections, it is needed to set GSD relative to the wire. In this case, the inspection's latitude should be increased to tower height.
-Using circular segments
-To inspect the tower from a different point of views around it, the UgCS Circle tool should be used. UgCS will direct the drone to look to the center of circle route.
+Comments: 
 
-Image 7: UgCS Circle route
-Control gimbal to capture nadir or oblique images
-Depending on autopilot support, UgCS support actions to control camera attitude along the route. Therefore it is possible to set the camera to nadir or oblique position, to take images according to desired inspection's goal.
 
-Image 8: UgCS camera control parameters
-Control video recording setting along the route
-UgCS enables to control camera's recording mode - e.g. it is possible to set, that video recording starts just before the powerline's tower and stops right after the drone has passed the tower. This is useful to reduce video length - simplifying acquired data analysis - having videos with only useful data.
-To set up video recording (for integrated cameras like DJI's) only for specific part of the route:
 
-insert additional points before and after the tower
-for the point before tower add "Set camera mode" action to "start recording"
-for the point set after the tower - add "Set camera mode" action to "stop recording"
 
 
-Image 9: Adding "Set camera mode" action to start/stop recording
-Route planning in complex elevations
-For inspection flights at a complex landscape, it is mandatory to check the whole route according to landscape profile. UgCS provides several means to create a safer flight:
 
 
-UgCS elevation database - the data itself is an SRTM with 90m precision
 
-UgCS PRO / UgCS ENTERPRISE users have the option to import any elevation data (DEM) for the inspection region
 
-UgCS route planner always tries to calculate actual flight path in a safe distance from digital elevation model (DEM)
-The Elevation profile view displays the path and respective elevation along it.
 
 
-Image 10: UgCS Elevation profile view
-Deploy ground control points
-Ground control points have to be used to create Survey-Grade result. For a map with approximate precision, it is sufficient to rely just on RTK GPS and capabilities of data processing software. 
-3. Fly the inspection mission
-If the mission is planned carefully, flying it is the most straightforward step. We will not go into detail in this topic, as flying the mission depends on chosen UAV and equipment (for detailed information, please refer to equipment’s and UgCS documentation).
-Important issues before flying:
+Address
+6635 North Baltimore Ave 
+						Suite 283 
+						Portland, OR 97203 
 
-In most countries, there are strict regulations for UAV usage. Always comply with the regulations! Usually, these rules can be found on the website of local aviation authority.
-In some countries, special permission for any kind of aerial photo/video shooting is needed. Please check local regulations.
-In most cases missions are planned before arriving in flying location (e.g., in office, at home) using satellite imaginary from Google maps, Bing, etc. Before flying always check actual circumstances at the location. There could be a need to adjust take-off/landing points, for example, to avoid tall obstacles (e.g., trees, masts, powerlines) in the inspection area.
+Phone: 503-383-1815
 
-4. Process the acquired data
-Image geotagging
-Image geotagging is optional if ground control points were used, but almost any data processing software will require less time to process geotagged images.
-Some latest and professional drones with an integrated camera can geotag images automatically during flight, in other cases, images can be geotagged in UgCS after the flight.
-Very important: UgCS uses telemetry log from the drone, that is received via a radio channel, to extract drone’s position for certain moment (when pictures were taken). To geotag pictures using UgCS assure robust telemetry reception during flight.
-For detailed information how to geotag images using UgCS refer to UgCS User Manual.
-Image processing
-Starting UgCS PRO version 2.12 UgCS MAPPER beta is launched - a desktop geo-referenced image processing software, to create 2D maps in-field, requiring no internet connection. In-field assembled map provides certainty for UAV surveyors that acquired images quality and density is sufficient. This information is crucial to decide whether the flight should be repeated before leaving the inspection area.
-To make more detailed analysis and 3D models from acquired images, third-party software can be used. 
-5. Import map into UgCS for repeated inspections (optional)
-Powerline inspections usually have to be repeated regularly. Data acquired during the first inspection flight can be imported into UgCS as map layer (GeoTiff file) and used for more precise mission planning. Detailed instructions how to use Map overlay can be found in UgCS User Manual.
-*Corona detection with UF camera is still a very specific topic for UAV. More detailed information on this topic can be found: http://www.ofilsystems.com/articles/index.html
- 
-UgCS Tutorial: Simple Mission planning
-Tutorial demonstrating how to plan a simple mission combining linear and circle flight path in UgCS v.2.11.
+Social
 
 
 
@@ -510,49 +261,13 @@ Tutorial demonstrating how to plan a simple mission combining linear and circle 
 
 
 
+Privacy Policy
 
 
 
 
 
+			© 2019 Lucint Systems, Inc. • All Rights Reserved.
+		
 
-
-
-
-        Partners and Resellers
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-More...
-
-
-
-
-
-
-UgCS.com is operated by SPH Engineering, Latvia. © SPH Engineering - all rights reserved.
- Software EULA |  Terms of Sale | Privacy  |  Cookies
+Website by MK

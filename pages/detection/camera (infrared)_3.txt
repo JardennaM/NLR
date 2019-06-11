@@ -1,278 +1,150 @@
+url: https://www.dronezon.com/learn-about-drones-quadcopters/9-heat-vision-cameras-for-drones-and-how-thermal-imaging-works/
 
-
-
-
-
-Security and surveillance - Thermal camera embedded on drone - AltiGator Drone & UAV Technologies
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+10 Thermal Vision Cameras For Drones And How Thermal Imaging Works | DroneZon  
  
-
-
-
-
-
-
-
-
-
-Skip to content
-
-
-
-
+  
  
+DroneZon
+Drone Technology, Knowledge, News & Reviews
+
+Toggle navigation
 
 
 
-Toggle mobile menu
+
+Menu -->DroneZonDrone KnowledgeBest Drone VideosDrones For GoodDrone ReviewsDrone KnowledgeDrone DIY DJI Drones3DR DronesParrot AR DronesYuneec DronesGeneral DIYAerial Photo And Video Aerial FilmingAerial PhotographyDrone CompaniesLatest UAVs NewsBuying TipsAbout Us10 Thermal Vision Cameras For Drones And How Thermal Imaging Works
+Posted February 17, 2019 by Fintan Corrigan
+A thermal imaging camera on a drone turns it into a powerful tool, which can be used in many sectors from construction, mining, electrical, surveillance, firefighting, search and rescue.Thermal drones which use vision imaging cameras have so many positive uses by detecting heat coming from almost all objects and materials turning them into images and video.Below, you will find information on how thermal imaging works, how to interpret thermal images, heat maps and color scales.You will find the best heat vision cameras for drones, thermal imaging kits, gimbals, camera mounts and thermal drones on the market.You will also read about similar but different technologies such as illuminated infrared cameras and night vision cameras. At the end we take a brief look at the various sectors, which use thermal imaging cameras on drones.
+
+ Along with thermal cameras, drones can carry many other types of sensors and cameras covering many sectors.  We are hearing about new uses for drones every week.  Drones certainly are making a big impact in our everyday lives without us even knowing it.  You can read about these in our best uses for drones article.About Thermal Imaging Camera TechnologyHow Does Thermal Imaging Work AnsweredHeat vision cameras or thermal imaging cameras are in fact really heat detecting sensors. These thermal cameras are also known by various names including;Thermal CameraHeat Vision CameraThermal Vision CameraThermal Imaging SensorThermal Imaging CameraTemperature Sensor CameraThermal Heat Vision SensorHeat Signature CameraHeat Sensor CameraThermal vision cameras make pictures or video from heat, not visible light. Heat (infrared thermal radiation) and light are both parts of the electromagnetic spectrum. However, a camera, which can detect visible light will not see thermal radiation and vice versa.Thermal cameras detect more than just heat. Heat vision cameras detect the tiny differences in heat, even as small as 0.01° Celsius. This information is then displayed as various colors on a display, in thermal software or apps.Thermal Radiation And Heat SignaturesEverything in our lives give off thermal energy, even ice. The hotter something is, the more thermal energy it emits. This emitted thermal energy is called a “heat signature.”The hotter the object, the more it radiates. The Sun obviously radiates off more energy than a hot cup of tea. The temperature also affects the wavelength and frequency of the radiated waves.Objects at typical room temperatures radiate energy as infrared waves. When you see thermal photographs or videos of the radiation surrounding a person, animal or a hot mug of coffee, the energy radiated from the object is usually a range of wavelengths. This is usually referred to as an emission spectrum.As the temperature of an object increases, the wavelengths within the spectra of the emitted radiation also decrease. Hotter objects emit shorter wavelength, higher frequency radiation.For example, the coils of an electric toaster are considerably hotter than room temperature and emit electromagnetic radiation in the visible spectrum.  The coils on the toaster glow red and we can feel the heat by putting our hands near the coils providing us with a convenient warning that the coils are hot.
+
+ Thermal radiation can occur through matter or through a region of space that is void of matter (a vacuum). The heat received on Earth from the Sun is the result of electromagnetic waves traveling through the void or vacuum of space between the Earth and the Sun.Quick Scientific Explanation Of Thermal RadiationThermal radiation or heat, is the discharge of electromagnetic waves from all matter, which has a temperature greater than absolute zero (−273.15° Celsius). It converts thermal energy into electromagnetic energy.All objects radiate energy in the form of electromagnetic waves. The rate at which this energy is released is proportional to the Kelvin temperature (T) raised to the fourth power.Thermal energy consists of the kinetic energy (all moving things) of random movements of atoms and molecules in matter.These atoms and molecules are composed of charged particles (protons and electrons) and kinetic interactions among matter particles which result in charge-acceleration and dipole-oscillation.This results in the electrodynamic generation of coupled electric and magnetic fields, resulting in the emission of photons, radiating energy (thermal radiation) away from the body through its surface boundary.Thermal Sensitivity NETD (mK)When you look at the specifications of a Thermal Camera, you will often see the technical details for  “NETD”. This NETD expression stands for Noise Equivalent Temperature Difference.It is a measure for how well a thermal imaging detector is able to distinguish between very small differences in thermal radiation in the image. NETD is typically expressed in milli-Kelvin or mK.It is also sometimes referred to as “Thermal Contrast”. Basically it is when the noise is equivalent to the smallest measurable temperature difference, the detector has reached its limit of its ability to resolve a useful thermal signal. The more noise there is, the higher the NETD value of the detector.
+
+ How NETD Is MeasuredIn order to measure the noise equivalent temperature difference of a detector, the camera must be pointed at a temperature controlled black body. The black body needs to stabilize before starting the measurement. The noise equivalent temperature difference is then measured at a specific temperature. It is not a single snapshot measurement, but rather a temporal measurement of noise.You can read further on NETD in this article entitled “What Is NETD In A Thermal Camera“.Infrared ThermographyIR thermography is the method of transforming an infrared image into a radiometric one which allows temperature values to be read from the image.How To Interpret Thermal ImagesMost thermal cameras produce a video output in which white areas indicate maximum radiated energy and black areas indicate lower radiation. The gray scale image contains the maximum amount of information.However, in order to ease general interpretation of thermal images and facilitate subsequent presentation, the thermal image can be artificially colorized.This is achieved by allocating desired colors to blocks of grey levels to produce the familiar colorized images. This enables easier image interpretation.Additionally, by choosing the correct colorization palette, the image may be enhanced to show particular energy levels in greater detail. What Is Emissivity In Thermal Imaging?To read correct temperatures, another important factor needs to be taken into account. That is a factor known as emissivity.Emissivity is the efficiency, which an object emits infrared radiation and is highly dependent on properties of the material or object. It is a measure of the efficiency of a surface to emit thermal energy relative to a perfect black body source. It directly scales the intensity of the thermal emission and all real values are less than 1.0.The emissivity may be highly dependent on the surface morphology, roughness, oxidation, spectral wavelength, temperature and view angle. A measurement that does not account for the real emissivity of a surface will appear “colder” than it actually is.For agricultural applications, many organic materials and materials with very rough surfaces have emissivity values approaching 1.0. For other applications, including power line and solar cell inspection, the surface might be a highly polished glass or metal, both of which can have much lower emissivity values.It is important for the thermal camera to be set to the correct emissivity or incorrect temperatures will be measured.What Is Reflectivity In Thermal ImagingReflectivity is a measure of the ability of a surface to reflect radiation. A camera close to a surface is sensing both the heat sustained from the surface temperature and the reflected background environmental temperature. It is very challenging to make temperature measurements of a highly reflective surface because the image is influenced by the background thermal reflections.In a UAS application, an unpainted and clean metal roof can appear colder than it actually is because the shiny roof reflects the sky above it. Consider the case of a stainless steel sheet on a rooftop, 0.80 reflectivity and 0.20 emissivity, a radiometric temperature measurement would be highly biased towards the reflected background temperature of the sky.
+
+ A clear sky may have a background temperature, which is typically well below 0°C and possibly as low as -20°C. The actual sky background temperature will vary depending on atmospheric conditions and time of day.Reflective surfaces pose additional challenges in UAS applications. Reflection of the sun in the thermal image will appear as sun glints. Radiometric temperature measurements of the sun glints can be inaccurate by hundreds of degrees.It is advisable to take a sequence of images of the surface from different angles to reduce the influence of any single sun glint. However, care must be taken to not make measurements at exceedingly oblique angles because reflectivity degrades based on view angle.Alternatively, a very close range and straight on measurements can result in the camera viewing a reflection of itself and result in inaccurate measurements.Much like emissivity, the reflectivity of a surface is highly dependent on the surface morphology and roughness.Since reflectivity (R) is related to emissivity (E) by R = 1-E, the importance of reflectivity can be greatly reduced by making measurements of surfaces with very high emissivity, ideally greater than 0.90.For UAS measurements of controlled surfaces, such as a steel tank on a rooftop, high emissivity/low reflectivity matte-flat black paint can be used to make “measurement patches” that result in highly reproducible measurements.What Can Heat Vision Cameras Capture? Thermal energy is radiated off nearly every source on our planet and in our Universe.  Heat vision cameras can capture images and differences in heat emitted from the following;Living Species – People, animals and vegetation.Buildings – Skyscrapers, buildings, factories, houses and tents.Machinery – engines, conveyor belts and assembly lines.Planes, Boats and Vehicles – all types of automobiles, boats and vehiclesElectrical – circuits, power lines, capacitor, coupling capacitor and insulation etc.Land, rocks and buoys – These absorb heat from the sun during the day and radiate it off during the night.Liquids and gas – these all emit thermal radiation and detected by heat vision cameras.Because different materials absorb and radiate thermal radiation at different rates, an area which we believe has only one temperature will have many subtly different temperatures.  For example, looking at a person through a heat vision camera will show that our bodies have small temperature differences from one area to another.A heat vision camera detects these temperature differences and translates them into image detail.
+
+ Heat Vision Cameras In Dust, Smoke Fog And  RainDust and Smoke – The mining industry are big users of thermal cameras.  In a mining environment, if visible light or digital cameras are used for monitoring, they will miss out on any potential defects as mining environments are often very dusty. Thermal can see through dust and smoke due to their infrared wavelength, meaning that it is able to detect any heat energy through most environmental conditions.Fog and Rain – Although thermal imaging cameras can see in total darkness, through light fog, light rain and snow, the distance they can see is affected by atmospheric conditions.A thermal imaging camera produces an image based on the differences in thermal radiation that an object emits. The further this infrared signal has to travel from the target to the thermal camera, the more of that signal can be lost along the way.Fog and rain can severely limit the range of a thermal imaging system due to scattering of light off droplets of water. The higher the density of droplets, the more the infrared signal is diminished.To capture images in fog and rain, the higher end thermal vision cameras work best.Heat Vision Cameras – Easy To UseWhile the scientific details of how thermal imaging works is quite complex, the reality is that modern thermal cameras are extremely easy to use. The images are very clear and easy to understand, requiring little training or interpretation.Note: For mechanical and electrical uses, heat vision cameras should always be operated by qualified engineers who understand the thermal radiation spectrum of the equipment or material being imaged.Reflected Light Vision CamerasThermal imaging cameras only require heat from an object to be able to capture the image or video of a scene.  Very closely related and sometimes confused are night vision and infrared illuminated cameras.  Let’s take a quick look at night vision and infrared illuminated cameras.Thermal Vision Cameras vs Infrared Illuminated Cameras Infrared illuminated cameras generate their own reflected light by projecting a beam of near-infrared energy which it’s imager can then see when it bounces back from the object.This works very well, however infrared illuminated cameras still rely on reflected light to make the image.  They have the same limitations as other night vision cameras which depend on reflected light energy, which is generally short in range and has poor contrast.Thermal Vision Cameras vs Night Vision Cameras / GogglesNight images or video which are greenish in color come from night vision cameras or goggles. Night Vision Goggles or NVGs take in small amounts of visible light, magnify it and project it on to a display.Cameras made from NVG technology have limitations.  If there isn’t enough visible light available, they can’t see well. The imaging performance of anything, which rely on reflected light is limited by the amount and strength of the light being reflected. In other words, they won’t see anything in total darkness.Also night vision goggles and other low light cameras are not very useful during twilight hours.  There is too much light for the NVG goggles to work effectively, but not enough light to see with the naked eye.Thermal cameras aren’t affected by visible light, so they can give you clear pictures even when you are looking into the setting sun. In fact, with a quality heat vision camera you could aim a spotlight at the thermal camera lens and still get a perfect picture.How Far Can Heat Vision Cameras See?The distance or range from a thermal vision camera you can see is highly dependent on a number of camera variables such as;What is the lens of the thermal vision camera?Is the camera equipped with a cooled or uncooled detector?What is the sensitivity?What is the size of the object?What is the temperature of the target and the background?By answering these questions, you can then choose the correct thermal imaging camera for the work to be completed.Before we move onto the best heat vision cameras for drones, here is an excellent video which explains very nicely how infrared thermal imaging works.10 Thermal Imaging Cameras For DronesDrones with a mounted heat vision camera has many great uses is covered a bit further down. First, lets preview the best heat vision cameras for drones on the market.  We will also look at gimbals and mounts to hold the heat vision camera.FLIR Thermal Imaging Vision CamerasFLIR System Inc is the global leader in the design and manufacture of Thermal Imaging Infrared cameras for both UAVs and ground based. They have many heat vision cameras of various resolution, thermal frame rate, lens, FOV (Field Of View),  color scale and measurement accuracy.FLIR have 6 thermal cameras for drones which are as follows;FLIR Vue Pro – is a powerful, affordable heat vision camera with on board recording and flight controller integration to create a turnkey thermal camera and data collection device in one affordable package.
+
+ FLIR Vue Pro R – captures accurate, non-contact temperature measurements from an aerial perspective and saves images with calibrated temperature data embedded in every pixel.The new Vue Pro R gives both drone operators and certified thermographers the power to gather accurate, non-contact temperature measurements from an aerial perspective. Every still image, the Vue Pro R saves contains accurate, calibrated temperature data embedded in every pixel, adding even more value to your thermal imaging operations.The Vue Pro R adds full radiometric data gathering for UAS applications from building and roof inspections, power grid inspections, infrastructure analysis, precision agriculture and public safety.FLIR Duo Pro R – features a thermal and a high definition 4k color video camera in a single integrated package. The Duo Pro R heat vision camera give operators the ability to capture actionable thermal and visible data in a single flight.FLIR Duo & Duo Pro R – is a compact, lightweight, dual-sensor thermal and visible light imager designed for drones.DJI Zenmuse XT Premium / FLIR Thermal Camera– is compatible with the DJI Inspire 1, Matrice 100, 200, and 600 series and is available in a 640 x 512 or 336 x 256.DJI Zenmuse XT2 – integrates a high-resolution FLIR thermal sensor and a 4K visual camera with DJI’s leading stabilization and machine intelligence technology to quickly transform aerial data into powerful insights. Featuring Temp Alarm, Heat Track, FLIR MSX, Isotherms, Color Palette choices and more, XT2 helps professionals capture and record temperature data at the pixel level to deliver accurate, real-time insights so they don’t miss a thing.FLIR Thermal Imaging KitsFLIR teamed up with DJI to create drone-based Thermal Imaging Kits.  Each of these kits include a DJI Inspire 1, a Zenmuse XT thermal heat vision camera, a Zenmuse X3 4K visible light camera and a variety of accessories bundled together in one package.These various FLIR Thermal Imaging kits were created specifically for Fire Fighters, First Responders and Building Inspection but could also be adapted for many other sectors.FLIR Thermal Drones DJI Matrice Enterprise Dual Thermal And 4k CameraOn December 20th, 2018, DJI announced the Mavic 2 Enterprise Dual, which has a 4k camera for capturing visible light and a FLIR Lepton thermal sensor for capturing thermal data. Side by side cameras integrated onto the Mavic 2 Dual enterprise.Together these sensors allow pilots to perform flights at night, as well as being able to fly in complex daytime conditions such as fog and smoke.Users can select from multiple intelligent display modes in the DJI Pilot flight control app to visualize data from the dual-sensor camera. More information on the specification of the Mavic 2 thermal camera below.
+ The Mavic 2 Enterprise quadcopter has all the same specifications as the Mavic 2 such as the transmission range, distance, max height, altitude, frequency, sensors, transmission, gimbal, cameras, obstacle sensing and much more. You can read about the general specifications in this Mavic 2 review here.Now the Mavic 2 Enterprise also comes with dual spotlights, speaker and beacon accessories making this quadcopter a terrific option for applications in public safety, inspection, search & rescue, fire response and law enforcement.Read this excellent DJI Mavic 2 Enterprise review, which gives you all the excellent features and answers all your frequently asked questions.Mavic 2 Enterprise DUAL Thermal Camera SpecificationHere are the specifications of the Mavic 2 Enterprise DUAL Thermal CameraSensor – Uncooled VOx MicrobolometerLens – HFOV: 57°Aperture – f/1.1Resolution – 160×120Pixel Pitch – 12 μmSpectral Band – 8-14 μmImage Size – 640×480 (4:3); 640×360 (16:9)Still Photography Modes – Single shotBurst shooting – 3/5/7 framesVideo Recording Modes – 640×360 @8.7 fpsAccuracy – High Gain: Max ±5% (typical)Low Gain – Max ±10% (typical)Scene Range – High Gain: -10° to +140°CScene Range – Low Gain: -10°to +400°CPhoto – JPEGVideo – MP4, MOV (MPEG-4 AVC / H.264)DJI M210 With Zenmuse X4s & XT CamerasAnother terrific thermal drone solution on the market is a bundle consisting of the following;DJI M210 Dual Gimbal DroneZenmuse X4s CameraZenmuse XT Thermal Camera3DR Site Scan Platform applicationPix4D Thermal processingIn July 2018, 3DR announced that their SiteScan platform can now capture and use structurally detailed thermal maps and 3D models, giving you a whole new level of visibility into your projects.The 3DR Site Scan platform allows users can easily inspect buildings, structures, and utilities, map solar arrays, monitor concrete curing, and much more.The workflow is very simple.  SiteScan users plan and execute their flight in SiteScan like normal and the M200 series drone will collect both RGB and thermal imagery. It can then be processed into structurally detailed thermal maps and models using Pix4D’s thermal processing capabilities.Full Aerial Thermal SolutionsDSLRPros Complete Thermal SolutionsYou could build you own aerial thermal imaging solution consisting of the drone, mount, gimbal and FLIR or other thermal camera or you can buy a full package from a service provider such as DSLRPros.A provider will have the knowledge to put together the exact thermal solution which you need.  They know all the sectors which use thermal cameras and know which is the best drone suited for the mission.DSLRPros are long term experts in providing complete thermal drone solutions including support. They were the first provider to put a FLIR thermal camera on a DJI Phantom 2 way back in 2014.They have expanded their thermal inventory to include advanced solutions as follows;Inspire 1 + Zenmuse XTMatrice 200 + Zenmuse XTMatrice 200 + Zenmuse XT2Matrice 600 Pro + FLIR Duo ProMatrice 600 Pro + Workswell WirisDJI Phantom 4 Pro + FLIR Vue ProMatrice M210 + Zenmuse X4s + XTMatrice 210 + Zenmuse XT + Zenmuse X4S / Z30They are adding to their thermal inventory all the time, so it is best to visit DSLRPros to view their full thermal solutions and related information.
+
+ DRONExpert Full Thermal PackagesAnother company, which can provide a full thermal drone package is DRONExpert.  This company has created FLIR aerial thermal packages consisting of the following drones;DJI Mavic ProDJI Phantom 4DJI Matrice M200DJI Inspire 1DJI Inspire 2The FLIR cameras they use are the Vue 336 Pro R and Vue 640 Pro RFLIR Thermal Drone Vue Pro R MountDRONExpert have also created a FLIR Vue Pro R mount.  It’s a complete package including all the parts (mount, transmitter, converters, cables, FLIR camera including storage module). Due the low payload, there is a slight reduction in flight time.This radiometric thermal gimbal is tested and available for the following drones;Yuneec Q500DJI Inspire 1 (all models)DJI Inspire 2DJI Phantom 4 (all models)DJI Matrice 100DJI Matrice 200 (all models)DJI Matrice 600FLIR GimbalsSky Eye-II Vue Pro gimbal – is specially designed for FLIR Vue,Vue Pro,Vue Pro R thermal cameras, which can be used on DJI Phantom 3, the 3DR SOLO and other multi-rotor platforms.Sky Eye-Duo Pro – is a 3-axis gimbal specially designed for FLIR Duo Pro R thermal camera.Zenmuse XT2 DUO Thermal Sensor / Visual CameraIn March 2018, DJI introduced the latest innovation in thermal visual technology with the release of the Zenmuse XT2.  This is a integrated thermal sensor along with a visual sensor.  The XT2 uses the FLIR Tau 2 thermal core along with a DJI 4k visual camera mounted on DJI’s world class Zenmuse gimbal.This latest thermal camera is housed in a weather resistant casing and has the following top features;Temp Alarm – instant notifications when object temperatures exceed pre-set parameters.Heat Track – automatically locks the XT2 onto the hottest object in view.FLIR MSX – quickly interpret data with details from the visual image overlaid on the thermal data stream.Temperature Check – Select and area on screen for real time temperature measurements.Quick Track – Select an object to lock the XT2 onto it.Isotherms – Focus on a particular temperature band.Adjustable Color Palette – adjust the colors applied to the thermal data to better interpret the data.PiP Options – optimize how you view the thermal and visual feeds (overlapping, side by side and more).DJI Pilot Application – Access to all the above settingsThere is so much more to the Zenmuse XT2.  You can read the full specification on the DJI Zenmuse XT2 here. Below is an excellent video introducing you to the Zenmuse Thermal Visual XT2 camera.Workswell WIRIS Thermal Vision CamerasWorkswell are renowned worldwide for their innovative thermographic products. They focus on machine vision and touch free temperature measurement.  This includes the Workswell WIRIS thermal imaging system for drones.New Workswell WIRIS Security Thermal SensorThe WIRIS® Security is the latest thermal camera from WIRIS.  It is a LWIR 7.5 – 13.5 μm thermal camera for drones and designed specifically for search & rescue applications, such as building and perimeter surveillance, searching for missing persons, firefighting operations etc.This Workswell’s WIRIS Security thermal sensor weighs less than 28 ounces (780 grams) , which is ideal for drone usage.  It is also equipped with an SSD disc with 512 GB or 256 GB memory for recording. It is also possible to save data to external USB disk or microSD card.High Resolution With Optical Zoom And 40 mK Thermal SensitivityThis thermal camera is fully adapted to these applications with a a high resolution thermal camera (800 × 600 resolution ), 30x optical zoom in RGB spectrum with search & rescue functionalities and excellent temperature sensitivity, as well as rugged mechanical construction made of lightweight aluminium.The thermal camera offers unrivaled resolution 800×600 resolution and thermal sensitivity of 40 mK.  At present, no other thermal imaging camera for drones will offer you these same parameters.The Workswell WIRIS Security camera uses a specialized visual band imagery RGB camera with high sensitivity for dusk and night vision and possibility of optical ZOOM. Thus, the RGB camera image is clear even with minimum light of 0.0008 lux.The focal length is also variable within interval of 129.0 mm to 4.3 mm and it equals up to 30x optical ZOOM.WIRIS Security Thermal Sensor Drone ConnectorsWorkswell WIRIS® Security also brings an interface enabling the widest range of connections to the drone, the control unit, an external GPS sensor etc. Wi-Fi low latency live video streaming and command link is also available.The following hardware interfaces are available:S.BusCAN bus (DJI M600 and A3 controller compatible)Ethernet (RJ45)MavLinkexternal GPS connectionexternal triggerUSBHDMI
+
+ Workswell WIRIS Mini Heat Vision CameraThe WIRIS mini is a thermal imaging system designed for drones, which compared with their traditional version of the Workswell WIRIS, has significantly smaller dimensions and is lighter in weight.It is a compact system, which combines a thermal camera, digital camera (in the visible spectrum), a processor unit with the option of a unit for recording radiometric data with a digital HDMI system.Data can be stored either in the internal memory or on an external microSD card.Also, in the case of GPS connection, the GPS coordinates are saved to individual images.Weight is 0.35 lbs (160 grams).Workswell WIRIS  2nd Gen Thermal Vision CameraThis 2nd Generation WIRIS combines a thermal camera,  a digital camera and a control unit in one case.Since the end of 2016, the WIRIS 2nd generation thermal camera has been available which has a temperature range extended up to 1500° Celcius using a high temperature filter.  The 2nd generation of the Workswell WIRIS product offers the following features;Full Radiometrics and Temperature Measurement – Remotely, it is possible to view and store fully radiometric and calibrated image data (images and video) meaning the images retain all the information about the capturing parameters, which can be subsequently fully processed in the supplied software.Digital Zoom – If the task is to measure distant objects, then you have a digital zoom option. The digital camera has a 16x zoom and the  thermal camera has a 14x zoom with a resolution of 640×512.Photogrammetry and 3D Models – Images captured by the system are fully radiometric and contain information about GPS coordinates in the EXIF metadata of the files. These images can be used to create 3D photogrammetry models. To create the 3D maps and 3D models, specialized photogrammetry software is used to stitch the raw images into together.GPS – You can link the image temperature data with the value from an external GPS receiver. GPS data is saved into the EXIF part of the JPEG file and is available for use.Weight – 0.85 lbs (390 grams)There is so much more to this thermal imaging camera. Read further on the Workswell WIRIS 2nd Gen thermal imaging camera.Workswell Thermal DronesWorkswell Full Aerial Thermal SolutionsWorkswell offer not just the WIRIS thermal imaging camera.  They also provide the complete ready to fly aerial thermal solution. The choice of thermal equipped drones are as follows;DJI M600 ProAibotix aibot X6Airborne robotics AIR6Globe Flight ScaraBot X8Height Tech HT-8VideoDrone X4S
+
+ Workswell CorePlayer Thermal Imaging ApplicationThis software is designed to perform detailed analysis, editing, exporting to different formats, and creating comprehensive reports from the thermograms recorded by Workswell WIRIS.All common functionalities for analysis of such data (temperature on the spot, minimum and maximum of the area, zoom,  temperature profile, change in temperature scale, color palette, emissivity etc.) are available within the software, as well as extending functions such as GPS position on a map, or displaying the digital picture taken by WIRIS.Flytron V3 Micro Thermal Imaging CameraFlytron are a small RC electronic design workshop located in Canterbury, United Kingdom.They manufacture the DroneThermal V3 thermal camera.  This is the first micro sized & low cost analog thermal camera for small UAVs.The DroneThermal v3 (marked as v022016) is only 3 grams and the dimensions are 20 x 20 x 15 mm.It is based on FLIR’s revolutionary low cost 80 x 60 pixel Lepton camera thermal core.Yuneec CGOET Thermal Vision CameraThe Yuneec CGOET is an combination of 3 axis gimbal, thermal heat vision camera and low-light camera.While the thermal imaging camera selectively measures the temperature in the image enabling it to display relative temperature differences, the low-light RGB camera has a 20 times higher sensitivity than the human eye and can still take excellent shots even in low light conditions.Both images are streamed live on your remote control at the same time, and can be viewed separately as a picture-in-picture or as an overlay. It’s key features are;Thermal imaging camera and 1080p low-light camera combine and record picture in-picture or overlay.Temperature measurement and display.Heat sources are well visualized due to the different color spectrums available.Sliding temperature detection scale allows for focus on the relevant areas.Compatible with Typhoon H drone.Thermoteknix MicroCAM 3 Thermal Vision CameraFounded in 1982 and with 30 years of consistent technical breakthroughs in infrared (IR) thermal imaging and thermal measurement based hardware, systems and software application products. Their latest thermal cameras for UAVs is the MicroCAM 3 thermal image sensor.MicroCAM 3 Thermal Imaging CoreThis new generation thermal imaging sensor has higher performance, a faster frame rate, lower power, in a smaller package than its predecessor the MicrCAM 2.Weighing just 30 grams (0.06 lbs), the MicroCAM 3 draws less than 0.5 watts of power and is available in both 384 × 288 17µ and 640 × 480 17µ resolution formats.The MicroCAM 3 thermal imaging core features the new Thermoteknix patented shutter-less XTi Technology which means viewing is never interrupted.  This also does away with moving parts, making the MicroCAM 3 ultra-reliable, silent and super power efficient.The MicroCAM 3 can be assembled in a cylindrical package (MicroCAM irGO) and the module is then ready to integrate into third party OEM technology in the aerospace, security,  border patrol, wildlife monitoring, scientific research devices and SAR.The MicroCAM irGO is the shock resistant, sealed and waterproof miniature thermal imaging camera designed for very low-powered cost-sensitive OEM applications mentioned above.Best Uses For Thermal Vision CamerasHere are some of the best uses for heat vision cameras on UAVs.  The list is growing all the time.  Drones with on-board thermal cameras save time, money and are also a very safe method for inspecting dangerous equipment.  Fire Departments along with Search and Rescue teams really see the value of thermal vision camerasUtility Inspections – Drones with thermal heat vision cameras allow companies to gather calibrated radiometric temperature data quickly and easily covering large substations, as well as transmission and distribution lines in a fraction of the time it would take with a handheld imager.Utility inspections cover power lines, chimney stacks, water works, telecoms masts and much more.
+ Solar Farm Inspections – Drones with thermal cameras can scan large solar panel installations in a few minutes allowing the operator to isolate and measure potential problem areas with a single aerial view.  Solar farm inspections are almost impossible from the ground.Construction Site And Roofing Inspections – Before drones, building and roofing inspections took a long time and has been a major source of workplace accidents over the years. Roof inspections and other building surveys with a thermal camera equipped drone will take just minutes saving time and lives.One of the leading providers of drones for roofing inspections is Kespry.Kespry’s thermal inspection solution is based on radiometric temperature analysis, providing actionable data to people inspecting roofs. Radiometric analysis means that a specific temperature is displayed for a specific point on a roof. In contrast, non-radiometric thermal drone data simply shows general temperature differences and changes in an area, making it hard to determine whether there is a specific point of damage or concern.Fire Fighting – Particularly valuable for firefighting, drones with heat vision cameras give Incident Commanders the ability to see through smoke and keep track of their personnel in large fire scenes.  Fire crews will know exactly where the fire is hottest and when the fire looks to be out, a thermal equipped drone will be able to give definite confirmation of the heat been dissipated from the scene.Search And Rescue – A drone with thermal camera is a must have piece of equipment for rescuers. The thermal camera can be used both in day and night rescue missions.  Drones can view and cover hundreds of acres in minutes.In daytime, the thermal radiation from a missing person on a mountain will stand out much more than the image from an ordinary standard video camera.  A person may be wearing the same color clothing as their surrounding making it difficult for a standard video camera to detect the missing person.Mining – In the case of coal mining, often coal is stored in vast quantities in large storage containers. This can lead to high risk of a fire. It is very important to carrying out temperature monitoring of these coal containers as self-ignition can easily take place.Other mining operations have large conveyor belts, a drone with thermal camera is the quickest way to monitor the health of the equipment.  When equipment is stressed, it will show up hotter on a thermal image than previous.Thermal imaging can help detect equipment which is under stress and at some point will break.To finish off this post, here is an excellent video which shows you practical examples of how thermal imaging works, it’s color spectrum from the software and all the great applications for thermal cameras.Share this article Quick Drone Parts Overview Along With Handy DIY Tips12 Best Photogrammetry Software For 3D Mapping Using Drones Search DroneZon
 
 
 
-UAVs
-
-Drone custom made solutions
-ATLAS
-FOX HD
-FOX XT
-HYDRA
-XENA
-Applications
-Complete solutions
-
-OnyxScan LiDAR
-XENA Geo
-XENA Observer
-XENA Thermo
-XENA Rescue
-FOX-C8 XT Observer
-
-
-Features
-Technologies
-
-
-LiDAR
-Services
-
-Aerial services provision
-Drone pilot training
-Drone custom made solutions
-Drones updates, maintenance and repair
-
-
-Software
-E-shop
-References
-About us
-Contact
-Français
+Google Ads
  
-
-
-
-
-
-
-
-
-
-Search for:
-
-
-
+Latest Top Drones – DJI Mavic 2 Pro and Zoom
+Excellent review of the new DJI Mavic 2 Pro and Mavic 2 Zoom drones including videos.The Mavic 2 Pro and Mavic 2 Zoom are more advanced than the original Mavic is every aspect.- Very easy to fly and film with.
+- Longer flight time.
+- Even further live video transmission.
+- Superb new 4 camera designed by HASSELBLAD.
+- Top quality advanced Zoom Camera.
+- Advanced stabilization on quadcopter and cameras.
+- Obstacle sensing on all sides.
+- Fly around collision avoidance system when flying forwards or backwards.
+- Many new intelligent flight modes to make flying and filming very easy.  Includes new Dolly Zoom.Totally WOW technology.Excellent prices making the Mavic 2 Pro and Mavic 2 Zoom  very affordable.
+Click here to find out more...Google Ads
  
- GPS status: 
+Related Articles On Drone Knowledge
 
+8 Terrific Educational Drones And Kits To Build And Code UAVs
 
+How Do Drones Work And What Is Drone Technology
 
+12 Top Lidar Sensors For UAVs, Lidar Drones And So Many Great Uses
 
+12 Top Collision Avoidance Drones And Obstacle Detection Explained
 
+Flash Lidar Time of Flight (ToF) Camera Sensors On Drones And 10 Terrific Uses
 
-Security and surveillance – Thermal camera embedded on drone 
-
-Thermal imaging is essential nowadays as it is being adopted in a growing number of applications of security and surveillance.
-While the use of an infrared (IR) camera was once the privilege of border guards and other official security related organizations, the power of thermal imaging is now accessible and usable in numerous different situations:
- 
-By firefighters:Firefighters have been using thermal cameras for years as it allows them to see in absolute darkness, through smoke, and to detect hot spots in floors, walls and ceilings. The ability to see through the smoke with an infrared camera contributes to secure sites and to help saving lives.
-
-Research for victims (SAR)
-Fire detection
-Light or residual fire
-Hot spot after extinguishing an attic or chimney fire
-When working for a traffic accident at night in the field, to detect any body ejected from the road
-To locate a victim from the rubble
-
-Firefighters are familiar with the benefits of thermal cameras; a growing number of them are relying on their powerful functions to facilitate their work, improving the efficiency and speed of interventions during emergency situations.
- 
-By Sea Rescue units: A person that has fallen overboard must at all costs be recovered as soon as possible to be rescued. Not only can he float away from the vessel but the time spent in water dramatically increases the risk of hypothermia, which is a mortal danger at sea. Through thermal imaging, the person in distress can be quickly located and pulled out of water.
- 
-By the police or customs officials for night operation:Thermal imaging is also used by police and other services for security and surveillance operations. It allows to spot, locate and track suspects in total darkness. Thanks to infrared camera, suspects can not hide in the bushes or in the shade because their heat signature is easily visible on the image. Moreover, thermal imaging helps securing places of intervention for police and security forces by increasing the knowledge of the field and by locating threats present in the operational area.
- 
-
-
-
- 
-For industrial facilities:Nuclear plants, petrochemical installations, warehouses, ports … all these areas are exposed to several dangers, including theft, requiring to take security measures in order to prevent them. Surveillance is highly simplified and enhanced by using infrared cameras that reveal threats hidden in the darkness, concealed by adverse weather, and veiled by dust, fog or smoke. Thermal imaging allows to easily expose the factors that could trouble sites’ security.
- 
-OPTRIS PI 640The thermal imager Optris ® PI 640 together with its miniature embedded computer is the smallest measuring VGA infrared camera worldwide. With an optical resolution of 640×480 pixels, the new PI 640 provides pin-sharp radiometric pictures and videos in real-time.Its compact dimensions of only 46x56x90 mm and low weight of 320 grams (lens incl.), it is the ideal solution for aerial drones applications.
- 
-Aerial thermal imaging solutions with dronesWith these qualities, the Optris® IP 640 camera can be embedded on our models:
-
-ALG1000 of AltiGator (S1, S2 and S3 certified in France): total takeoff weight <4 kg. Indicative flight time of 17 minutes.
-ALG760 (variant of the ALG750). Compact and designed for rescue services at sea and in the mountains. Take-off weight of about 4 kg. Indicative flight time of 24 min (30 min with a lighter thermal camera like the Tamarisk).
-OnyxStar FOX-C8 (S1 and S2 certified in France): total takeoff weight <5 kg. Indicative flight time of 24 minutes.
-OnyxStar FOX-C8HD (S1 and S2 certified in France): total takeoff weight of 7.5 kg. Indicative flight time 33 minutes.
-
- 
-See also: 
-
-Aerial surveillance with thermal infrared and HD video cameras with zoom
-A drone to rescue immigrants
-
-452
-Partager :PrintLinkedInSkype 
-
-
-
-
-
-
-
-
-
-Request a Quote
-Contact us
-Conditions of use
-Français
+DJI Mavic Air –  Pocket Sized Drone Which Films Perfectly
+Small, light and easy to carry. Amazing new features including obstacle detection with collision avoidance.  Fly using hand movements. Face recognition technology and a great camera.This is the best mini drone on the market by a mile.  It has so much new innovation which makes is so very easy to fly and film with.
+Read the Mavic Air review here...Recent Drone Articles8 Terrific Educational Drones And Kits To Build And Code UAVsHow Do Drones Work And What Is Drone Technology12 Top Lidar Sensors For UAVs, Lidar Drones And So Many Great Uses12 Best Follow Me Drones And Follow You Technology Reviewed12 Top Collision Avoidance Drones And Obstacle Detection ExplainedFlash Lidar Time of Flight (ToF) Camera Sensors On Drones And 10 Terrific UsesDrones For Deliveries From Medicine To Post, Packages And PizzaRemove Barrel Fisheye Effect For Perfect Aerial PhotosUpdate Mavic 2 Firmware Instructions Using DJI Assistant And Go 4 App12 Top Drones With Excellent Cameras, GPS, Autopilot And Low PricesGoogle Ads
+ Drone Shop – Best Bundles, Parts & AccessoriesDJIHoly StoneParrotWalkeraYuneecFPV Equipment
+DJI Mavic Pro – Terrific Drone And Low Prices
+The Mavic Pro produces stunning aerial photos and video. It is fast, super smooth, great fun to fly and is loved by both beginners and seasoned professional pilots.It can be used for professional aerial photography, filming, site surveying, 3D  imaging of landscapes and sculptures.Here is a list of some of it's many features- Flies super smooth indoors and outdoors
+- Fly using phone or remote controller
+- Flight time of up to 27 minutes
+- Very quiet quadcopter
+- 40 mph speed in Sport mode
+- Dual  Satellite Systems
+- Live HD FPV video from 4.3 miles
+- Collision Avoidance Vision sensors
+- Super still hovering
+- 4k Video Camera and 12 megapixel stillsThe intelligent flight modes are as follows;- Active Track (Trace, Profile, Spotlight)
+- Trace – Follow behind, in front or circle a subject
+- Profile: Fly alongside a person or object
+- Spotlight:  Keep the camera  on an object while you fly
+- Gesture Mode
+- Tap Fly Mode
+- Terrain Follow Mode
+Click here for full Mavic Pro review including videosGoogle Ads
  
- 
-
-Home
-UAVs
-UAV LiDAR
-Complete solutions
-Technologies
-About us
- 
-
-GPS status
- 
-
-
-
-
-
-
-				Copyright 2019 © AltiGator 
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok
+Top Phantom 4 Pro For Professional Filming
+The Phantom 4 flies superbly and the quality of aerial film is absolutely outstanding.  If you are serious about your aerial photography and filming, the Phantom 4 will produce real quality.Below are just a few of the features of this fantastic Phantom 4 Pro.– 5 directions of obstacle avoidance
+– Long flight time of 30 mins
+– Fast speeds of up to 45 mph (72 km/h)
+– Strong titanium and magnesium frame
+– 4.3 mile (7 km) First Person View
+– 20 megapixel camera
+– 4k filming at 60 frames per second
+– Many intelligent flight modesThe intelligent flight modes are
+- ActiveTrack Follow Me
+- Tapfly
+- Gesture Mode
+- Terrain Follow Mode
+- Tripod Mode
+- Draw Waypoints
+- Position, Sports
+- Attitude
+- Beginner modes
+Read more on this top of the range Phantom 4 Pro here
+Excellent Mavic Air Bundles Deals Here
+Here are just some of the fantastic features of the new DJI Mavic AirSmart Gesture
+Face Recognition
+Obstacle Avoidance
+4k Camera
+Panorama shots
+Quick shot Flight Modes
+Follow Me Mode
+Click here to view...Google Ads
+ Related Drone Articles
+Drone Investing
+Beautiful Aerial Scenery
+Waypoint Navigation
+Parrot Drone Tips
+Drone Components
+GPS Autopilot
+Drone D-I-Y
+Drones With Sensors
+3DR UAVS
+SDK Drones
+Best Aerial Filming Drones
+Yuneec Aerial Drones
+DJI Phantom 4
+DJI Phantom 3
+Affordable Drones
+Buying Tips
+Thermal Sensor
+Modular Drones
+4k UHD Drones
+DJI Drone Tips
+Collision Avoidance
+Autonomous Drones
+Cinematography Tips
+3D Mapping
+Professional Drones
+Lidar Drones
+FPV
+Photography Tips
+Walkera Drones
+DJI Mavic Pro
+DJI UAVS
+Best Drone UsesHomeAbout DroneZonGDPR, Privacy & Cookies PolicyTerms Of Service          This site uses cookies: Find out more.Okay, thanks

@@ -1,0 +1,538 @@
+url: https://www.droneshield.com/blog-content/2017/1/14/drone-defence-jammers-101
+
+
+
+
+
+
+
+
+Drone Defence: Jammers 101 | DroneShield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+                Government & Military
+              
+
+
+
+                Prisons
+              
+
+
+
+                Events and Commercial Venues
+              
+
+
+
+                Critical Infrastructure
+              
+
+
+
+                Airports
+              
+
+
+
+                Executive Protection
+              
+
+
+
+
+
+Products
+
+
+
+                How DroneShield Works
+              
+
+
+
+                View All Products
+              
+
+
+
+                DroneGun Tactical
+              
+
+
+
+                RfPatrol
+              
+
+
+
+                DroneSentinel
+              
+
+
+
+                DroneSentry
+              
+
+
+
+                DroneCannon RW
+              
+
+
+
+                DroneNode
+              
+
+
+
+                DroneShield Complete
+              
+
+
+
+
+
+Company
+
+
+
+                About Us
+              
+
+
+
+                Investor Relations
+              
+
+
+
+                Board of Directors
+              
+
+
+
+                Key Staff
+              
+
+
+
+                Advisory Staff
+              
+
+
+
+
+
+Media Room
+
+
+
+                Videos
+              
+
+
+
+                Press Coverage
+              
+
+
+
+                Press Releases
+              
+
+
+
+                Media Gallery
+              
+
+
+
+
+
+Brochures
+
+
+
+                Brochure Download
+              
+
+
+
+                Counterdrone Handbook Download
+              
+
+
+
+
+
+Contact Us
+
+
+
+                Contact
+              
+
+
+
+                How to Buy
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+                Government & Military
+              
+
+
+
+                Prisons
+              
+
+
+
+                Events and Commercial Venues
+              
+
+
+
+                Critical Infrastructure
+              
+
+
+
+                Airports
+              
+
+
+
+                Executive Protection
+              
+
+
+
+
+
+Products
+
+
+
+                How DroneShield Works
+              
+
+
+
+                View All Products
+              
+
+
+
+                DroneGun Tactical
+              
+
+
+
+                RfPatrol
+              
+
+
+
+                DroneSentinel
+              
+
+
+
+                DroneSentry
+              
+
+
+
+                DroneCannon RW
+              
+
+
+
+                DroneNode
+              
+
+
+
+                DroneShield Complete
+              
+
+
+
+
+
+Company
+
+
+
+                About Us
+              
+
+
+
+                Investor Relations
+              
+
+
+
+                Board of Directors
+              
+
+
+
+                Key Staff
+              
+
+
+
+                Advisory Staff
+              
+
+
+
+
+
+Media Room
+
+
+
+                Videos
+              
+
+
+
+                Press Coverage
+              
+
+
+
+                Press Releases
+              
+
+
+
+                Media Gallery
+              
+
+
+
+
+
+Brochures
+
+
+
+                Brochure Download
+              
+
+
+
+                Counterdrone Handbook Download
+              
+
+
+
+
+
+Contact Us
+
+
+
+                Contact
+              
+
+
+
+                How to Buy
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 14, 2017
+
+DroneShield
+Drone Defence: Jammers 101
+
+
+
+
+
+
+
+
+
+
+DroneShield
+
+
+January 14, 2017
+
+
+
+
+Drone Defence: Jammers 101
+
+
+
+DroneShield
+
+
+January 14, 2017
+
+
+
+
+
+This week marks the launch of DroneShield’s latest product offering – the DroneGun portable rifle-style jammer, which works independently or in conjunction with DroneShield’s acoustic drone detection technology to locate and neutralise potential threats by air.With drone sales expected grow exponentially in the near future, and an increasing number and severity of drone incidents occurring daily, DroneShield launched DroneGun to respond to nefarious use of consumer and commercial drones and the resulting need for effective countermeasures to drone intrusions. DroneShield aims to help public and private sector customers, where allowed by law, take proactive measures against airborne threats to safety, security, and privacy.How Do Drone Jammers Work?Jammers are designed to disrupt a drone by blasting electromagnetic noise at radio frequencies that drones operate and transmit video at, and at a power level high enough to drown out any effective communication between the drone and its pilot. Generally, this is either 2.4Ghz or 5.8Ghz (“RF-jamming”), which are “non-assigned” public frequencies meaning that drone jammers will not interfere with manned aircraft, cell phones, public broadcasts, or other dedicated radio bands. In addition to RF-jamming, where legal for the customer (which depending on the jurisdiction, may include military, law enforcement, first responders and private users), GPS jamming may also be utilized, as a large number of drones rely on GPS either to balance against wind, or to go between pre-determined way-points.When a drone is hit with a jammer’s signal, the drone usually returns back to its origin point (unless GPS is also jammed), giving the jammer user the option to track the drone back to the pilot. Sometimes the drones might even perform a vertical descent and land on the spot intact, which offers the option of performing a forensic investigation. Landing on the spot is also the general response from drones when both RF and GPS are jammed at the same time.Jammers can be effective against drones over several kilometres away. Generally, jammers operate on a ratio of distance between a drone and the jammer compared to the drone with its pilot. The further away the drone is from the pilot and closer to the jammer, the better. A typical effective jammer direction is a cone of about 15-30 degrees, projecting forward from the gun (this is also influenced by the RF band and the power of the jammer).Why Are Jammers A Safer Choice Than Other Countermeasures?Jammers are effective against drones without destroying the drones and evidence. Other options often result in damage or destruction to the drone, which can destroy evidence and also result in private property destruction charges.Another consideration is if a drone is carrying a bomb or another dangerous item. Using a jammer is likely the safest course of action, because the jammer will usually cause the drone to return to its point of origin. This is much safer than shooting down a drone equipped with a bomb, which could lead to detonation of the bomb, injury, or even death.Are Drone Jammers Legal?While jammers are generally restricted for use in many countries except by the military, police, and first responders depending on the laws, non-GPS jammers are legal in a number of countries. It is important to look into the laws and regulations of the country and state that you are in to determine whether the use of a drone jammer is legal before operating one. DroneGun has not been authorized as required by the United States Federal Communications Commission (“FCC”). This device is not, and may not be, offered for sale or lease, or sold or leased, in the United States, other than to the United States government and its agencies, until such authorization is obtained. The use of DroneGun in the United States by other persons or entities, including state or local government agencies, is prohibited by federal law. Laws limiting the availability of DroneGun to certain types of users may apply in other jurisdictions, and any sales will be conducted only in compliance with the applicable laws.Why Are Drone Jammers Needed?Consumer and commercial drones come a dizzying array of shape, size, characteristics, features, and prices from $30 consumer drones to $30,000 military-grade weaponised drones. That means that drones can also be employed for a huge range of illegal uses including:Carrying bombs and other terrorist threatsUse as biological weaponIllegal surveillanceDrone swarms overwhelming a facilityInterfere with emergency respondersInterfere with manned aircraft or airportsSmuggling contraband into prisons or across bordersHacking into sources such as datacentersSecurity needs have changed, and traditional security methods are not effective against attacks by air with drones. In the last two months alone, terroristic drone incidents included:An ISIS drone rigged with explosives killed two peshmerga fighters and wounded two French soldiers;ISIS drones released hand grenades against US-backed forces; andISIS employing drones for battlefield surveillance.This has prompted Air Force Secretary Deborah Lee James to state “A top priority for me at the moment is this emerging danger that we’re seeing in the Middle East in respect to unmanned aerial systems — these cheap, buy-them-over-the-internet, small drones and if explosives are placed on them, as we’ve seen a handful of times now in Syria and Iraq, they can do damage,” as reported by Defensetech.org on October 31, 2016.Other incidents over the recent months have included:Multiple drone incidents at Heathrow Airport ,Dubai Airport drone incursions and German authorities recording over 40 incidents of drones near passenger planesDrones dropping weapons, escape kits, drugs and mobile phones into HMP Hewell prison ,assisting prisoner escape at HMP Pentonville prison , and smuggling drugs into Birmingham prisonDrones used by fans to get illegal spoilers for upcoming Game of Thrones seriesDrone security scare at Taj MahalDrones impending fire fighters in KentuckyDrones used to harass nesting eagles in Vancouver and crashing into Otago albatross colonyDrones used by paparazzi for celebrities’ privacy invasionDrones illegally flying over Hong Kong Formula E eventPoland arresting a man for flying drone over PM’s officeWhat Makes DroneShield’s DroneGun Different?DroneShield’s DroneGun is easy to use, lightweight, and the point-and-shoot functionality of it means there’s not extensive training required to successfully employ it under a broad range of weather conditions. It is effective against a wide range of drone models and provides controlled management of drone payloads, like explosive devices.The DroneGun is rifle shaped and equipped with a backpack. It is equipped with a hard plastic carrying case for protection and easy transport. DroneShield’s DroneGun requires no calibration. It is ready to go right out of the box, and has no re-load time. It is a low maintenance product that only requires 90 minutes of charging for up to two hours of use.If you’re interested in more information about DroneShield’s DroneGun, please read our product information page here. 
+
+
+
+
+
+
+
+
+
+
+Newer PostCASA and FAA Certification
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to Top
+SolutionsPrisonsAirportsGovernmentEvents and Commercial VenuesCritical InfrastructureExecutive ProtectionProductsHow DroneShield Works View All ProductsDroneGun TacticalRfPatrolDroneSentinelDroneSentryDroneCannon RWDroneNodeDroneShield CompleteCompanyAbout UsInvestor RelationsBoard of DirectorsKey StaffAdvisory StaffVideosMedia RoomPress CoveragePress ReleasesMedia GalleryBlogBrochuresBrochure DownloadCounterDrone HandbookContact UsContactHow to Buy©  2019 DRONESHIELD | ALL RIGHTS RESERVEDABN: 26 608 915 859Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Member Login
+Welcome, (First Name)! 
+ 
+
+  
+
+     
+Forgot?
+Show 
+Stay Logged In
+Log In
+ 
+
+
+Enter Member Area
+ (Message automatically replaces this text)
+OK
+
+  
+
+ My Profile
+
+
+Log Out    

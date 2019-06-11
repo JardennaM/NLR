@@ -1,0 +1,612 @@
+url: https://www.sesarju.eu/news/uspacedemonstrators
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESAR Joint Undertaking | Full speed ahead for drone traffic integration: SESAR establishes U-space demonstrators across Europe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+twitter
+
+
+
+rss
+
+
+
+youtube
+
+
+
+linkedin
+
+
+
+flickr
+
+
+
+
+
+
+Extranet
+Search
+
+
+
+
+
+
+
+
+Main navigation
+
+
+About SESAR
+
+
+Discover SESAR
+
+
+Vision
+
+
+Our business
+
+
+History
+
+
+Partnering
+
+
+Governance
+
+
+International
+
+
+Funding
+
+
+
+
+Approach
+
+
+Overview
+
+
+Objectives
+
+
+Development
+
+
+Deployment
+
+
+
+
+Activities
+
+
+Overview
+
+
+Projects
+
+
+U-space
+
+
+Solutions
+
+
+Library
+
+
+
+
+In action
+
+
+News & Events
+
+
+News
+
+
+Events
+
+
+Past events
+
+
+Press releases
+
+
+Interviews
+
+
+SESAR in the media
+
+
+Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Twitter
+Share on Facebook
+Share by mail
+
+Full speed ahead for drone traffic integration: SESAR establishes U-space demonstrators across Europe
+
+
+            Oct. 19, 2018
+        
+
+
+
+
+
+
+
+A series of drone demonstrations will soon get underway at urban and rural locations across Europe, thanks to funding from the SESAR Joint Undertaking within the framework the EU’s Connecting Europe Facility programme. With a co-financing of EUR 9.5 million, the demos aim to illustrate that Europe is on course with its implementation of U-space, an initiative that aims to ensure safe and secure drone traffic management.
+
+Vodafone and Proximus are among the stakeholders participating in the demonstrations, which also include start-ups, SMEs, research institutes, universities, drone operators as well as service providers, airports, local/city authorities, law enforcement agencies and civil aviation authorities. Over the course of 18 months, this enlarged SESAR family of stakeholders will carry out demonstrations in several cities and rural locations in Belgium, Estonia, Finland, France, Greece, Italy, the Netherlands and Spain.
+Together they will aim to show the readiness of U-space services to manage a broad range of drone operations and related services, and their interaction with manned aviation. These range from parcel deliveries between two dense urban locations, medical emergencies and police interventions, to maritime search and rescue and forestry inspections. The leisure user is also catered for, with projects demonstrating how private drone operators too can benefit from U-space services. The operations will also aim to demonstrate different levels of automation that are possible, as well as seamless information exchange between multiple drone operators and service providers.
+
+U-space is an enabling framework designed to facilitate any kind of routine mission, in all classes of airspace and all types of environment - even the most congested – while addressing an appropriate interface with manned aviation and air traffic control. When fully deployed, a wide range of drone missions that are currently being restricted will be possible thanks to a sustainable and robust European ecosystem that is globally interoperable. The timing for U-space is critical given the speed at which the market is growing. The aim is to have foundation U-space services in place by 2019.
+
+
+
+
+
+
+            Description of selected demonstrations
+      
+
+
+Service levels
+
+
+
+
+
+Name of demonstration
+
+
+Description
+
+
+Participating organisations
+
+
+
+
+DIODE - D-flight internet of drones environment
+
+
+Aims to demonstrate how the implementation of the full set of the U-space services up to U3 ensures a safe flow of drones that pursue specific business or recreational intents, fully integrated with manned aviation, and in all types of environment. Live demonstrations will take place in Rieti, a small province, close to Rome, known as "umbilicus italiae" with several different geographical situations, including rural, mountain and remote territories, industrial, urban and semi­urban. These demonstrations will cover a wide range of operations: parcel delivery; road traffic patrol; professional photography; railway and power lines surveillance; search and rescue, airport operations; interaction with general aviation; and firefighting.
+
+
+
+ENAV
+Leonardo
+Telespazio
+IDS Ingegneria Dei Sistemi e-GEOS
+Nextant Applications & Innovative Solution (NAIS)
+AiviewGroup
+Poste Italiane 
+EuroUSC Italia
+Techno Sky
+
+
+
+
+
+DOMUS – Demonstration of multiple U-space suppliers
+
+
+Aims to illustrate the full set of core U2 services, as well the demonstration of specific U3 services, such as tactical de‐confliction and collaboration with ATM. The demonstration will involve three U‐space service providers interacting with an ecosystem manager and several drone operators that will fly drones from different manufacturers. The planned operations will take place in Andalucía in Spain.
+
+
+
+ENAIRE
+AirMap Deutschland
+Sociedad Estatal de Correos y Telégrafos
+Centro de Referencia de Investigación, Desarrollo e Innovación ATM, A.I.E. (CRIDA)
+Earth Networks
+Everis Aeroespacial y Defensa S.L.U.
+Fundación Andaluza para el Desarrollo Aeroespacial, (FADA‐CATEC)
+FuVeX Civil SL
+GMV Aerospace & Defence S.A.U.
+Indra Sistemas
+Ingenieria Y Economia Del Transporte S. A. (INECO)
+Ingeniería de Sistemas para la Defensa de España S.A. S.M.E. M.P. (ISDEFE)
+Pildo Consulting
+SOTICOL Robotics Systems
+Vodafone España.
+
+
+
+
+
+EuroDRONE - A European UTM testbed for U-space
+
+
+Aims to connect various stakeholders (operators, regulators, law enforcement agencies, product developers) and different systems in a unified environment. Specifically, the demonstration will test U-space functionalities up to U3 in Missolonghi, Greece. The EuroDRONE drone architecture is made up of cloud software (DroNav) and hardware (transponder) to be installed on drones. It is a sophisticated self-learning system based on software and hardware elements, operating in a distributed computing environment, offering multiple levels of redundancy, fail-safe algorithms for conflict prevention/resolution and assets management.
+
+
+
+Aslogic
+Cranfield University
+Dronsystems Limited
+Hellenic Civil Aviation Authority (HCAA)
+Hellenic Post S.A. (ELTA)
+University of Patras (UPAT)
+Romanian Post (CNPR)
+
+
+
+
+
+GOF USPACE - Finnish-Estonian "Gulf of Finland" very large U-space demonstration
+
+
+Aims to establish a pre-operational flight information management system (FIMS) with an architecture capable of integrating existing commercial-off-the-shelf UTM components. The capabilities of the FIMS will be demonstrated in different live cases representing the most typical visual line of sight (VLOS) and beyond visual line of sight (BVLOS) missions:
+
+International parcel delivery between Helsinki and Tallinn
+Dense urban drone fleet operations in Helsinki with Police intervention
+Dense urban drone fleet operations in Tallinn in controlled airspace
+100km+ BVLOS multisensory inspection flights in forestry and utility inspection
+Co-operation with general aviation and recreational users at uncontrolled airport
+Maritime traffic surveillance combined with search-and-rescue over Gulf of Finland
+Drone Taxi flight from Helsinki-Vantaa airport to Helsinki.
+
+
+
+
+Lennuliiklusteeninduse Aktsiaselts (EANS)
+Altitude Angel Limited
+AirMap Deutschland GmbH
+Air Navigation Services Finland (ANS Finland)
+Avartek R. Lindberg Ky Kb
+BVdrone
+CAFA Tech OÜ
+Estonian Police and Border Guard Board (PPA)
+Finnish Communications Regulatory Authority (FICORA)
+The Finnish Air Rescue Society (SLPS)
+Fleetonomy.ai
+Frequentis
+Helsinki Police Department (Helsinki PD)
+Hepta Group Airborne OÜ (HGA)
+Robots Expert Finland
+(REX)
+Threod Systems
+Unifly 
+VideoDrone Finland
+Volocopter
+
+ 
+
+
+
+
+SAFIR - Safe and flexible integration of Initial U-space
+			services in a real environment
+
+
+The demonstration will showcase an application for multiple drone operations that is viable, robust and ready-to-implement throughout Europe. A broad range of operations and services up to U3 linking to smart mobility will be demonstrated, including flights in both controlled and uncontrolled very low level (VLL) airspace; flights in both VLOS and BVLOS; and flights interacting with both manned aircraft and other unmanned aircraft. The operations will take place in Belgium at three locations: City of Antwerp, Port of Antwerp and a DronePort Test Facility in Sint-Truiden.
+
+
+
+Unifly
+Amazon
+skeyes
+DronePort 
+Proximus 
+Port of Antwerp
+Helicus (Helicus Air)
+S.A.B.C.A. (SABCA)
+ELIA SYSTEM OPERATOR
+High Eye
+C-ASTRAL Proizvodnja zračnih in vesoljskih plovil d.o.o. (C-ASTRAL)
+TEKEVER II AUTONOMOUS SYSTEMS, LDA
+Aveillant
+
+ 
+
+
+
+
+VUTURA - Validation of U-space by tests in urban and rural areas
+
+
+Aims to show how a common U-space framework (based on system-wide information management) with U1 and U2 services can enable multiple U-space service providers and multiple operators to execute commercially feasible B-VLOS operations. The demonstration will showcase these operations in a rural, urban and smart city environment.  Each of the scenarios involve two service providers that have to coordinate their services and demonstrate many realistic elements: manned aviation, different levels of automation, off-the-shelf drones versus tailor-made drones, commercial and leisure drones. The flight demonstrations will be performed at different locations in The Netherlands (Delft, Enschede, Flevoland Province), in close cooperation with the civil aviation authorities.
+
+
+
+Stichting Nationaal Lucht- en Ruimtevaartlaboratorium (NLR)
+Technische Universiteit Delft (TUD)
+Gemeente Enschede (GE)
+UAVInternational (UAVI)
+AirHub. (AH)
+Luchtverkeersleiding Nederland (LVNL)
+Unifly (UF)
+AirMap Deutschland GmbH (AM)
+Unisphere GmbH (UN)
+Robor Electronics (RE)
+
+ 
+
+
+
+
+These latest demonstrations will complement the work on already existing demonstrations:
+
+
+
+
+Name of demonstration
+
+
+Description
+
+
+Participating organisations
+
+
+
+
+GEOSAFE – Geofencing for safe and autonomous flight in Europe 
+
+
+Aims to establish state-of-the-art geofencing solutions regarding U-space regulation, to propose/evaluate improvements and recommendations for future geofencing system definition through an extensive flight-test campaign to be conducted at Pourrières, Bordeaux, Montmagny and Valence in France. The campaign will employ a number of commercially-available geofencing solutions to address drone behavior in in different situations. The campaign will also perform a technical assessment of the navigation system performance on the efficiency of geofencing.
+
+
+AirMap
+			Aeromapper
+			Airmarine
+			ATechsys
+			SPH Engineering
+			Thales AVS
+
+
+
+
+PODIUM - Proving Operations of Drones with Initial UTM
+
+
+Will perform four complementary large-scale demonstrations – with over 185 drone flights - at Odense in Denmark, Bretigny and Toulouse in France, and Eelde in the Netherlands. Unmanned aircraft system traffic management (UTM) solutions will be demonstrated for VLOS and BVLOS drone flights. The scope covers very low-level operations in rural and urban areas, in the vicinity of airports, in uncontrolled and controlled airspace, and in mixed environments with manned aviation.
+
+
+Airbus
+			DSNA
+			DELAIR
+			Drones Paris Region
+			Eurocontrol
+			Integra Aerial Services
+			Naviair
+			NLR
+			Orange
+			Unifly
+
+
+
+
+SAFEDRONE
+
+
+Aims to demonstrate how to integrate general aviation, state aviation, optionally piloted aircraft and drones into non-segregated airspace in a multi-aircraft and manned flight environment. The project will perform a large number of demonstrations in at Spain the ATLAS test flight centre located in Villacarrillo (Jaén, Spain) in order to accumulate evidence and experience about the required services and procedures necessary to operate drones in a safe, efficient and secure way within U-space. The demonstration is about U1 and U2 services, and a limited version of U3 advanced services including automated detect & avoid technologies.
+
+
+CATEC
+			CRIDA
+			Enaire
+			IAI
+			Indra
+			Unifly
+			University of Seville
+
+
+
+USIS - U-space initial services
+
+Aims to demonstrate U1 and U2 services with a special focus on e-identification and registration, Surveillance and tracking (including air situation monitoring), Scheduling (flight permissions, flight plan validation, flight notifications), and dynamic airspace management (including generation and management of no-fly/restricted zones).
+			The main demonstration objective is to show the services are capable to support all BVLOS operations, all EASA’s categories of drones, and all density of population environment.
+			The demonstration will be located in France and Hungary.
+
+
+Altametris
+			DFS
+			DSNA
+			ENAC
+			HungaroControl
+			Thales
+			Unifly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+twitter
+
+
+
+rss
+
+
+
+youtube
+
+
+
+linkedin
+
+
+
+flickr
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+Practical info
+
+
+Our Staff
+
+
+Contact Us
+
+
+Visiting Us
+
+
+Newsletter
+
+
+Member of the network of EU Agencies
+
+
+
+
+Careers
+
+
+Open posts
+
+
+Jobs archive
+
+
+
+
+Procurement & Grants
+
+
+Archives
+
+
+
+
+Legal Notice
+
+
+
+
+Founding members
+
+
+
+
+
+Mobility and Transport - European Commission
+
+
+
+
+
+Eurocontrol - Driving excellence in ATM performance
+
+
+
+
+
+
+
+
+
+
+
+      Copyright SESARJU 2019
+    

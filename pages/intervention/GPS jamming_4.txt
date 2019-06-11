@@ -1,0 +1,566 @@
+url: https://www.septentrio.com/en/insights/jam-proofing-drones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jam proofing  drones | Septentrio
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      Products
+
+          
+
+
+
+
+
+
+
+      
+      GNSS Receivers
+
+          
+
+
+      
+      Antennas & Field Controllers
+
+          
+
+
+      
+      Software
+
+          
+
+
+      
+      Correction Services
+
+          
+
+
+
+
+
+
+
+
+      
+      Industries
+
+          
+
+
+
+
+
+
+
+      
+      Autonomous
+
+          
+
+
+      
+      GIS
+
+          
+
+
+      
+      Marine
+
+          
+
+
+      
+      Mining and Construction
+
+          
+
+
+      
+      Precision Agriculture
+
+          
+
+
+      
+      Scientific
+
+          
+
+
+      
+      Survey
+
+          
+
+
+      
+      Unmanned Systems
+
+          
+
+
+
+
+
+
+
+
+      
+      Insights
+
+          
+
+
+      
+      Company
+
+          
+
+
+
+
+
+
+
+      
+      About Us
+
+          
+
+
+      
+      Latest News
+
+          
+
+
+      
+      Events
+
+          
+
+
+      
+      Septentrio Technology
+
+          
+
+
+      
+      Technical Papers
+
+          
+
+
+
+
+
+
+
+
+      
+      Jobs
+
+          
+
+
+      
+      Support
+
+          
+
+
+      
+      Contact
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+
+Breadcrumb
+
+
+Home
+
+
+Insights
+
+
+                  Jam proofing  drones
+              
+
+
+
+
+
+
+
+
+
+Main content
+
+
+
+
+
+
+Jam proofing  drones
+
+
+
+ 
+
+
+
+
+Collect 1 million data points from a 15-minute flight compared to 300 points in a day from a traditional ground survey. It’s no wonder that drones equipped with GPS technology and remote sensors are revolutionising data collection. But will jamming spoil all the fun?
+Who let the drones out?
+Recent years have seen the appearance of affordable, high-end drones which, coupled with easy-to-use mission-planning tools, has created the perfect environment in which drones can flourish. No longer the preserve of specialist drone users, applications using drones have been venturing into areas such as survey, inspection and volume analysis with an impact that is little short of revolutionary.
+Interference can spoil it all
+In the air, the stakes are higher. When things go wrong, the consequences are invariably much more serious than they would have been on the ground. One of the biggest threats to drone safety is GNSS interference. At the very least, disruptions to satellite signals can degrade position quality causing fall-backs from high-precision RTK and PPP modes to less-precise modes. In the most extreme cases, interference can result in complete loss of signal tracking and positioning.   
+Self interference
+A significant source of interference on UAVs is often the other components installed on the UAV. The restricted space means that the GNSS antenna is often in close proximity to other electrical and electronic systems.
+
+
+
+Image
+ 
+
+
+
+Figure 1: GoPro Hero 2 camera pick-up monitored by an AsteRx4 receiver
+Figure 1 shows what happened to the GPS L1-band spectrum when a GoPro camera was installed on a quadcopter close to the GNSS antenna without sufficient shielding. The three peaks are exactly 24 MHz apart pointing to their being harmonics of a 24 MHz signal: the typical frequency for a MMC/SD logging interface. 
+An AsteRx4 receiver was used in this setup which includes the AIM+ system. As well as mitigating the effects of interference, AIM+ includes a spectrum plot to view the RF input from the antenna in both time and frequency domains. At the installation stage, being able to view the RF spectrum is an invaluable tool for both identifying the source of interference and determining the effectiveness of measures such as modifying the setup or adding shielding. For the quadcopter installation in this example, the loss of RTK was readily diagnosed and solved by placing the camera in a shielded case while the quadcopter was still in the workshop.  
+External sources of interference
+GNSS receivers on-board UAVs can be particularly vulnerable to external sources of interference, be they intentional or not. In the sky, the signals from jammers can propagate over far longer distances than they would be able to on land.
+In the case of UAV inspections of wind turbines for example, many countries encourage windmills to be built next to roads, a situation that increases the chance of interference from in-car chirp jammers. These devices though illegal are cheap and can be readily acquired on the internet. Using a chirp jammer, a truck driver can, for example, drive around undetected by the GPS trackers on the truck and car thieves can disable GPS anti-theft devices on stolen vehicles.     
+External interference: the effect of a chirp jammer on a UAV flight
+Although transmitting with a power of around only 10 mW, chirp jammers are powerful enough to knock out GNSS signals in a radius of several hundred metres on land. In the air, the UAV is much more vulnerable as the jamming signals have a far greater reach, unhindered as they are by trees, buildings or other obstacles.
+Figure 2 shows how a 10mW chirp jammer can knock out RTK positioning over more than 1 km in a high-end receiver. Even a low-end consumer-grade L1 receiver, being less accurate and thus less sensitive, loses standalone positioning over several hundred metres.  
+ With AIM+ activated, the AsteRx4 is able to maintain an RTK fix throughout the simulated flight as well as showing no degradation to its position variance. The full details on these simulations can be found in a recent white paper. 
+Solving interference on UAV systems
+A comprehensive approach puts interference considerations at the forefront of receiver design and incorporates it into every stage of signal processing. In the case of the AsteRx4 and AsteRx-m2, the antenna signal is immediately digitised after analogue filtering and automatically cleansed of interference using multiple adaptive filtering stages.
+As each interfering signal has its own individual footprint, being able to visualise the RF signal in both time and frequency domains allows drone users to identify sources of self-jamming and adapt their designs accordingly before the drone gets in the air. 
+When it is in the air, AIM+ is able to mitigate jamming from external sources: a set of configurable notch filters are complemented by an adaptive wideband filter capable of rejecting more complex types of interference such as that from chirp jammers, frequency-hopping signals from DME/TACAN devices as well as high-powered Inmarsat transmitters. 
+
+
+
+
+Image
+ 
+
+
+
+Figure 2: RTK position availability for the AsteRx4 with AIM+ activated and a comparable high-end receiver. The low-end receiver tracks L1 only and outputs less-precise standalone positions. A 10mW chirp jammer is located on the ground at position (0,0) as shown.
+Download this Insight in PDF format here. 
+
+
+
+
+
+Share this
+
+
+
+
+
+
+
+
+
+
+
+Insights
+
+
+
+The role of GNSS localization in safe assisted driving 
+Game of Thrones: GPS flies with dragons
+All You Need to Know about the GPS / GNSS Week Number Rollover 
+Top 3 Positioning Challenges in Autonomous Marine Navigation
+High Precision GPS to Help Automated Bulk Volume Estimation ? Here’s why...
+How GNSS Receivers Empower Smart Cities
+Predicting Crumbling Cliffs
+GNSS jamming and road tolling
+Steam-injected oil extraction and GNSS
+Spoofing: is your GPS attack proof?
+4 constellations in 1 RTK
+GNSS in a Cold Climate
+Drone Inspections go nuclear with GPS 
+Jam proofing  drones
+Set adrift by GPS jamming 
+6 Musts for a machine control receiver
+GPS protects biosystem during cabling 
+GPS and the world’s largest telescope
+No drones, No problem
+Bringing a legend to life with GIS
+How GPS brings time to the world
+The Chirp Jammer: a GPS hit and run
+Look, no Ground Control Points!
+APS-3G makes beaches safe
+Solar wind blows GNSS off course
+RTK Precision Farming
+Targeting Interference with AIM+
+Building roads in Norway with RTK
+On your way to Septentrio
+UAV mapping without GCPs
+
+
+
+
+
+Related products
+
+
+
+AsteRx-m2 
+AsteRx-m2 UAS
+Everything you need to know about radiofrequency interference on GNSS/GPS signals
+
+
+
+
+
+Related industries
+
+
+
+Unmanned Systems
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+Footer 1
+
+
+Products
+
+
+GNSS Receivers
+
+
+Antennas & Field Controllers
+
+
+Software
+
+
+Correction Services
+
+
+
+
+
+
+
+
+
+
+Footer 2
+
+
+Industries
+
+
+Autonomous X
+
+
+GIS
+
+
+Marine
+
+
+Mining and Construction
+
+
+Precision Agriculture
+
+
+Scientific
+
+
+Survey
+
+
+Unmanned Systems
+
+
+
+
+
+
+
+
+
+
+Footer 3
+
+
+Insights
+
+
+Company
+
+
+About Us
+
+
+Events
+
+
+Septentrio Technology
+
+
+Technical Papers
+
+
+
+
+Jobs
+
+
+Support
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+EMEA (HQ)
+
+
++32 16 300 800sales@septentrio.com
+
+
+
+
+
+Americas
+
+
+sales.us@septentrio.com
+
+
+
+
+
+Asia-Pacific
+
+
+sales.au@septentrio.com (Australia)sales.cn@septentrio.com (China)sales.jp@septentrio.com (Japan)sales.kr@septentrio.com (Korea)
+
+
+
+
+
+
+
+
+
+Twitter
+Linkedin
+YouTube
+
+Terms and Conditions
+Copyright ©  Septentrio N.V.
+
+
+
+
+
+
+
+
+
+
+
+Bottom region

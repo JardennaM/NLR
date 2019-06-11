@@ -1,0 +1,2551 @@
+url: http://www.gazette.gc.ca/rp-pr/p2/2019/2019-01-09/html/sor-dors11-eng.html
+
+
+
+
+
+
+Canada Gazette, Part 2, Volume 153, Number 1: Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Skip to "About this site"
+
+
+
+
+
+
+
+Language selection
+
+
+
+Français
+
+
+
+
+
+ 
+
+
+ Government of Canada 
+
+Search and menus
+
+Search and menus
+
+
+
+
+Search
+
+
+Search website
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Topics menu
+
+
+
+Jobs
+Immigration
+Travel
+Business
+Benefits
+Health
+Taxes
+More services
+
+
+
+
+ 
+Topics menu
+
+
+
+Home
+How government works
+Treaties, laws and regulations
+Canada Gazette
+Publications
+Part II: Vol. 153 (2019)
+January 9, 2019
+
+
+
+
+
+
+
+
+
+Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems): SOR/2019-11
+Canada Gazette, Part II, Volume 153, Number 1
+Registration
+SOR/2019-11 December 21, 2018
+AERONAUTICS ACT
+P.C. 2018-1613 December 20, 2018
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Transport, pursuant to paragraph 4.4(2)(b)
+footnote a, section 4.9
+footnote b and paragraphs 7.6(1)(a)
+footnote c and (b)
+footnote d of the Aeronautics Act 
+footnote e, makes the annexed Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems).
+Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems)
+Amendments
+1 (1) The definitions model aircraft and unmanned air vehicle in subsection 101.01(1) of the Canadian Aviation Regulations 
+footnote 1 are repealed.
+
+(2) The definitions crew member and owner in subsection 101.01(1) of the Regulations are replaced by the following:
+crew member means a person who is assigned to duty in an aircraft during flight time, or assigned to duty related to the operation of a remotely piloted aircraft system during flight time; (membre d’équipage)
+owner, in respect of an aircraft or remotely piloted aircraft system, means the person who has legal custody and control of the aircraft or system; (propriétaire)
+(3) Subsection 101.01(1) of the Regulations is amended by adding the following in alphabetical order:
+remotely piloted aircraft means a navigable aircraft, other than a balloon, rocket or kite, that is operated by a pilot who is not on board; (aéronef télépiloté)
+remotely piloted aircraft system or RPAS means a set of configurable elements consisting of a remotely piloted aircraft, its control station, the command and control links and any other system elements required during flight operation; (système d’aéronef télépiloté ou SATP)
+small remotely piloted aircraft means a remotely piloted aircraft that has a maximum take-off weight of at least 250 g (0.55 pounds) but not more than 25 kg (55 pounds); (petit aéronef télépiloté)
+2 Section 102.01 of the Regulations is amended by striking out “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+(b.1) remotely piloted aircraft that are operated indoors or underground; or
+3 Paragraph 102.01(c) of the Regulations is replaced by the following:
+
+(c) rockets, hovercraft or wing-in-ground-effect machines, unless otherwise indicated in these Regulations.
+4 The reference “Section 602.01” in column I of Subpart 2 of Part VI of Schedule II to Subpart 3 of Part I of the Regulations is replaced by the following: 
+
+
+ Column I
+
+
+
+
+Designated Provision 
+Column II
+Maximum Amount of Penalty ($)
+ 
+Individual 
+Corporation
+
+
+Section 602.01.1
+
+5,000
+
+25,000
+
+5 The reference “Section 602.41” in column I of Subpart 2 of Part VI of Schedule II to Subpart 3 of Part I of the Regulations and the corresponding amounts in column II are repealed.
+
+6 Schedule II to Subpart 3 of Part I of the Regulations is amended by adding the following after Part VIII: 
+
+
+ 
+Column I
+Designated Provision 
+Column II
+Maximum Amount of Penalty ($)
+ 
+Individual 
+Corporation
+
+
+PART IX — REMOTELY PILOTED AIRCRAFT SYSTEMS
+
+
+Section 900.06
+
+1,000
+
+5,000
+
+
+SUBPART 1 — SMALL REMOTELY PILOTED AIRCRAFT
+
+
+Section 901.02
+
+1,000
+
+5,000
+
+
+Section 901.03
+
+1,000
+
+5,000
+
+
+Subsection 901.07(1)
+
+1,000
+
+5,000
+
+
+Section 901.08
+
+1,000
+
+5,000
+
+
+Section 901.09
+
+1,000
+
+5,000
+
+
+Subsection 901.11(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.12(1)
+
+1,000
+
+5,000
+
+
+Section 901.13
+
+1,000
+
+5,000
+
+
+Subsection 901.14(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.14(2)
+
+1,000
+
+5,000
+
+
+Section 901.15
+
+1,000
+
+5,000
+
+
+Section 901.16
+
+1,000
+
+5,000
+
+
+Section 901.17
+
+1,000
+
+5,000
+
+
+Section 901.18
+
+1,000
+
+5,000
+
+
+Subsection 901.19(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.19(2)
+
+3,000
+
+15,000
+
+
+Subsection 901.20(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.20(2)
+
+1,000
+
+5,000
+
+
+Subsection 901.20(3)
+
+1,000
+
+5,000
+
+
+Subsection 901.20(4)
+
+1,000
+
+5,000
+
+
+Section 901.21
+
+1,000
+
+5,000
+
+
+Section 901.22
+
+3,000
+
+15,000
+
+
+Subsection 901.23(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.23(3)
+
+1,000
+
+5,000
+
+
+Subsection 901.23(4)
+
+1,000
+
+5,000
+
+
+Section 901.24
+
+1,000
+
+5,000
+
+
+Subsection 901.25(1)
+
+1,000
+
+5,000
+
+
+Section 901.26
+
+1,000
+
+5,000
+
+
+Section 901.27
+
+1,000
+
+5,000
+
+
+Paragraph 901.28(a)
+
+1,000
+
+5,000
+
+
+Paragraph 901.28(b)
+
+1,000
+
+5,000
+
+
+Paragraph 901.28(c)
+
+1,000
+
+5,000
+
+
+Section 901.29
+
+1,000
+
+5,000
+
+
+Section 901.30
+
+1,000
+
+5,000
+
+
+Section 901.31
+
+1,000
+
+5,000
+
+
+Section 901.32
+
+1,000
+
+5,000
+
+
+Section 901.33
+
+1,000
+
+5,000
+
+
+Section 901.34
+
+1,000
+
+5,000
+
+
+Subsection 901.35(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.35(2)
+
+1,000
+
+5,000
+
+
+Section 901.36
+
+1,000
+
+5,000
+
+
+Section 901.37
+
+1,000
+
+5,000
+
+
+Section 901.38
+
+1,000
+
+5,000
+
+
+Subsection 901.39(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.39(2)
+
+1,000
+
+5,000
+
+
+Subsection 901.40(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.41(1)
+
+1,000
+
+5,000
+
+
+Section 901.42
+
+1,000
+
+5,000
+
+
+Subsection 901.43(1)
+
+5,000
+
+25,000
+
+
+Section 901.44
+
+1,000
+
+5,000
+
+
+Section 901.45
+
+1,000
+
+5,000
+
+
+Subsection 901.46(1)
+
+3,000
+
+15,000
+
+
+Subsection 901.47(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.47(2)
+
+1,000
+
+5,000
+
+
+Subsection 901.47(3)
+
+1,000
+
+5,000
+
+
+Subsection 901.48(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.48(2)
+
+1,000
+
+5,000
+
+
+Subsection 901.48(3)
+
+1,000
+
+5,000
+
+
+Subsection 901.49(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.49(2)
+
+1,000
+
+5,000
+
+
+Subsection 901.54(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.56(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.56(2)
+
+1,000
+
+5,000
+
+
+Section 901.57
+
+1,000
+
+5,000
+
+
+Section 901.58
+
+1,000
+
+5,000
+
+
+Subsection 901.63(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.65(1)
+
+1,000
+
+5,000
+
+
+Subsection 901.65(2)
+
+1,000
+
+5,000
+
+
+Section 901.66
+
+1,000
+
+5,000
+
+
+Section 901.67
+
+1,000
+
+5,000
+
+
+Subsection 901.69(1)
+
+1,000
+
+5,000
+
+
+Section 901.70
+
+1,000
+
+5,000
+
+
+Subsection 901.71(1)
+
+1,000
+
+5,000
+
+
+Section 901.72
+
+1,000
+
+5,000
+
+
+Section 901.73
+
+1,000
+
+5,000
+
+
+Subsection 901.76(1)
+
+3,000
+
+15,000
+
+
+Section 901.77
+
+3,000
+
+15,000
+
+
+Section 901.78
+
+3,000
+
+15,000
+
+
+Subsection 901.79(1)
+
+3,000
+
+15,000
+
+
+Subsection 901.79(2)
+
+3,000
+
+15,000
+
+
+Section 901.82
+
+3,000
+
+15,000
+
+
+Section 901.84
+
+1,000
+
+5,000
+
+
+Paragraph 901.86(a)
+
+1,000
+
+5,000
+
+
+Paragraph 901.86(b)
+
+1,000
+
+5,000
+
+
+Section 901.87
+
+1,000
+
+5,000
+
+
+SUBPART 2 — [RESERVED]
+
+
+SUBPART 3 — SPECIAL FLIGHT OPERATIONS — REMOTELY PILOTED AIRCRAFT SYSTEMS
+
+
+Section 903.01
+
+1,000
+
+5,000
+
+7 Schedule II to Subpart 4 of Part I of the Regulations is amended by adding the following after paragraph 3(c): 
+
+
+ 
+Item Column I
+
+Document or Preparatory Action in Respect of Which a Charge Is Imposed Column II
+
+Charge ($)
+
+
+3
+
+(d) a small remotely piloted aircraft registration
+
+
+5
+
+8 Schedule IV to Subpart 4 of Part I of the Regulations is amended by adding the following after item 25: 
+
+
+ 
+Item 
+Column I
+Document or Preparatory Action in Respect of Which a Charge Is Imposed Column II
+
+Charge ($)
+
+
+26
+
+Conduct of the taking or retaking of an examination for a pilot certificate — small remotely piloted aircraft (VLOS) — basic operations or a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations, or for recency requirements
+
+10
+
+
+27
+
+Conduct of the taking or retaking of
+an examination for a flight reviewer rating
+
+50
+
+
+28
+
+Issuance of a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations
+
+25
+
+
+29
+
+Endorsement of a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations with a flight reviewer rating
+
+125
+
+9 Subsection 200.02(1) of the Regulations is replaced by the following:
+200.02 (1) Subject to subsection (2), this Part applies in respect of all Canadian aircraft, other than remotely piloted aircraft, operated in or outside Canada and section 202.01 also applies in respect of aircraft, other than remotely piloted aircraft, registered in a foreign state while operated in Canada.
+10 The Regulations are amended by adding the following after section 400.01:
+Exception — Remotely Piloted Aircraft Systems
+400.01.1 This Part does not apply in respect of the issuance of a permit, licence or rating in respect of the operation of remotely piloted aircraft systems that include remotely piloted aircraft having a maximum take-off weight of 25 kg (55 pounds) or less.
+11 The portion of subsection 501.01(1) of the Regulations before paragraph (a) is replaced by the following:
+501.01 (1) Subject to subsection (2), the owner of a Canadian aircraft, other than a remotely piloted aircraft having a maximum take-off weight of 25 kg (55 pounds) or less or an ultra-light aeroplane, shall submit to the Minister an Annual Airworthiness Information Report in respect of the aircraft, in the form and manner specified in Chapter 501 of the Airworthiness Manual, either as
+12 The portion of section 507.01 of the Regulations before paragraph (a) is replaced by the following:
+507.01 This Subpart applies in respect of aircraft, other than remotely piloted aircraft having a maximum take-off weight of 25 kg (55 pounds) or less, ultra-light aeroplanes and hang gliders, that are
+13 The portion of section 509.01 of the Regulations before paragraph (a) is replaced by the following:
+509.01 This Subpart applies in respect of the following aircraft if they meet the export requirements specified in Chapter 509 of the Airworthiness Manual, except for aircraft that are operated under a special certificate of airworthiness in the owner-maintenance or amateur-built classification, remotely piloted aircraft having a maximum take-off weight of 25 kg (55 pounds) or less, ultra-light aeroplanes and hang gliders:
+14 The portion of section 571.01 of the Regulations before paragraph (a) is replaced by the following:
+571.01 This Subpart applies, with the exception of remotely piloted aircraft systems that include remotely piloted aircraft having a maximum take-off weight of 25 kg (55 pounds) or less, ultra-light aeroplanes and hang gliders, in respect of the maintenance and elementary work performed on
+15 The heading “Reckless or Negligent Operation of Aircraft” before section 602.01 and section 602.01 of the Regulations are replaced by the following:
+
+Application — Remotely Piloted Aircraft
+602.01 This Subpart does not apply in respect of remotely piloted aircraft.
+Reckless or Negligent Operation of Aircraft
+602.01.1 No person shall operate an aircraft in such a reckless or negligent manner as to endanger or be likely to endanger the life or property of any person.
+16 Section 602.41 of the Regulations and the heading before it are repealed.
+17 Section 602.45 of the Regulations and the heading before it are replaced by the following:
+Kites and Model Rockets
+602.45 No person shall fly a kite or launch a model rocket or a rocket of a type used in a fireworks display into cloud or in a manner that is or is likely to be hazardous to aviation safety.
+18 Paragraph 603.65(d) of the Regulations is repealed.
+19 Paragraphs 605.01(1)(a) and (b) of the Regulations are replaced by the following:
+
+(a) persons operating Canadian aircraft other than ultra-light aeroplanes, hang gliders or remotely piloted aircraft; and
+(b) persons operating foreign aircraft in Canada, other than remotely piloted aircraft, if those persons are Canadian citizens, permanent residents or corporations incorporated by or under the laws of Canada or a province.
+20 Subsection 606.02(1) of the Regulations is replaced by the following:
+606.02 (1) This section applies to every owner of an aircraft, other than a remotely piloted aircraft, that is registered in Canada or registered under the laws of a foreign state and operated in Canada, if the owner is not required to subscribe to liability insurance in respect of the aircraft under section 7 of the Air Transportation Regulations.
+21 Subsection 606.03(1) of the Regulations is replaced by the following:
+606.03 (1) Except in the case of a remotely piloted aircraft system, no person shall use synthetic flight training equipment to provide training or to conduct a skills assessment required under Part IV, this Part or Part VII, unless there is in force in respect of that equipment a flight simulator certificate or flight training device certificate issued under subsection (2) or an equivalent approval or certificate issued under the laws of a foreign state with which Canada has an agreement respecting such equipment.
+22 The Regulations are amended by adding the following after section 700.01:
+Exception — Remotely Piloted Aircraft Systems
+700.01.1 This Part does not apply in respect of the operation of remotely piloted aircraft systems that include remotely piloted aircraft having a maximum take-off weight 25 kg (55 pounds) or less.
+23 Part IX of the Regulations is replaced by the following:
+Part IX — Remotely Piloted Aircraft Systems
+Division I — General Provisions
+Interpretation
+900.01 The following definitions apply in this Part.
+autonomous means, in respect of a remotely piloted aircraft system, that the system is not designed to allow pilot intervention in the management of a flight. (autonome)
+command and control link means the data link between a remotely piloted aircraft and a control station that is used in the management of a flight. (liaison de commande et de contrôle)
+control station means the facilities or equipment that are remote from a remotely piloted aircraft and from which the aircraft is controlled and monitored. (poste de contrôle)
+detect and avoid functions means the capability to see, sense or detect conflicting air traffic or other hazards and take the appropriate action. (fonctions de détection et d’évitement)
+first-person view device means a device that generates and transmits a streaming video image to a control station display or monitor, giving the pilot of a remotely piloted aircraft the illusion of flying the aircraft from an on-board pilot’s perspective. (dispositif de vue à la première personne)
+flight termination system means a system that, on activation, terminates the flight of a remotely piloted aircraft. (système d’interruption du vol)
+fly-away means, in respect of a remotely piloted aircraft, an interruption or loss of the command and control link such that the pilot is no longer able to control the aircraft and the aircraft no longer follows its preprogrammed procedures or operates in a predictable or planned manner. (dérive)
+mandatory action means the inspection, repair or modification of a remotely piloted aircraft system that the manufacturer of the system considers necessary to prevent an unsafe or potentially unsafe condition. (mesure obligatoire)
+payload means a system, an object or a collection of objects that is on board or is otherwise connected to a remotely piloted aircraft but that is not required for flight. (charge utile)
+visual line-of-sight or VLOS means unaided visual contact at all times with a remotely piloted aircraft that is sufficient to be able to maintain control of the aircraft, know its location, and be able to scan the airspace in which it is operating in order to perform the detect and avoid functions in respect of other aircraft or objects. (visibilité directe ou VLOS)
+visual observer means a trained crew member who assists the pilot in ensuring the safe conduct of a flight under visual line-of-sight. (observateur visuel)
+Application
+900.02 This Part applies in respect of the operation of remotely piloted aircraft systems.
+Delayed Application of Certain Provisions
+900.02.1 Sections 900.06, 901.02, 901.03, 901.07 to 901.49, 901.54, 901.56, 901.57, 901.63, 901.65, 901.66, 901.69 to 901.73, 903.01 and 903.03 do not apply until June 1, 2019.
+[900.03 to 900.05 reserved]
+Division II — General Prohibition
+Reckless or Negligent Operation
+900.06 No person shall operate a remotely piloted aircraft system in such a reckless or negligent manner as to endanger or be likely to endanger aviation safety or the safety of any person.
+Subpart 1 — Small Remotely Piloted Aircraft
+Division I — General Provision
+Application
+901.01 This Subpart applies in respect of the operation of remotely piloted aircraft systems that include small remotely piloted aircraft.
+Division II — Registration of Remotely Piloted Aircraft
+Registration
+901.02 No person shall operate a remotely piloted aircraft system unless the remotely piloted aircraft is registered in accordance with this Division.
+Registration Number
+901.03 No pilot shall operate a remotely piloted aircraft system unless the registration number issued in accordance with section 901.05 is clearly visible on the remotely piloted aircraft.
+Qualifications To Be Registered Owner of a Remotely Piloted Aircraft
+901.04 (1) Subject to subsection (2), a person is qualified to be the registered owner of a remotely piloted aircraft if they are
+
+(a) a citizen of Canada;
+(b) a permanent resident of Canada;
+(c) a corporation incorporated under the territorial, provincial or federal laws of Canada; or
+(d) a municipal, provincial or federal entity.
+(2) No individual is qualified to be the registered owner of a remotely piloted aircraft unless that individual is at least 14 years of age.
+Registration Requirements
+901.05 (1) The Minister shall, on receipt of an application submitted in accordance with subsection (2), register a remotely piloted aircraft if the applicant is qualified to be the registered owner of the aircraft.
+(2) The application shall include the following information:
+
+(a) if the applicant is an individual, 
+
+(i) the applicant’s name and address,
+(ii) the applicant’s date of birth, and
+(iii) an indication as to whether the applicant is a Canadian citizen or permanent resident of Canada;
+(b) if the applicant is incorporated, 
+
+(i) the entity’s legal name and address, and
+(ii) the name and title of the person making the application;
+(c) if the applicant is Her Majesty in right of Canada or a province, 
+
+(i) the name of the government body, and
+(ii) the name and title of the person making the application;
+(d) an indication as to whether the aircraft was purchased or built by the applicant;
+(e) the date of purchase of the aircraft by the applicant, if applicable;
+(f) the manufacturer and model of the aircraft, if applicable;
+(g) the serial number of the aircraft, if applicable;
+(h) the category of aircraft, such as a fixed-wing aircraft, rotary-wing aircraft, hybrid aircraft or lighter-than-air aircraft;
+(i) the maximum take-off weight of the aircraft; and
+(j) any Canadian registration number previously issued in respect of the aircraft.
+(3) When the Minister registers a remotely piloted aircraft, the Minister shall issue to the registered owner of the aircraft a certificate of registration that includes
+
+(a) a registration number;
+(b) the serial number of the aircraft, if applicable; and
+(c) if the manufacturer has made a declaration in accordance with section 901.76 in respect of the model of remotely piloted aircraft system of which the aircraft is an element, the operations referred to in subsection 901.69(1) for which the declaration was made.
+Register of Remotely Piloted Aircraft
+901.06 The Minister shall establish and maintain a register of remotely piloted aircraft, in which there shall be entered, in respect of each aircraft for which a certificate of registration has been issued under section 901.05,
+
+(a) the name and address of the registered owner;
+(b) the registration number referred to in paragraph 901.05(3)(a); and
+(c) such other particulars concerning the aircraft as the Minister determines necessary for registration of the remotely piloted aircraft.
+Cancellation of Certificate of Registration
+901.07 (1) Every registered owner of a remotely piloted aircraft shall, within seven days after becoming aware that any of the following events has occurred, notify the Minister in writing that
+
+(a) the aircraft is destroyed;
+(b) the aircraft is permanently withdrawn from use;
+(c) the aircraft is missing and the search for the aircraft is terminated;
+(d) the aircraft has been missing for 60 days or more; or
+(e) the registered owner has transferred legal custody and control of the aircraft.
+(2) When an event referred to in subsection (1) has occurred, the certificate of registration in respect of the remotely piloted aircraft is cancelled.
+(3) The certificate of registration of a remotely piloted aircraft is cancelled when
+
+(a) a registered owner of the aircraft dies;
+(b) an entity that is a registered owner of the aircraft is wound up, dissolved or amalgamated with another entity; or
+(c) a registered owner ceases to be qualified to be a registered owner under section 901.04.
+(4) For the purposes of this Division, an owner has legal custody and control of a remotely piloted aircraft when the owner has complete responsibility for the operation and maintenance of the remotely piloted aircraft system of which the aircraft is an element.
+Change of Name or Address
+901.08 The registered owner of a remotely piloted aircraft shall notify the Minister in writing of any change in the name or address of the registered owner by not later than seven days after the change.
+Access to Certificate of Registration
+901.09 No pilot shall operate a remotely piloted aircraft system unless the certificate of registration issued in respect of the remotely piloted aircraft is easily accessible to the pilot for the duration of the operation.
+[901.10 reserved]
+Division III — General Operating and Flight Rules
+Visual Line-of-sight
+901.11 (1) Subject to subsection (2), no pilot shall operate a remotely piloted aircraft system unless the pilot or a visual observer has the aircraft in visual line-of-sight at all times during flight.
+(2) A pilot may operate a remotely piloted aircraft system without the pilot or a visual observer having the aircraft in visual line-of-sight if the operation is conducted in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+Prohibition — Emergency Security Perimeter
+901.12 (1) No pilot shall operate a remotely piloted aircraft over or within the security perimeter established by a public authority in response to an emergency.
+(2) Subsection (1) does not apply to the operation of a remotely piloted aircraft for the purpose of an operation to save human life, a police operation, a fire-fighting operation or other operation that is conducted in the service of a public authority.
+Prohibition — Canadian Domestic Airspace
+901.13 No pilot operating a remotely piloted aircraft shall cause the aircraft to leave Canadian Domestic Airspace.
+Controlled or Restricted Airspace
+901.14 (1) Subject to subsection 901.71(1), no pilot shall operate a remotely piloted aircraft in controlled airspace.
+(2) No pilot shall operate a remotely piloted aircraft in Class F Special Use Restricted Airspace, as specified in the Designated Airspace Handbook, unless authorized to do so by the person specified for that purpose in that standard.
+(3) For the purposes of subsection (2), a person specified in the Designated Airspace Handbook may authorize the operation of a remotely piloted aircraft when activities on the ground or in the airspace are not hazardous to aircraft operating in that airspace or access by aircraft to that airspace does not jeopardize national security interests.
+Inadvertent Entry into Controlled or Restricted Airspace
+901.15 A pilot of a remotely piloted aircraft shall ensure that the appropriate air traffic control unit, flight service station or user agency is notified immediately any time the aircraft is no longer under the pilot’s control and inadvertent entry into controlled airspace or Class F Special Use Restricted airspace, as specified in the Designated Airspace Handbook, occurs or is likely to occur.
+Flight Safety
+901.16 A pilot that operates a remotely piloted aircraft system shall immediately cease operations if aviation safety or the safety of any person is endangered or likely to be endangered.
+Right of Way
+901.17 A pilot of a remotely piloted aircraft shall give way to power-driven heavier-than-air aircraft, airships, gliders and balloons at all times.
+Avoidance of Collision
+901.18 No pilot shall operate a remotely piloted aircraft in such proximity to another aircraft as to create a risk of collision.
+Fitness of Crew Members
+901.19 (1) No person shall act as a crew member of a remotely piloted aircraft system if the person
+
+(a) is suffering or is likely to suffer from fatigue; or
+(b) is otherwise unfit to perform properly the person’s duties.
+(2) No person shall act as a crew member of a remotely piloted aircraft system
+
+(a) within 12 hours after consuming an alcoholic beverage;
+(b) while under the influence of alcohol; or
+(c) while using any drug that impairs the person’s faculties to the extent that aviation safety or the safety of any person is endangered or likely to be endangered.
+Visual Observers
+901.20 (1) No pilot shall operate a remotely piloted aircraft system if visual observers are used to assist the pilot in the provision of detect and avoid functions unless reliable and timely communication is maintained between the pilot and each visual observer during the operation.
+(2) A visual observer shall communicate information to the pilot in a timely manner, during the operation, whenever the visual observer detects conflicting air traffic, hazards to aviation safety or hazards to persons on the surface.
+(3) No visual observer shall perform visual observer duties for more than one remotely piloted aircraft at a time unless the aircraft are operated in accordance with subsection 901.40(1) or in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+(4) No visual observer shall perform visual observer duties while operating a moving vehicle, vessel or aircraft.
+Compliance with Instructions
+901.21 Every crew member of a remotely piloted aircraft system shall, during flight time, comply with the instructions of the pilot.
+Living Creatures
+901.22 No pilot shall operate a remotely piloted aircraft that transports or carries on board a living creature.
+Procedures
+901.23 (1) No pilot shall operate a remotely piloted aircraft system unless the following procedures are established:
+
+(a) normal operating procedures, including pre-flight, take-off, launch, approach, landing and recovery procedures; and
+(b) emergency procedures, including with respect to 
+
+(i) a control station failure,
+(ii) an equipment failure,
+(iii) a failure of the remotely piloted aircraft,
+(iv) a loss of the command and control link,
+(v) a fly-away, and
+(vi) flight termination.
+(2) If the manufacturer of the remotely piloted aircraft system provides instructions with respect to the topics referred to in paragraphs (1)(a) and (b), the procedures established under subsection (1) shall reflect those instructions.
+(3) No pilot shall conduct the take-off or launch of a remotely piloted aircraft unless the procedures referred to in subsection (1) are reviewed before the flight by, and are immediately available to, each crew member.
+(4) No pilot shall operate a remotely piloted aircraft system unless the operation is conducted in accordance with the procedures referred to in subsection (1).
+Pre-flight Information
+901.24 A pilot of a remotely piloted aircraft shall, before commencing a flight, be familiar with the available information that is relevant to the intended flight.
+Maximum Altitude
+901.25 (1) Subject to subsection (2), no pilot shall operate a remotely piloted aircraft at an altitude greater than
+
+(a) 400 feet (122 m) AGL; or
+(b) 100 feet (30 m) above any building or structure, if the aircraft is being operated at a distance of less than 200 feet (61 m), measured horizontally, from the building or structure.
+(2) A pilot may operate a remotely piloted aircraft at an altitude greater than those set out in subsection (1) if the operation is conducted in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+Horizontal Distance
+901.26 Subject to paragraph 901.69(1)(b) or (c), no pilot shall operate a remotely piloted aircraft at a distance of less than 100 feet (30 m) from another person, measured horizontally and at any altitude, except from a crew member or other person involved in the operation.
+Site Survey
+901.27 No pilot shall operate a remotely piloted aircraft system unless, before commencing operations, they determine that the site for take-off, launch, landing or recovery is suitable for the proposed operation by conducting a site survey that takes into account the following factors:
+
+(a) the boundaries of the area of operation;
+(b) the type of airspace and the applicable regulatory requirements;
+(c) the altitudes and routes to be used on the approach to and departure from the area of operation;
+(d) the proximity of manned aircraft operations;
+(e) the proximity of aerodromes, airports and heliports;
+(f) the location and height of obstacles, including wires, masts, buildings, cell phone towers and wind turbines;
+(g) the predominant weather and environmental conditions for the area of operation; and
+(h) the horizontal distances from persons not involved in the operation.
+Other Pre-flight Requirements
+901.28 A pilot of a remotely piloted aircraft shall, before commencing a flight,
+
+(a) ensure that there is a sufficient amount of fuel or energy for safe completion of the flight;
+(b) ensure that each crew member, before acting as a crew member, has been instructed 
+
+(i) with respect to the duties that the crew member is to perform, and
+(ii) on the location and use of any emergency equipment associated with the operation of the remotely piloted aircraft system; and
+(c) determine the maximum distance from the pilot the aircraft can travel without endangering aviation safety or the safety of any person.
+Serviceability of the Remotely Piloted Aircraft System
+901.29 No pilot shall conduct the take-off or launch of a remotely piloted aircraft, or permit the take-off or launch of a remotely piloted aircraft to be conducted, unless the pilot ensures that
+
+(a) the aircraft is serviceable;
+(b) the remotely piloted aircraft system has been maintained in accordance with the manufacturer’s instructions;
+(c) all mandatory actions have been completed in accordance with the manufacturer’s instructions; and
+(d) all equipment required by these Regulations or the manufacturer’s instructions are installed and serviceable.
+Availability of Remotely Piloted Aircraft System Operating Manual
+901.30 No pilot shall conduct the take-off or launch of a remotely piloted aircraft for which the manufacturer has provided a remotely piloted aircraft system operating manual unless the manual is immediately available to crew members at their duty stations.
+Manufacturer’s Instructions
+901.31 No pilot shall operate a remotely piloted aircraft system unless it is operated in accordance with the manufacturer’s instructions.
+Control of Remotely Piloted Aircraft Systems
+901.32 No pilot shall operate an autonomous remotely piloted aircraft system or any other remotely piloted aircraft system for which they are unable to take immediate control of the aircraft.
+Take-offs, Launches, Approaches, Landings and Recovery
+901.33 A pilot of a remotely piloted aircraft shall, before take-off, launch, approach, landing or recovery,
+
+(a) ensure that there is no likelihood of collision with another aircraft, person or obstacle; and
+(b) ensure that the site set aside for take-off, launch, landing or recovery, as the case may be, is suitable for the intended operation.
+Minimum Weather Conditions
+901.34 No pilot shall operate a remotely piloted aircraft system unless the weather conditions at the time of flight permit
+
+(a) the operation to be conducted in accordance with the manufacturer’s instructions; and
+(b) the pilot of the system and any visual observer to conduct the entire flight within visual line-of-sight.
+Icing
+901.35 (1) No pilot shall operate a remotely piloted aircraft system when icing conditions are observed, are reported to exist or are likely to be encountered along the route of flight unless the aircraft is equipped with de-icing or anti-icing equipment and equipment designed to detect icing.
+(2) No pilot shall operate a remotely piloted aircraft system with frost, ice or snow adhering to any part of the remotely piloted aircraft.
+Formation Flight
+901.36 No pilot shall operate a remotely piloted aircraft in formation with other aircraft except by pre-arrangement between the pilots of the aircraft in respect of the intended flight.
+Prohibition — Operation of Moving Vehicles, Vessels and Manned Aircraft
+901.37 No pilot shall operate a remotely piloted aircraft while operating a moving vehicle, vessel or manned aircraft.
+Use of First-person View Devices
+901.38 No pilot shall operate a remotely piloted aircraft system using a first-person view device unless, at all times during flight, a visual observer performs the detect and avoid functions with respect to conflicting aircraft or other hazards beyond the field of view displayed on the device.
+Night Flight Requirements
+901.39 (1) No pilot shall operate a remotely piloted aircraft system during the night unless the remotely piloted aircraft is equipped with position lights sufficient to allow the aircraft to be visible to the pilot and any visual observer, whether with or without night-vision goggles, and those lights are turned on.
+(2) No pilot shall operate a remotely piloted aircraft system using night-vision goggles unless the goggles are capable of, or the person has another means of, detecting all light within the visual spectrum.
+Multiple Remotely Piloted Aircraft
+901.40 (1) No pilot shall operate more than one remotely piloted aircraft at a time unless the remotely piloted aircraft system is designed to permit the operation of multiple aircraft from a single control station and unless the aircraft are operated in accordance with the manufacturer’s instructions.
+(2) For the purposes of subsection (1), no pilot shall operate more than five remotely piloted aircraft at a time except in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+Special Aviation Events and Advertised Events
+901.41 (1) No pilot shall operate a remotely piloted aircraft system at any special aviation event or at any advertised event except in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+(2) For the purposes of subsection (1), advertised event means an outdoor event that is advertised to the general public, including a concert, festival, market or sporting event.
+Handovers
+901.42 No pilot shall hand over their responsibilities to another pilot during flight unless, before the take-off or launch of a remotely piloted aircraft,
+
+(a) a pre-arrangement in respect of the handover has been made between the pilots; and
+(b) a procedure has been developed to mitigate the risk of loss of control of the aircraft.
+Payloads
+901.43 (1) Subject to subsection (2), no pilot shall operate a remotely piloted aircraft system if the aircraft is transporting a payload that
+
+(a) includes explosive, corrosive, flammable, or bio-hazardous material;
+(b) includes weapons, ammunition or other equipment designed for use in war;
+(c) could create a hazard to aviation safety or cause injury to persons; or
+(d) is attached to the aircraft by means of a line unless such an operation is conducted in accordance with the manufacturer’s instructions.
+(2) A pilot may operate a remotely piloted aircraft system when the aircraft is transporting a payload referred to in subsection (1) if the operation is conducted in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+Flight Termination System
+901.44 No pilot of a remotely piloted aircraft equipped with a flight termination system shall activate the system if it will endanger or will likely endanger aviation safety or the safety of any person.
+ELT
+901.45 No pilot shall operate a remotely piloted aircraft equipped with an ELT.
+Transponder and Automatic Pressure-altitude Reporting Equipment
+901.46 (1) Subject to subsection (2), no pilot shall operate a remotely piloted aircraft system if the aircraft is in the transponder airspace referred to in section 601.03 unless the aircraft is equipped with a transponder and automatic pressure-altitude reporting equipment.
+(2) An air traffic control unit may authorize a pilot to operate a remotely piloted aircraft that is not equipped in accordance with subsection (1) within the airspace referred to in section 601.03 if
+
+(a) the air traffic control unit provides an air traffic control service in respect of that airspace;
+(b) the pilot made a request to the air traffic control unit to operate the aircraft within that airspace before the aircraft entered the airspace; and
+(c) aviation safety is not likely to be affected.
+Operations at or in the Vicinity of an Aerodrome, Airport or Heliport
+901.47 (1) No pilot shall operate a remotely piloted aircraft at or near an aerodrome that is listed in the Canada Flight Supplement or the Water Aerodrome Supplement in a manner that could interfere with an aircraft operating in the established traffic pattern.
+(2) Subject to section 901.73, no pilot shall operate a remotely piloted aircraft at a distance of less than
+
+(a) three nautical miles from the centre of an airport; and
+(b) one nautical mile from the centre of a heliport.
+(3) No pilot shall operate a remotely piloted aircraft at a distance of less than three nautical miles from the centre of an aerodrome operated under the authority of the Minister of National Defence unless the operation is conducted in accordance with a special flight operations certificate — RPAS issued under section 903.03.
+Records
+901.48 (1) Every owner of a remotely piloted aircraft system shall keep the following records:
+
+(a) a record containing the names of the pilots and other crew members who are involved in each flight and, in respect of the system, the time of each flight or series of flights; and
+(b) a record containing the particulars of any mandatory action and any other maintenance action, modification or repair performed on the system, including 
+
+(i) the names of the persons who performed them,
+(ii) the dates they were undertaken,
+(iii) in the case of a modification, the manufacturer, model and a description of the part or equipment installed to modify the system, and
+(iv) if applicable, any instructions provided to complete the work.
+(2) Every owner of a remotely piloted aircraft system shall ensure that the records referred to in subsection (1) are made available to the Minister on request and are retained for a period of
+
+(a) in the case of the records referred to in paragraph (1)(a), 12 months after the day on which they are created; and
+(b) in the case of the records referred to in paragraph (1)(b), 24 months after the day on which they are created.
+(3) Every owner of a remotely piloted aircraft system who transfers ownership of the system to another person shall, at the time of transfer, also deliver to that person all of the records referred to in paragraph (1)(b).
+Incidents and Accidents — Associated Measures
+901.49 (1) A pilot that operates a remotely piloted aircraft system shall immediately cease operations if any of the following incidents or accidents occurs until such time as an analysis is undertaken as to the cause of the occurrence and corrective actions have been taken to mitigate the risk of recurrence:
+
+(a) injuries to any person requiring medical attention;
+(b) unintended contact between the aircraft and persons;
+(c) unanticipated damage incurred to the airframe, control station, payload or command and control links that adversely affects the performance or flight characteristics of the aircraft;
+(d) any time the aircraft is not kept within horizontal boundaries or altitude limits;
+(e) any collision with or risk of collision with another aircraft;
+(f) any time the aircraft becomes uncontrollable, experiences a fly-away or is missing; and
+(g) any incident not referred to in paragraphs (a) to (f) for which a police report has been filed or for which a Civil Aviation Daily Occurrence Report has resulted.
+(2) The pilot of the remotely piloted aircraft system shall keep, and make available to the Minister on request, a record of any analyses undertaken under subsection (1) for a period of 12 months after the day on which the record is created.
+[901.50 to 901.52 reserved]
+Division IV — Basic Operations
+Application
+901.53 This Division applies in respect of the operation of remotely piloted aircraft systems that include small remotely piloted aircraft and that are not intended to conduct any of the advanced operations referred to in paragraphs 901.62(a) to (d).
+Pilot Requirements
+901.54 (1) Subject to subsection (2), no person shall operate a remotely piloted aircraft system under this Division unless the person
+
+(a) is at least 14 years of age; and
+(b) holds either 
+
+(i) a pilot certificate — small remotely piloted aircraft (VLOS) — basic operations issued under section 901.55; or
+(ii) a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations issued under section 901.64.
+(2) Subsection (1) does not apply to a person who is less than 14 years of age if the operation of the remotely piloted aircraft system is conducted under the direct supervision of a person who is 14 years of age or older and who can operate a remotely piloted aircraft system under this Division or Division V.
+Issuance of Pilot Certificate — Small Remotely Piloted Aircraft (VLOS) — Basic Operations
+901.55 The Minister shall, on receipt of an application, issue a pilot certificate — small remotely piloted aircraft (VLOS) — basic operations if the applicant demonstrates to the Minister that the applicant
+
+(a) is at least 14 years of age; and
+(b) has successfully completed the examination “Remotely Piloted Aircraft Systems — Basic Operations” which is based on the standard entitled Knowledge Requirements for Pilots of Remotely Piloted Aircraft Systems, 250 g up to and including 25 kg, Operating within Visual Line-of-Sight (VLOS), TP 15263, published by the Minister and covers the subjects set out in section 921.01 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+Recency Requirements
+901.56 (1) No holder of a pilot certificate — small remotely piloted aircraft (VLOS) — basic operations or of a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations shall operate a remotely piloted aircraft system under this Division unless the holder has, within the 24 months preceding the flight,
+
+(a) been issued a pilot certificate — small remotely piloted aircraft (VLOS) — basic operations under section 901.55 or a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations under section 901.64; or
+(b) successfully completed 
+
+(i) either of the examinations referred to in paragraphs 901.55(b) and 901.64(b),
+(ii) a flight review referred to in paragraph 901.64(c), or
+(iii) any of the recurrent training activities set out in section 921.04 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+(2) The person referred to in subsection (1) shall keep a record of all activities referred to in paragraph (1)(b), including the dates on which they were completed, for at least 24 months after the day on which they were completed.
+Access to Certificate and Proof of Recency
+901.57 No pilot shall operate a remotely piloted aircraft system under this Division unless both of the following are easily accessible to the pilot during the operation of the system:
+
+(a) the pilot certificate — small remotely piloted aircraft (VLOS) — basic operations issued under section 901.55 or the pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations issued under section 901.64; and
+(b) documentation demonstrating that the pilot meets the recency requirements set out in section 901.56.
+Examination Rules
+901.58 No person shall, in respect of an examination taken under this Division,
+
+(a) copy or remove from any place all or any portion of the text of the examination;
+(b) give help to or accept help from any person during the examination; or
+(c) complete all or any portion of the examination on behalf of any other person.
+Retaking of an Examination or Flight Review
+901.59 A person who fails an examination or a flight review taken under this Division is ineligible to retake the examination or flight review for a period of 24 hours after the examination or review.
+[901.60 and 901.61 reserved]
+Division V — Advanced Operations
+Application
+901.62 This Division applies in respect of remotely piloted aircraft systems that include small remotely piloted aircraft and that are intended for operation
+
+(a) in controlled airspace, in accordance with paragraph 901.69(1)(a) and sections 901.71 and 901.72;
+(b) at a distance of less than 100 feet (30 m) but not less than 16.4 feet (5 m) from another person except from a crew member or other person involved in the operation, measured horizontally and at any altitude, in accordance with paragraph 901.69(1)(b);
+(c) at a distance of less than 16.4 feet (5 m) from another person, measured horizontally and at any altitude, in accordance with paragraph 901.69(1)(c); or
+(d) within three nautical miles from the centre of an airport, or within one nautical mile from the centre of a heliport, in accordance with section 901.73.
+Pilot Requirements
+901.63 (1) Subject to subsection (2), no person shall operate a remotely piloted aircraft system under this Division unless the person
+
+(a) is at least 16 years of age; and
+(b) holds a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations issued under section 901.64.
+(2) Subsection (1) does not apply to a person who is
+
+(a) less than 16 years of age if the operation of the remotely piloted aircraft system is conducted under the direct supervision of a person who is 16 years of age or older and who can operate a remotely piloted aircraft system under this Division; or
+(b) operating a remotely piloted aircraft system as part of a flight review in order to meet the requirement set out in paragraph 901.64(c).
+Issuance of Pilot Certificate — Small Remotely Piloted Aircraft (VLOS) — Advanced Operations
+901.64 The Minister shall, on receipt of an application, issue a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations if the applicant demonstrates to the Minister that the applicant
+
+(a) is at least 16 years of age;
+(b) has successfully completed the examination “Remotely Piloted Aircraft Systems — Advanced Operations” which is based on the standard entitled Knowledge Requirements for Pilots of Remotely Piloted Aircraft Systems, 250 g up to and including 25 kg, Operating within Visual Line-of-Sight (VLOS), TP 15263, published by the Minister and covers the subjects set out in section 921.02 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS); and
+(c) has, within 12 months before the date of application, successfully completed a flight review in accordance with section 921.02 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS) conducted by a person qualified to conduct flight reviews under section 901.82.
+Recency Requirements
+901.65 (1) No holder of a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations shall operate a remotely piloted aircraft system under this Division unless the holder has, within the 24 months preceding the flight,
+
+(a) been issued a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations under section 901.64; or
+(b) successfully completed 
+
+(i) either of the examinations referred to in paragraphs 901.55(b) and 901.64(b),
+(ii) a flight review referred to in paragraph 901.64(c), or
+(iii) any of the recurrent training activities set out in section 921.04 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+(2) The person referred to in subsection (1) shall keep a record of all activities completed in accordance with paragraph (1)(b), including the dates on which they were completed, for at least 24 months after the day on which they were completed.
+Access to Certificate and Proof of Recency
+901.66 No pilot shall operate a remotely piloted aircraft system under this Division unless both of the following are easily accessible during the operation of the system:
+
+(a) the pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations issued under section 901.64; and
+(b) documentation demonstrating that the pilot meets the recency requirements set out in section 901.65.
+Examination Rules
+901.67 No person shall commit an act referred to in paragraphs 901.58(a) to (c) in respect of an examination taken under this Division.
+Retaking of an Examination or Flight Review
+901.68 A person who fails an examination or a flight review taken under this Division is ineligible to retake the examination or flight review for a period of 24 hours after the examination or review.
+Manufacturer Declaration — Permitted Operations
+901.69 (1) Subject to subsection (2), no pilot shall operate a remotely piloted aircraft system under this Division to conduct any of the following operations unless a declaration under section 901.76 has been made in respect of that model of system and the certificate of registration issued in respect of the aircraft specifies the operations for which the declaration was made:
+
+(a) operations in controlled airspace;
+(b) operations at a distance of less than 100 feet (30 m) but not less than 16.4 feet (5 m) from another person except from a crew member or other person involved in the operation, measured horizontally and at any altitude; or
+(c) operations at a distance of less than 16.4 feet (5 m) from another person, measured horizontally and at any altitude.
+(2) A pilot may operate a remotely piloted aircraft system under this Division to conduct the operations referred to in paragraphs (1)(a) and (b) if, before April 1, 2019, the model of system was determined by the Minister to meet the requirements set out in Appendix C - Criteria for a Compliant Small UAV System Design of Staff Instruction (SI) No. 623-001, published by the Minister on November 19, 2014.
+Operation of a Modified Remotely Piloted Aircraft System
+901.70 If a declaration has been made under section 901.76 in respect of a model of remotely piloted aircraft system for any operation referred to in subsection 901.69(1), no pilot shall conduct any of those operations using a system of that model if the system has been modified in any way, unless
+
+(a) the pilot is able to demonstrate to the Minister that, despite the modification, the system continues to meet the technical requirements set out in Standard 922 — RPAS Safety Assurance applicable to the operations referred to in subsection 901.69(1) for which the declaration was made; and
+(b) if applicable, the modification was performed according to the instructions of the manufacturer of the part or equipment used to modify the system.
+Operations in Controlled Airspace
+901.71 (1) No pilot shall operate a remotely piloted aircraft in controlled airspace under this Division unless the following information is provided to the provider of air traffic services in the area of operation before a proposed operation and an authorization has been issued by that provider:
+
+(a) the date, time and duration of the operation;
+(b) the category, registration number and physical characteristics of the aircraft;
+(c) the vertical and horizontal boundaries of the area of operation;
+(d) the route of the flight to access the area of operation;
+(e) the proximity of the area of operation to manned aircraft approaches and departures and to patterns of traffic formed by manned aircraft;
+(f) the means by which two-way communications with the appropriate air traffic control unit will be maintained;
+(g) the name, contact information and pilot certificate number of any pilot of the aircraft;
+(h) the procedures and flight profiles to be followed in the case of a lost command and control link;
+(i) the procedures to be followed in emergency situations;
+(j) the process and the time required to terminate the operation; and
+(k) any other information required by the provider of air traffic services that is necessary for the provision of air traffic management.
+(2) Despite section 901.25, a pilot may operate a remotely piloted aircraft in controlled airspace under this Division at an altitude above those referred to in that section if an authorization to that effect has been issued by the provider of air traffic services in the area of operation.
+Compliance with Air Traffic Control Instructions
+901.72 The pilot of a remotely piloted aircraft operating in controlled airspace under this Division shall comply with all of the air traffic control instructions directed at the pilot.
+Operations at or in the Vicinity of an Airport or Heliport — Established Procedure
+901.73 No pilot shall operate a remotely piloted aircraft system under this Division if the aircraft is within three nautical miles from the centre of an airport or within one nautical mile from the centre of a heliport unless the operation is conducted in accordance with the established procedure with respect to the use of remotely piloted aircraft systems applicable to that airport or heliport.
+[901.74 and 901.75 reserved]
+Division VI — Advanced Operations — Requirements for Manufacturer
+Manufacturer Declaration
+901.76 (1) For each model of remotely piloted aircraft system that is intended to conduct any of the operations referred to in subsection 901.69(1), the manufacturer shall provide the Minister with a declaration in accordance with subsection (2), except in the case of a model referred to in subsection 901.69(2) and that is intended to conduct any of the operations referred to in that subsection.
+(2) The manufacturer’s declaration shall
+
+(a) specify the manufacturer of the remotely piloted aircraft system, the model of the system, the maximum take-off weight of the aircraft, the operations referred to in subsection 901.69(1) that the aircraft is intended to undertake and the category of aircraft, such as a fixed-wing aircraft, rotary-wing aircraft, hybrid aircraft or lighter-than-air aircraft;
+(b) indicate that the manufacturer 
+
+(i) declares that it meets the documentation requirements set out in section 901.78, and
+(ii) has verified that the system meets the technical requirements set out in Standard 922 — RPAS Safety Assurance applicable to the operations referred to in subsection 901.69(1) for which the declaration was made.
+(3) The manufacturer’s declaration is invalid if
+
+(a) the Minister has determined that the model of remotely piloted aircraft system does not meet the technical requirements set out in the standard referred to in subparagraph (2)(b)(ii); or
+(b) the manufacturer has notified the Minister of an issue related to the design of the model under section 901.77.
+Notice to the Minister
+901.77 A manufacturer that has made a declaration to the Minister under section 901.76 shall notify the Minister of any issue related to the design of the model of remotely piloted aircraft system that results in the system no longer meeting the technical requirements set out in the standard referred to in subparagraph 901.76(2)(b)(ii), as soon as possible after the issue is identified.
+Documentation
+901.78 A manufacturer that has made a declaration to the Minister in respect of a model of remotely piloted aircraft system under section 901.76 shall make available to each owner of that model of system
+
+(a) a maintenance program that includes 
+
+(i) instructions related to the servicing and maintenance of the system, and
+(ii) an inspection program to maintain system readiness;
+(b) any mandatory actions the manufacturer issues in respect of the system; and
+(c) a remotely piloted aircraft system operating manual that includes 
+
+(i) a description of the system,
+(ii) the ranges of weights and centres of gravity within which the system may be safely operated under normal and emergency conditions and, if a weight and centre of gravity combination is considered safe only within certain loading limits, those limits and the corresponding weight and centre of gravity combinations,
+(iii) with respect to each flight phase and mode of operation, the minimum and maximum altitudes and velocities within which the aircraft can be operated safely under normal and emergency conditions,
+(iv) a description of the effects of foreseeable weather conditions or other environmental conditions on the performance of both the system and the pilot,
+(v) the characteristics of the system that could result in severe injury to crew members during normal operations,
+(vi) the design features of the system, and their associated operations, that are intended to protect against injury to persons not involved in the operations,
+(vii) the warning information provided to the pilot in the event of a degradation in system performance that results in an unsafe system operation condition,
+(viii) procedures for operating the system in normal and emergency conditions, and
+(ix) assembly and adjustment instructions for the system.
+Record-keeping
+901.79 (1) A manufacturer that has made a declaration to the Minister in respect of a model of remotely piloted aircraft system under section 901.76 shall keep, and make available to the Minister on request,
+
+(a) a current record of all mandatory actions in respect of the system; and
+(b) a current record of the results of, and the reports related to, the verifications that the manufacturer has undertaken to ensure that the model of the system meets the technical requirements set out in the standard referred to in subparagraph 901.76(2)(b)(ii) applicable to the operations for which the declaration was made.
+(2) The manufacturer shall keep the records referred to in subsection (1) for the greater of
+
+(a) two years following the date that manufacturing of that model of remotely piloted aircraft system permanently ceases, and
+(b) the lifetime of the remotely piloted aircraft that is an element of the model of system referred to in paragraph (a).
+[901.80 and 901.81 reserved]
+Division VII — Requirements Related to Flight Review
+Prohibition — Flight Reviewer
+901.82 No person shall perform the duties of a flight reviewer for the purposes of subparagraph 901.56(1)(b)(ii), paragraph 901.64(c) or subparagraph 901.65(1)(b)(ii) unless that person
+
+(a) holds a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations endorsed with a flight reviewer rating under section 901.83; and
+(b) is able to demonstrate that they are affiliated with a training provider that has made a declaration to the Minister in accordance with the requirements of section 921.05 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+Flight Reviewer Rating
+901.83 The Minister shall, on receipt of an application, endorse the applicant’s pilot certificate with a flight reviewer rating if the applicant demonstrates to the Minister that the applicant
+
+(a) is at least 18 years of age;
+(b) holds a pilot certificate — small remotely piloted aircraft (VLOS) — advanced operations issued under section 901.64 and meets the recency requirements set out in section 901.65;
+(c) has held the certificate referred to in paragraph (b) for at least six months immediately before the date of application; and
+(d) has successfully completed the examination “Remotely Piloted Aircraft Systems — Flight Reviewers” which is based on the standard entitled Knowledge Requirements for Pilots of Remotely Piloted Aircraft Systems, 250 g up to and including 25 kg, Operating within Visual Line-of-Sight (VLOS), TP 15263, published by the Minister and covers the subjects set out in section 921.03 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+Examination Rules
+901.84 No person shall commit an act referred to in paragraphs 901.58(a) to (c) in respect of an examination taken under paragraph 901.83(d).
+Retaking of Examination
+901.85 A person who fails an examination taken under paragraph 901.83(d) is ineligible to retake the examination for a period of 24 hours after the examination.
+Training Provider Requirements
+901.86 When a training provider has made a declaration to the Minister referred to in paragraph 901.82(1)(b), the provider shall
+
+(a) submit to the Minister the name of any person that is affiliated with the provider and who intends to perform the duties of a flight reviewer;
+(b) ensure that the person referred to in paragraph (a) conducts flight reviews in accordance with section 901.87; and
+(c) if the person referred to in paragraph (a) ceases to be affiliated with the provider, notify the Minister of that fact within seven days after the day on which the affiliation ceases.
+Conduct of Flight Reviews
+901.87 No person shall conduct a flight review for the purposes of subparagraph 901.56(1)(b)(ii), paragraph 901.64(c) or subparagraph 901.65(1)(b)(ii) unless the review is conducted in accordance with section 921.06 of Standard 921 — Small Remotely Piloted Aircraft in Visual Line-of-Sight (VLOS).
+Subpart 2 — [Reserved]
+Subpart 3 — Special Flight Operations — Remotely Piloted Aircraft Systems
+Prohibition
+903.01 No person shall conduct any of the following operations using a remotely piloted aircraft system that includes a remotely piloted aircraft having a maximum take-off weight of 250 g (0.55 pounds) or more unless the person complies with the provisions of a special flight operations certificate — RPAS issued by the Minister under section 903.03:
+
+(a) the operation of a system that includes a remotely piloted aircraft having a maximum take-off weight of more than 25 kg (55 pounds);
+(b) the operation of a system beyond visual line-of-sight, as referred to in subsection 901.11(2);
+(c) the operation of a system by a foreign operator or pilot who has been authorized to operate remotely piloted aircraft systems by the foreign state;
+(d) the operation of a remotely piloted aircraft at an altitude greater than those referred to in subsection 901.25(1), unless the operation at a greater altitude is authorized under subsection 901.71(2);
+(e) the operation of more than five remotely piloted aircraft at a time from a single control station, as referred to in subsection 901.40(2);
+(f) the operation of a system at a special aviation event or at an advertised event, as referred to in section 901.41;
+(g) the operation of a system when the aircraft is transporting any of the payloads referred to in subsection 901.43(1);
+(h) the operation of a remotely piloted aircraft within three nautical miles of an aerodrome operated under the authority of the Minister of National Defence, as referred to in subsection 901.47(3); and
+(i) any other operation of a system for which the Minister determines that a special flight operations certificate — RPAS is necessary to ensure aviation safety or the safety of any person.
+Application for Special Flight Operations Certificate — RPAS
+903.02 A person who proposes to operate a remotely piloted aircraft system for any operation set out in section 903.01 shall apply to the Minister for a special flight operations certificate — RPAS with regard to that operation by submitting the following information to the Minister at least 30 working days before the date of the proposed operation:
+
+(a) the legal name, trade name, address and contact information of the applicant;
+(b) the means by which the person responsible for the operation or the pilot may be contacted directly during operations;
+(c) the operation for which the application is made;
+(d) the purpose of the operation;
+(e) the dates, alternate dates and times of the operation;
+(f) the manufacturer and model of the system, including three-view drawings or photographs of the aircraft and a complete description of the aircraft, including performance, operating limitations and equipment;
+(g) a description of the safety plan for the proposed area of operation;
+(h) a description of the emergency contingency plan for the operation;
+(i) a detailed plan describing how the operation is to be carried out;
+(j) the names, certificates, licences, permits and qualifications of the crew members, including the pilots and visual observers, and the remotely piloted aircraft system maintenance personnel;
+(k) the instructions regarding the maintenance of the system and a description of how that maintenance will be performed;
+(l) a description of weather minima for the operation;
+(m) a description of separation and collision avoidance capability and procedures;
+(n) a description of normal and emergency procedures for the operation;
+(o) a description of air traffic control services coordination, if applicable; and
+(p) any other information requested by the Minister pertinent to the safe conduct of the operation.
+Issuance of Special Flight Operations Certificate — RPAS
+903.03 The Minister shall, on receipt of an application submitted in accordance with section 903.02, issue a special flight operations certificate — RPAS if the applicant demonstrates to the Minister the ability to perform the operation without adversely affecting aviation safety or the safety of any person.
+Transitional Provision
+24 The definitions area of natural hazard or disaster, MAAC, Regulations and restricted airspace in subsection 1(1), subsections 1(2) and (3) and sections 2 to 8 of Interim Order No. 9 Respecting the Use of Model Aircraft and the schedule to that Interim Order continue to apply until May 31, 2019.
+
+Repeal
+25 Section 900.02.1 of the Canadian Aviation Regulations and the heading before it, as enacted by section 23 of these Regulations, are repealed on the day on which section 22 comes into force.
+Coming into Force
+26 (1) Subject to subsection (2), these Regulations come into force on the day on which they are published in the Canada Gazette, Part II.
+(2) Subsection 1(1) and sections 3 to 5, 15 to 18 and 22 come into force on June 1, 2019. 
+REGULATORY IMPACT ANALYSIS STATEMENT 
+(This statement is not part of the Regulations.)
+Executive summary 
+
+Issues: The growing Remotely Piloted Aircraft Systems (RPAS or RPA) industry has significant economic potential. However, the existing Canadian Aviation Regulations (CARs) do not provide a regulatory framework that promotes the economic potential of RPAS nor does it contain modern, risk- and performance-based regulations that can uphold aviation safety. To date, Transport Canada (TC) has been overseeing commercial RPAS operations on a case-by-case basis using certain CARs provisions that were not designed specifically for RPAS in order to mitigate aviation safety risks. This approach is complex, inefficient, and in some cases overly restrictive. Recreational operations must comply with the Interim Order established temporarily by the Minister of Transport to address risks to aviation and people. In the absence of regulatory change, risks to aviation and public safety will continue to rise in step with the growth in popularity of RPAS.
+Description: The amendments to the CARs will reduce the number of operations that require Special Flight Operations Certificates (SFOC) for remotely piloted aircraft with a maximum take-off weight between 250 g and 25 kg and operated within visual line-of-sight (VLOS). The amendments will reduce risks to public safety through pilot certification and will also introduce RPAS safety-based manufacturing requirements intended for certain operations.
+Cost-benefit statement: The monetized benefits include the elimination of SFOC and a reduced risk to public safety; they will bring an estimated benefit of $144.5 million over 2018–2029 (present value discounted 7% and expressed in $CAD 2018). Costs are expected to be $172.9 million over the same period, leading to an overall monetized net cost of $28.4 million. Additional non-monetized benefits include a reduced risk to aviation safety and greater predictability for commercial operations.
+“One-for-One” Rule and small business lens: The “One-for-One” Rule applies and is a net OUT of $5.8 million, or $350 per business because the SFOC application process will be replaced by less costly requirements (expressed in $CAD 2012 present value, annualized over 2018–2028, and discounted 7%). Moreover, the Regulations bring a net reduction of $35.6 million in small businesses costs and introduces flexibility and efficiencies including an online portal to process registrations and exams, and to issue pilot certificates.
+Domestic and international coordination and cooperation: Transport Canada has collaborated with the United States (U.S.) Federal Aviation Administration since 2015 under the Regulatory Cooperation Council. The focus is largely based on information sharing and best practices regarding RPAS regulatory development and implementation, and both parties have taken similar approaches to regulating RPAS.
+Background 
+Remotely Piloted Aircraft Systems (RPAS), also referred to as drones, is a growing industry in Canada. This is largely driven by a number of global and domestic trends, including rapid technological advancement, increasing availability of drones at a low cost, and a broad industry in which a drone could facilitate work tasks more efficiently than traditional aviation or more safely than workers exposing themselves to risk of falls or other hazards. Operational drone services are expanding for a number of applications such as aerial photography, surveying, building inspections, ice reconnaissance, law enforcement, disaster response, traffic patterns, road repair, research and development, and much more.
+Drones can be referred to by various names; however, Transport Canada uses the technical term Remotely Piloted Aircraft Systems
+footnote 2 when referring to drones. The term RPAS is gender neutral and indicates the fact that the pilot controls the device remotely.
+The number of RPAS flown in Canada is estimated to be 193 500. By comparison, it is estimated that there are 37 000 aircraft in traditional aviation, including commercial passenger and cargo aircraft and general aviation aircraft. The growth of this new industry has brought new entrants to aviation. Transport Canada is no longer solely dealing with the typical industries, such as aerospace manufacturers, airlines and airplane pilots. New entrants include commercial RPAS operators, manufacturers, training providers, law enforcement, and academia. Unlike persons who are traditionally involved in aviation, such as commercial airline pilots and military pilots, the new entrants have varying levels of aviation safety awareness, may never have flown traditional aircraft before, and may be unfamiliar with safety-related aviation rules and regulations.
+Canadian civil aviation is the responsibility of the Minister of Transport under the Aeronautics Act (the Act). Under the Act the Minister is responsible for the development of regulations governing aeronautics and the supervision of all matters connected with aeronautics. However, there is currently no specific set of rules in place to require the safe operation of RPAS in Canada. Currently, under the Canadian Aviation Regulations (CARs) made under the Act, remotely piloted aircraft (RPA) can be defined as either model aircraft, which are aircraft launched into flight for recreational purposes, or unmanned air vehicles that are used for non-recreational purposes. Regarding model aircraft, the CARs
+footnote 3 require that no person fly an aircraft into cloud or in a manner that is or is likely hazardous to aviation safety. Under Part VI of the CARs,
+footnote 4 special flight operations involving RPAS that are flown for 
+non-recreational purposes (i.e. work or research) are subject to certain conditions that are set out in a Special Flight Operations Certificate (SFOC).
+footnote 5
+Flying an RPA has become a common pastime. The recreational RPAS community is estimated at 140 800 operators in 2018 with a projected increase to 225 500 operators by 2025.
+footnote 6 That being said, the minimal requirements under the CARs for recreational pilots have resulted in a number of incidents (which are often associated with a lack of user knowledge) resulting in a growing risk to aviation safety as well as to people on the ground. Since 2014, the number of RPAS-related incidents
+footnote 7 reported to Transport Canada has risen over 200%. Incidents have included risks to traditional aircraft while they are on take-off or landing near airports, high altitude flights, and risk of injury to people on the ground caused by events such as a fly-away, which generally means that a pilot cannot maintain control of the RPA or that it ceases to follow pre-programmed procedures. In 2017, the Minister of Transport made an Interim Order (IO) under the Act to address the growing number of incidents. The objective of the IO was to improve aviation safety, to protect the public and to ensure the safe operation of certain model aircraft. It is a temporary measure (renewed in June 2018) until new regulations are in place to require the safe operation of RPAS.
+Issues 
+The growing RPAS industry has significant economic potential; however, non-recreational operators face considerable administrative burden and uncertainty under the existing rules, which require operators to hold SFOC. Moreover, an RPA flown recklessly or by inexperienced pilots pose risks to aviation and public safety that must be mitigated. An increase in aviation and non-aviation-related incidents has been observed, particularly surrounding operations near and over people as well as in controlled airspace. To date, Transport Canada has been making use of existing regulatory mechanisms in the CARs and legislative mechanisms under the Act (SFOC and IO) to address these risks. However, the current rules are complex, time consuming, and in some cases overly restrictive. In the absence of regulatory change, risks to aviation and public safety will continue to rise in step with the growth in popularity of RPAS. Additionally, the SFOC requirements were not designed for the increasing volume and use of RPAS and will continue to be costly for businesses and introduce unnecessary unpredictability for this emerging innovative industry. In order to effectively address these issues, a modern, risk- and performance-based regulatory environment is required.
+Objectives 
+These amendments have two main objectives:
+
+Regulatory predictability for businesses
+ To move away from the case-by-case treatment of non-recreational RPAS operations by eliminating a number SFOC requirements for VLOS operations. This will create a predictable and flexible regulatory environment conducive to long-term planning while reducing costly administrative burdens on businesses.
+Safety risk mitigation 
+To reduce the risks to aviation safety and to people caused by the unsafe operation of RPAS, by ensuring that pilots have a relevant knowledge base.
+These amendments introduce service fees for RPAS operators. These fees recover some of Transport Canada’s costs of administering the RPAS registration, examination, and certification programs.
+Description 
+These amendments introduce a new Part IX to the CARs that establish rules for all RPA weighing between 250 grams (g) and 25 kilograms (kg), as well as a general provision that prohibits RPA of any weight to be flown in a negligent or reckless manner. The weight threshold refers to the maximum take-off weight of the aircraft; it does not include the weight of the system used to control the aircraft. These amendments establish risk-based rules that mitigate the safety risks of RPAS through requirements for the pilot, the product (i.e. the RPAS) and the procedures to follow. The rules are divided into two areas: “basic operations” and “advanced operations.” The rules governing basic operations apply to the operation of RPAS outside of controlled airspace and more than 30 m away from people. The rules governing advanced operations apply to operations in controlled airspace, near people (between 30 m and 5 m of people), flying over people (less than 5 m from people), and within 3 nautical miles (NM) from the centre of an airport or within one NM from the centre of a heliport.
+While Part IX of the CARs applies to all RPAS, members of the Model Aeronautics Association of Canada (MAAC) operating at MAAC fields and MAAC sanctioned events will be issued an exemption to certain provisions of the CARs. Under the Act,
+footnote 8 the Minister has the authority to issue exemptions to the CARs; the exemption will be issued to MAAC before the end of the coming into force of the Regulations.
+The pilot 
+Part IX of the CARs requires a pilot to be a minimum of 14 years old to conduct basic operations, and a minimum of 16 years old to conduct advanced operations. A certified pilot may supervise someone under the minimum age or someone who has not yet obtained their certificate as long as they meet the certification requirements for the operation being carried out.
+As part of the certification process, all pilots are required to successfully complete a knowledge exam to obtain their pilot certificate. Pilots conducting basic operations must successfully complete the Remotely Piloted Aircraft Systems — Basic Operations online exam to obtain their pilot certificate. Whereas pilots who are operating under the advanced operations must complete the Remotely Piloted Aircraft Systems — Advanced Operations online exam, and subsequently complete a flight review with a flight reviewer who is affiliated with a training provider identified by Transport Canada before obtaining their pilot certificate. During the flight review, pilots must physically demonstrate their ability to operate their RPAS and describe the necessary steps and procedures to have a safe flight. After the successful completion of the flight review, the pilot can obtain their advanced pilot certificate. Within every 24 months of the preceding flight, pilots must meet education recency requirements which can consist of training, flight reviews delivered by a third party or recurrent training activities offered by Transport Canada.
+The product 
+Manufacturer requirements 
+Under Part IX of the CARs, Transport Canada is introducing a requirement for manufacturers to declare that they have met Standard 922 — RPAS Safety Assurance (the Standard). More specifically, manufacturers whose products are intended to fly in advanced operations must self-declare to Transport Canada whether their RPAS model meets the Standard. The declaration can be made at any time to Transport Canada once the manufacturer has verified that the RPAS meets the technical and documentation requirements (i.e. safety targets), using the self-declaration form available in the Standard. Moreover, manufacturers must provide items such as instructions to consumers on how to operate their RPAS model safely. Manufacturers are not required to present test documentation to Transport Canada and receive approval before making a RPAS model available for purchase in Canada. However, they are required to provide Transport Canada with the test documentation to corroborate the safety assurance should it be requested.
+RPAS models that have been previously identified on Transport Canada’s compliant RPAS list are grandfathered for the lifespan of the aircraft for operations near people (between 30 m and 5 m from people) and in controlled airspace. Given the higher risk of flying over people (less than 5 m from people), there is no grandfathering of existing compliant RPAS for this type of operation.
+Registration requirements 
+A pilot may not operate an RPA (weighing between 250 g and 25 kg) unless it is registered with Transport Canada. Following an application, a certificate of registration, including a registration number, is generated using an online automated system. The certificate is issued to the registered owner of the aircraft and the registration number must be affixed to the aircraft before flying.
+
+The procedures (Permissions, restrictions and obligations) 
+Permissions and restrictions 
+RPA, regardless of whether they are used to conduct basic or advanced operations, must, for example remain below 400 feet above ground level (AGL). There are no speed limits, but it is prohibited for a person to operate an RPA in a manner that is reckless or negligent.
+The amendments establish different rules for airports and aerodromes. Remotely piloted aircraft must stay three NM away from the centre of an airport or from the centre of an aerodrome under the authority of the Minister of National Defence, and one NM away from the centre of a heliport. However, if an established procedure has been identified by the Minister for a specific airport, the pilot may follow that procedure which may allow them to fly closer than three NM. Information regarding established procedures will be available on the Canada.ca drone safety web pages. All pilots (conducting advanced or basic operations) flying near aerodromes must not fly in a manner that could interfere with an aircraft operating in the established traffic pattern.
+Other operations, such as night flight with proper lighting, and flying multiple remotely piloted aircraft (e.g. a maximum of five) from one control station is permitted.
+Records 
+The CARs require all owners to keep records regarding each flight, and any maintenance, repair or modification performed on their RPAS. All flight records must be retained for a period of 12 months, while records regarding system mandatory actions, repairs and modifications must be kept for 24 months.
+Exhibit 1 is a depiction of the path to flying a RPAS — from product purchase, registration, pilot knowledge and training and lastly, safety procedures.
+Exhibit 1: The regulatory path to flying RPAS
+
+Source: Transport Canada
+Fees 
+The fees for the registration, knowledge exam, and pilot certificate services range from $5 per RPA registration to $125 for the endorsement of a pilot certificate with a flight reviewer rating. The costs per transaction to Transport Canada range from $6 to $211, with varying levels of cost recoverable rates. (See Table 1.)
+Table 1: Transport Canada service fees ($2018) 
+
+
+
+Service
+
+Feefootnote *
+
+Estimated cost to Transport Canada, per transaction
+
+Cost recovery rate
+
+
+RPA registration
+
+$5
+
+$6
+
+89%
+
+
+Pilot exam (Basic or advanced operations)
+
+$10
+
+$17
+
+60%
+
+
+Pilot certificate — Advanced operations
+
+$25
+
+$73
+
+34%
+
+
+Flight reviewer exam
+
+$50
+
+$141
+
+37%
+
+
+Flight reviewer rating
+
+$125
+
+$211
+
+59%
+
+
+Footnotes
+
+Footnote * 
+Note: These service fees will be indexed with inflation annually.
+Returns to footnote * referrer
+
+
+Regulatory and non-regulatory options considered
+
+When considering regulatory and non-regulatory options, it was necessary for Transport Canada to examine options available to address the challenges related to both recreational and non-recreational operations.
+Non-regulatory approach supported by an interim order
+With respect to recreational users, Transport Canada launched a series of non-regulatory approaches such as education and awareness activities by way of the publication of more information on Transport Canada’s website, greater use of social media messaging and partnerships with retailers to spread education materials. Despite these efforts, Transport Canada continued to witness an increased number of incidents involving predominantly recreational users. Therefore, greater regulatory intervention was required, which resulted in the Minister of Transport making an IO under the Act in March 2017 which included more restrictive requirements for recreational RPAS operations. Following the making of the IO, Transport Canada noted a 9% reduction in the number of RPAS-related incidents despite the ongoing and sustained growth of the industry.
+Recognizing the nature of the IO as a temporary instrument and the restrictive nature of its conditions, Transport Canada considers a more permissive regulatory approach that enables recreational operations within the confines of appropriate regulatory requirements to be more reasonable. These amendments provide a means for greater recreational operations.
+Status quo regulatory approach
+With respect to non-recreational operations, the growing use of RPAS and the requirement for a SFOC for every operation was not sustainable. Transport Canada could not keep pace with the demands, the industry could not innovate as freely, economic opportunities were lost, and frustration with the status quo was creating an environment of non-compliance.
+In an effort to mitigate demands for SFOC and enable lower-risk operations, Transport Canada published two exemptions for RPAS
+footnote 9 being flown for work or research purposes if the pilot had liability insurance, had read and understood the conditions of the exemptions, and had notified the department before flying. The exemptions were divided into two categories: RPA of 1 kg or less, and RPA weighing between 1 kg and 25 kg. Although this approach provided some benefits and reduced the need for some SFOC, the ongoing growth in the industry and the demands for operations in more advanced environments demonstrated the need for more action.
+Transport Canada further examined how SFOC are issued and introduced a series of policy changes to move away from the case-by-case basis of SFOC to the issuance of regional and national SFOC for proven and compliant operators. Although this has assisted in removing some regulatory burden and enabled greater and more routine commercial operations, operators still face administrative burden, delays and uncertainty under this system. A new, modernized and national regulatory framework was needed to fully unlock the potential of the industry.
+The longstanding regulatory requirement for a SFOC coupled with the commercial nature of these operations made a voluntary approach not a viable option.
+Benefits and costs 
+The amendments will reduce the risks to public safety and reduce the business costs associated with applying for SFOC. The monetized benefits from this regulatory proposal are estimated to be $144.5 million over 2018–2029 (present value, discounted 7% and expressed in $CAN 2018). The associated administrative and compliance costs borne by non-recreational and recreational RPAS pilots, Canadian RPAS manufacturers, and the government are expected to be about $172.9 million over the same period.
+Taking monetized costs and benefits together, the quantified present value of net costs is $28.4 million over 2018–2029, or an annualized average of $3.8 million ($CAN 2018, discounted 7%). However, there are many additional non-monetized benefits, notably from reduced risks to traditional aviation and the consistency and certainty the regulations will provide to non-recreational operations, allowing them to make long-term plans and commitments more easily.
+Given the uncertainty that this emerging technology presents, several scenarios and probability distributions accompany the estimates and assumptions presented in this analysis. A sensitivity analysis incorporates these different assumption scenarios and variations, and is presented later in this statement.
+The results of the cost-benefit analysis presented herein reflect the changes made to the amendments since their publication in the Canada Gazette, Part I,
+footnote 10 which were adjusted based on stakeholder feedback and updated to capture the latest industry forecasts for this quickly evolving technology. Moreover, changes to the Transport Canada user fee schedule for registration, testing, and certification activities have reduced costs for users considerably, especially those operating in advanced environments. A detailed cost-benefit analysis report is available upon request.
+Analytical framework
+The costs and benefits of the amendments have been assessed in accordance with the Treasury Board Secretariat’s Cost-Benefit Analysis Guide.
+footnote 11 The cost-benefit analysis attempts to capture the economic and social impacts of the regulatory changes (the policy scenario) relative to a world in which these changes did not occur (baseline scenario), pinpointing the incremental changes between the two scenarios. These incremental changes are estimated over 2018–2029 to account for the rapid adoption of the technology and the full impacts of the Regulations. Monetized values are reported in present values over 2018–2029, discounted at 7% and expressed in $CAN 2018 unless otherwise noted.
+The baseline scenario includes the requirements currently found in the CARs. Specifically, under CARs non-recreational pilots require a SFOC in order to operate (sections 602.41 and 603.66), while recreational users are required to operate in a way that is not likely to be hazardous to aviation safety (section 602.45).
+footnote 12
+RPAS population estimates and forecast 
+RPAS are a rapidly growing technology, therefore forecasting the RPAS population in Canada involves considerable uncertainty. Indeed, many of the uses for this technology have yet to be discovered or commercialized. For these reasons, the analysis includes three different RPAS population growth scenarios: low, base, and high. These follow the three scenarios developed by the U.S. Federal Aviation Administration’s (FAA) latest forecast publication.
+footnote 13 The cost-benefit analysis assumes that Canada’s RPAS population reflects its total population relative to the U.S., which stood at 11% in 2017.
+footnote 14
+In all three RPAS population scenarios, the initial growth continues to be rapid in the near term before slowing down in the outer years of the forecast (following a typical trajectory for emerging technologies). The base-case forecast scenario has the RPAS population growing threefold between 2017 and 2029, from 133 100 units to 406 200 units (see Chart 1).
+
+Chart 1: Canada’s RPAS population (Thousands of RPAS units weighing between 250 g to 25 kg) 
+
+Sources: Transport Canada using U.S. FAA estimates.
+The majority of RPAS are used recreationally, with the non-recreational share accounting for only 9.1% of the RPAS population in 2018 according to the FAA.
+footnote 15 However, non-recreational RPAS are at an earlier stage of adoption and are therefore expected to experience a faster rate of growth than recreational users. As a result, the non-recreational share is expected to grow to 27% of the RPAS population by 2029.
+Transport Canada made assumptions regarding the distribution of RPAS conducting basic and advanced operations based on its expert knowledge of the industry and consultations with stakeholders. Both basic and advanced categories are assumed to grow in tandem, although the majority of RPAS (almost three quarters of the total) are operated in basic environments (i.e. away from people and outside of controlled airspace).
+Benefits
+The amendments will bring public and aviation safety benefits as well as cost savings and operations consistency to businesses and government.
+Public safety benefits 
+The amendments will ensure RPAS pilots are competent and knowledgeable about the capabilities of their equipment as well as the scope of permissible use and the legal limitations placed on their use. Proper use of this equipment would reduce the likelihood of an RPA colliding with individuals on the ground or interfering with aircraft in flight.
+There have been several incidents in Canada where RPA have collided with and injured bystanders in parks and other public areas. These incidents often go unreported so we do not know the full extent of the incidents. There has been one reported injury to Transport Canada each year during the last three years. Assuming the same ratio of reported injuries per RPAS population holds over the next decade, a conservative estimate would be that 28 such incidents would be reported in Canada during 2019 to 2029. We assume that all 28 incidents would be avoided due to safer operations. This is a conservative estimate because we are only assuming a reduction in injuries that are reported, when in reality these Regulations may prevent more injuries. The present value of the avoided injuries using this approach is estimated to be $12 million over the forecast period, or an annualized average of $1.6 million.
+RPA also pose risks to aviation safety when they are flown recklessly in controlled airspace or flown in a flight path. The extent of the damage is dependent on the RPA’s kinetic energy, structure, shape, materials, and other factors. Engineering simulations have demonstrated that airborne collisions may result in high damage to aircraft.
+footnote 16 There have been several RPA collisions around the world including in Canada, but none that have resulted in severe damage or fatalities as of yet. However, reports of near-misses and other RPAS interference are rising in Canada, indicating an increasing risk to aviation safety. The number of RPAS safety incidents has risen from 41 in 2014 to 136 in 2017; most of these incidents involve RPAS in controlled airspace, but there have also been serious incidents involving collisions with aircraft and individuals on the ground. In the absence of the Regulations, and applying the 2017 ratio of incidents to the RPAS population, the number of incidents would grow to more than 400 by 2029 without policy or regulatory intervention. The amendments’ benefits to aviation safety have not been monetized in the cost-benefit analysis.
+Elimination of burden for non-recreational operators
+
+The Regulations will improve the process that non-recreational RPAS pilots go through in order to legitimately fly their RPAS. The new process eliminates the need for SFOC applications for around 80% of RPAS flights, with many done on a case-by-case basis. The average time spent completing SFOC applications including communications with the government inspectors processing them is 27.3 hours, and applications are done by the company’s management.
+footnote 17
+These benefits are estimated by forecasting the number of SFOC that will be eliminated over the next decade based on the projected growth of non-recreational RPAS, then quantifying the time-cost savings. The present value of these savings for non-recreational pilots is estimated to be about $107.7 million over 2019–2029, or an annualized average of $14.4 million.
+Fewer SFOC applications would also result in government savings of $24.9 million (present value), since inspectors will no longer be required to process the SFOC submissions for RPAS activities captured within these Regulations.
+The elimination of SFOC for many operations will also provide some predictability for non-recreational RPAS operators, which has not been monetized in this analysis. There is currently a backlog of SFOC applications and a 20-day service standard, resulting in lost opportunities for operators who are not granted SFOC in time for their flights. Moving away from the case-by-case approach will provide regulatory consistency and allow non-recreational pilots to more easily make long-term plans and commitments.
+Reducing the number or operations that would require SFOC is not expected to increase the risk to public or aviation safety because the knowledge base of these operators will not be affected. Non-recreational operators are currently demonstrating their knowledge through the SFOC process, but under the new requirements they will demonstrate this knowledge through testing and certification requirements. It is the mechanism that will change, not the knowledge base itself.
+Costs
+Compliance with the requirements will result in incremental costs to non-recreational pilots and training providers, recreational pilots, Canadian RPAS manufacturers, and to the Government of Canada, totalling $172.9 million over 2018–2029 (present value).
+The pilot and the procedures 
+The RPAS population forecast underpins the cost estimates for pilots over the next decade, with some additional assumptions built into the analysis (see Table 2). RPAS pilots will face incremental fee and time costs under the new Regulations. A summary of these costs can be found in Table 3.
+
+Table 2: Key assumptions in estimating the costs to pilots
+
+Key Assumption
+Recreational
+Non-recreational
+
+
+
+RPAS per pilot
+
+1.25
+
+1.5 footnote 18
+
+
+Annual pilot attrition rate
+
+20% footnote 19
+
+
+RPAS lifespan
+(years)
+
+3
+
+2.5 footnote 20
+
+
+Knowledge exam failure rate
+
+15% on 1st attempt, 0% on 2nd footnote 21
+
+
+Flight review failure rate
+
+15% on 1st attempt, 0% on 2nd
+
+
+Number of flights per year
+
+36
+
+n/a footnote 22
+
+
+Unique sites
+per year
+
+4
+
+n/a footnote 23
+
+
+Recency choice
+
+90% complete Transport Canada recency questionnaire, the rest choose seminar, training, flight review, or exam.
+
+
+Value of time
+
+Half of average wage rate footnote 24
+
+Average wage rate + 25% overhead
+
+
+
+Table 3: Summary of fee and time costs to RPAS pilots
+
+Who
+For Each…
+What
+Time
+Fee
+
+
+All pilots
+
+New pilot
+
+Familiarize themselves with new Regulations
+
+5 min footnote 25
+ 
+
+
+New pilot
+
+Open new GCKey and Transport Canada RPAS account
+
+5 min
+ 
+
+
+New RPA
+
+Register RPA
+
+3 min footnote 26
+
+$5
+
+
+Flight
+
+Conduct pre-flight requirements, site survey, etc.
+
+8–20 min
+ 
+
+
+Pilot, every 2 years
+
+Complete recency activity
+
+30 min footnote 27
+ 
+
+Pilots conducting basic operations
+
+New pilot
+
+Study for basic knowledge exam
+
+3 hr.
+ 
+
+
+New pilot
+
+Write and pass basic knowledge exam
+
+1 hr.
+
+$10
+
+
+New pilot
+
+Obtain Transport Canada pilot certificate for basic operations
+
+n/a
+ 
+
+Pilots conducting advanced operations
+
+New pilot
+
+Study for advanced knowledge exam
+
+7 hr.
+ 
+
+
+New pilot
+
+Write and pass advanced knowledge exam
+
+1 hr.
+
+$10
+
+
+New pilot
+
+Pass a flight review
+
+1 hr.
+
+Market rate
+
+
+New pilot
+
+Obtain Transport Canada pilot certificate for advanced operations
+
+n/a footnote 28
+
+$25
+
+
+Taken together, present value costs to non-recreational pilots and training providers are estimated to be $36.1 million over the next decade, and $134.8 million for recreational pilots.
+The product 
+RPAS manufacturers will incur upfront and ongoing costs to comply with the safety requirements of the amendments. Incremental costs include familiarizing themselves with the requirements, documenting the safety standard for the buyer, and self-declaring to Transport Canada using a one-page form (see Table 4). Transport Canada’s RPAS Taskforce experts recognize that Canadian manufacturers are already conducting safety tests in the absence of regulations and therefore testing costs are built into the baseline scenario. There are currently 11 Canadian RPAS manufacturers, and this number is expected to grow at the same growth rate as RPAS units in Canada, topping 25 manufacturers by 2029 in the central scenario. Manufacturers are expected to incur $336,050 in incremental costs over the next decade, or an annualized average of $44,810.
+
+Table 4: Summary of incremental costs for RPAS manufacturers
+
+What
+For each…
+Time andStaff Level
+
+
+
+Familiarization with new regulations
+
+Manufacturer
+
+4 hr. (management)
+
+
+Documenting safety testing for consumer
+
+New model
+
+40 hr. (engineer)
++ 4 hr. (management)
+
+
+Updating customer documentation of safety testing
+
+Model update
+
+8 hr. (engineer)
++ 0.8 hr. (management)
+
+
+Government reporting (one-page form)
+
+New model
+
+15 min (engineer)
+
+
+Updating government reporting (one-page form)
+
+Model update
+
+3 min (engineer)
+
+Source: Transport Canada’s RPAS Taskforce.
+Government 
+Government costs include enforcement, promotion and awareness of the Regulations, the Information Management System (IMS or “Drone Management Portal,” which will host all of the registration, testing, and certification activities and records), and the general administration of the program. Together, the present value of these government costs over the next decade totals $19.2 million, or an annualized average of $2.6 million.
+Transport Canada will collect user fees for all registration, knowledge exam, and certificate issuing activities. These services are considered a private benefit to RPAS owners and pilots, therefore, program costs will be shared between Transport Canada and RPAS pilots. Transport Canada will cover 100% of promotion, enforcement, and all other government expenses. When taking these user fee revenues into account, the net cost to government is $1.7 million over the decade or an annualized average of $229,500.
+Benefits and costs summary
+
+Table 5: Consolidated cost-benefit statement
+
+
+Present Value Base Year
+
+Price Year
+
+Period of Analysis
+
+Discount Rate
+
+Sensitivity Analysis
+Total Net Benefit
+(Present Value)
+
+
+Lower Bound footnote 29
+
+Upper Bound
+
+
+2018
+
+$CAN 2018
+
+2018–2029
+
+7%
+
+(178,279,952)
+
+34,460,674
+
+
+
+A. Quantified impacts
+
+ 
+2018
+2019
+…
+2029
+Annualized average
+Total present value
+
+Benefits, by stakeholder
+
+
+Non-recreational pilots: no more SFOC
+
+0
+
+5,328,771
+
+…
+
+10,495,233
+
+14,358,496
+
+107,669,684
+
+
+Government: reduced processing of SFOC
+
+0
+
+1,230,399
+
+…
+
+2,423,322
+
+3,315,339
+
+24,860,646
+
+
+Public safety: reduction in bystander injuries
+
+0
+
+1,122,004
+
+…
+
+944,657
+
+1,602,308
+
+12,015,189
+
+
+Total benefits 
+
+0
+
+7,681,175 
+
+… 
+
+13,863,213 
+
+19,276,143 
+
+144,545,519 
+
+Costs, by stakeholder 
+
+Non-recreational pilots and training providers
+
+3,480,727
+
+3,073,699
+
+…
+
+2,970,584
+
+4,816,891
+
+36,120,298
+
+
+Recreational pilots
+
+5,552,978
+
+23,201,994
+
+…
+
+8,257,204
+
+17,969,854
+
+134,750,083
+
+
+Canadian RPAS manufacturers
+
+2,429
+
+60,097
+
+…
+
+23,862
+
+44,815
+
+336,050
+
+
+Government costs, net of user fees
+
+(507,445)
+
+(1,114,285)
+
+…
+
+1,227,975
+
+229,488
+
+1,720,856
+
+
+Total costs 
+
+8,528,690 
+
+25,221,504 
+
+… 
+
+12,479,624 
+
+23,061,048 
+
+172,927,286 
+
+
+Total net benefits 
+
+(8,528,690)
+
+(17,540,330)
+
+… 
+
+1,383,588 
+
+(3,784,905)
+
+(28,381,767)
+
+A. Qualified impacts 
+
+Benefits
+
+Public safety: knowledgeable and competent RPAS pilots will avoid flying at high altitudes and in controlled airspace (recklessly and without authorization). This will reduce the risk of collision with other aircraft.
+
+Non-recreational pilots: by eliminating the SFOC requirements they will have more predictability in taking on work and making long-term plans and commitments.
+
+Sensitivity analyses
+The cost-benefit analysis uses multiple scenarios and probability distributions to capture the many possibilities emerging technology may present over the next decade. Sensitivity tests were used to establish a range of outcomes, using both univariate (“tornado”) analysis and multivariate analysis of distributional functions (with simultaneous Monte Carlo simulations of 5 000 observations for all 30 distributions in the model). Combining the possibilities from both scenario and distributional analyses, the present value of net benefits ranges between −$178.3 million and +$34.5 million (over 2018–2029, discounted at 7%).footnote 30 Holding the central scenarios constant, the probability that the Regulations will lead to a net present value greater than zero is around 20%, although some expected benefits could not be monetized.
+The choice of RPAS population growth scenario has the largest impact on net benefits, while the distribution of the “RPAS per recreational pilot” and “number of flights taken by recreational pilots each year” assumptions have the highest impacts on overall variation out of the 30 distributions included in the cost-benefit model.
+Distributional analyses
+Non-recreational pilots are expected to accrue a net benefit of $226 per pilot compared to recreational pilots who are expected to incur a net cost of $83 per pilot under the policy scenario. Although non-recreational RPAS pilots are expected to incur higher costs ($161 per pilot) than recreational RPAS pilots ($83 per pilot),footnote 31 they will also accrue a higher quantified benefit ($387 per pilot) compared to recreational pilots ($0) due to the elimination of the SFOC requirements, which only affect non-recreational pilots.
+Non-recreational pilots in Quebec and Ontario are expected to accrue the highest total net benefits due to heightened non-recreational RPAS activity in those regions (regional distributions are based on 2016 and 2017 SFOC applications for RPAS operations, see Chart 2).
+Chart 2: Non-recreational pilots’ net benefits, regional distribution
+($ millions; present value of net benefit in $2018 over 2018–2029, discounted 7%)
+
+Source: Transport Canada
+Manufacturers’ costs are assumed to coincide with where they are located. Currently, 6 out of 11 Canadian RPAS manufacturers are based out of Ontario, with 4 in the Prairies and one in Quebec.
+“One-for-One” Rule 
+The “One-for-One” Rule applies and is a net OUT due to the removal of the requirement for SFOC (OUT) and replacing that with less costly administrate burden requirements (IN). The net change in annualized administrative activities is a savings of $5,838,321 or $350 per business (expressed in $2012, calculated over 2018–2028, and discounted 7% as required by the Treasury Board’s “One-for-One” Rule guide).footnote 32
+Approximately 70% of SFOC applications take one week to complete (by management), including the back-and-forth that occurs with the inspectors.footnote 33 Moreover, some companies must apply for several SFOC each year. Eliminating this requirement is expected to be a large timesaver for companies. To estimate the time savings, SFOC growth scenarios were forecasted using the growth rates of the number of non-recreational RPAS pilots over the next decade. (As explained in previous sections, these numbers are calculated using the ratio of 1.5 non-recreational pilots per non-recreational RPASfootnote 34 and applying it to the forecast for non-recreational RPAS,footnote 35 while taking into account pilot attrition.footnote 36) This is a relatively conservative growth rate because many pilots must currently apply for SFOC multiple times per year instead of just once per year as is the underlying assumption in this baseline-scenario SFOC forecast. Hence, the overall administrative burden savings estimate is itself conservative.
+The largest administrative burdens that these amendments impose on non-recreational pilots (IN) are the requirements for pilots to write the knowledge exam (1 hr/new pilot) and to successfully complete a flight review for advanced operations (1 hr/new pilot). Other administrative burdens include familiarizing themselves with the new rules (5 min/new pilot), creating new GCKey and RPAS accounts (5 min/new pilot), registering all RPA (3 min/new RPA), and the flight reviewers’ knowledge exam (1 hr/new reviewer) and flight review (1 hr/new reviewer) for training providers who choose to have reviewer status. The administrative burden was forecasted using the expected growth of these components (i.e. the growth forecast for new non-recreational pilots, for new non-recreational RPAS), as described in previous sections, taking into account exam failure rates, attrition, and existing pilot-to-RPAS ratios. The number of flight reviewers was estimated by Transport Canada’s RPAS Taskforce to range from 500 to 2 000 initially based on discussions with training providers. To forecast the number of flight reviewers over the next decade, a ratio of reviewer to RPAS pilots in advanced operations was applied to the forecast for the RPAS pilots in advanced operations. Canadian average wage rates (and 25% overhead) were used for all time estimates.
+Canada’s RPAS manufacturers will face new administrative burdens: familiarization with these amendments (4 hr/manufacturer at the management level) as well as a safety standard declaration which is a one-page form submitted to Transport Canada for each RPAS model (15 min/new model and 3 min/model update at the engineer-level). It is assumed that Canadian RPAS manufacturers have 2.5 RPAS models on average, that they release a new model every 2 years, and that they update all models every year.
+Small business lens 
+These amendments are expected to have a net reduction in costs to small businesses of $35,580,123 due to the reduction in operations that require SFOC and replacing this with less costly activities (expressed in $2012 present value, calculated over 2018–2028, and discounted 7% as required by the Treasury Board’s small business lens guide. footnote 37 Therefore, the Treasury Board’s small business lens checklist and initial and flexible option are not required in this analysis.
+In consultations, small businesses expressed that the SFOC requirements are too demanding and restrict their ability to book jobs on short notice or to make long-term plans. They also emphasized that any future regulations need to permit greater flexibility and that the services provided by the government should be more responsive to the needs of the industry.
+In response to these comments, Transport Canada introduced flexibility by proposing to certify pilots instead of approving projects one-by-one (as is generally the case in the SFOC process). Transport Canada will also introduce a new online service portal that will provide the industry with efficient and cost-effective services for registration, exams, and automatic certification 24/7. Documentation requirements were also minimized; reporting to the government will only occur on a reactive basis, should a safety issue emerge.
+Consultation 
+In 2012, the Canadian Aviation Regulation Advisory Council (CARAC) Unmanned Air Vehicle (UAV) Program Design Working Group made recommendations for amendments to existing regulations and standards, as well as introduce new regulations and standards for the safe integration of routine RPAS operations in Canadian airspace. The working group made 107 regulatory recommendations.
+In 2015, the Notice of Proposed Amendment (NPA), Unmanned Air Vehicles, was published for a 92-day consultation period. It was shared with 730 stakeholders (both traditional aviation stakeholders, members of CARAC, and non-CARAC members across Canada comprised of RPAS companies and associations, as well as federal and provincial governments who had expressed an interest in RPAS). During this consultation, five regional roundtables and a national teleconference were organized across Canada to share the NPA with additional stakeholders. At the end of the consultation period, Transport Canada had received over 100 submissions.
+The NPA informed the regulatory proposal published in the Canada Gazette, Part I, on July 15, 2017, for a 90-day comment period that ended on October 13, 2017. Transport Canada received 630 submissions from stakeholders. During the comment period, Transport Canada also conducted 11 engagement sessions in 9 cities, comprising over 400 attendees.
+General — Post Canada Gazette, Part I, comments
+Overall, commercial users appreciated the need for a regulatory framework and predictability. However, they found the proposed amendments as published in the Canada Gazette, Part I, to be too complicated and restrictive, and would still end in an ongoing need for SFOC resulting in administrative burden. Recreational operators felt that the cost of compliance in owning and operating a RPAS would negatively affect their ability to participate in the activity. Furthermore, the complexity of the rules would result in reduced compliance and negatively affect RPAS pilots of the future.
+Pilot requirements — Post Canada Gazette, Part I, comments
+More specifically, the major comments surrounding the pilot requirements were that stakeholders wanted to ensure that the age requirement would not interfere with teaching mechanisms and family hobbies. They were strongly supportive of knowledge exams; however, they wanted them to be easily accessible and at a low cost. Under these amendments, non-certified pilots and pilots who are under the minimum age are able to fly under the supervision of a pilot who is certified to perform the operations that will be carried out, having obtained their pilot certificate through an easily accessible, online portal.
+Stakeholders were also concerned with the requirements to have liability insurance not only due to the cost involved but also because of the lack of a market availability for recreational user insurance at this time. Part IX of the CARs does not have a regulatory requirement for liability insurance. It should be noted, however, that should an incident occur, the pilot could be held accountable. Insurance will be encouraged through education and awareness material and the department will continue to monitor this issue and gather additional data.
+Product requirements — Post Canada Gazette, Part I, comments
+When it came to product requirements (i.e. the RPAS), Transport Canada heard that stakeholders were not supportive of their personal information being written on their machine because of privacy implications, and in the case of RPA registration requirements, the cost to do so was too expensive. There was, however, strong support for registration with de-identified numbers at a low cost to the owner. Under Part IX of the CARs, all RPA from 250 g to 25 kg must be registered with Transport Canada using the online portal.
+The design standard was also of great concern for many stakeholders as they felt it not only inhibited innovation but was also not reflective of market availability. The companies that had been identified as compliant had very expensive RPAS, making entry into the industry very difficult for less expensive products. Furthermore, it was too prescriptive and not reflective of the rapidly changing technology that was available to consumers. Moreover, the weight categories were viewed by many as overly complicated, lacking in evidence to support Transport Canada’s stance, and not reflective of the most commonly flown RPAS.
+Under Part IX of the CARs, the operating environments are predominantly based on the type of flying the pilot wishes to do (how close to people and in controlled airspace) rather than just the weight of the RPA. In order to conduct certain advanced operations, a manufacturer must have self-declared to Transport Canada that their RPAS have met the technical requirements set out in Standard 922 — RPAS Safety Assurance and indicate whether the RPAS can be flown in controlled airspace, near people or over people. Those flying under the basic operations rules may use the RPAS of their choice.
+The proposed grandfathering clause included in the regulatory proposal published in the Canada Gazette, Part I, also raised many concerns because it did not permit current pilots to continue operating as they have been all along, in fact, it was more restrictive. Under Part IX of the CARs, RPAS that have already been deemed compliant are grandfathered for the lifespan of the model of the RPAS and can continue operations in controlled airspace and near people (less than 30 m but not closer than 5 m near people). As such, a pilot may operate a RPAS in controlled airspace and near people without a declaration having been made by the manufacturer.
+Procedure requirements — Post Canada Gazette, Part I, comments
+In terms of procedure requirements, stakeholders indicated that the proposal published in the Canada Gazette, Part I, was too restrictive and that many pilots would still require SFOC in order to operate their businesses due to altitude restrictions, stand off distances, speed limits, etc. Furthermore, the division of flying environments into two parts, rural and built-up areas, caused confusion. Under Part IX of the CARs, the flying environments (operations) are divided based on whether the RPAS is in controlled airspace, how close the RPAS is to people or whether the operation of the aircraft is within a certain distance from an airport or heliport. Stand off distances and speed limits are removed and the altitude restriction is harmonized under both the basic and advanced operations.
+Service fees
+The RPAS proposed service fees as published in the Canada Gazette, Part I, were modelled after traditional aviation fees and line items (as currently outlined in the CARs). Following prepublication, Transport Canada received significant feedback from stakeholders regarding the proposed service fees, indicating that they were too high, not reflective of the technology and not appropriate for the RPAS industry as a whole. In response to industry feedback and additional analysis, Transport Canada created a new automated platform that would provide RPAS-related services to the public from one online portal. The investment in this automated system would significantly reduce Transport Canada’s efforts in providing RPAS-related services, reducing transaction costs and rendering the original service fee proposal disproportionate.
+Supplementary stakeholder consultation — Post Canada Gazette, Part I
+In May 2018, Transport Canada carried out an additional targeted stakeholder discussion with over 50 stakeholders to provide the industry with its proposed changes for the amendments to the CARs. Overall, the industry was appreciative of Transport Canada’s willingness to have an additional consultation session and for the transparency, openness and communication regarding these amendments. Industry representatives acknowledged that Transport Canada was taking the industry’s views into consideration in striking the right balance between the objectives of aviation safety and innovation within the industry. Stakeholders were also provided with service fee ranges that reflect the online delivery of the services and they were received positively.
+Regulatory cooperation 
+Since 2015, Transport Canada and the Federal Aviation Administration (FAA) have collaborated regarding RPAS under the Regulatory Cooperation Council (RCC). The collaboration has focused on information sharing regarding the development and implementation of regulations for small RPAS operated within visual line-of-sight.
+In June 2016, the FAA published its Final Rule, Part 107, Operation and Certification of Small Unmanned Aircraft Systems, to permit lower risk non-recreational RPAS operations. Part IX of the CARs aligns with the FAA’s general scope, intent and risk-based approach. Transport Canada operational restrictions that are more closely aligned with the FAA include those pertaining to the maximum altitude of 400 feet AGL at which a RPAS can operate, and operations at night with sufficient lighting. Furthermore, both the FAA and Transport Canada have registration requirements for RPA at a cost of $5 US/Can. The FAA has a pilot certification process with a minimum requirement of 16 years of age, similar to Transport Canada’s advanced operations. That being said, under the basic operations, Transport Canada’s minimum age requirement is 14 years old, which will help foster more growth in the industry. In terms of the minimum horizontal distance that a pilot must keep between their RPA and people that are not involved in the operation of the RPAS, the FAA does not prescribe a minimum, but Part 107 does not allow operations over people that are not part of the operation unless a waiver has been granted. Since 2016, the FAA has granted permission to a small number of operators to conduct RPAS operations over people. The FAA’s Part 107 waiver process serves a function similar to that of Transport Canada’s SFOC process. Transport Canada has allowed a path to compliance under Part IX of the CARs for pilots to operate over people where the manufacturer has made a declaration indicating, among other things, that they have verified that the model meets the requirements of Standard 922 — RPAS Safety Assurance because the risk is sufficiently mitigated with a reliable system and standardized pilot knowledge and testing.
+Canada has not identified reciprocal foreign operator privileges with the United States. The FAA requires foreign commercial operators to register their RPAS in the country in which they are eligible to register and obtain operating authority from the Department of Transportation. In Canada, foreign operators are eligible to apply for a SFOC providing they are legally entitled to conduct the same operation in their own country. They need to provide evidence of such approvals when they apply for a SFOC.
+All European member states are at different stages in the implementation of their RPAS rules, but are subject to the requirements and guidance of the European Union and the European Aviation Safety Agency (EASA). While EASA has yet to finalize a regulatory framework for RPAS, the organization proposed one in May 2017 through the Notice of Proposed Amendment 2017-05. EASA’s proposed framework includes five categories based on the weight of the remotely piloted aircraft and the risks it poses to people. The European approach represents an alternative approach to the regulation of RPAS compared to Canada’s two sets of rules — basic and advanced operations.
+Canada is a member of the International Civil Aviation Organization (ICAO) and adopts ICAO standards into the CARs. At this time, ICAO has no standards for visual line of sight operations per se. ICAO does have guidance (see footnote 20) on the type of information that operators are requested to submit to the aviation authority in the country in which they wish to operate. Transport Canada’s current regime and the issuance of a SFOC satisfy this intent. ICAO is focused more on larger RPAS that will be certified like aircraft and for which future regulations will be introduced in Canada at a later date. Exhibit 2 compares RPAS regulations across the world.
+Exhibit 2: Regulation comparison across the world 
+Green represents the areas where there are provisions in place to allow the operations to occur and red represents the areas where operations are not permitted.
+
+Rationale 
+The growing use of RPAS along with the growing number of safety incidents merits that action be taken to mitigate risks to both aviation as well as people on the ground. Transport Canada’s public awareness campaigns and the Interim Order had some risk-reducing impact (as evidenced by a small decrease in the number of reported RPAS incidents in 2017). However, the risks posed by rapidly growing RPAS use are severe enough to warrant further regulatory action to ensure that RPAS pilots know how to fly safely.
+Secondly, the current SFOC system under the CARs is very costly to businesses and introduces uncertainty — even for knowledgeable pilots flying in low-risk operations. The current restrictions are not proportionate to the degree and type of risk presented. Therefore, the new amendments eliminate the SFOC requirements for the vast majority of uses (i.e. RPA flown within the visual line of sight, weighing between 250 g and 25 kg) and replace them with less costly pilot certification requirements that ensure pilots are knowledgeable and fly safely. The amendments therefore bring costs back in-line with risks.
+Reducing the number of operations that require SFOC
+Notwithstanding the growing risk to aviation, the current regulatory approach is not conducive to supporting innovation and economic growth in the industry. In 2010, Transport Canada issued 66 SFOC for RPAS related activities, and for the next six consecutive years the volume doubled nearly each year, reaching 4 096 by 2017. Transport Canada has had challenges keeping pace and supporting the industry under the existing CARs and the SFOC demand is expected to continue to grow with the industry. The SFOC application time for businesses varies significantly from operation to operation, making it a recurrent task, and Transport Canada’s 20 working-day service standard is not conducive to industry demand. Commercial pilots are losing contracts, spending time filling out applications rather than working and making an income. Often contract requests are received under short notice, and if industry does not want to lose business, it is resulting in an environment of non-compliance. Furthermore, the SFOC process does not take into account the technology that is changing almost daily, resulting in new use cases; in order for businesses to take advantage of such uses, they often need to submit another SFOC application. Therefore, the growing industry warrants a stable regulatory environment that accommodates most use cases and allows for an easy path to compliance.
+Reduce risks to public safety
+Considerable safety risks stem from RPA being flown recklessly and/or in areas where they are not allowed to be flown. There are numerous incidents reported every month in Canada where RPAS are flown at high altitudes, in flight paths, or close to people on the ground. Many RPAS pilots are not aware of the current rules or the safety risks that flying RPAS in these manners pose. Moreover, these risks are expected to increase in-step with the growing popularity of RPAS. The creation of standardized knowledge and testing, and regular recency requirements ensure pilots’ knowledge is kept up-to-date. These requirements introduce new costs to recreational pilots, but they are necessary to ensure a solid safety knowledge base among pilots to reduce public safety risks.
+In order for more effective tracking and enforcement that could further enable efficient air traffic management services in the future, registration of all RPAS with aircraft weighing between 250 g and 25 kg is mandatory. Registration is designed to be a low-cost solution to identify RPA flown in an unsafe or non-compliant manner.
+Additionally, the system reliability of the RPAS itself varies significantly from model to model, further increasing risks to aviation and people. Operations that pose the highest risks when it comes to the system reliability of the RPAS are those near or over people and in controlled airspace. The reliability of the RPAS can be affected by a number of things. For instance, depending on the materials used in the construction of the RPAS, it can affect how hard and how much damage it causes upon impact if it were to hit a person or a windshield. footnote 38 Unfortunately at this time, there is no consensus in the industry regarding a RPAS design standard and the consequences of Transport Canada not intervening could result in severe injuries. As a result, Transport Canada is introducing Standard 922 — RPAS Safety Assurance, and providing manufacturers with safety targets they must meet in order to provide more consistent reliability of RPAS operated in the higher-risk areas — controlled airspace and operations near and over people.
+Service fees
+Transport Canada undertook a comprehensive exercise to develop an informed costing of the RPAS program and establish appropriate RPAS service fees. The costing approach adhered to the Treasury Board Secretariat’s (TBS) Guidelines on Costing and sought to establish defensible and transparent cost estimates. Costing for cost recovery purposes requires that the “full cost” of providing an activity be calculated. For cost-recoverable service fees, full cost is the allowable upper limit of the fee and represents the departure point for pricing. A full cost estimate comprises all relevant resource costs incurred to deliver an activity or provide a service, including direct and indirect costs. The RPAS costing exercise factored in salary costs, benefit plans, training and travel, office accommodations, internal support services, and information technology system development and maintenance costs. These costs were allocated to RPAS activities and services based on resource consumption and level of effort.
+The results of the costing exercise estimated that the full cost of running the RPAS program is $8.4 million annually. The cost-recoverable component of the program (i.e. provision of the RPA registration, knowledge exam, pilot certificate and flight reviewer rating services) is estimated at $3.1 million annually.
+Public-private benefit assessment 
+The determination of an appropriate cost recovery rate takes a number of factors into account; one important component is the Public Private Benefit (PPB) tool. The PPB tool was developed by TBS to estimate the degree to which a service provides a private benefit, if any, beyond benefits enjoyed by the general public. For the RPAS program, three separate PPBs were completed. The analysis conducted through the PPBs determined that the benefits provided to flight reviewers through the flight reviewer exam and flight reviewer rating are private (100% private), while RPA registration, and the knowledge exam and pilot certification share a mix of private and public benefits (60% private, 40% public). This became the starting point for determining an appropriate cost recovery rate.
+International fee comparisons 
+Transport Canada then conducted research on the service fees applied by other countries to RPAS operators. Several countries require RPA registration (at a relatively consistent fee of $5 or €5). However, there are minimal regulatory schemes that parallel these proposed Regulations overall; and, many other countries are in the process of developing regulations and their own service fees, so comparable benchmarks were difficult to locate.
+Other fee policy considerations
+Transport Canada then broadened its analysis to consider compliance and the structure of the regulatory framework. Given that the purchase cost of many RPAS is low, and that there are currently no fees associated with flying an RPAS, it is important that the price of registration, online exams and pilot certification not be prohibitive and dissuade RPAS operators from compliance. Moreover, pilots conducting advanced operations are required to pay an additional flight review fee to a third party. Therefore, the fees for these services were kept relatively modest. Similarly, the Regulations depend on flight reviewers participating in the regulatory process by conducting flight reviews for RPAS pilots. Therefore, though these respective services are deemed to be of a largely private benefit, the Regulations (and therefore, the safety of Canadians) depend on these actors’ involvement, so the cost recovery rate is lower than what might have been otherwise anticipated.
+Overall rationale for amendments
+The amendments’ overall focus on enhancing the knowledge and accountability of RPAS pilots can achieve substantial safety benefits. The amendments’ service fees and the online Drone Management Portal were designed to keep costs low while ensuring ease of use.
+RPA registration and pilot certification add costs for recreational pilots but are necessary for accountability and to mitigate the safety risks to aviation and people on the ground. Additionally, the costly SFOC system is replaced with a pilot certification system that has the same safety objectives, but with a lower cost and with reduced business uncertainty.
+Implementation 
+To support the implementation of Part IX of the CARs, Transport Canada created a digital service delivery solution by developing an online Drone Management Portal that provides one-stop shopping for RPAS pilots and owners. Both pilots and owners can create a personal account using their Government of Canada key, register their RPA, complete their knowledge exams, and receive their electronic pilot certificates all through the portal. Through the portal, pilots are tested on their knowledge of procedures on how to manage risks and safety more effectively, coordinate with an air navigation service providers, weather conditions, etc.
+Manufacturers self-declare to Transport Canada if their RPAS can be flown in controlled airspace, operate near people (between 30 m and no less than 5 m) or over people (less than 5 m), using safety targets provided by Transport Canada. The onus is on the manufacturer to ensure through testing that their RPAS meets Transport Canada safety targets before declaring it has met the requirements. Some examples of performance targets are: the RPA does not transfer energy sufficient to cause a severe injury or fatality or the RPAS has risk mitigating measures like a parachute to protect people from being hit by the RPA if it lost contact with the control station.
+Some amendments will come into force on the day on which the amending Regulations are published in the Canada Gazette, Part II, such as registration and the ability to take exams; however, the remainder of the amendments, including operational provisions, will come into force on June 1, 2019. The Drone Management Portal will be available on the day on which the amending Regulations are published in the Canada Gazette, Part II.
+Service standards
+In the vast majority of cases, RPAS-related transactions between clients and Transport Canada occur in real time through a secure, automated system, 24 hours a day, and 7 days a week. However, in rare instances, the system could encounter difficulty where additional intervention outside of the automated system may be required; thus a maximum service standard of 10 days will apply to all RPAS services. These service standards will be reconsidered two years after these amendments come into force.
+The Service Fees Act permits the Minister of Transport the discretion to remit a portion of fees that have been collected if the applicable service standard is not met. Remission will take place according to Transport Canada’s remission policy.
+Safety awareness
+Transport Canada’s RPAS safety awareness strategy seeks to maintain and improve the safety of Canadian airspace by supporting a well-informed RPAS industry while encouraging innovation and interest in aviation. Transport Canada will expand its outreach by building on existing collaborations and establishing new avenues to establish mechanisms through which the RPAS industry can get consistent, timely and accurate safety information. Transport Canada also wishes to impart to Canadians that RPAS are legitimate airspace users with benefits to society, as long as safety risks are mitigated by following the rules. The Canada.ca Drone Safety web page will continue to be the primary source for information on the regulatory requirements and how to comply, and will be supplemented by efforts to increase Transport Canada’s presence both virtually and in person. These efforts will include a new “look and feel” for all RPAS safety-related material and an updated interactive “Where to Fly” web page with the National Research Council.
+The primary touch points that Transport Canada will target for safety education messages relate to the purchase and use of a RPAS: interaction with technology websites, retailers, and manufacturers; interaction with national or local associations or flying clubs; and interaction at industry events. Transport Canada will also continue to improve our understanding of the average RPAS pilot to inform further outreach efforts.
+Enforcement and partnerships
+The safe operation of RPAS in Canada is a shared responsibility between Transport Canada who develops and enforces the rules, the RPAS operators who have an obligation to operate their RPAS safely, and law enforcement who are responsible for maintaining public safety.
+Under the Act, the Minister of Transport has the authority to issue administrative monetary penalties (AMPs) to anyone who violates designated provisions of the Act and the CARs. In June 2017, Transport Canada partnered with the Royal Canadian Mounted Police (RCMP) pursuant to subsection 4.3(1) of the Act to issue AMPs for designated offences to complement enforcement actions by the Transport Canada Enforcement Inspectorate. Most of the provisions in Part IX of the CARs are enforced through the assessment of AMPs imposed in accordance with sections 7.6 to 8.2 of the Act, which carry a maximum fine of $5,000 for individuals and $25,000 for corporations, and include the potential suspension or cancellation of a person’s Canadian Aviation Document. More serious contraventions may be pursued as indictable offences or be punishable on summary conviction, where permitted. That being said, Transport Canada Enforcement Inspectors continue to offer oral counselling before issuing an AMP and subscribe to a graduated system whereby lower levels are established for first time and second-time offenders if applicable. In addition, Transport Canada is pursuing similar partnerships such as that between Transport Canada and the RCMP with other law enforcement agencies across the country to address the growing need for increased enforcement capacity.
+Transport Canada is also considering taking part in other activities to address these needs including developing a toolkit designed specifically to assist law enforcement officers on the front lines and carrying out an enforcement campaign targeted to areas where reports of remotely piloted aircraft incidents are at their highest frequency. This campaign would seek to educate users on the safe operation of their RPAS and their legal responsibilities, while also taking enforcement action if necessary.
+Gender-based analysis plus (GBA+) 
+GBA+ was completed and found that these amendments are gender-neutral and apply equally to all Canadians. Overall, these amendments will help to ensure the safety of all Canadians on the ground and in the air. However, these amendments have the most significant impact on men, given that the vast majority of RPAS operators (recreational and commercial) are currently male. These amendments require operators to comply with numerous steps to lawfully operate a RPAS. While these steps require effort, the result is the enjoyment of a safe recreational activity, and potentially economic benefits from a growing commercial industry.
+Transport Canada is taking steps to be more gender inclusive in its work on the RPAS regulations and future RPAS policy. The RPAS industry is reflective of the gender disparity inherent in STEM (science, technology, engineering and mathematics) fields, with an overwhelming proportion of RPAS engineers, manufacturers, educators and operators being male. Sex-disaggregated data in the RPAS industry is extremely limited; however, there is much literature written about the lack of female participation in STEM, which parallels that of aviation including RPAS. Literature addressing gender dynamics in STEM has noted that gendered language reinforces stereotypes of who belongs in which “space” (or not). The National Aviation Space Agency (NASA) moved to use gender-inclusive language in 2006 to signal that space was an environment for men and women, employing the terms “crewed” and “uncrewed” instead of “manned” and “unmanned.” In this regulatory package, the term “Remotely Piloted Aircraft System” has replaced “Unmanned Aircraft System,” to reflect the same sentiment: though the RPAS industry may be male-dominated at the moment, there is space and room for girls, women, etc., to work and play. By employing the use of such gender-neutral terminology, Transport Canada is signalling gender inclusiveness to RPAS operators and the larger industry.
+The implementation of these amendments will take further steps to address inclusiveness. For example, Transport Canada is developing a safety education campaign that is deliberately inclusive and will speak to Canadians of different genders (as well as ages, ethnicities, etc.). While focus in the first year of the campaign will be on making sure messages are deliberately inclusive, in the second year of the campaign ideas to specifically target women and girls will be considered.
+Furthermore, there is a lack of sex-disaggregated data pertaining to RPAS, particularly on a large scale. Further study of gender and RPAS is planned, including the contracting of additional reports and the presentation of a gender-based paper on the RPAS industry at the International Civil Aviation Organization. As additional information becomes available through Transport Canada’s information technology system, analytics can be targeted through a GBA+ lens. This will lead to better targeting of education and safety promotion.
+Lastly, Transport Canada will leverage the work done by other federal organizations around women in STEM. For example, Transport Canada will look for opportunities to collaborate with Innovation, Science and Economic Development (ISED) Canada’s women in STEM campaign for opportunities to advance the RPAS-specific cause. Transport Canada will also make efforts to keep abreast of other work being done by its federal counterparts and explore opportunities for partnership wherever possible.
+Performance measurement and evaluation 
+Establishing a framework for measuring and evaluating the performance of these amendments is necessary to ensure the amendments are achieving their stated objectives: regulatory predictability and safety risk mitigation. Regularly scheduled data collection and program evaluation activities are important as evaluation tools.
+The Matrix below groups the intended outcomes, indicators, and data sources for measuring indicators according to the objectives they are trying to achieve (see Table 6).
+
+Table 6: RPAS Performance measurement and evaluation indicators
+
+Objective
+Intended Outcome
+Indicator
+Data Source
+
+
+
+Regulatory predictability for businesses
+
+Non-recreational RPAS operators feel that the Regulations enable their intended use cases.
+
+Qualitative feedback that commercial RPAS operators feel that the Regulations enable their intended use cases.
+
+Municipal, first responder, and industry RPAS working groups.
+
+
+Majority of commercial RPAS operators "strongly agree" or "agree" to the above statement.
+
+Survey to be administered to RPAS operators on recurring basis.
+
+
+Efficient and reliable service.
+
+Majority of RPAS operators "strongly agree" or "agree" to the above statement.
+
+Actual level of service delivered and response time, as well as a survey administered to operators on recurrent basis.
+
+
+Safety risk mitigation
+
+RPAS operators are aware of regulatory requirements.
+
+Increase in web traffic to the Drone Safety web pages on a yearly basis.
+
+Web traffic analytics for the Drone Safety web pages.
+
+
+Increase in the number of new RPA registrations in the Drone Management Portal.footnote 39
+
+Number of RPA registered in the Drone Management Portal.
+
+
+RPAS operators understand the regulatory requirements.
+
+Majority of RPAS operators "strongly agree" or "agree" to that they understand the regulatory requirements.
+
+Survey to be administered to RPAS operators on recurring basis.
+
+
+Mitigating risk posed by RPAS to manned aviation.
+
+Reduction in RPAS-related incidents as a percentage of the total RPAS population.
+
+RPAS-related incidents reported in the Civil Aviation Daily Occurrence Reporting System (CADORS).
+
+
+Number of RPA registered with Transport Canada.
+
+
+Mitigating risk posed by RPAS to bystanders.
+
+Reduction in RPAS-related incidents as a percentage of the total RPAS population.
+
+Number of incidents reported in the Drone Incident Report Form whose primary concern is "safety of people."
+
+
+Number of RPA registered with Transport Canada.
+
+Transport Canada has developed a number of tools to help achieve the stated objectives of these amendments. These tools also serve as valuable feedback mechanisms for performance measurement. They include
+
+the Canada.ca Drone Safety web pages: web pages that explain the regulations in plain language and serves as a hub for RPAS safety resources;
+the Drone Incident Report Form: a web-based form that Canadians can use to report drone incidents to Transport Canada;
+the Drone Management Portal: a task-oriented web portal where operators can register their RPA and take exams; and
+municipal, provincial/territorial, first responders, and RPAS industry working groups to facilitate communication between Transport Canada and stakeholders.
+
+Transport Canada intends to conduct environmental scans of the Canadian RPAS industry and to administer surveys to Canadian RPAS operators on a recurring basis to help collect performance measurement data. These environmental scans and surveys will also inform policy decision-making by identifying new trends and issues in the RPAS industry.
+Transport Canada civil aviation inspectors have already been sensitized to the interrelated objectives that Transport Canada intends to achieve with these amendments. Transport Canada is confident that those entitled to enforce these amendments will carry out their responsibilities in a manner which maximizes the intended outcomes.
+Contact 
+Manager, RPAS Policy
+RPAS Task force, AARV
+Civil Aviation
+Safety and Security
+Transport Canada
+Place de Ville, Tower C
+Ottawa, Ontario
+K1A 0N5
+Telephone: 613-993-7284 or 1-800-305-2059
+Fax: 613-990-1198
+Email: TC.RPASInfo-InfoRPAS.TC@tc.gc.ca
+
+Footnotes
+
+Footnote a
+
+R.S., c. 33 (1st Supp.), s. 1
+
+Return to footnote a referrer
+
+Footnote b
+
+S.C. 2014, c. 39, s. 144
+
+Return to footnote b referrer
+
+Footnote c
+
+S.C. 2015, c. 20, s. 12
+
+Return to footnote c referrer
+
+Footnote d
+
+S.C. 2004, c. 15, s. 18
+
+Return to footnote d referrer
+
+Footnote e
+
+R.S., c. A-2
+
+Return to footnote e referrer
+
+Footnote 1
+
+SOR/96-433
+
+Return to footnote 1 referrer
+
+Footnote 2
+
+The regulatory amendments will remove the terms “unmanned air vehicle” and “model aircraft.” They will be consolidated and replaced with the term “remotely piloted aircraft system.”
+
+Return to footnote 2 referrer
+
+Footnote 3
+
+Section 602.45 of the CARs
+
+Return to footnote 3 referrer
+
+Footnote 4
+
+Section 603.65 of the CARs
+
+Return to footnote 4 referrer
+
+Footnote 5
+
+An authorization to perform operations that are not directly covered by the CARs. Pilots must apply to TC and be granted approval for the SFOC in order to carry out the requested operation.
+
+Return to footnote 5 referrer
+
+Footnote 6
+
+Using 11% of the U.S. FAA’s 2018 RPAS forecast, which reflects Canada’s population relative to the U.S. [Federal Aviation Administration. (2018). FAA Aerospace Forecast: Fiscal Years 2018-2038. Washington, D.C.: FAA.]
+
+Return to footnote 6 referrer
+
+Footnote 7
+
+Number of incidents: in 2014, there were 41 incidents; in 2015, there were 86 incidents; in 2016, there were 148 incidents; and in 2017, there were 136 incidents.
+
+Return to footnote 7 referrer
+
+Footnote 8
+
+Subsection 5.9(2)
+
+Return to footnote 8 referrer
+
+Footnote 9
+
+Under subsection 5.9(2) of the Aeronautics Act, the Minister of Transport has the authority to issue an exemption to the CARs if it is in the public interest and is not likely to adversely affect aviation safety or security.
+
+Return to footnote 9 referrer
+
+Footnote 10
+
+Government of Canada. (July 15, 2017). Regulations Amending the Canadian Aviation Regulations (Unmanned Aircraft Systems) [Vol 151, No. 28]. Ottawa: Government of Canada. Retrieved from 
+http://www.gazette.gc.ca/rp-pr/p1/2017/2017-07-15/html/reg2-eng.html (on June 27, 2018).
+
+Return to footnote 10 referrer
+
+Footnote 11
+
+Treasury Board Secretariat. (2007). Canadian Cost-Benefit Analysis Guide: Regulatory Proposals. Ottawa: Treasury Board Secretariat.
+
+Return to footnote 11 referrer
+
+Footnote 12
+
+Government of Canada. (2017). Canadian Aviation Regulations. Ottawa: Minister of Justice. Retrieved from 
+http://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/index.html (on June 28, 2018).
+
+Return to footnote 12 referrer
+
+Footnote 13
+
+Federal Aviation Administration. (2018). FAA Aerospace Forecast: Fiscal Years 2018-2038. Washington, D.C.: FAA. Retrieved from https://www.faa.gov/data_research/aviation/aerospace_forecasts/ (on May 8, 2018).
+
+Return to footnote 13 referrer
+
+Footnote 14
+
+Population data as of July 1, 2017. Canadian data from Statistics Canada CANSIM 051-0001, U.S. data from U.S. Census Bureau. (Retrieved on May 8, 2018).
+
+Return to footnote 14 referrer
+
+Footnote 15
+
+Federal Aviation Administration. (2018). FAA Aerospace Forecast: Fiscal Years 2018-2038. Washington, D.C.: FAA.
+
+Return to footnote 15 referrer
+
+Footnote 16
+
+Alliance for System Safety of UAS through Research Excellence (ASSURE). (2017). Volume II—UAS Airborne Collision Severity Evaluation—Quadcopter. Springfield, Virginia: U.S. Federal Aviation Administration. Retrieved from http://www.assureuas.org/projects/deliverables/sUASAirborneCollisionReport.php (on  June 25, 2018).
+
+Return to footnote 16 referrer
+
+Footnote 17
+
+Time estimates are based on consultations with stakeholders and TC’s RPAS experts. This includes information from a 2016 TC survey of inspectors processing RPAS SFOC which indicated the share of complex versus simple applications.
+
+Return to footnote 17 referrer
+
+Footnote 18
+
+Federal Aviation Administration. (2018). FAA Aerospace Forecast: Fiscal Years 2018-2038. Washington, D.C.: FAA.
+
+Return to footnote 18 referrer
+
+Footnote 19
+
+Morris, R. and Thurston, G. (December 2015). Interim Final Rule Regulatory Evaluation: Registration and Marking Requirements for Small Unmanned Aircraft. Washington, D.C.: FAA.
+
+Return to footnote 19 referrer
+
+Footnote 20
+
+European Aviation Safety Agency. (2017). Notice of Proposed Amendment 2017-05 (B): Introduction of a regulatory framework for the operation of drones. (p. 92) Cologne, Germany: European Aviation Safety Agency. Retrieved from https://www.easa.europa.eu/sites/default/files/dfu/NPA%202017-05%20(B).pdf (on June 28, 2018).
+
+Return to footnote 20 referrer
+
+Footnote 21
+
+Similar to TC’s Pleasure Craft operators’ exam.
+
+Return to footnote 21 referrer
+
+Footnote 22
+
+Non-recreational users are already conducting site surveys, checklists and recording in logbooks, so the assumptions are not relevant.
+
+Return to footnote 22 referrer
+
+Footnote 23
+
+Ibid
+
+Return to footnote 23 referrer
+
+Footnote 24
+
+Recreational time is valued using the same approach as U.S. Department of Transportation’s value of personal travel time. (U.S. Department of Transportation. [September 27, 2016]. Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis [Memorandum]. Washington, D.C.: U.S. Department of Transportation. https://www.transportation.gov/sites/dot.gov/files/docs/Revised%20Departmental%20Guidance%20on%20Valuation%20of%20Travel%20Time%20in%20Economic%20Analysis%20-%20September%202016.pdf [accessed on July 11, 2018]).
+
+Return to footnote 24 referrer
+
+Footnote 25
+
+These are promotional materials. Pilots learn more about the rules while studying for the exam.
+
+Return to footnote 25 referrer
+
+Footnote 26
+
+Registration time is user tested.
+
+Return to footnote 26 referrer
+
+Footnote 27
+
+Assumes that 90% of pilots will choose to complete the TC recency questionnaire.
+
+Return to footnote 27 referrer
+
+Footnote 28
+
+Pilot certificates are automatically issued once the pilot has fulfilled the requirements.
+
+Return to footnote 28 referrer
+
+Footnote 29
+
+The upper and lower bounds of the sensitivity analysis indicate the 5% and 95% confidence intervals.
+
+Return to footnote 29 referrer
+
+Footnote 30
+
+Reported values indicate the 5% and 95% confidence intervals.
+
+Return to footnote 30 referrer
+
+Footnote 31
+
+This is due mostly to the higher value of non-recreational pilots’ time, but to a smaller extent, also because non-recreational use is more concentrated in advanced operations compared to recreational use.
+
+Return to footnote 31 referrer
+
+Footnote 32
+
+Treasury Board. (2012). Controlling Administrative Burden That Regulations Impose on Business: Guide for the "One-for-One" Rule. Ottawa, Ontario: Treasury Board.
+
+Return to footnote 32 referrer
+
+Footnote 33
+
+Time estimates are based on consultations with stakeholders and TC’s UAS experts. The distribution between complex and simple applications (i.e. 70% complex) versus 30% simple is taken from a 2016 TC survey of inspectors.
+
+Return to footnote 33 referrer
+
+Footnote 34
+
+Federal Aviation Administration. (2018). FAA Aerospace Forecast: Fiscal Years 2018-2038. Washington, D.C.: FAA.
+
+Return to footnote 34 referrer
+
+Footnote 35
+
+Ibid
+
+Return to footnote 35 referrer
+
+Footnote 36
+
+Morris, R. and Thurston, G. (December 2015). Interim Final Rule Regulatory Evaluation: Registration and Marking Requirements for Small Unmanned Aircraft. Washington, D.C.: FAA.
+
+Return to footnote 36 referrer
+
+Footnote 37
+
+Treasury Board. (2012). Hardwiring Sensitivity to Small Business Impacts of Regulation: Guide for the Small Business Lens. Ottawa, ON: Treasury Board.
+
+Return to footnote 37 referrer
+
+Footnote 38
+
+Research conducted by the United Kingdom’s Civil Aviation Authority and Australia’s Civil Aviation Safety Authority found that windscreens that are not bird strike-certified are highly susceptible to shattering should they come into contact with a RPAS. Even when only pieces of a RPAS were tested against the windshield (rather than the whole RPAS itself), significant cracking occurred in the windshield.
+
+Return to footnote 38 referrer
+
+Footnote 39
+
+Excluding RPAS registered in the first year of operation due to the high number of initial RPAS registrations anticipated, comprised primarily of existing RPAS operators.
+
+Return to footnote 39 referrer
+
+
+
+
+
+
+
+
+
+Government of Canada activities and initiatives
+
+
+
+
+About this site
+
+
+
+
+Contact us
+Department and agencies
+Public service and military
+News
+Treaties, laws and regulations
+Government-wide reporting
+Prime Minister
+How government works
+Open government
+About Canada.ca
+Terms and conditions
+Privacy
+
+
+
+
+
+
+About social media and mobile applications
+
+Social media
+Mobile applications
+
+
+
+
+
+
+
+
+
+ Top of Page  

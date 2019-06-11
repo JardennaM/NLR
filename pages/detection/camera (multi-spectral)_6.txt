@@ -1,11 +1,12 @@
+url: https://www.spectralcam.com/maia-m2-modular/
 
 
 
 
 
 
+MAIA M2 - Maia
 
-RedEdge-MX — MicaSense
 
 
 
@@ -54,301 +55,88 @@ RedEdge-MX — MicaSense
 
 
 
-Products
 
 
 
-                Altum
-              
 
 
 
-                RedEdge-MX
-              
 
 
 
-                DJI SkyPort Kits
-              
 
 
 
-                Integration Kits
-              
 
 
 
-                Accessories
-              
 
 
 
-                Atlas Flight
-              
 
 
 
+ 
 
 
-Resources
 
 
 
-                Researchers
-              
 
 
 
-                Blog
-              
 
 
 
-                Case Studies
-              
 
 
 
-                Webinars
-              
 
+  
+ 
 
 
-                Events
-              
 
+  
 
 
-                Support
-              
 
 
 
-                Flight Calculator
-              
 
 
+Home
+MAIA
 
-                Firmware Updates
-              
+MAIA WV
+MAIA S2
+MAIA M2
+ILS – Incident Light Sensor
+Download
 
 
+Experience
 
+Applications
+Research & Development
 
 
-About
+Contacts
+  
 
 
 
-                About
-              
 
 
+   
+ 
+ 
+ 
 
-                Partners
-              
 
 
 
-                Careers
-              
-
-
-
-
-
-            Español
-          
-
-
-
-            Contact
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Products
-
-
-
-                Altum
-              
-
-
-
-                RedEdge-MX
-              
-
-
-
-                DJI SkyPort Kits
-              
-
-
-
-                Integration Kits
-              
-
-
-
-                Accessories
-              
-
-
-
-                Atlas Flight
-              
-
-
-
-
-
-Resources
-
-
-
-                Researchers
-              
-
-
-
-                Blog
-              
-
-
-
-                Case Studies
-              
-
-
-
-                Webinars
-              
-
-
-
-                Events
-              
-
-
-
-                Support
-              
-
-
-
-                Flight Calculator
-              
-
-
-
-                Firmware Updates
-              
-
-
-
-
-
-About
-
-
-
-                About
-              
-
-
-
-                Partners
-              
-
-
-
-                Careers
-              
-
-
-
-
-
-            Español
-          
-
-
-
-            Contact
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RedEdge-MXThe technology you’ve come to depend on, now more durable and more accurate
-
-
-
-
-
-
-
-Products
-Altum
-RedEdge-MX
-DJI SkyPort Kits
-Integration Kits
-Accessories
-Atlas Flight
-
-
-
- Agricultural companies, service providers, researchers and academics need a reliable, accurate, high-precision sensor.  They don't need to compromise.  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+MAIA M2
 
 
 
@@ -360,417 +148,152 @@ Atlas Flight
 
  
 
+ 
+MAIA M2 – Multispectral Modular Camera
+MAIA M2 is the new lightest and smallest modular multispectral camera fully customizable by the user, according to his needs of multispectral survey applications.
 
+ 
+MAIA M2 can be equipped with a large portfolio of VIS-NIR bandpass filters.
+The camera module is based on a double global shutter CMOS sensor with 8/12 bits resolution, automatic exposure with selectable target value. Lenses are factory geometrically calibrated.
+Each module has stand-alone capability with external trigger and strobe or free run mode. Several inputs/outputs for external devices interfacing are available, such as trigger, strobe, serial port, USB and two aux port.
+Module has very small size and low weight, the lowest values in the market.
+Multi-module management, up to 8 different modules based on different couples of sensors and filters, is available by using the external controller.
+Multispectral raw images and parameters are stored in a removable SD card, and can be also downloaded via USB and they are ready then for MultiCam Stitcher Pro, the MAIA images pre-processing software.
+ 
+Frame
 
-
-
-
-
- Professional Multispectral Sensor KitNew metal case for extreme durabilityNew DLS 2 for enhanced light calibrationCaptures five narrow spectral bandsGenerates plant health indexes and RGB (color) images from one flightDesigned for easy and flexible integrationCalibrated for precise, repeatable measurementsOperates in temperatures up to 60℃ or 140℉Kit includes: RedEdge-MX, DLS 2 with embedded GPS, Calibrated Reflectance Panel, lens cover and hard carrying case.Available now! Typically Ships in two weeks.$ 5,500 USDLooking to integrate RedEdge-MX with the DJI M200? Check our DJI SkyPort pageLooking for standard integration kits? Check them out here.  Get to know RedEdge-MX 
-
-
-
-
-
+Size: 48 mm x 33 mm x 23 mm (excluding connectors and lenses)
+Weight: 70 g
 
 
  
+ Power supply
 
+Powered by controller or external power supply;
+Powered by 4.5 – 9 VDC / 1000 mA supply.
 
 
 
+Key features
 
+Freedom to customize the bandpass filters
+Advantages of modular system
+Physical adaptability on board the data acquisition platforms
+Excellent cost / benefit ratio
+Same quality of sensors, filters and optics of the standard versions of MAIA
 
 
-   
-
-
-
-
-
-
-
-Specifications
-
-
-
-
-
-
-
-
-
-
-Weight:
-231.9 g (8.18 oz.)(includes DLS 2 and cables)
-
-
-Dimensions:
-8.7cm x 5.9cm x 4.54cm (3.4in x 2.3in x 1.8in)
-    
-
-
-External Power:
-4.2 V DC - 15.8 V DC4 W nominal, 8 W peak
-
-
-Spectral Bands:
-Blue, green, red, red edge, near-IR(global shutter, narrowband)
-
-
-
-Wavelength (nm):
-Blue (475 nm center, 20 nm bandwidth), green (560 nm center, 20 nm bandwidth), red (668 nm center, 10 nm bandwidth), red edge (717 nm center, 10 nm bandwidth), near-IR (840 nm center, 40 nm bandwidth)
-
-
-
-RGB Color Output:
-Global shutter, aligned with all bands
-
-
-Ground Sample Distance (GSD):
-8 cm per pixel (per band) at 120 m (~400 ft) AGL
-
-
-Capture Rate:
-1 capture per second (all bands), 12-bit RAW
-
-
-Interfaces:
-Serial, 10/100/1000 ethernet, removable Wi-Fi, external trigger, GPS, SDHC
-
-
-Field of View:
-47.2° HFOV
-
-
-Triggering Options:
-Timer mode, overlap mode, external trigger mode 
-(PWM, GPIO, serial, and Ethernet options), manual capture mode
-
-
-
-
-Data sheet
-
-
-Compare Sensors
-
-
-Knowledge Base
- At MicaSense, we believe in delivering more than pretty pictures.We believe in providing scientific solutions that address real problems. 
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  1Chlorophyll Map: The red edge spectral band is the star here, working in conjunction with the other bands to provide a more accurate measure of not just plant vigor but plant health.  2NDVI Layer: This commonly known index compares the reflectance of the red band with that of the near-infrared band. However, this index alone provides limited information.   3Digital Surface Model: A DSM is an astonishingly advantageous tool in any agronomist’s arsenal, primarily because of its use in evaluating surface properties and water flow.  4RGB Image: RedEdge-MX features global shutters for distortion-free images, including narrowband red, green, and blue bands for RGB color images that when processed are aligned to all visible and non-visible bands and vegetation indices.  Interested in learning more about the power of layers? Read this blog post.  
-
-
-
-
-
-
-
- Explore RedEdge-MX data and use cases.
-
-View Sample Data
-
-
-Read Case Studies
- RedEdge-MX is action-ready, integrating seamlessly no matter the platform.It has a compact design and is lightweight to work with as many drone models as possible. See integration kits available.
-
-
-
-
-
-
+MAIA M2       2 400 €  VAT excl.
+ 
+MAIA M2 Custom Bandpass Filters
+MAIA M2 can be equipped with a large portfolio of VIS-NIR bandpass filters. The following selected filters are available in stock; for other specific bands, we are available to respond to your requests after consulting with our supplier
 
  
+MAIA M2 Pre-selected Bandpass Filters Pair
+The MAIA M2 single module can be composed using a pair of available band-pass filters. The choice of the pre-selected filter pairs will be made according to the most widely used multispectral indexes with two single bands, or on the basis of the aim of the multispectral survey.
+
+ 
+ MAIA M2 combination of modules
+The following table shows some combinations of 2 or more MAIA M2 modules, useful to allow the calculation of many of the main multispectral indexes.
 
+ 
+STD CTU – Standard Control Unit
+STD CTU is equipped with a GNSS L1 module.
 
+ 
+The Control Unit manages:
 
+synchronization and geo-referencing of the images
+powering of MAIA M2 modules
+reading of PWM inputs for shutter, start, stop and reset
+Light Sensor input for fine tuning radiometric correction
+two outputs with customizable variable advance for delay compensation of any connected DSLR cameras
+up to 8 modules for a total of 16 bands
+wide supply range 8-26 Volts
 
+STD CTU       1 440 €  VAT excl.
+ 
+RTK CTU – Real Time Kinematic Control Unit
+RTK CTU is equipped with a GNSS L1 RTK module and a UHF LoRa Radio Modem.
 
+The Control Unit manages:
 
+synchronization and geo-referencing of the images
+powering of MAIA M2 modules
+reading of PWM inputs for shutter, start, stop and reset
+Light Sensor input for fine tuning radiometric correction
+two outputs with customizable variable advance for delay compensation of any connected DSLR cameras
+up to 8 modules for a total of 16 bands
+wide supply range 8-26 Volts
 
-Looking for a drone and sensor package? Check out our drone integration partners.
+RTK CTU       1 920 €  VAT excl.
+ 
+MAIA M2 Multispectral Modular System Configuration Example
+The following one is a connection diagram for the RTK control unit with 3 MAIA M2 and 2 external DSLR cameras.
 
-MicaSense Partners
-  It's simple to plan a successful mission. 
+The RTK Control Unit is supplied including the GNSS antenna, the UHF antenna, the Light Sensor and the connection cables for batteries, PWM inputs and DSLR shutter input.
+The MAIA M2 modules are supplied including all cables for the stand-alone operating mode and the connection cable to the Control Unit.
+ 
+MAIA M2 will be available on the market from September 2018.
+ 
+PRE-ORDER YOUR CUSTOMIZED BUNDLE OF MAIA M2
+  
 
+  
 
+ 
+ 
 
 
 
 
+  
+ 
+ 
 
-  
 
 
 
 
+Language
+English
+Italiano
 
+SAL Engineering SAL Engineering develops advanced systems for photogrammetric, multispectral and thermographic surveys aimed at 3D modeling of structures and infrastructures, precision agriculture and environmental monitoring. SAL has professional instrumentation, specific sensors, control platforms, navigation systems and high-level positioning technology. Data acquisition operations are carried out with scientific methodology to ensure precision, accuracy and repeatability.
+Contacts SAL Engineering
+Via Vecchia Godo, 23
+48026 Russi (RA) - ITALY
+Tel. +39 348 4687052
+E-mail: info@salengineering.it
+website: www.salengineering.it
 
+Pages 
+Applications
+Contacts
+Download
+Home
+ILS – Incident Light Sensor
+MAIA
+MAIA M2
+MAIA S2
+MAIA S2 and Sentinel-2 multispectral images for Agriculture
+MAIA WV
+Research & Development
 
-FLY The RedEdge-MX’s low weight, low power requirement, and ability to capture RGB and narrowband spectral bands simultaneously means you can gather the data you need in fewer flights. Have multiple UAVs? RedEdge-MX quickly integrates with many different drone platforms. 
+  
+ 
+ 
 
 
+ @2017 SAL Engineering 
+	
+		
+			
+ 
+ 
 
 
+Top
 
 
-
-PROCESS With RedEdge-MX, you own your data. You’re not limited to a particular processing platform. You can choose whichever platform is best for you, your customer, or your project. 
-
-
-
-
-
-
-
-ANALYZERedEdge-MX has five bands—blue, green, red, red edge, and near-infrared—that our research showed were optimal for sensing crop health. It simply shows you more. And with MicaSense Atlas, you can see many different analytical layers in one easy to use interface, and compare these outputs across time. 
-
-
-
-
-
-
-
-ANYWHERE We know you need tools you can rely on. That’s why we built the sensors we wanted in the field—predictable, tough, and reliable—so you can gather the data you need when you need it. RedEdge-MX is a reliable, accurate, high-precision sensor. Fly a 100-acre field (at 400 ft AGL, 70% overlap) with RedEdge-MX in 27 minutes!**Based on multi-rotor aircraft  
-
-Calculate flight time
-
-
-
-
-
-
-
-
- Interested in the many benefits of flying with standard overlap? Read our blog post 5 Reasons to Fly 5 Minutes Longer - Why Overlap Matters 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Back to Top
-
-
-
-
-Shopping Cart
-
-
-
-
-Contact
-
-
-
-Contact Us
-
-
-
-
-Join Our Mailing List
-
-
-
-
-
-
-Company
-
-
-
-About Us
-
-
-
-
-Partners
-
-
-
-
-Careers
-
-
-
-
-
-
-Products
-
-
-
-Altum
-
-
-
-
-RedEdge-MX
-
-
-
-
-Sensors for DJI SkyPort
-
-
-
-
-Integration Kits
-
-
-
-
-Atlas
-
-
-
-
-Atlas Flight
-
-
-
-
-Accessories
-
-
-
-
-
-
-Resources
-
-
-
-Knowledge Base
-
-
-
-
-Case Studies
-
-
-
-
-Blog
-
-
-
-
-Events
-
-
-
-
-Newsletter
-
-
-
-
-Flight Calculator
-
-
-
-
-
-
-Legal
-
-
-
-Privacy Policy
-
-
-
-
-Terms of Sale
-
-
-
-
-Terms and Conditions
-
-
-
-
-Warranty
-
-
-
-
-
-
-Atlas Log In
+ 

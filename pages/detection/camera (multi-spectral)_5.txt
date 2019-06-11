@@ -1,11 +1,12 @@
+url: https://www.spectralcam.com/maia-tech-2/
 
 
 
 
 
 
+MAIA S2 - Maia
 
-MicaSense
 
 
 
@@ -60,6 +61,7 @@ MicaSense
 
 
 
+ 
 
 
 
@@ -72,314 +74,64 @@ MicaSense
 
 
 
-Products
 
 
 
-                Altum
-              
+  
+ 
 
 
 
-                RedEdge-MX
-              
+  
 
 
 
-                DJI SkyPort Kits
-              
 
 
 
-                Integration Kits
-              
 
-
-
-                Accessories
-              
-
-
-
-                Atlas Flight
-              
-
-
-
-
-
-Resources
-
-
-
-                Researchers
-              
-
-
-
-                Blog
-              
-
-
-
-                Case Studies
-              
-
-
-
-                Webinars
-              
-
-
-
-                Events
-              
-
-
-
-                Support
-              
-
-
-
-                Flight Calculator
-              
-
-
-
-                Firmware Updates
-              
-
-
-
-
-
-About
-
-
-
-                About
-              
-
-
-
-                Partners
-              
-
-
-
-                Careers
-              
-
-
-
-
-
-            Español
-          
-
-
-
-            Contact
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Products
-
-
-
-                Altum
-              
-
-
-
-                RedEdge-MX
-              
-
-
-
-                DJI SkyPort Kits
-              
-
-
-
-                Integration Kits
-              
-
-
-
-                Accessories
-              
-
-
-
-                Atlas Flight
-              
-
-
-
-
-
-Resources
-
-
-
-                Researchers
-              
-
-
-
-                Blog
-              
-
-
-
-                Case Studies
-              
-
-
-
-                Webinars
-              
-
-
-
-                Events
-              
-
-
-
-                Support
-              
-
-
-
-                Flight Calculator
-              
-
-
-
-                Firmware Updates
-              
-
-
-
-
-
-About
-
-
-
-                About
-              
-
-
-
-                Partners
-              
-
-
-
-                Careers
-              
-
-
-
-
-
-            Español
-          
-
-
-
-            Contact
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Currently in use
 Home
-Panel Reflectance Values
-MicaSense 2018 Partner Event
-RedEdge Publications
-Archaeology
-RedEdge-M Sample Data
-RedEdgeKit
-Atlas and Pix4D FAQ
-Atlas Pricing
-New Atlas Pricing + Processing
-Shopping Cart
-Thank you for contacting us
-Flight Calculator
-Academics Promo
-Thank you
-dls
-Contact Sales
-Thank you for confirming your shipping address
-Sequoia Sample Data
-Atlas Plan confirmation
-Atlas & Sensefly Registration
-Workshop Feedback
-Workshop Questions
+MAIA
 
+MAIA WV
+MAIA S2
+MAIA M2
+ILS – Incident Light Sensor
+Download
 
 
+Experience
 
+Applications
+Research & Development
 
 
+Contacts
+  
 
 
 
 
 
-It's here: Altum
-Thermal. Multispectral. High Resolution RGB. Unparalleled Sensing.
-Learn more
+   
+ 
+ 
+ 
 
 
 
 
-Works with your drone
-Small and lightweight.Supported by many UAV companies.
-Integration kits UAV Partners
+MAIA S2
 
 
 
 
-Produces data you can use
-Five-band, calibrated imagery.Crop health data you can trust.
-View sample imagery Read our case studies
 
 
 
 
 
 
-  We help agricultural professionals improve crop management. Move the slider below to see more 
 
 
 
@@ -387,38 +139,39 @@ View sample imagery Read our case studies
 
 
 
-Chlorophyll Map
 
 
 
+MAIA S2 – the multispectral cameraMAIA is the multispectral camera that permits the simultaneous acquisition of high resolution images at various wavelenght intervals in VIS/NIR electromagnetic spectrum regions. It is designed to be employed on board the UAV systems or on board aircrafts, and it finds several applications on board terrestrial rovers too, for precision agriculture, classification of crops, classification of materials on soil, environmental monitoring, dumps monitoring.MAIA S2 is the multispectral camera equipped with the same wavelenght intervals of the European Spatial Agency's Sentinel-2™ satellite.Sentinel-2™ is an earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management.Now, you can compare free satellite data with high-resolution maps obtained through a multispectral survey conducted with MAIA S2, the proper instrument for your multispectral survey. MAIA S2 is entirely developed in Italy by SAL Engineering, Eoptis and Fondazione Bruno Kessler.
 
 
 
 
-RGB Color
 
 
 
 
-   
 
 
 
+																			Download MAIA S2 Datasheet																			
 
 
 
 
-  We create drone based sensors for agriculture. They are scientific, simple to use, and made in the USA.Our sensors help...  
+MAIA S2 is based on an array of 9 monochrome sensors (1.2 Mpixels each) with relative band-pass filters to detect informations on the VIS-NIR spectrum in the same wavelenght intervals of Sentinel-2™ satellite. MAIA S2 is the most advanced multispectral imaging camera with two narrow band in Red Edge region and bands in Violet and Blue region. 
 
 
+MAIA S2     15 200 €  VAT excl.
 
 
 
 
+																			Special offer for Retailers and Educational																	
 
 
 
-Researchers conduct phenotyping studies, establish optimum methods for fertilization, validate new precision agriculture practices.Service providers generate RGB and the full spectrum of crop health analytics in one flight. Know that your sensor will work no matter how hot it is.
+ Architecture and interfaces
 
 
 
@@ -428,27 +181,28 @@ Researchers conduct phenotyping studies, establish optimum methods for fertiliz
 
 
 
+Applications of multispectral surveyMain applications of the multispectral survey conducted with MAIA concern the following fields of interest:  Agriculture and terrain surveyprecision agriculturedetailed study of satellite imageryvegetation indexes mappingplant species recognition and biomass mappingmonitoring of health conditions of crops and plantsGeologydetection of paleochannelsdetection of typology of soils, geological characterization and mappingclassification of composition of soilscharacterization of materials in landslides and floodingsIndustrydetection of chemical dumpingsmonitoring of industrial plantsmonitoring of leachate in landfillsdetection of non-authorized dumpsdetection and classification of materials in terrains and structuresEnvironmental monitoringdetection of pollutant spilling and waste recognitionclassification of terrains and chemical-physical characterizationanalysis of spills in rivers and coastal environments 
 
 
+OpticsCMOS sensors settled in MAIA S2 have resolution of 1.2 Mpixel each, and present excellent characteristics in terms of sensitivity.Each sensor is global shutter and shoot simultaneously: it follows that it is not necessary to stabilize the shot with gimbal, which is indispensable with roling shutter sensors to avoid distorsions, crawling and blurring pixels in the images.The high quality and the radiometric validity of data obtained with MAIA S2 are then guaranteed even during high speed flghts.Thanks to a web panel easily accessible through Wifi and Ethernet, MAIA S2 permits a fine regulation of all parameters concerning the acquisition activities, from exposure time of each sensor to shot frequency. Automatic configurations are available for standard operations.Each sensor has 1280x960 pixels and the dimension of each pixel is 3.75 μm x 3.75 μm.Mono-chromatic sensors are matched with a bandpass filter based on the intervals as follows:
 
 
+SensorStart WL(nm)Stop WL (nm)CWL (nm)FWHM (nm)ColorS143345344320VIOLETS2457.5522.549065BLUES3542.5577.556035GREENS465068066530REDS5697.5712.570515RED EDGE 1S6732.5747.574015RED EDGE 2S777379378320NIR 1S8784.5899.5842115NIR 2S985587586520NIR 3 
 
 
 
 
 
 
-Agronomists and growers accurately identify crop stress, track the success of a nutrient application, discover disease earlier.  
 
-See the video
 
 
+Each sensor has fixed focus lens with the following characteristics:- Nominal focal lenght: 7.5 mm- Aperture f/#2.8- FOV 35° HFOV; 26° VFOV 43° DFOVLens are adjusted with focus in laboratory, with no possibility of intervention by the user.Each optics of every produced MAIA S2 is calibrated in laboratory and for each camera the Calibration Certificate is available, with the following parameters:- calibrated Focal Length - position of Principal Point- distortion lens parametersCalibration and certificate is carried out by 3DOM group - 3D Optical Metrology of FBK - Fondazione Bruno Kessler in their laboratories.For the survey operations, the Ground Sample Distance (GSD) and the Field of View (FOV), depending on the Altitude above Ground Level (AGL), are shown in the following table, that also shows the available max speed of the aircraft to acquire images with no motion blur, considering an acceptable pixel blurring and crawling lower than the size of the pixel. The maximum speed of the aircraft depends on images overlap and on shot frequency.AGL (m)GSD (mm/pixel)FOV (m2) Max UAV speedwith 10 ms exposure time(m/s) – (km/h)Max UAV speedwith 1 ms exposure time(m/s) – (km/h)502330 x 232.3 – 8.423 – 84753545 x 343.5 – 12.735 – 1271004760 x 454.7 – 16.947 – 1691507090 x 687.0 – 25.370 – 25320094120 x 909.4 – 33.894 – 338300141180 x 13514.1 – 50.6141 – 506400188240 x 18018.8 – 67.5188 – 675
 
-×
 
+Devices and connectorsVia Wifi or via GigaEthernet port, users can interface with MAIA S2 to configure parameters, to visualize in real-time images during the acquisition and to download the already saved ones. For these purposes there are several interfaces: a keyboard, a powerful web panel, two inputs for radiolink receivers.Web access is available both through a high-speed GigaEthernet connection, and through Wifi connection for operation directly on the field.
 
 
-   
 
 
 
@@ -456,9 +210,8 @@ See the video
 
 
 
-  Our UAV partners get your sensor in the air.Our software partners help you gain insight from your imagery. 
+MAIA S2 can interface with various devices that can integrate embedded data into the images.GNSS receiver to geotag imagesradio transmitter that send images to the operator and give him feedback about mission and data acquisitionradio receiver for radio remote control of the cameraconnector for gimbal stabiliser, that takes advantage of the IMU onboard, keeping bearing and orientationother devices that need signal at the moment of the shotILS - Irradiant Light Sensor
 
-Get to know our partners
 
 
 
@@ -474,6 +227,7 @@ Get to know our partners
 
 
 
+ ImagesImages are stored in an internal SSD solid memory that is mechanics-free, then it guarantees long term high reliability. Memory capacity can guarantee more than 10000 images. RAW files until 12 bit, that concentrate a large quantity of information, are supported.Along with the camera, an image processing software will be provided for geometric correction, correction of radial distorsion, coregistration and radiometric correction of the RAW multispectral images acquired with MAIA S2, with tools for indexes calculation and for band combinations.
 
 
 
@@ -483,196 +237,82 @@ Get to know our partners
 
 
 
+ With MAIA - MultiCam Stitcher Pro software, you could create multi-layer tiffs, multichannel tiffs, create view with combination of bands, create index images and preview the raw dataset just acquired.You can correct the geometrical distortion of images, get the coregistration pixel-pixel for each band, correct the radiometrical informations within the pixels.Thanks to this software, you can generate the specific kind of dataset that could be useful for your purpose: photogrammetric processing, single shot analysis, indexes or band combination mapping.This image processing software of MAIA S2 images is jointly developed with the cooperation of 3DOM - 3D Optical Metrology - Fondazione Bruno Kessler (FBK) based in Trento (IT). 
 
 
 
 
+																			Download MAIA S2 Multispectral Images Workflow 																			
 
 
 
 
+ Technical features Sensors9 CMOS Mono-Chromatic sensors with Bandpass filters Array 3x3 – Centre to centre: 25 mm Resolution: 1.2Mpixel (1280x960) each Type: Global Shutter Pixel size: 3.75 μm x 3.75 μmOpticsSensitivity interval VIS-NIR: 433 nm to 875 nm   SensorWavelenght (nm)S1433-453S2457.5-522.5S3542.5-577.5S4650-680S5697.5-712.5S6732.5-747.5S7773-793S8S9784.5-899.5855-875Lens Fixed focus Focal lenght: 7.5 mm Open f/#2.8 FOV: 35° HFOV; 26° VFOV; 43° DFOVExposureType: Manual / Automatic / Automatic based on Max Time Exposure Start simultaneous for each sensor Exposure Time: 0.1 ms - 50 msTypical exposure time: 1msAcquisitionType: Single shot / Continuous with external trigger / Continuous at fixed-time interval Max frame rate: 3 frames/sec with RAW 10bit and RAW 12bit; 6 frames/s with RAW 8bitFile formatRAW 8 bit RAW 10 bit RAW 12 bitMemoryType: Internal SSD Capacity: 120GB (standard); 250GB; 500GB (on demand) Image size: 21.2 MByte in RAW10 and RAW12 11.8 MByte in RAW8Embedded dataExposure time for each sensor. Timestamp at the shot time. Time, position, speed, fix GNSS.
 
 
 
 
+																			Download MAIA User Guide Rev. 2.02 																			
 
 
 
+  
 
+  
 
+ 
+ 
 
 
 
 
+  
+ 
+ 
 
 
 
 
 
+Language
+English
+Italiano
 
+SAL Engineering SAL Engineering develops advanced systems for photogrammetric, multispectral and thermographic surveys aimed at 3D modeling of structures and infrastructures, precision agriculture and environmental monitoring. SAL has professional instrumentation, specific sensors, control platforms, navigation systems and high-level positioning technology. Data acquisition operations are carried out with scientific methodology to ensure precision, accuracy and repeatability.
+Contacts SAL Engineering
+Via Vecchia Godo, 23
+48026 Russi (RA) - ITALY
+Tel. +39 348 4687052
+E-mail: info@salengineering.it
+website: www.salengineering.it
 
+Pages 
+Applications
+Contacts
+Download
+Home
+ILS – Incident Light Sensor
+MAIA
+MAIA M2
+MAIA S2
+MAIA S2 and Sentinel-2 multispectral images for Agriculture
+MAIA WV
+Research & Development
 
+  
+ 
+ 
 
 
+ @2017 SAL Engineering 
+	
+		
+			
+ 
+ 
 
 
+Top
 
 
-
-
-
-
-
-
-
-Back to Top
-
-
-
-
-Shopping Cart
-
-
-
-
-Contact
-
-
-
-Contact Us
-
-
-
-
-Join Our Mailing List
-
-
-
-
-
-
-Company
-
-
-
-About Us
-
-
-
-
-Partners
-
-
-
-
-Careers
-
-
-
-
-
-
-Products
-
-
-
-Altum
-
-
-
-
-RedEdge-MX
-
-
-
-
-Sensors for DJI SkyPort
-
-
-
-
-Integration Kits
-
-
-
-
-Atlas
-
-
-
-
-Atlas Flight
-
-
-
-
-Accessories
-
-
-
-
-
-
-Resources
-
-
-
-Knowledge Base
-
-
-
-
-Case Studies
-
-
-
-
-Blog
-
-
-
-
-Events
-
-
-
-
-Newsletter
-
-
-
-
-Flight Calculator
-
-
-
-
-
-
-Legal
-
-
-
-Privacy Policy
-
-
-
-
-Terms of Sale
-
-
-
-
-Terms and Conditions
-
-
-
-
-Warranty
-
-
-
-
-
-
-Atlas Log In
+ 

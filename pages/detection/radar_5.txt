@@ -1,1 +1,198 @@
-Drone detection radar - ART Drone Sentinel - Anti drone radar system          Toggle navigation             ProductsTechnologyAbout UsContact         © ART 2017ART Drone SentinelIndustry leader micro-UAV detection & tracking with 360 degree coverage DATASHEET SALES INQUIRYART Drone Sentinel is a high performance drone detection radar and counter small unmanned aerial vehicle (C-UAS) integrated surveillance system. ART Midrange, a field proven state-of-the-art radar sensor, has been optimized for very low radar cross section airborne threat detection and tracking, such as micro drones and UAVs. The radar provides early detection, warning and tracking functionality and can be complemented by an optronic platform to feature day & night classification capabilities. ART Drone Sentinel also includes an intuitive GIS-powered multi-sensor command and control software suite that provides a common operative picture for unsurpassed airspace situational awareness.This UAV detection radar was awarded the Best Detection and Determination System prize in the international anti-drone contest organized by the MITRE corporation (USA Countering Unmanned Aircraft Systems C-UAS Challenge) as part of the DroneRANGER system presented by Van Cleve and Associates.ART Drone Sentinel performance has been experimentally validated with representative targets under the supervision of a key European end-user. This drone radar detects, tracks and classifies micro quadcopters and micro fixed-wing UAVs with radar cross sections below 0.005 m2. In addition, the system can provide simultaneous ground based target detection & tracking. COVERAGE Complete 360 degree coverage with a single unit to enable total C-UAS situational awareness. UPDATE RATE Fast 1 Hz scan rate in all operational modes to provide early target confirmation. DETECTION PERFORMANCE State-of-the-art detection range for micro drones & minimum detectable target radar cross section (<0,01m2). TECHNOLOGY Continuous wave linear frequency modulated radar with inherent LPI characteristics.ProductsTechnologyAbout UsContactCareersNews & Success casesProductsTechnologyAbout UsContactCareersNews & Success cases                      Calle Basauri 6 28023 Madrid, SpainTel. +34 91 831 86 74© ART 2017 • All rights reserved | Design by Asis. Code by Wedoweb.© ART 2017  Sales Inquiry         Name   Company/Organization   Position   Email   Phone number   Request        X  Job application         Name   Email   Phone number   Application File*   Choose file  No file chosen           X  Datasheet Request         Name   Company/Organization   Position   Email   Phone number   Request        X  Sales Inquiry         Name   Company/Organization   Position   Email   Phone number   Request        X      
+url: https://www.uasvision.com/2017/03/10/uav-drone-detection-radar-from-kelvin-hughes/
+
+
+
+
+
+
+
+UAV & Drone Detection Radar from Kelvin Hughes – UAS VISION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UAS VISION
+a global news service for the unmanned aircraft systems community
+
+
+
+Menu
+
+About
+Advertising
+Contributors
+Links
+Privacy
+Statistics
+Subscribe
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+
+
+UAV & Drone Detection Radar from Kelvin Hughes
+
+
+
+The UK’s Kelvin Hughes is launching a drone detection and tracking system based on its SharpEye X-Band radar receiver technology. The new system, called SMS-D, provides continuously updated bearing, distance, altitude and velocity data. It identifies targets automatically through its video tracking system, ensuring that any remedial or defensive action can be quickly implemented.
+Kelvin Hughes announced that it will be launching its new drone detection system at the Home Office Security & Policing exhibition.
+The SMS-D is the first integrated, medium-range, radar-based surveillance system designed for the detection and tracking of small aerial targets.
+Whether used maliciously or just irresponsibly, drones represent a new threat to our security. The SMS-D tracks the real-time position of these aerial targets, including those that could be used to attack infrastructure, vehicles or individuals as well as those that may be used for hostile observation or smuggling. Based on the company’s solid-state SharpEye™ X-Band solid-state radar transceiver technology, the system is able to detect drones up to 1.5 kms away.
+Highly cost-effective, the SMS-D provides continuously updated bearing, distance, altitude and velocity data. The latest addition to the Kelvin Hughes SMS (Single Mast Solution) range, it identifies targets automatically through its video tracking system, ensuring that any remedial or defensive action can be implemented without delay.
+The SMS is designed to accommodate a combination of radar, optical and thermal imaging devices in order to provide 360˚ surveillance of any site perimeter or border as well as providing early detection of any drones or other UAVs. The SMS can be fixed to a permanent structure or mounted on a vehicle to further extend the envelope of detection.
+During the official launch at Security & Policing, Kelvin Hughes will be demonstrating the SMS-D within the Live Immersive Experience which has been designed to take visitors on a ‘Journey through the Criminal Justice System’. The SMS-D will be located on a mock perimeter fence and linked to Kelvin Hughes’ CxEye™ control and display software which integrates data from multiple sensors into a single, easy-to-use display package. Kelvin Hughes will also be demonstrating the system in the vehicle display area (position X13).
+
+Jonathan Field, Security Systems and Sensors Director for Kelvin Hughes, commented:
+“We’re very much looking forward to the official launch of the SMS-D. The first of its kind, the system is a fully integrated package of radar and electro-optic sensors and software providing a sophisticated yet highly cost-effective response to the increasing threat of drone incursion. And it’s yet another example of our long-proven record of world-leading innovation.”
+Source: PressRelease
+   Download article as PDF   
+
+		Posted in Anti-Drone, News on March 10, 2017 by The Editor.					Leave a comment 
+
+
+
+← Privacy and Security Concerns Hold Back Drone Delivery BlueBird Upgrades MicroB for Indian Army RFI →
+
+
+
+
+Leave a Reply Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+Search by CategorySearch by Category
+Select Category
+Accident Reporting
+Aerial Photography
+Agriculture
+Aircraft Propulsion & Energy
+Anti-Drone
+Applications & Testing & Experience
+Business News
+Construction
+Consumer Drones
+Control Stations & Remote Video Terminals
+Data Links & Communications
+Drone Racing
+Electronic Sub-Systems
+Events
+First Responders
+Geology
+Launchers & Recovery Systems
+Law Enforcement
+Leisure
+Lighter Than Air
+Military UAS
+National Associations
+News
+Non-Military & Commercial UAS
+OPA
+Patents
+Payloads
+Pipelines
+Power Lines
+Publications
+Radar
+Regulatory Matters
+Research
+Robotics
+Software
+SPR
+Take-Off & Landing
+Targets
+Technology
+Test Ranges
+Tethered
+Training
+Transport
+Uncategorized
+Utilities
+UTM
+Video
+VTOL
+Weapons Systems
+Working Groups
+
+
+
+Follow 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+										Copyright UASVISION 2019				

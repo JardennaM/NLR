@@ -1,0 +1,366 @@
+url: https://terrahexen.com/en/oferta/produkt/uav-detection-systems/
+
+
+
+
+
+UAV DETECTION SYSTEMS | Terra Hexen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offer
+
+
+DRONE HAZARD AUDIT FOR COMPANIES
+INSPECTION DRONES
+UNDERWATER INSPECTION DRONES
+UAV DETECTION SYSTEMS
+UAV NEUTRALISATION SYSTEMS
+TRAININGS OF UAV OPERATORS
+
+News
+Contact
+PLEN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UAV DETECTION SYSTEMS
+
+
+
+
+
+
+
+
+
+
+
+
+                                                BSP/UAV Detection system
+
+Terra Hexen is a Business Partner of the manufacturer of the CTRL+SKY system, the Advanced Protection Systems company, and represents it on numerous markets around the world. 
+
+CTRL+SKY is a cutting-edge system for detection and neutralisation of drones entering a restricted airspace. CTRL+SKY is the only system in the world that takes advantage of:
+
+• Modular and fully configurable 3D radar sensor,
+• Radar tracking bases on MHT (Multi Hypothesis Tracking) algorithms
+• RF sensor that enables including any drone on the so-called white list
+• Fully integrated and automated directional or omnidirectional jammer for neutralisation of drones
+• MIMO radar technologies that help improve detection accuracy
+• Acoustic sensor that enables determining the direction from which the drones are approaching
+• Dedicated web application for controlling the system
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+                                            RADAR                                        
+
+                                            Detect all the commercial and hobby drones. Can track multiple objects at the same time. Operates in all kinds of weather conditions. Specifies accurately the drone’s position (distance, height, direction). The sensor is available in version with various ranges of operation (from 300 m to 2 km).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            OPTICAL CAMERAS                                        
+
+                                            Visual confirmation of drone detection. 360-degrees rotation range. Camera turns automatically to the bearing selected after detecting a drone. For close range, differentiation of drones from other objects. 30x zoom enabling observation of objects located even 700 m away FullHD image quality.
+                                                                                    
+
+
+
+
+
+                                            ACOUSTIC SENSOR                                        
+
+                                            Does not require direct line of sight to the object in order to work correctly. Locate the source of sounds within a 3D space. Classifies objects (recognised whether the object is a drone or a different sound source). Range within the radius of up to 200 m. Efficient detection irrespective of the time of day
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            SOFTWARE                                        
+
+                                            Simple, intuitive and user-friendly interface. Access to the system from a computer or a mobile device. Display of system status in a web application. Text message (SMS) notifications, e-mail notifications, and system alerts (visual and acoustic). Registration of incidents in an archive
+                                                                                    
+
+
+
+
+
+                                            RF SENSOR                                        
+
+                                            Excellent availability. Very early warning of a drone appearing nearby. Excellent functioning, even in difficult urban areas. Detection of the drone and the control station (drone operator). Enables including any drone on the so-called white list.
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Unmatched quality of system functioning thanks to application of multi-sensor approach:
+
+• Operation in all kinds of weather conditions, both during the day and at night
+• Best price to quality ratio on the market
+• Possibility of purchasing or leasing the system
+• Detection of autonomous drones (with deactivated RF communication)
+• Accurate determination of drone position and speed
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            STATIONARY SYSTEM                                        
+
+                                            The stationary system is intended for permanent protection of a given area. In contrast to the mobile version, the structure of Ctrl+Sky Stationary is based on a high stable mast installed at the location that is optimal for correct functioning of the system. 
+
+In the stationary version there are applied different camera types depending on the needs of the recipient. There can also be employed the cameras that are already present within a given infrastructure. 
+
+Ctrl+Sky Stationary is also equipped with a box server intended for processing data and managing the whole system, making sure that the data coming from individual sensors is combined. 
+
+The box server can be located within the distance of even up to 100 metres from the mast.
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+                                                        SEE PDF                                                    
+
+
+
+
+
+
+
+                                            PORTABLE SYSTEM                                        
+
+                                            A portable Ctrl+Sky system for detection and neutralisation of drones, installed on a vehicle. It is intended for protecting mass events, borders and other open spaces from improper or criminal use of drones, both during the day and at night, in any weather conditions.
+
+The system ensures the so-called umbrella protection, without any dead zones, and enables efficient detection of even small drones within the distance of even up to 2000 metres, while at the same time minimising the number of false alarms.
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+                                                        SEE PDF                                                    
+
+
+
+
+
+
+
+                                            FLEXIBLE SYSTEM                                        
+
+                                            The portable version is characterised, first of all, by the possibility of quick relocation and quick assembly of the system at the target location. 
+
+Instead of using a mast, the system is installed with the use of a lightweight and functional tripod. Thanks to that, Ctrl+Sky Portable is able to protect selected areas during a specific, limited time, e.g. during special events and gatherings, such as marathons, parades and election rallies. 
+
+Ctrl+Sky Portable is fitted with a so-called “battery pack”, enabling temporary power supply to the system in the event of lack of access to a power grid.
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+                                                        SEE PDF                                                    
+
+
+
+
+
+
+
+                                            JAMMING SYSTEM                                        
+
+                                            The offer of Ctrl+Sky will now include a professional, efficient and advanced jammer manufactured by our partner – HP Marketing & Consulting. 
+
+It enables direct neutralisation of intrusive drones by intercepting them and forcing them to land immediately. The jammer works by jamming the communication channels within the 2400 – 2483.5 MHz and 5725 – 5875 MHz bands and the GPS navigation of drones within the 1559 – 1610 MHz band. The devices that we offer has been fitted with directional antennas with circular polarisation and 3dB beam width of 15 degrees. The jammer works with the output power of 0.5 W for the GPS band and 3 W for the 2.4 and 5.8 GHz bands. 
+
+The efficient range of the jammer is as much as 1000 m. The device is available both in stationary version and in a handy portable version operated similarly to traditional aimed weapons. Both versions enable jamming the radio transmissions between the drone and its operator, as well as jamming the GPS/GLONASS/Galileo signal.
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+2018 TerraHexen. All rights reserved.
+Privacy policy
+
+
+
+Design                    
+Execution                    
+
+
+
+
+
+
+
+
+Offer
+
+
+DRONE HAZARD AUDIT FOR COMPANIES
+INSPECTION DRONES
+UNDERWATER INSPECTION DRONES
+UAV DETECTION SYSTEMS
+UAV NEUTRALISATION SYSTEMS
+TRAININGS OF UAV OPERATORS
+
+News
+Contact
+PLEN 
+
+This page uses cookies to provide the highest quality of service. By continuing to browse this webpage, you consent to the use of cookies and accept our privacy policy.
