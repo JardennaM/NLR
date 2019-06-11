@@ -1,5 +1,9 @@
 accoustic
+<<<<<<< HEAD
 radio frequency (RF) 
+=======
+radio frequency (RF)
+>>>>>>> 219cdc9e39e2ddf594a0e6f53e405c306cfac6bb
 radar
 camera (visual/daylight range)
 camera (infrared)
