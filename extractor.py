@@ -3,6 +3,11 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 from nltk.corpus import wordnet as wn
+import requests
+import urllib.request
+import time
+from bs4 import BeautifulSoup
+from nltk.corpus import wordnet as wn
 from googlesearch import search 
 from nltk import sent_tokenize
 import nltk.data
@@ -10,6 +15,18 @@ import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+
+
+def getPageFromUrl(url):
+	return urllib.request.urlopen(url).read()
+
+def removeScriptAndStyleFromHTML(page):
+	soup = BeautifulSoup(page, 'html')
+	[s.extract() for s in soup('script')]
+	[s.extract() for s in soup('style')]
+	text = soup.get_text()
+	return text.rstrip("\n\r")
+
 
 def flatten(l):
 	flat_list = []
@@ -19,13 +36,19 @@ def flatten(l):
 
 	return flat_list
 
-def extract_sents(txtfile):
+
+def extract_sents(text):
 	"""
 	This function extract the sentences of a txt file and return a list with sentences, 
 	tokenized in words.
+
 	"""
-	with open(txtfile) as f:
-		text = f.read()
+	# for txt file
+
+	#with open(txtfile) as f:
+		#text = f.read()
+
+
 
 	# extract sentences
 	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
@@ -55,19 +78,3 @@ def remove_stopwords_punctuation(sentences):
 
 
 	return new_sents
-
-
-# testing
-txtfile = 'pages/classification/accoustic_5.txt'
-sentences = extract_sents(txtfile)
-
-#sentences = remove_stopwords_punctuation(sentences)
-
-
-for s in sentences:
-	if 'accoustic' in s or 'detection' in s:
-		print(s)
-
-
-
-
