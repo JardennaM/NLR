@@ -18,12 +18,12 @@ termfile = open('terms.txt').readlines()
 def url_to_text(url):
     try:
         file = open('%s.txt'%i, 'w')
-            html = urllib.request.urlopen(url).read()
-            soup = BeautifulSoup(html, parser='lxml')
-            [s.extract() for s in soup('script')]
-            [s.extract() for s in soup('style')]
-            text = soup.get_text()
-            return text
+        html = urllib.request.urlopen(url).read()
+        soup = BeautifulSoup(html, parser='lxml')
+        [s.extract() for s in soup('script')]
+        [s.extract() for s in soup('style')]
+        text = soup.get_text()
+        return text
 
     except:
         print('failed')
@@ -95,7 +95,10 @@ def calculate_co(terms, url):
 
 
 
-with open('accoustic_1.txt') as f:
+with open('../pages/classification/accoustic_4.txt') as f:
     url = f.readline()
-    print(calculate_co(termfile, url))
+    print(url_to_text(url))
+    # print(text_to_vector(url_to_text(url)))
+    # print(calculate_co(termfile, url))
+
 
