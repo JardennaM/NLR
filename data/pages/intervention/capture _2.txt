@@ -1,0 +1,280 @@
+url: https://arxiv.org/abs/1808.09563
+
+
+
+[1808.09563] Autonomous drone cinematographer: Using artistic principles to create smooth, safe, occlusion-free trajectories for aerial filming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate to arXiv
+
+      Please join the Simons Foundation and our
+      generous member organizations
+      in supporting arXiv during our giving campaign. 100% of your contribution will fund
+      improvements and new initiatives to benefit arXiv's global scientific community.
+    
+
+
+
+DONATE
+[secure site, no need to create account]
+
+
+
+
+
+
+
+
+
+We gratefully acknowledge support fromthe Simons Foundation and member institutions.
+
+
+
+
+arXiv.org > cs > arXiv:1808.09563
+
+
+
+
+
+Help | Advanced Search
+
+
+
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Full-text links:
+Download:
+
+PDF
+Other formats
+(license)
+
+
+
+Current browse context:
+cs.RO
+
+
+< prev
+ | 
+
+  
+  
+next >
+
+
+new |
+    recent |
+    1808
+Change to browse by:
+
+cs
+
+cs.AI
+
+
+
+
+References & Citations
+
+NASA ADS
+
+
+
+DBLP - CS Bibliography
+
+listing | bibtex
+
+
+Rogerio BonattiYanfu ZhangSanjiban ChoudhuryWenshan WangSebastian Scherer
+
+
+Bookmark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science > Robotics
+
+
+
+Title:Autonomous drone cinematographer: Using artistic principles to create smooth, safe, occlusion-free trajectories for aerial filming
+Authors:Rogerio Bonatti, Yanfu Zhang, Sanjiban Choudhury, Wenshan Wang, Sebastian Scherer
+
+  
+  
+  
+    
+  
+  
+    
+    
+  
+
+  (Submitted on 28 Aug 2018)
+Abstract:  Autonomous aerial cinematography has the potential to enable automatic
+capture of aesthetically pleasing videos without requiring human intervention,
+empowering individuals with the capability of high-end film studios. Current
+approaches either only handle off-line trajectory generation, or offer
+strategies that reason over short time horizons and simplistic representations
+for obstacles, which result in jerky movement and low real-life applicability.
+In this work we develop a method for aerial filming that is able to trade off
+shot smoothness, occlusion, and cinematography guidelines in a principled
+manner, even under noisy actor predictions. We present a novel algorithm for
+real-time covariant gradient descent that we use to efficiently find the
+desired trajectories by optimizing a set of cost functions. Experimental
+results show that our approach creates attractive shots, avoiding obstacles and
+occlusion 65 times over 1.25 hours of flight time, re-planning at 5 Hz with a
+10 s time horizon. We robustly film human actors, cars and bicycles performing
+different motion among obstacles, using various shot types.
+
+
+
+
+Subjects:
+
+Robotics (cs.RO); Artificial Intelligence (cs.AI)
+
+Cite as:
+arXiv:1808.09563 [cs.RO]
+
+
+ 
+(or 
+arXiv:1808.09563v1 [cs.RO] for this version)
+          
+
+
+
+
+
+
+Submission history From: Rogerio Bonatti [view email]
+      [v1]
+Tue, 28 Aug 2018 22:28:20 UTC (8,737 KB)
+
+
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+      Browse v0.2.1 released 2019-04-18
+  Feedback?
+
+
+
+
+
+
+
+
+
+
+
+
+About arXiv
+Leadership Team
+
+
+
+
+ Contact Us
+ Follow us on Twitter
+
+
+
+
+
+
+
+
+
+
+Help
+Privacy Policy
+
+
+
+
+Blog
+ Subscribe
+
+
+
+
+
+
+
+
+arXiv® is a registered trademark of Cornell University.
+
+
+If you have a disability and are having trouble accessing information on this website or need materials in an alternate format,
+        contact web-accessibility@cornell.edu for assistance.

@@ -1,0 +1,683 @@
+url: https://www.battelle.org/government-offerings/national-security/payloads-platforms-controls/counter-UAS-technologies/dronedefender
+
+      
+Battelle DroneDefender- Counter-UAS Device
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+arrows
+
+arrow-right
+
+arrow-left
+
+menu
+
+search
+
+rss
+
+
+youtube
+
+linkedin
+
+
+twitter
+
+facebook
+
+instagram
+
+arrow-play
+
+
+linkedIn
+
+
+
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. By continuing to browse our
+site without changing your settings, you are agreeing to accept all cookies on the site.
+Continue  Privacy Policy
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+Government Offerings
+
+
+National Security
+
+
+CBRNE Defense
+
+
+Chemical Demilitarization
+
+
+High Hazards RDT&E
+
+
+Threat Assessment
+
+
+Threat Detection & Identification
+
+
+All Offerings
+
+
+
+
+Payloads, Platforms & Controls
+
+
+Anti-icing Technology
+
+
+Armored & Unarmored Commercial Vehicles
+
+
+Autonomy & Advanced Robotics
+
+
+Counter-UAS Technologies
+
+
+Maritime Technologies
+
+
+Missile Defense Systems & Support
+
+
+Tactical Equipment
+
+
+All Offerings
+
+
+
+
+Cyber
+
+
+Mission-Focused Tools
+
+
+Microelectronics Trust and Assurance
+
+
+All Offerings
+
+
+
+
+
+
+Homeland Security & Public Safety
+
+
+Security & Law Enforcement
+
+
+Forensic Genomics
+
+
+
+
+Transportation
+
+
+Aviation Security
+
+
+Transportation Solutions
+
+
+
+
+
+
+Energy & Environment
+
+
+Energy
+
+
+Coatings & Materials
+
+
+Pipeline Integrity
+
+
+Subsurface Resource Management
+
+
+All Offerings
+
+
+
+
+Environment
+
+
+Analytical Chemistry
+
+
+Environmental Restoration
+
+
+Ecology
+
+
+All Offerings
+
+
+
+
+
+
+Health
+
+
+Medical Devices
+
+
+Drug Delivery
+
+
+In Vitro Diagnostics
+
+
+Neurotechnology
+
+
+All Offerings
+
+
+
+
+Preclinical Research
+
+
+Assay Development & Validation
+
+
+High Hazard & Biocontainment Toxicology
+
+
+IND-Enabling Toxicology & Pharmacology
+
+
+
+
+Public Health
+
+
+Health Analytics
+
+
+Military Health
+
+
+Substance Use Research
+
+
+All Offerings
+
+
+
+
+
+
+
+
+Commercial Offerings
+
+
+Agribusiness
+
+
+Bioformulation
+
+
+Biotechnology
+
+
+Conventional Formulation
+
+
+Environmental Fate
+
+
+Physical Chemistry Studies
+
+
+Residue Studies
+
+
+Spray Drift & Droplet Size Characterization
+
+
+All Offerings
+
+
+
+
+Oil & Gas
+
+
+Coatings & Materials
+
+
+
+
+Pipeline Integrity
+
+
+
+
+Subsurface Resource Management
+
+
+All Offerings
+
+
+
+
+Health
+
+
+Medical Devices
+
+
+Human Centric Design
+
+
+Device Security
+
+
+Drug Delivery
+
+
+In Vitro Diagnostics
+
+
+Neurotechnology
+
+
+
+
+Preclinical Research
+
+
+Assay Development & Validation
+
+
+IND-Enabling Toxicology & Pharmacology
+
+
+
+
+
+
+Industry Solutions
+
+
+Advanced Materials
+
+
+
+
+Regulatory Support for Tobacco Products
+
+
+Weld Analysis Software: Battelle Verity®
+
+
+
+
+ThreatSEQ™ DNA Screening Web Service
+
+
+All Offerings
+
+
+
+
+
+
+Lab Management
+
+
+
+
+
+
+
+About UsCareersContract VehiclesDoing Business with UsNewsroomSTEMContact Us
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+DroneDefender® C-UAS Device
+A non-kinetic solution to protect airspace against UAS, without compromising safety or risking collateral damage.
+
+Watch Video
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+Home 
+National Security 
+Payloads, Platforms & Controls 
+Counter-UAS Technologies 
+Battelle DroneDefender® Counter-UAS Device
+
+
+
+ 
+
+Battelle DroneDefender® 
+Counter-UAS Device
+The DroneDefender device is a directed-energy unmanned aircraft system (UAS) countermeasure. It quickly disrupts the adversary's control of the drone, neutralizing it so that no remote action, including detonation, can occur, minimizing drone damage and risk to public safety.
+
+
+
+Introducing the DroneDefender® V2 C-UAS DeviceThe new, improved 2nd generation UAS countermeasure incorporates field feedback and human factors engineering for a fully integrated and portable design.
+
+ 
+
+
+ 
+Applications
+
+While once owned solely by the military, small unmanned aircraft systems (UAS), or drones, are now widely available. With increased availability comes increased risk, especially to government personnel and assets.
+
+Yet, traditional defense mechanisms against UAS, such as shooting them down, are not tenable within the U.S. under current regulations. Other potential solutions pose safety risks and the proliferation of drones overseas demands an effective and easy-to-deploy solution. So how can agencies of the federal government defend against drones and protect what matters most?
+
+Learn more about Battelle's DroneDefender C-UAS device.
+Contact one of our experts today.
+Contact Us
+
+
+Features
+
+The answer is Battelle’s DroneDefender device, which utilizes a non-kinetic solution to defend airspace at ranges of 0 - >400 meters against UAS, such as quadcopters and hexacopters, without compromising safety or risking collateral damage. The easy-to-use, lightweight, point-and-shoot system requires no extensive training.
+
+This innovative system provides instantaneous disruption of unwanted UAS using two different defenses:
+
+
+Remote control drone disruption
+
+
+GPS disruption
+
+
+Successfully tested and demonstrated against drone targets, the DroneDefender device has provided a consistent response in federal government-conducted field demonstrations. The remote control and GPS disruption responses are fast-acting, resulting in instant threat mitigation.
+
+New with V2:
+
+
+Miniaturized electronics fully integrated into the handheld unit for a sleek new look and enhanced simplicity
+
+
+Only two moving parts: the selector and the trigger
+
+
+
+
+Features include:
+
+
+Runs for 2 continuous hours
+
+
+Weighs 15 pounds
+
+
+Multiple antennas
+
+
+Disruption electronics 
+
+
+Battery operated
+
+
+
+Benefits
+
+Protecting what matters most is Battelle’s priority. Unidentified UAS can pose a serious risk to government agencies and officials – military and civilians – but Battelle has a solution. The DroneDefender device couples innovative technology with efficient design for safe. reliable, proven security from airborne threats.
+
+
+Note: This device has not been authorized as required by the rules of the Federal Communications Commission before it can be marketed to non-Federal users. This device is not, and may not be, offered for sale or lease, or sold or leased in the United States, other than to the United States government and its agencies, until authorization is obtained. Under current law, the DroneDefender device may be used in the United States only by authorized employees of the Federal government and its agencies, and use by others may be illegal. Due to Federal regulations, this video is a simulation of the Battelle DroneDefender device. It has, though, been successfully tested and utilized in Federal government-conducted field applications. 
+
+
+
+
+National Security
+
+Counter-UAS Technologies
+
+
+
+Battelle DroneDefender® Counter-UAS Device
+
+
+
+
+
+Brochures
+
+DroneDefender
+Counter-UAS Solutions
+
+
+
+Related Blog Articles
+
+
+Revolutionary, Not Evolutionary
+
+
+
+
+
+
+
+Related News
+
+
+Take me out: creating ‘No-Drone Zones’ around airports 
+
+
+Central Ohio virtual-reality efforts find uses for serious purposes and fun, too 
+
+
+ Industry Team Takes First Place in ThunderDrone Competition 
+
+
+To counter weaponized drones, US needs joint public-private solutions 
+
+
+The year's most important innovations in security 
+
+
+Popular Science Names Battelle’s DroneDefender the 'Best of What’s New' for 2017 
+
+
+Battelle’s Upgraded DroneDefender® C-UAS Device Among Technologies Featured at Association of United States Army (AUSA) Show 
+
+
+New Design and Function Announced for Battelle DroneDefender® Counter-UAS Device 
+
+
+Battelle’s DroneDefender™ Joins Forces with Dedrone 
+
+
+Battelle’s DroneDefender™ Impresses at Annual Black Dart Event 
+
+
+Battelle for Sky, Sea & Rough Terrain, Featured at SOFIC (Video) 
+
+
+Battelle Technologies at SOFIC Stop Drones in the Sky, Lurk Beneath the Waves and Tackle Rough Terrain 
+
+
+ISIS counter drone warfare fight resembles 1984 video game technology 
+
+
+New Ohio-developed tool aims to stop rogue drones 
+
+
+Got a drone problem? Call the drone busters. 
+
+
+
+
+Featured Videos
+
+
+
+
+
+
+
+
+
+
+
+Battelle DroneDefender® V2 Counter-UAS Device
+
+
+
+
+
+
+
+Battelle DroneDefender used in Army Training Exercise (DVIDS B-roll) 
+
+
+
+
+
+
+
+Battelle Manufacturing Overview Video
+
+
+
+
+More Videos 
+
+
+
+
+
+
+ 
+
+
+CONTACT US
+
+Email Us
+Phone: 1.800.201.2011
+Events
+
+
+
+ABOUT BATTELLE
+
+Careers
+Leadership
+Our Vision, Mission & Values
+
+
+
+NEWSROOM
+
+Inside Battelle Blog
+In the News
+Press Releases
+
+
+
+FOLLOW US
+
+
+
+
+
+Battelle and its logos are registered trademarks of Battelle Memorial Institute.
+© Battelle Memorial Institute 2018. All Rights Reserved.
+
+
+Privacy PolicyDisclosuresTerms of UseSitemapRSS Feed
+
+
+    
+
+ 
+
+ 

@@ -1,0 +1,622 @@
+url: https://www.fhr.fraunhofer.de/en/businessunits/security/Detection-of-small-drones-with-millimeter-wave-radar.html
+
+
+
+
+
+
+Detection of small drones with millimeter wave radar  -  Fraunhofer FHR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+                        Fraunhofer Institute for High Frequency Physics and Radar Techniques FHR
+
+
+
+
+
+
+                    Fraunhofer Institute for High Frequency Physics and Radar Techniques FHR
+
+
+
+Fraunhofer Society
+
+
+
+
+Newsletter subscription
+Publications
+Sitemap
+Contact
+Deutsch
+
+
+
+
+
+
+
+
+The Institute
+
+[X]
+The Institute
+
+
+Organization
+
+
+Advisory Board
+
+Facts and Figures
+
+History of the Institute
+
+Groups and Alliances
+
+
+
+Core Competencies
+
+
+Electromagnetic fields
+
+
+Modeling of complex electromagnetic scenarios
+
+Propagation of electromagnetic waves in the atmosphere
+
+SARABAND – antenna technology for broadband communication
+
+Future-Oriented Metamaterials Technology
+
+
+
+High frequency systems
+
+
+Interview Prof. Dr. Pohl
+
+300-GHz SAR measurements of streets and facades
+
+High-Resolution 240-GHZ Radar with SiGe Chip
+
+
+
+Signal processing and imaging
+
+Cognitive Radar and Classification
+
+
+A short chirp
+
+
+
+Space radar
+
+
+
+Technical Equipment
+
+
+Space observation radar TIRA
+
+
+A new cover for the space observation radar TIRA
+
+
+
+Measuring equipment
+
+Experimental systems and test systems (selection)
+
+Carrier platforms
+
+Circuit board design and production
+
+Chip technology
+
+Ultra-high frequency technology
+
+Rapid prototyping
+
+Precision mechanical workshop
+
+
+
+Contact
+
+Research groups at universities
+
+
+Research Group Aachen
+
+Research Group Integrated Radar Sensors
+
+Working Group »High Frequency Sensors and Radar Techniques« 
+
+
+
+
+
+
+Business Units
+
+[X]
+Business Units
+
+
+Defense
+
+
+DVB-S2-based passive radar imaging
+
+Active protection system with  millimeter wave radar
+
+Airborne multifunction radar of  the next generation 
+
+Passive radar on mobile platforms
+
+Adaptive perception: trailblazer for cognitive radar
+
+Influence of wind turbines on military radar
+
+Knowledge-based moving target indication
+
+Moving target detection with compressed sensing
+
+Serving the Fraunhofer idea
+
+
+
+Space
+
+
+Surveillance of near-earth space with a radar network
+
+Characterization of the small-size space debris population with TIRA 
+
+Cryogenic phased array radars for space surveillance
+
+Space observation with GESTRA
+
+Long-term analysis of the attitude motion of the defunct ENVISAT
+
+
+
+Security
+
+
+Drone detection with  micro-doppler analysis
+
+RAWIS protects rescuers during  emergencies 
+
+Detection of small drones with millimeter wave radar 
+
+3D environment monitoring with MIMO radar camera
+
+
+
+Traffic
+
+
+Antenna development for an  innovative sea rescue system
+
+Demonstration of a solid-state  radar for maritime navigation
+
+Maritime radar with electronically controlled array antenna
+
+Electromagnetic investigation of antennas on platforms
+
+Antenna development for the automotive sector
+
+Cognitive automotive radar 	
+
+Reliable Qualification of Automibile Radars
+
+
+
+Production
+
+
+Width determination of steel strips in the rolling process – radar systems for industrial applications
+
+3D RADAR IMAGES FOR TRANSMISSIVE  INSPECTION OF OBJECTS
+
+Identification with millimeter wave tags 
+
+Integrated radar systems for machine tools
+
+
+
+Human and Environment
+
+
+COLORS: another step towards bird protection in wind farms 
+
+UWB Radar for the detection of  fungal infestation in vines
+
+Needs-Based Warning Lights on Wind Turbines
+
+
+
+
+
+
+Careers
+
+[X]
+Careers
+
+
+Working Environment
+
+Doctoral studies at FHR
+
+
+»Incredibly exciting«
+
+Interview Dr. González
+
+
+
+For Students
+
+Tips for Applicants
+
+Vacancies
+
+
+
+
+Press / Media
+
+[X]
+Press / Media
+
+
+Press Releases
+
+Annual Reports and Brochures
+
+Publications
+
+
+Publications 2017
+
+Publications 2017
+
+Publications 2017
+
+Publications 2016
+
+Publications 2016
+
+Publications 2016
+
+Publications 2015
+
+Publications 2014
+
+Publications 2013
+
+Publications 2012
+
+Publications 2011
+
+Publications 2010
+
+ Publications 2018
+
+ Publications 2018
+
+ Publications 2018
+
+
+
+
+
+
+Events
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where am I?
+
+
+
+Homepage
+Business Units
+Security
+Detection of small drones with millimeter wave radar 
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+DETECTION OF SMALL DRONES WITH MILLIMETER WAVE RADAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       © Fraunhofer FHR
+Live tracking of three multicopters with the SSRS system in a measurement range of 50 to 150 m and the measured target parameters.
+
+
+
+
+
+
+
+
+
+
+
+                       © Fraunhofer FHR
+Four-channel MuRPS (Multi Channel Radar for Perimeter Surveillance) with quadcopter in the background. Angle offset is determined using the monopulse technique.
+
+
+
+
+
+
+
+
+
+
+
+                       © Fraunhofer FHR
+Mechanical scanning SSRS (Scanning Surveillance Radar System) with optical camera. The rotating sensor scans with a small aperture angle of 1.8° in azimuth.
+
+
+
+The trend of using small drones to execute a wide variety of tasks has increased over the last years. Similar to any other technology, this particular technology creates mixed feelings with regard to how it is ultimately used. The detection of unwanted drones places heavy demands on sensor systems.
+Radar systems in the millimeter wave range are ideal for surveillance tasks in the immediate environment, particularly when visibility is poor. In comparison to the optical and IR spectrum, millimeter waves have good penetration characteristics in the presence of fog, smoke or dust. Moreover, radars are active sensors that operate independently of external lighting and the time of day. Their large bandwidths allow high, distance-independent resolution, which not only facilitates the detection and tracking of moving objects but also their classification. Hence, the systems are well suited for the tracking of air drones: the skyward alignment of the sensor and the associated reduction in disturbing clutter also facilitates the detection of smaller unmanned aircraft systems (UAS). These include the multicopters, ranging from bi/tricopters with a very low load capacity and quad/hexacopters to octocopters with a payload of 10 kg and more. The growing popularity of these aircraft, which can also be purchased by private individuals, causes growing problems in air traffic and entails considerable risk potential as utilization for criminal or terrorist purposes cannot be excluded.
+From a radar perspective, the small drones can be characterized with regard to their radar backscatter cross section (RCS). The smallest nano UAS have an RCS of less than 0.01 m². These, however, do not pose a great threat. Drones with an RCS from 0.01 m² or 0.1 m² upwards (based on a reference frequency of 10 GHz) – these are known as micro or mini UAS – are more relevant are easier to detect with radar. A high-precision analysis of the Doppler spectrum also allows a distinction to be made with regard to the number of rotors and the rotor type thus facilitating the determination of the drone class.
+In test measurements using mini and micro UAS (quad and hexacopter), the MHS department investigated the capabilities of the existing millimeter wave radars (Multi Channel Radar for Perimeter Surveillance) and SSRS (Scanning Surveillance Radar System) in terms of their ability to detect and track small drones. Both sensors use the FMCW principle (Frequency Modulated Continuous Wave) with a medium frequency of 94 GHz and an output power of 100 mW. A radar bandwidth of up to 1 GHz allows a range resolution of 15 cm. The system was designed with a view to achieving the highest possible levels of mobility and flexibility. This applies in particular for the low power requirements; the 12-volt connection in a car is sufficient to operate the system. Figure 2 shows the mechanically constrained four-channel MuRPS system, where the angle offset in azimuth and elevation is determined using the monopulse technique. The front end has dimensions of 200 x 180 x 230 mm3 and weighs approx. 3 kg. The SSRS is a rotating sensor which scans with a small aperture angle of 1. 8° in azimuth. Offset in elevation is not possible at the present time. The front end of the radar, including an optical camera, is shown in Figure 3. The dimensions are 265 x 265 x 100 mm3 and the weight approx. 4.5 kg.
+The sensors, which were originally designed as active protection systems or for military camp protection, were only modified slightly for the new measurement task. The evaluation of the data revealed that the systems are ideally suitable for the detection and precise location of several drones of both classes (micro and mini UAS) at close range. In addition, the SSRS system offers live tracking for up to four UAS, as the corresponding software algorithms and the required interfaces already exist. Figure 1 shows an SSRS measurement: the simultaneous live tracking of three multicopters in a measurement range of 50 to 150 m together with the measured target parameters.
+The good results reveal that the further development of the sensors for the purpose of detecting small drones is very much worthwhile. Improvement potential does exist, particularly in the area of signal processing, e.g. localization and classification of objects. An increase of the output power (to a realistic value of 1 W) can also significantly extend the coverage area of the radar systems. Finally, elevation resolution for the SSRS system is an essential requirement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Links:
+
+
+
+Drone detection with  micro-doppler analysis
+RAWIS protects rescuers during  emergencies 
+3D environment monitoring with MIMO radar camera
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+Contact Press / Media
+
+
+                Dr. rer. nat. Michael Caris
+Team Leader Millimeter Wave Radar | Department Ultra High Frequency Radar and Applications
+
+                Fraunhofer Institute for High Frequency Physics and Radar Techniques FHRFraunhoferstraße 2053343 Wachtberg, Germany
+
+                Phone +49 228 9435-353
+
+                Fax +49 228 9435-608
+
+
+Send email
+michael.caris@fhr.fraunhofer.de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation and Social Media
+
+
+
+
+
+Share
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+Quick Links
+
+
+
+
+The Institute
+
+Business Units
+
+Careers
+
+Press / Media
+
+Events
+
+
+
+
+
+Related Links
+
+
+
+Fraunhofer Group for Defense and Security
+Fraunhofer Group for Microelectronics
+Fraunhofer Vision Alliance 
+Fraunhofer Space Alliance
+
+
+Choose
+
+
+
+
+
+
+Fraunhofer Society
+
+
+
+
+
+
+
+
+Contact
+
+Imprint
+
+Data Protection
+
+
+
+
+© 2019 
+
+
+
+
+Fraunhofer Institute for High Frequency Physics and Radar Techniques FHR
+Online in Internet; URL: https://www.fhr.fraunhofer.de/en/businessunits/security/Detection-of-small-drones-with-millimeter-wave-radar.html
+Date: 11.6.2019 09:14

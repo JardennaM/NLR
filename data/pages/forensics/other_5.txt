@@ -1,0 +1,425 @@
+url: https://accessdata.com/blog/the-emerging-world-of-drone-forensics-extracting-data-from-an-unmanned-aeri
+
+
+
+
+
+
+
+
+
+The Emerging World of Drone Forensics: Extracting Data from an Unmanned Aerial Vehicle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products & Services
+
+
+Forensic Toolkit (FTK)
+AD Lab
+AD eDiscovery
+AD Enterprise
+AD Triage
+Quin-C
+
+Cerberus
+Summation
+Mobile Solutions
+Professional Services
+
+AD Cloud Solutions
+
+Product Downloads
+
+
+
+Industries
+
+
+Corporation
+Public Sector
+Law Firm
+International
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Blog/Press Releases
+Events & Webinars
+Knowledge Library 
+Case Studies, White Papers, Videos, Ebooks, Infographics
+
+Contact Support
+Support Portal
+
+
+
+Training
+
+Partners
+
+
+Partner Home
+Partner Directory
+Technology Partners
+Partner Application
+
+
+
+About
+
+
+Who We Are
+Our Leadership
+Join Our Team
+Contact Support
+Support Portal
+Contact Us
+Connect on Social Media
+Manage Your Email Preferences
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Live Support Chat
+                                        
+
+ Sales +1 800 574 5199
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTACT US SUPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products & Services
+
+Forensic Toolkit (FTK)
+
+
+AD Lab
+AD eDiscovery
+AD Enterprise
+AD Triage
+Quin-C
+
+
+Cerberus
+Summation
+Mobile Solutions
+Professional Services
+
+AD Cloud Solutions
+
+Product Downloads
+
+
+Industries
+
+Corporation
+Public Sector
+Law Firm
+International
+
+
+Customer Stories
+Resources
+
+Blog/Press Releases
+Events & Webinars
+
+Knowledge Library
+                                                            Case Studies, White Papers, Videos, Ebooks, Infographics
+
+
+Contact Support
+Support Portal
+
+
+Training
+Partners
+
+Partner Home
+Partner Directory
+Technology Partners
+Partner Application
+
+
+About
+
+Who We Are
+Our Leadership
+Join Our Team
+Contact Support
+Support Portal
+Contact Us
+Connect on Social Media
+Manage Your Email Preferences
+
+
+
+
+
+
+
+
+
+
+BLOG
+
+
+
+
+
+Top
+
+
+
+Home
+Blog/Press Releases
+Current: The Emerging World of Drone Forensics: Extracting Data from an Unmanned Aerial Vehicle
+
+
+
+
+
+The Emerging World of Drone Forensics: Extracting Data from an Unmanned Aerial Vehicle
+Rob Attoe
+Sep 25 2018
+
+
+Unmanned Aerial Vehicles — better known as Drones — have been a hot topic of conversation in recent years, everywhere from military strategy meetings and corporate boardrooms to holiday gift lists. They have been deployed to fire missiles, deliver packages and take pictures of birthday parties.
+Their rate of adoption has been climbing steadily for the past three years — from roughly 32,800 in the U.S. in 2016 to 196,000 this year — and this rate is projected to ramp up even faster in the next two years. The Federal Aviation Administration estimates there will be more than 500,000 drones in use in the U.S. by 2020.
+Unfortunately, they are also becoming increasingly prevalent in the criminal world. The risk of drones being used in terror attacks is real and ominous. In some prisons, drones have been spotted delivering cell phones and dropping other contraband over prison walls. Earlier this year, a U.S. citizen was sentenced to 12 years in prison for using a drone to smuggle methamphetamine from Mexico into San Diego. And drones have been used to conduct targeted attacks on Wi-Fi and mobile data networks in the U.S.
+Digital forensics investigators have an important role to play in assisting law enforcement agencies when it comes to the emerging world of drone forensics. When a drone is captured, investigators need to extract data from these complex technological devices so they can develop a trail of clues that might lead them to a suspect.
+For example, if a drone is found on the front yard of a penitentiary, investigators will spring into action to try to determine who owns it, how it got there, where it was before crashing, where it was going and what was its purpose. Forensics professionals may be their best hope for extracting and analyzing the crucial data inside the device that can help the investigation answer those kinds of questions.
+As with other emergent devices that we’ve been forced to master for this purpose, there are many types of drones and a number of technical factors that can make data extraction very tricky. Here are the four key stages of drone forensics to try to get to the extraction objective:
+
+Collection Considerations (Apple, Android or a bespoke operating system?)
+Physical Device Collections (memory card accessibility, internal memory?)
+File System Extraction (mounted volumes?)
+Files (logical file data)
+
+The good news for forensics professionals is that using AccessData technology, data can be extracted from the drone and then used in FTK® to perform a comprehensive investigation.
+Once the drone’s key data files have been collected, forensics professionals can begin their analysis. Look for data storage media that will provide insights into aircraft operating software, an internal flash memory containing flight logs, and an external SD card for images and videos taken during the drone flights. If you locate memory cards with these types of files, you can employ traditional digital forensics techniques to image the media and help investigators review its content. Also, look for batteries associated with the drones, as they may yield useful information — such as serial numbers — to help trace the device to its origins.
+These are some of the topics that we will cover in a special AccessData webinar on Friday, September 28th. The program, the latest instalment of AccessData’s “Supercharge Fridays” webinar series, will introduce digital forensics professionals to the world of drone forensics and offer insights into the types of evidence that examiners are likely to encounter. Industry professionals who attend the webinar may be eligible for 1 CPE credit.
+I hope you will join us for this cutting-edge program. We will be reviewing how drones are used in criminal activates and explore the types of data that can be collected from the aircraft and associated controller applications. To register for the webinar, please click here.
+ 
+# # #
+About the Author:
+Rob Attoe is chief executive officer of Spyder Forensics, a leading digital forensics services company that advises, designs, builds and delivers training to the forensics community. Mr. Attoe has two decades of experience delivering forensics training programs to state and local law enforcement agencies.
+
+
+
+
+
+
+
+
+
+
+
+Contact Us >>
+Request a Demo >>
+Get Trained >>
+Submit GDPR Request >>
+MANAGE YOUR EMAIL PREFERENCES >>
+
+Connect on Social Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter Feed
+1h:Get a quick scoop on Quin-C during an ice cream social! We will bring a full sundae bar to you, on the day and time… twitter.com/i/web/status/1…
+7 Jun:Happy National Donut Day! Today is the day you can celebrate all things sweet & tempting, including our new Trainin… twitter.com/i/web/status/1…
+5 Jun:Train your system to look for specific individuals or find objects within images in the 7.1 release of FTK® and AD… twitter.com/i/web/status/1…
+
+
+
+
+
+Contact us today to learn more about our products and our 
+approach to improving how you collect, analyze and use data. 
+
+Tell Me More
+
+
+
+
+CONNECT WITH US
+
+
+Connect on LinkedIn
+Find Us on Facebook
+Follow Us on Twitter
+Watch Us on YouTube
+
+
+KEEP UP TO DATE WITH ACCESSDATA
+Sign Up
+
+
+
+PRODUCTS
+Digital Forensics Products
+
+Forensic Toolkit (FTK)®
+AD Triage
+Quin-C
+Cerberus
+AD Lab
+AD Enterprise
+Mobile Solutions
+
+ 
+E-Discovery Products
+
+AD eDiscovery®
+Summation®
+
+
+
+
+QUICK LINKS
+
+Blog
+Knowledge Library
+Training
+Contact Support
+Support Portal
+Product Download
+Privacy Statement
+Terms & Conditions
+
+
+
+
+CONTACT
+
+
+
+
+
+Corporate Headquarters
+Sterling, VA
+United Kingdom Office
+Frankfurt Office
+Dubai Office
+
+
+
+
+Corporate Headquarters 
+603 E. Timpanogos Circle
+Building H
+Orem, UT 84097
+Main: 801.377.5410
+
+
+Sterling, VA 
+21400 Ridgetop Circle 
+Suite 101 
+Sterling, VA 20166-6511 
+Main: 801.377.5410
+
+
+United Kingdom Office 
+1 Northumberland Ave 
+London, WC2N 5BW 
+UK
++44 20 78569500
+
+
+Frankfurt Office 
+Taunustor 1
+60310 Frankfurt am Main
++49 69 5050604369
+
+
+Dubai Office 
+2201 Indigo Icon Tower 
+Jumeirah Lake Towers – JLT 
+Dubai 
+UAE 
+O: +971 4 422 1791
+
+
+
+
+
+
+
+© Copyright 2019 AccessData

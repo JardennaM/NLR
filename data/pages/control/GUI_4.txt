@@ -1,0 +1,369 @@
+url: http://mindworks.shoutwiki.com/wiki/Drone_Mission_Planning_Software
+
+
+
+
+Drone Mission Planning Software - Mindworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Drone Mission Planning Software 
+From Mindworks 
+ Jump to navigation
+Jump to search
+Drone Mission Planning Software is a project to design and develop a graphical user interface for drone mission/flight planning. The goal is to be able to upload a flight plan, created using a graphical user interface on a computer, using XBee hardware modules (connected to the source computer and another attached to a drone) and XAPI.
+
+
+
+
+
+
+
+
+
+Drone as of Spring 2015
+
+
+Team Name
+
+Mission Control
+
+
+Sponsor
+
+Dr. Rinker
+
+
+Mentor
+
+Brandon Ortiz
+
+
+Duration
+
+Fall 2014 - Spring 2015
+
+
+
+Contents
+
+1 Problem Definition
+
+1.1 Background
+1.2 Deliverables
+1.3 Specifications
+
+
+2 Project Design
+
+2.1 Drone
+2.2 Test Flights
+2.3 XAPI
+2.4 Communications
+2.5 Graphical User Interface
+2.6 Instrument Panel
+
+
+3 Team Information
+4 Document Archive
+
+
+Problem Definition
+To design and develop a graphical user interface for drone mission/flight planning. The graphical user interface needs to allow 3-dimensional presentation in a user-friendly manner. The software also needs to monitor underway missions. This includes updating way points, aborting flights, allowing manual override. Our goal is develop this software in order for it to be expanded by future plugins.
+
+Background
+This project began with the work of a group of University of Idaho Freshman attempting to implement Brandon Ortiz's XAPI micro-controller service manager in order to send commands remotely to a drone. Upon starting our work, we were tasked with needing to modify the current drone in order to produce stable flight and build upon the previously built chat program used to send messages from a computer over a serial connection. 
+
+Deliverables
+Stable drone design and documentation
+Defined XAPI command structure for drone command processing
+A graphical user interface for mission planning
+Specifications
+
+
+Category
+Requirement
+
+
+Quadcopter
+
+Re-designed to allow for stable/reliable flight
+
+
+Quadcopter
+
+Modified to take commands from on-board Arduino
+
+
+Communication
+
+Communication system built to allow two Arduino boards to communicate using XBee modules
+
+
+Communication
+
+Defined communication protocol for remote drone command using the XAPI
+
+
+Software
+
+Create a graphical user interface that is user-friendly and allows a user to create/upload a flight plan to a drone
+
+
+Project Design
+Drone
+The drone design's major requirement that needed to be met was to achieve stable and reliable flight.
+By analyzing the drone, it was determined that its center of gravity was not directly centered on the drone, which resulted in drifting during flight. To remedy this issue, a "part holder" was designed to be mounted on the underside of the drone to hold all the motor controls, which moved the center of gravity to the center of the drone.
+
+After further refinement, a series of drone parts were created and 3D printed. Some of these parts include micro-controller mounts, landing struts, a revised parts bin, and battery holders. The following is a PDF document with the most up-to-date part drawings.
+File:2014 DroneMissionPlanningSoftware drawings v1.pdf
+
+Test Flights
+After integrating an auto pilot system into the drone's Arduino firmware, we were able to do our first test flight with the auto pilot system. The video shows manual flight at first and then at 0:23 the auto pilot is activated in which the drone tries to set itself at a 90 degree heading.
+
+
+XAPI
+To satisfy one of our major requirements, we run the XAPI on each Arduino in the communications system. 
+XAPI (developed by Brandon Ortiz) is, put simply, a micro-controller service manager that communicates, both internally and externally, using TUN packets. When communicating externally, the XAPI ships the TUN packet using the XBee hardware by embedding the TUN packet in a XBee packet. 
+Each service available with the API use XAPI to communicate, using XAPI as the core that each service "latches" to. For instance, if a chat service wanted to display a message on a attached LCD screen, the following steps would be carried out:
+
+Chat service creates a LOCAL LCD TUN packet
+Chat service passes the newly created packet to the XAPI core
+XAPI places the packet in its internal packet buffer
+The LCD service latch queries XAPI for any packets designated for the LCD service
+LCD service grabs LOCAL LCD TUN packet
+LCD service processes and displays the packet
+To satisfy our project's requirements, we need to design a Flight Control service that will be able to handle any instruction packets and translate them to instructions that can be given to the drone's 
+ight computer. In addition to this, there is a requirement for a Mission Plan service that will store and execute flight plan's designed by the user and sent to the drone.
+
+Communications
+Our communications system, as depicted in the graphic below, requires two-way communication between the computer (including the attached Arduino) and the Arduino located on the drone. This system will take an instruction created on the computer, send it over serial to the connected Arduino, pass it to XAPI, XAPI will ship it over XBee to the Arduino on the drone, and a flight control service will execute the instruction.
+
+With the communications model in place, we also developed a installation protocol for sending a mission plan from the home Arduino to the Arduino on the drone. The protocol uses a ACK/NACK system that will wait for a ACK after sending a mission plan packet. This allows us to ensure that we are not flooding the receiver Arduino, the order of instructions is maintained, and can verify the integrity of the data by using a checksum value with the end install packet. The following is a diagram to depict this process:
+
+
+Graphical User Interface
+The graphical user interface must satisfy several requirements:
+
+Must be user-friendly
+Allow 3-dimensional mission planning
+Allow upload of flight plan to drone
+Allow manual override
+
+Given these requirements we were able to design a general design for the graphical user interface (GUI), as shown on the right. This GUI is split into several sections that convey different information, that in some cases can be adjusted.
+
+Light-blue: Flight control section, shows drone component status, manual override
+Yellow: Readings from on-board instruments
+Light-red: Mechanism to develop flight plan
+Light-green: Communications terminal to see all sent and received packets
+
+The following is the first version of the Mission Planning software GUI (left image) alongside the Manual Control panel (right image).
+
+
+
+
+
+
+Instrument Panel
+During flight the drone reports on data relevant to its position, attitude, and heading. This data is presented to the viewer using the instrument panel and coordinate mapping system. 
+The current state of the instrument panel is displayed in the image below. The top window provides the pitch and roll of the drone. This is the side to side tilt of the aircraft. The pitch is the front to back tilt of the aircraft. When the Arduino is connect to the computer via serial, the instrument panel will update based on the Ardunio's orientation.
+
+
+Team Information
+
+
+
+
+Name
+Bio
+Discipline
+
+
+Taylor Trabun
+
+Taylor is a senior in Computer Science focusing on information assurance.
+
+CS
+
+
+David Klingenberg
+
+David is a senior in Computer Science focused on embedded systems and wireless communications.
+
+CS
+
+
+Joseph Higley
+
+Joseph is a senior in Computer Science.
+
+CS
+
+
+Emeth Thompson
+
+Emeth is a senior in Computer Science.
+
+CS
+
+
+Document Archive
+Initial Client Interview Transcript:
+File:2014 DroneMissionPlanningSoftware initClientTranscript.pdf
+Detailed Design Review:
+File:2014 DroneMissionPlanningSoftware detailedDesignReview.pdf
+EXPO Poster
+File:Drone Mission EXPO Poster sp 2015.pdf
+EXPO Presentation
+File:ExpoFinalPresentation.pdf
+
+
+
+
+ 
+						Retrieved from "http://mindworks.shoutwiki.com/w/index.php?title=Drone_Mission_Planning_Software&oldid=23116"					
+ 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+PageDiscussion 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+ReadView sourceView history 
+
+
+
+More
+
+
+Report a problem 
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HomeUpcoming EventsRandom page 
+
+
+
+Capstone Design
+
+
+By year 
+
+
+
+Editing Resources
+
+
+TutorialGeneral InformationDevelopers' BulletinFAQHelp ContentsList of all pagesCheat sheetWiki Template 
+
+
+
+Admin tools
+
+
+Recent changesAdmin PageProblem ReportsCapstone TemplatePage feedback guidelines 
+
+
+
+Tools
+
+
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information 
+
+
+
+ShoutWiki messages
+
+ShoutWiki Home
+Create a wikiShoutWiki forum
+ 
+
+
+
+
+
+
+
+
+
+
+ This page was last edited on 8 November 2016, at 22:34.
+Content is available under Creative Commons Attribution-Share Alike 3.0 unless otherwise noted.
+
+
+Privacy policy
+About Mindworks
+Terms of use
+
+
+
+ 
+
+ 

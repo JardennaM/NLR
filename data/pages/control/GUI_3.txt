@@ -1,0 +1,443 @@
+url: https://blog.dronetrest.com/flight-controller-firmware/
+
+
+
+
+
+
+Complete List of Flight Controller Firmware Projects – DroneTrest Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+Search
+
+Reviews
+Tutorials
+
+All Tutorials
+How To Get Started With FPV
+How To Connect Gear
+
+
+Buying Guides
+Interesting
+🛩 Forums
+🙋 Start Here
+Search
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+Reviews
+Tutorials
+
+All Tutorials
+How To Get Started With FPV
+How To Connect Gear
+
+
+Buying Guides
+Interesting
+🛩 Forums
+🙋 Start Here
+
+
+
+
+
+
+
+ 
+
+
+
+
+Posted
+in
+
+
+
+Interesting
+
+
+
+Complete List of Flight Controller Firmware Projects
+
+
+
+Postedby Alex
+
+
+March 2, 2018
+
+
+
+
+			
+			0 Comments
+			
+				
+
+
+
+
+
+There are loads of different flight controller projects out there. Each usually focus on some specific hardware, technology or aims. In this article, we have composed a master list of all of the flight controller firmware and software out there, along with a few comments about each of them. This will help you get a good picture of what is available so you can make up your mind about which you want to use or get involved in.
+
+
+
+In this article
+
+Full Autopilot ProjectsArdupilotWho should you use it?PX4 Flight StackWhy should you use it?iNavWhy should you use it?LibrePilotWhy should you use it?PaparazziWhy should you use it?FPV and Racing ProjectsBetaFlightWhy should you use it?CleanFlightWhy should you use it?dRoninWhy should you use it?KISSWhy should you use it?RaceFlightWhy should you use it?Outdated/inactive projectsMultiWiiBaseflightTauLabsOpenPilotAny more?
+Full Autopilot Projects
+
+This section covers the firmware that is capable of full autonomous flight. These projects have a focus on this level of autonomy, but you can still use it for FPV flying, or even FPV racing if you wanted to.
+Ardupilot
+
+Ardupilot is probably the most popular drone autopilot software. It has been around since the beginning and has an active development community. The software can control just about any vehicle, both fixed-wing planes, quadcopters and everything between including hybrids, ground rovers and boats. The firmware is divided into three branches: Ardupilot for fixed-wing aircraft, Arducopter for multirotors and helicopters, and Ardurover for ground-based vehicles.
+
+Ardupilot project homepage
+
+Who should you use it?
+If you want to have a fully featured autopilot system with 3D waypoint navigation, and a wide range of hardware and software support ardupilot is the best one out there. It also has the largest developer community and is used on many commercial systems.
+PX4 Flight Stack
+
+The PX4 flight stack is another powerful, fully featured autopilot.   This project supports multiple vehicle types, also has an active developer community.  The most famous platform that runs the PX4 flight stack is some of the drones from Yuneec.
+On the surface you can consider PX4 flight stack to be similar to ardupilot as there is alot of hardware that can run either PX4 or Ardupilot firmware.  Similarly, since both systems use the same telemetry protocol (MAVlink) alot of software is also compatible with both such as Qgroundcontol.  It is only when you get to very specific functions you may notice some variations betwen the two projects.  However in terms of core autonomous functions PX4 and Ardupilot are very similar.
+
+
+
+
+
+Why should you use it?
+There are many discussions between PX4 and Ardupilot to compare which one is better.  I will not discuss that here as these are all a matter of opinion.   However, the key differentiation is with the software license. PX4 uses BSD while ArduPilot uses GPL.  This makes PX4 more attractive for commercial use since you dont need to make your modifications open source.  With ardupilot, any changes need to be shared as open source.  So if you plan to develop some special function that you want to keep private or sell, PX4 is the way to go.  This is why PX4 is more attractive for business use.
+
+iNav
+
+iNav is essentially a fork of Betaflight that focuses on adding autonomous drone functions rather than FPV racing features. This lets the software fly your drone to waypoints, or return home all on its own. This firmware supports most of the FPV racing flight controllers (that are much cheaper to buy than ardupilot boards). iNav also supports both multi-rotors and fixed-wing aircraft.
+
+Inav project homepage
+
+Why should you use it?
+If you already have a FPV racing flight controller (such as the SPF3) and want to have full automomous control with an easy to use/ familiar cleanflight style GUI, iNav is a great option.
+LibrePilot
+
+
+
+LibrePilot aims to be a general flight autopilot that supports both fixed and rotor wing aircraft. The GUI is an excellent piece of software. The firmware itself is also solid and great to work with and on, The only downside is that there are not as many features as arudpilot, but this is mainly because this project is not as popular so has fewer developers in the community.
+
+Librepilot project homepage
+
+Librepilot was forked from OpenPilot
+Why should you use it?
+If you want to run a powerfull, but cheap autopilot platform (running CC3D boards or similiar), librepilot is a great option for you.
+Paparazzi
+
+Paparazzi was the first truly open source firmware to control drones. It has not received as much adoption as other projects because it is quite technical. Also, alot of the hardware is not widely available, or fully open source which is a shame. However, this firmware is still actively developed and mainly used by universities.
+
+Paparazzi project homepage
+
+Why should you use it?
+The paparazzi firmware has been around for a long time (since 2003) and is constantly being improved. One could argue that this has some of the most advanced features out of the box. The only real downside is the lack of easy to obtain hardware, and the fact you need to be quite technical to work with paparrazi (as it only runs on Linux for now)
+FPV and Racing Projects
+These projects are dedicated to FPV and FPV racing, they have modes and features dedicated to squesing the extra performance out of your motors to make your aircraft as agile as possible.
+BetaFlight
+
+BetaFlight is currently the most popular FPV firmware and is considered to be on the cutting edge of FPV flight controllers. Primarily used for quadcopters, it also has support for fixed wing FPV planes. Although you could use any of the full autopilot projects to power your FPV quad, betaflight developers are focused on getting the most speed and performance out of your flight controller and quadcopter, with things like reading sensor data at 32Khz and sending updates to the motor at the same insanely fast rate. Betaflight might not be able to fly your drone for you, but it will give you the best feel and peformance for FPV flying!
+
+Betaflight project homepage
+
+Betaflight was forked from Cleanflight
+Why should you use it?
+Right now, it is the best FPV firmware. It supports a load of flight controllers, and has an impressive list of compability with advanced FPV features like OSD control, VTx control, Blheli Dshot. So at the time of this article, if you want to fly FPV, then run betaflight firmware on your FC (if it is supported)
+CleanFlight
+
+CleanFlight was built from baseflight, but with the focus on making the code easy to work with and maintain. This quickly gained popularity and was the most popular firmware until betaflight came along. Recently Cleanflight has merged back with Betaflight (since v2.0) to bring it back up to date with all the cutting edge features the Betaflight developers have added.
+
+Cleanflight project homepage
+
+Cleanflight was forked from BaseFlight
+Why should you use it?
+If you are running one of the official SPracing flight controllers its best to use cleanflight. But in general at the time of this article I suggest you just run betaflight for your FPV quad (assuming your board is supported by betaflight). This is beacuse betaflight is upgaded more regularly.
+dRonin
+
+Another fork from openpilot, DRonin has a core focus on FPV racing using the openpilot firmware. The novel feature of dRonin is their autotune program. This will automatically fine tune the settings on your flight controller for your quad to give you the best response from your quadcopter. However, many of the other FPV specific features that come with Betaflight.
+
+dRonin project homepage
+
+Why should you use it?
+If you want a sophisticated flight control firmware, along with great setup wizards on affordable CC3D based hardware.
+KISS
+
+KISS is the only closed source project on this list, and it only runs on KISS boards from FlyDuino. KISS has gained a lot of popularity as having reliable hardware that is easy to use and just works. As the name suggests, this project is aimed to Keep It Super Simple. The configuration software has a lot less flexibility when compared to betaflight, but this makes it easy to use. However, don’t let this simplicity make you think it lacks the latest features. To some extent, the KISS developers have introduced new features that forced the open source projects to play catch up for a long time.
+
+KISS project homepage
+
+Why should you use it?
+If you like apple products, then you will probably like the KISS ecosystem. Their gear plays well with echother and work very well, but the closed source nature does force you to use KISS FC, along with KISS ESC etc..
+RaceFlight
+
+RaceFlight started life as a fork of CleanFlight with a focus on FPV racing and F4 processors (at the time cleanflight only supported F3). However, after a while, the developers started moving the raceflight code to eventually make the entire project closed source and only work on the official raceflight boards. The justification for this is that now the developers can make some money for their efforts on pushing the project forward. This approach has seen the raceflight firmware being known for its smoothness and high response. It also has very nice software to make setting up your flight controller.
+
+RaceFlight project homepage
+
+Why should you use it?
+Similar to KISS, the raceflight ecosystem locks you into their products. But that is not necessarily a bad thing, they have great flight controllers and ESC’s and their setup software is also very nice to use. However, it still lacks some of the new features being released with Betaflight.
+Outdated/inactive projects
+MultiWii
+
+MultiWii was the genesis of modern quadcopter firmware. It started around the same time the Nintendo Wii was released. The Wii gave everyone access to cheap IMU sensors (from the Wiimote), so the MultiWii project was born (Multirotor + Wiimote). This project combined an Arduino 8-bit MCU and a Wiimote, and later was extended to dedicated boards. Although not in active development this firmware is worth an honourable mention for the history books.
+
+MultiWii github page
+
+Multiwii lead to the development of Baseflight which ultimately gave us BetaFlight which we all use today.
+Baseflight
+
+Baseflight was is the great-grandfather of betaflight, as it was the first 32-bit FPV flight controller. Started because the baseflight creator was fed up with MultiWii still using slow and outdated 8-bit firmware. So Baseflight was a complete re-write of the multiwii firmware adapted to use 32bit hardware. Although this project is not actively maintained, it is noteworthy as it paved the way for many other 32 bit FPV firmware.
+
+Baseflight project homepage
+
+BaseFlight was based on MultiWii
+TauLabs
+
+TauLabs was one of the openpilot forks, that was aimed at professionals and researchers. The aim is/was to create high-quality code that can be re-used for professional applications, and make it easy to be used for research applications. Just like the other openpilot forks, TauLabs also suffers from less hardware support. However, the code is still available for anyone who wants to have some high-quality code to learn from.
+
+TauLabs github
+
+OpenPilot
+
+Openpilot was among the first open source flight control software projects and helped shapes many of the standard features available. At the time it was one of the first to use 32bit hardware and had solid performance and features (with a professional feel). However due to some different views of the developers so Librepilot, dRonin, and TauLabs where created as a fork of openpilot both of which are still in active development.
+Any more?
+I hope that you enjoyed reading this list and maybe even found a project you did not know about.  This list is by no means an exhaustive list, as there are a few more small projects, some had some good initial response but have been since been merged or become abandoned.  Some include gluonpilot, UAV dev board, autoquad which all had their day.  If there is a project you would like added please share some details in the comments below.
+
+
+
+
+ AutoPilot
+Parts List
+Plane
+Quadcopter
+
+
+
+Post navigation
+
+
+ 
+
+
+previous post 
+Quadcopter not Arming? 🐝 How to Solve in BetaFlight
+
+
+
+
+ 
+
+
+next post
+
+Furibee X215 PRO (v2) 🐝 Quadcopter Review - Fast and Furious
+
+
+
+
+Related Articles
+
+
+
+ 
+
+
+
+
+
+Posted
+in
+
+
+Products
+
+
+
+Diatone GT X549 – A Moulded Carbon FPV Quad
+
+
+
+Postedby DoomedFPV
+
+
+June 8, 2019
+
+
+
+						2 minute read
+
+
+
+						0 Comments
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Posted
+in
+
+
+Tutorials
+
+
+
+Brushless Micro Madness – Building our tiny UT-90 quad kit!
+
+
+
+Postedby Cam
+
+
+October 5, 2018
+
+
+
+						10 minute read
+
+
+
+						0 Comments
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Posted
+in
+
+
+Tutorials
+
+
+
+Setting up the Crusader GT2 with the Taranis QX7
+
+
+
+Postedby Sam
+
+
+May 22, 2017
+
+
+
+						6 minute read
+
+
+
+						0 Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Interested in Drones and FPV.. this is the place to learn all about it
+				
+
+🏠 Home
+🛩 Forums
+🙋 How To Get Started With FPV
+ 

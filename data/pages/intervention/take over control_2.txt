@@ -1,0 +1,1346 @@
+url: https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Simulation and Control, Part 1: Setting Up the Control Problem Video - MATLAB & Simulink
+
+
+
+
+
+
+
+
+
+
+Toggle Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+My Account
+My Community Profile
+Associate License
+Sign Out
+
+
+
+
+Products
+
+
+Solutions
+
+
+Academia
+
+
+Support
+
+
+Community
+
+
+Events
+
+
+Contact Us
+
+
+Get MATLAB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+Solutions
+
+
+Academia
+
+
+Support
+
+
+Community
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+Get MATLAB
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+My Account
+My Community Profile
+Associate License
+Sign Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos
+
+
+
+
+
+Videos
+
+
+MathWorks
+
+
+
+
+
+
+
+
+
+
+Search MathWorks.com
+
+
+
+
+MathWorks
+
+
+Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos and Webinars
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos Home 
+
+
+Search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos Home 
+
+
+Search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Contact sales
+				
+
+
+
+					Trial software
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback 
+
+
+
+
+
+
+
+
+  Register to watch video
+
+
+
+
+
+
+
+Drone Simulation and Control, Part 1: Setting Up the Control Problem
+From the series: Drone Simulation and Control
+
+
+        Brian Douglas
+
+
+
+
+Quadcopters and other styles of drones are extremely popular, partly because they have sophisticated programmed control systems that allow them to be stable and fly autonomously with very little human intervention. Their four propellers are spun in precise ways to control the quadcopter in six different degrees of freedom. This is the first video in a series in which we walk through the process of designing a control system that will get a drone to hover at a fixed altitude.
+This video describes the sensors that come with the Mambo, a Parrot® minidrone that interfaces with MATLAB® and Simulink®. Future videos will show how we can use these sensors to estimate system states like altitude and speed.
+This video also describes how the four propellers can be configured and spun in specific ways that allow the drone to independently roll, pitch, yaw, and thrust.
+With knowledge of the sensors, actuators, and the dynamics of the drone itself, we’ll be prepared to develop the control system over the rest of this series.
+
+
+
+
+
+
+
+
+
+
+
+
+Video Transcript
+
+
+
+
+
+
+
+
+Quadcopters and other styles of drones are extremely popular. A lot of even entry grade vehicles have sophisticated control systems programmed into them that allow them to be stable and fly autonomously with very little human intervention. Their four propellers are spun in precise ways to control the quadcopter in 6 different degrees of freedom. In this series, we’re going to walk through the process of designing a control system that will get a drone to hover at a fixed altitude.
+Even if you don’t plan on writing your own drone controller, it’s worth understanding the process because the workflow that we’re going to follow is similar to the work flow you’ll need for almost any control project.
+With that being said, this series is using a drone rather than some other platform because of how accessible the hardware is and the existing infrastructure available for programming and modeling drones. Also, they are just really fun to fly.
+So with that in mind, let’s head over to the blackboard and set up our problem. I’m Brian, and welcome to a MATLAB Tech Talk.
+In this series, we’re focusing on the control strategies for a quadcopter, named so because of their four rotating propellers. Similarly, you can add more rotors and they take on names like hexacopter and octocopter. But all of these drone style flying machines are part of an entire family of rotating wing aircraft called rotorcraft. This includes the familiar helicopter and the less familiar autogyro as well as any other flying machine that uses a rotating wing rather than a fixed wind to generate lift. Even though these are all rotary wing vehicles, they have different dynamics and therefore different control strategies. For this series, we’re going to be designing a control system for a quadcopter, the Parrot Minidrone.
+Now, in order to set up the control problem, we need to spend a little time understanding our hardware. In this case, the hardware already exists, so I don’t have the ability to easily change the sensors or actuators in any meaningful way. If you’re the control engineer for a quadcopter development program, that wouldn’t be the case. You would probably be expected to guide and influence the design process so that the hardware is appropriately designed to meet your control requirements.
+Since our hardware is already built, we have to deal with what’s given to us. So let’s take a look at the Minidrone and see what we have to work with. We’ll start with the sensors. On the bottom, there are two sensors that you can see. The one with the grid is an ultrasound sensor that is used to measure vertical distances. It sends out a high frequency sound pulse and measures how long it takes that pulse to bounce off the floor and return back to the sensor. From the measured time, distance between the floor and the drone can be calculated. At least up to about 13 feet in altitude. After that, the reflected sound is too soft for the sensor to pick up.
+The other sensor is a camera. It’s taking images at 60 frames per second and using an image processing technique called optical flow to determine how objects are moving between one frame and the next. From this apparent motion, the Minidrone can estimate horizontal motion and speed.
+Inside the minidrone there is a pressure sensor which is indirectly measuring altitude. As the drone climbs in altitude the air pressure drops slightly. We can use this slight change in pressure to estimate how the altitude of the minidrone is changing - is it going up or down?
+The last sensor is an Inertial Measurement Unit, or IMU for short. This is made up of a 3-axis accelerometer which measures linear acceleration and a 3-axis gyroscope that measures
+angular rate. From the IMU, and our knowledge of acceleration due to gravity, we can estimate the Minidrone’s attitude relative to gravity and how fast it’s rotating.
+And that’s it for the sensors. We have these four sensors to work with. We can use ultrasound and pressure to determine altitude and the IMU and camera to determine rotational and translational motion.
+With the sensors covered, let’s talk about our actuators. We have four motors, each with their own propeller. The front two are white and the back two are black, but the colors are just there to indicate to the operator which way the drone is facing while they are flying it. The most important thing to recognize with these motors is their configuration and spin direction. These 4 motors are laid out in an X configuration, as apposed to the plus configuration. The only difference between these two is which motors you send commands to when pitching and rolling the minidrone. In general, the underlying concepts are the same for both.
+The most ingenious part of a quadcopter’s motor configuration is the spin direction. Opposing motors spin in the same direction as each other, but the opposite direction as the other pair. This is necessary to make sure that thrust, roll, pitch, and yaw can be commanded independently of each other. That means we can command one motion without affecting the others. We’ll see why the configuration makes this true, at least to a first order, in just a just a bit. In reality, complex fluid dynamics around the drone means that all motion is coupled together in some small way, but for our purpose we can ignore that detail and eventually let our feedback control system correct for that error.
+OK, now we can talk about the overview of the control problem. We have our plant - the drone itself - and we have our four actuators that inject forces and torques into the system. So the question is, how do we inject the right inputs into our system so that the output is the result we want. That is, can we figure out how to manipulate these four motors in very precise ways so that the drone can rotate and maneuver around in 3 dimensional space?
+To help us, we have our set of sensors that we can use to directly or indirectly estimate the state of our minidrone. System states are things like angular position and rates, altitude, and horizontal velocity. The states that we are estimating depend on the control architecture and what we are trying to accomplish. We’ll flush that out in more detail throughout this series.
+Finally, with knowledge of the state of the system and an understanding of what we want our minidrone to do, we can develop a controller, basically an algorithm that runs in software, that takes in our set point and estimated state and calculates those precise motor commands that will inject the necessary forces and torques. That’s the whole problem, but as you might imagine, coming up with that algorithm isn’t straight forward for a quadcopter.
+The first thing we should notice is that this is an underactuated system. We only have 4 actuators, but we have 6 degrees of freedom - three translational directions, up and down, left and right, forward and backwards, and three rotational directions, roll, pitch, and yaw. Since we don’t have an actuator for every motion, then we already know that some directions are uncontrollable at any given time. As a example, our minidrone is not capable of moving left, at least not without first rotating in that direction. The same goes for forward and backward motion as well.
+We’ll get around this underactuation problem by developing a control system that couples rotations and thrust to accomplish the overall goals.
+So now let’s walk through how we generate thrust, roll, pitch, and yaw with just 4 motors, and why the spin direction allows us to decouple one motion from the other.
+A motor produces thrust by spinning a propeller which pushes air down, causing a reaction force that is up. If the motor is placed in a position that the force is applied through the center of gravity of an object, then that object will move in pure translation, no rotation at all. And if the force of the thrust is exactly equal to and opposite of the force of gravity then the object will hover in place.
+A force at a distance from the center of gravity produces both a translational motion as well as a torque, or rotating moment around the center of gravity. If our motor is attached to the bar, as it rotates, the torque will stay constant since the distance between the force and center of gravity stays the same, but the force is no longer always in the opposite direction of gravity and therefore our bar will begin to move off to the side and fall out of the sky. Now, if there is a counter force, on the opposite side of the center of gravity, and each force is half of the force of gravity, then the object will again stay stationary because the torques and forces will cancel each other out.
+But our actuators don’t generate purely force when it generates thrust. Since it accomplishes thrust by rotating and torquing a propeller which has mass, our actuators are also generating a reaction torque that is in the opposite direction. And if both of our motors are spinning in the same direction, then the torque is doubled and our bar would start to rotate.
+To counter this torque, we could spin the two motors in opposite directions. That would work just fine in 2 dimension, but a bar with only two motors would not be able to generate torques in the third dimension, that is we wouldn’t be able to roll this bar. So we add a second bar with two more motors to create our quadcopter.
+With this configuration, we can hover by accelerating each motor until they produce a force 1/4 that of gravity. And as long as we have two counter rotating motors, the torques from spinning the propellers will balance and the drone will not spin. It doesn’t matter where you put the counter rotating motors, as long as there are two in one direction and two in the other.
+But quadcopter developers settled on a configuration with opposing motors spinning the same direction, so there must be a reason for this. And there is. It’s because of how yaw, or the flat spinning motion, interacts with roll and pitch.
+To understand why this is true, let’s look at how we would command yaw.
+We have counter-rotating motors specifically so that there is no yaw torque on the system with all motors spinning at the same speed. So, it makes sense that if we want to spin the drone about the vertical axis, or we want to have the vehicle yaw, then we’d need create a yaw torque by slowing two motors down that are running the same direction and speed the other two up. By slowing two down and speeding two up appropriately, we can keep the same total force through the maneuver so that we’re still hovering and counteracting gravity, but the summation of the motor torques is non-zero and the vehicle will spin. So we can yaw without affecting thrust.
+Now let’s see if yaw affects roll and pitch. If the rotating motor pairs are on the same side, then slowing one pair down and increasing the other pair will cause an imbalance of forces about the center of gravity and the vehicle will either pitch or roll depending on which side the motor pairs are on. However, if we separate the two motors and place them on opposite sides of the drone,
+then the forces will balance each other out. This is why the motor configuration and spin directions are so critical. We can now send commands to the four motors in such a way that the vehicle will yaw, but not roll, pitch, or change its thrust.
+Similarly, we can look at roll and pitch. To roll, we’d decrease one of the left/right pairs and increase the other causing a rolling torque, and to pitch we’d decrease one of the front/back pairs and increase the other causing a pitching torque. Both of these motions would have no effect on yaw since we are moving counter rotating motors in the same direction, and their yaw torque would continue to cancel each other out.
+To change thrust, we need to increase or decrease all four motors simultaneously. In this way, roll, pitch, yaw, and thrust are the 4 directions that we have direct control over. And the commands to the motors would be a mix of the amount thrust, roll, pitch, and yaw required.
+As we now know, we can command thrust by setting all four motors to the same speed. Then we can create yaw by increasing two motors spinning the same direction and decrease the other two. Pitch is created by increasing or decreasing the front motor pair and then commanding the back pair in the opposite direction. Roll is the same, but with a left/right pair. This is our simple motor mixing algorithm that can convert between the intuitive roll, pitch, yaw, and thrust, and the less intuitive motor speeds.
+As I said earlier, moving forward, backwards, left, and right are unactuated motions. And the way we get around that is by first rotating into an attitude where the thrust vector is partially in the gravity direction and partially in the direction of travel to accelerate the drone in that direction. If we wanted to maintain altitude, then we’d increase the thrust so that the vertical component is still canceling out the downward pull of gravity.
+So know we know that manipulating the four motors in specific ways will allow us to control the drone in 3D space, we have a set of sensors that we can use to estimate the state of the system, and we have an onboard processor that can run our controller logic.
+The control system development will ultimately be done in Simulink, where we will build and simulate the quadcopter model, tune the controller, test it in a closed loop simulation, and finally automatically generate flight code that we will load into the onboard micro controller on the Parrot minidrone. The very next step is to figure out how we want to set up the control system architecture.
+So if you don’t want to miss the next tech talk video, don’t forget to subscribe to this channel. Also, if you want to check out my channel, control system lectures, I cover more control theory topics there as well. Thanks for watching, I’ll see you next time.
+
+
+
+
+
+
+
+
+Product Focus
+
+Simulink
+Aerospace Blockset
+
+
+
+
+Other Resources
+
+
+		
+		Simulink Hardware Support Package for PARROT Minidrone
+		
+
+
+
+
+
+		Introduction to Simulink Hardware Support for PARROT Minidrones
+		 (2:08)
+
+
+
+
+
+		Quadcopter Simulation and Control Made Easy
+		 (37:56)
+
+
+
+
+
+		Modelling, Simulation, and Control of a Quadcopter
+		 (1:22:21)
+
+
+
+
+
+		Quadcopter Modelling and Simulation: A Case Study for Encouraging Deeper Learning Engagements with Students
+		 (56:34)
+
+
+
+
+
+		How to Design and Model a Quadcopter Prototype with Simulink and Arduino
+		 (25:46)
+
+
+
+
+
+		Programming Drones with Simulink
+		 (33:49)
+
+
+
+
+		
+		Quadcopter Modelling with Simulink
+		
+
+
+
+
+
+
+
+Series: Drone Simulation and Control
+
+
+
+
+
+
+
+
+
+
+
+
+14:11
+
+
+
+
+
+
+
+
+																		Part 1: Setting Up the Control Problem
+																	
+
+Many quadcopters have sophisticated programmed control systems that allow them to be stable and fly autonomously with little human intervention. This video introduces the sensors and actuators used in quadcopter control.
+
+
+
+
+
+
+
+
+
+
+
+13:22
+
+
+
+
+
+
+
+
+																		Part 2: How Do You Get a Drone to Hover?
+																	
+
+Let’s design a control system architecture that will hover a quadcopter. We’re going to figure out which states we need to feedback, how many controllers we need to build, and how those controllers interact with each other.
+
+
+
+
+
+
+
+
+
+
+
+18:00
+
+
+
+
+
+
+
+
+																		Part 3: How to Build the Flight Code
+																	
+
+Discover how to create flight software from the control architecture developed in the last video. Embed this code on the Parrot Minidrone and get the actual hardware to hover.
+
+
+
+
+
+
+
+
+
+
+
+11:45
+
+
+
+
+
+
+
+
+																		Part 4: How to Build a Model for Simulation
+																	
+
+This video describes how a good model of the drone and the environment it operates in can be used for simulation and test.  We also walk through a quadcopter model example in Simulink and point out some of the interesting features.
+
+
+
+
+
+
+
+
+
+
+
+14:28
+
+
+
+
+
+
+
+
+																		Part 5: Tuning the PID Controller
+																	
+
+This video takes the nonlinear model of the Parrot Minidrone and builds a linearizable model that can be used for tuning the 6 PID controllers in our control architecture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		Watch other MATLAB Tech Talks on Control Systems
+		
+
+
+
+
+
+
+
+Next in Series
+
+
+
+
+
+
+13:22
+
+
+
+
+
+Part 2: How Do You Get a Drone to Hover? 
+
+
+
+
+
+
+
+
+		Related Videos and Webinars
+	
+
+
+
+
+
+
+
+
+
+
+36:39
+
+
+
+
+
+Introduction to Simulink: Quadcopter Simulation and Control 
+
+
+
+
+
+
+
+
+37:56
+
+
+
+
+
+Quadcopter Simulation and Control Made Easy 
+
+
+
+
+
+
+
+
+1:03:29
+
+
+
+
+
+Simulating a Multi-Stage Rolling Mill Process, Part 1:... 
+
+
+
+
+
+
+
+
+16:36
+
+
+
+
+
+Renault's Model-Based Design Powertrain Control Development... 
+
+
+
+
+
+
+
+
+25:23
+
+
+
+
+
+Case Study: Dual Fuel Engine Control System Development... 
+
+
+
+
+
+
+
+
+30:58
+
+
+
+
+
+Rapid Algorithm Development for Planning and Control of an... 
+
+
+
+
+
+
+
+
+21:50
+
+
+
+
+
+Customizing Modeling Guideline Checks Within a Continuous... 
+
+
+
+
+
+
+
+
+2:45
+
+
+
+
+
+Penn State Teaches Students Automotive Control 
+
+
+
+
+
+
+
+
+19:09
+
+
+
+
+
+Modeling HDL Components for FPGAs in Control Applications 
+
+
+
+
+
+
+
+
+2:59
+
+
+
+
+
+Putting a Simulink Project under Source Control 
+
+
+
+
+
+
+
+
+20:44
+
+
+
+
+
+Renault Model-Based Design Power Train Control Development... 
+
+
+
+
+
+
+
+
+19:54
+
+
+
+
+
+Motor Control Architecture for Multiple Production Programs 
+
+
+
+
+
+
+
+
+1:22
+
+
+
+
+
+Retrieving Simulink Projects from a Source Control... 
+
+
+
+
+
+
+
+
+2:32
+
+
+
+
+
+Stanford University Enables Hands-On Control Design... 
+
+
+
+
+
+
+
+
+18:56
+
+
+
+
+
+Model-Based Control Design and Calibration Toolset for... 
+
+
+
+
+
+
+
+
+6:42
+
+
+
+
+
+Early Verification for Control Systems 
+
+
+
+
+
+
+
+
+3:13
+
+
+
+
+
+University of Toronto Students Design and Simulate... 
+
+
+
+
+
+
+
+
+2:23
+
+
+
+
+
+Penn State Students Learn to Control a Hybrid Electric... 
+
+
+
+
+
+
+
+
+29:17
+
+
+
+
+
+Control Design Made Easy 
+
+
+
+
+
+
+
+
+16:56
+
+
+
+
+
+Development of the Variable Valve Control for the... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Select a Web Site
+Choose a web site to get translated content where available and see local events and
+							offers. Based on
+							your location, we recommend that you select: .
+						
+Select  web site
+
+
+You can also select a web site from the following list:
+ 
+How to Get Best Site Performance
+Select the China site (in Chinese or English) for best site performance. Other MathWorks country sites are not optimized for visits from your location.
+
+
+
+Americas
+
+América Latina (Español)
+							
+Canada (English)
+							
+United States (English)
+							
+
+
+
+Europe
+
+
+
+Belgium (English)
+									
+Denmark (English)
+									
+Deutschland (Deutsch)
+									
+España (Español)
+									
+Finland (English)
+									
+France (Français)
+									
+Ireland (English)
+									
+Italia (Italiano)
+									
+Luxembourg (English)
+									
+
+
+
+
+Netherlands (English)
+									
+Norway (English)
+									
+Österreich (Deutsch)
+									
+Portugal (English)
+									
+Sweden (English)
+									
+Switzerland
+										
+Deutsch
+
+English
+
+Français
+
+
+
+United Kingdom
+										(English)
+									
+
+
+
+
+
+Asia Pacific
+
+Australia (English)
+							
+India (English)
+							
+New Zealand (English)
+							
+中国
+								
+简体中文
+
+English
+
+
+
+日本 (日本語)
+							
+한국 (한국어)
+							
+
+
+
+Contact your local office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Contact sales
+				
+
+
+
+					Trial software
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Products
+
+MATLAB
+Simulink
+Student Software
+Hardware Support
+File Exchange
+
+
+
+
+
+
+
+Try or Buy
+
+Downloads
+Trial Software
+Contact Sales
+Pricing and Licensing
+How to Buy
+
+
+
+
+
+
+
+Learn to Use
+
+Documentation
+Tutorials
+Examples
+Videos and Webinars
+Training
+
+
+
+
+
+
+
+Get Support
+
+Installation Help
+Answers
+Consulting
+License Center
+
+
+
+
+
+
+
+About MathWorks
+
+Careers
+Newsroom
+Social Mission
+Contact Us
+About MathWorks
+
+
+
+
+
+
+
+
+
+
+
+MathWorks
+Accelerating the pace of engineering and science
+
+
+
+
+MathWorks is the leading developer of mathematical computing software for engineers and scientists.
+
+
+
+
+Discover…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States
+
+
+
+
+
+
+
+Patents
+
+
+Trademarks
+
+
+Privacy Policy
+
+
+Preventing Piracy
+
+
+Application Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 1994-2019 The MathWorks, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join the conversation

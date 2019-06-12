@@ -1,0 +1,614 @@
+url: https://www.droneii.com/drone-autonomy
+
+
+
+
+
+
+
+
+
+Tech Talk: Drone Autonomy - Drone Industry Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+info@droneii.com XINGLinkedinTwitter 
+
+
+
+Drone Industry Insights
+…providing commercial drone industry data
+
+ServicesOn Demand Market Studies Consulting Services Research Subscription Recruitment  Buy Reports Free ResourcesInfographics Whitepapers  NetworkDrone Industry Map Expert Interviews  Blog AboutOur People Our Brand FAQs  Contact Cart 
+
+
+
+
+ServicesOn Demand Market Studies Consulting Services Research Subscription Recruitment  Buy Reports Free ResourcesInfographics Whitepapers  NetworkDrone Industry Map Expert Interviews  Blog AboutOur People Our Brand FAQs  Contact Cart 
+
+
+
+
+
+
+2019-03-074 CommentsManufacturer, Market, TechnologyBy Millie Radovic
+
+
+
+Tech Talk: Untangling The 5 Levels of Drone Autonomy
+
+
+  6 min. read · Created: 2019-03-07 · By Millie Radovic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One of the most common phrases in our industry is “we manufacture autonomous drones”. But can companies with very different products claim they have autonomous drones, and both be right?
+
+
+
+
+The simplest answer is, yes. These vast differences in the types of solutions that are described as autonomous are largely down to the fact that as there is no single authority determining those definitions, they are often free-flowing. Not only are definitions free-flowing but phrases like autonomy and automation are mistakenly presumed to be interchangeable in both the drone and car industries. (It doesn’t help that when we discuss levels of autonomy, we look at degrees of automation).
+
+
+
+
+
+Automation
+The use or introduction of automatic equipment in a manufacturing or other process or facility.
+How automated a drone is always comes down to how much automatic equipment is involved and how much manual intervention it requires. An automated drone follows orders about destination and route but cannot make decisions.
+
+
+
+
+
+Autonomy
+Freedom from external control or influence; independence.                        
+How autonomous a drone is must always be a measurement of how independent the platform and its workflow are. A truly autonomous drone would decide on destination and route as well as control in the air.
+
+
+
+
+
+The best way to understand the autonomy of drones is as a spectrum. If autonomy is a measure of independence from external influence and the level of self-governing, then different platforms can be autonomous but on a different point in the autonomy spectrum. The key is to understand these different levels and what they look like in practice in the drone industry.
+
+
+
+
+
+
+
+
+
+
+Originally published: Mar. 2019
+
+
+Index
+
+
+
+
+Level 0 – No Automation
+Level 1 – Pilot Assistance
+Level 2 – Partial Automation
+Level 3 – Conditional  Automation
+
+Level 3+ – Automised Drone Deployment
+
+
+Level 4 – High Automation
+Level 5 – Full Automation
+What’s Next?
+
+
+
+
+Level 0: No Automation
+
+
+The pilot is in full control of every movement. Platforms are controlled 100% manually at all times.
+What this looks like in practice: Drones for racing and model aircrafts.
+Current Application Method: Racing (recreation).
+
+
+
+Level 1 – Pilot Assistance
+
+
+The pilot remains in control of the overall operation and safety of the vehicle. However, the drone can take over at least one vital function for a finite period of time. It has no sustained vehicle control and is never in control of both speed and direction of flight at the same time, but it can provide support for navigation and/or keep altitude and position.
+What this looks like in practice: A hobby or prosumer drone which is GNSS-supported to stabilize flight, while all inputs in terms of heading, altitude and speed is done via manual input. This ranges from simple recreational photo or video footage to high-end asset inspections in the industry. At this level sense & avoid features are available to alert the pilot of the drones close proximity to obstacles – the avoid part, however, is up to the manual input of the pilot.
+Current Application Methods: inspection & maintenance, localization & detection, photography & filming, protection & security, and monitoring.
+
+
+
+Level 2 – Partial Automation
+
+
+The pilot is still responsible for the safe operation of the vehicle and must be ready to take control of the drone should something happen. However, under certain conditions the drone is able to take over control in terms of heading, altitude and speed. The pilot is still fully in charge, including monitoring the air space, flight conditions and reacting in case of an emergency. Most manufacturers currently build drones at this level, where the platform can assist with navigation functions and allow the pilot to disengage from some of their tasks.
+What this looks like in practice: A pre-programmed flight path is uploaded to the autopilot and the drone will start executing the task to fly along these transects after take-off. Today this is a common practice for mapping and surveying missions. Some drones with this level of autonomy have a built-in automated take-off and landing feature – this makes the drone handling easier but does not make it more autonomous.
+Current Application Methods: mapping, surveying, spaying & seeding, and measuring.
+
+
+
+
+
+
+
+
+
+
+
+Level 3 – Conditional Automation
+
+
+Like at Level 2, the drone can fly itself, but the human pilot must still pay attention and be prepared to take over at any time. The drone notifies the pilot if intervention is needed, so s/he is the fall-back system. This level means that the drone can perform all functions “given certain conditions”.
+What this looks like in practice: A drone flies along a pre-programmed flight path when on-board sensors detect an obstacle. After the detection (e.g. of a treetop in the flight path) the drone will stop and send an alarm of an object in close proximity to the pilot. The pilot then manually corrects the heading/altitude before the drone continues to fly along its pre-programmed path.
+Current Application Methods: mapping, surveying and delivery.
+
+
+
+Level 3+ – Automized Drone Deployment
+
+
+Another way to measure the autonomy of a drone is to take into account its working environment. Some manufacturers have made advancements in the automation of drone deployment by building “fully automated drone boxes”. This means there is no human needed in the loop to supervise the flight.
+What this looks like in practice: The idea is to have a drone on-site to frequently perform the same task (e.g. surveying of an open-pit mine twice a week). The pre-programmed flight path stays the same, the drone is equipped with automated take-off and landing capabilities, the drone box gives shelter and the chance to recharge the batteries and automatically deploy the drone according to the given schedule.
+Current Application Methods: mapping, surveying, and protection & security.
+
+
+
+
+
+“The best way to understand the autonomy of drones is that it is a spectrum. If autonomy is a measure of independence from external influence and the level of self-governing, then different platforms can be autonomous but on a different point in the autonomy spectrum. “
+
+
+
+
+
+
+
+
+
+
+Millie Radovic, Market Analyst at DRONEII
+
+
+Level 4 – High Automation
+
+
+The drone can be controlled by a person, but it doesn’t always need to be. It can fly itself full-time under the right circumstances. The drone is expected to have backup systems so that if one system fails, it will still be operational. Its behaviour depends upon a fixed built-in functionality or upon a fixed set of rules that dictate system behaviour. Here sense & avoid matures into sense & navigate.
+What this looks like in practice: A drone equipped with a certain stack of sensors follows a person or an object. While doing this, it senses obstacles in the flightpath and actively avoids contact by changing heading and/or altitude. It literally finds a way to follow the task while automatically altering the way to do it.
+Current Application Method: photography and filming.
+
+
+
+
+
+
+
+
+
+
+Level 5 – Full Automation
+
+
+The drone controls itself under all circumstances with no expectation of human intervention. This includes full-time automation of all flying tasks under any conditions.
+There are no examples of such drones yet and they are not currently in production.
+However, what they are expected to be able to do is use AI tools to plan their flights, in other words – autonomous learning systems with the ability to modify routine defining behaviours. Imagine if one day a Level 5 drone is built and tasked with monitoring sharks on a coastline. Each day the drone monitors the coastline, but most often there are problems in a certain area of its flight path. This drone will in its next flight be able to use the acquired knowledge to plan a flight to monitor that area first. Also important to bear in mind is that the 5th level of autonomy is the ticket to achieving two key goals in the drone industry: urban aerial mobility and large cargo delivery drones.
+
+
+What’s next?
+
+
+Don’t expect such smart drones in the air in the next year. Not only is there no regulatory base yet whatsoever to facilitate the 5th level of autonomy, but more importantly the legwork needed to achieve this level is significant – simply because of the frequency and volume of data, and the sophistication of the on-board computers crunching it that it will take. However, once this is done drones will be effectively sentient and able to save mounds of time in every single application category.
+
+
+
+
+
+
+
+
+
+The 5 Levels of Autonomy in the Drone Industry
+
+
+Follow the link to download the free infographic, “The 5 Levels of Drone Autonomy”.
+
+
+
+Download FREE .pdf Infographic
+
+
+
+
+Millie Radovic( Market Analyst @ DRONEII )DRONEII’s token social scientist, Millie has a BA in International Relations from King’s College London and an MSc from the University of Oxford. Earlier, she amongst other things researched Science & Tech policy for the NATO Parliamentary Assembly in Brussels. At DRONEII she particularly looks at drones and international development & global health projects.
+
+
+
+
+
+
+
+automationautonomydrone industrydrone market
+
+
+Related Posts and Reports
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Views from the Industry: The Drone Industry Barometer 2019 3 min. Due to popular demand the Drone Industry Barometer is back again, this time featuring views from over 500 companies in the drone industry. 
+ 
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+The Drone Market 2019-2024: 5 Things You Need to Know 3 min. To mark the release of our inaugural Drone Market Report and our new one of a kind bottom-up market model, here are the most important market trends you need to know about the drone industry.
+ 
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Money Talks: Drone Investment Trends Update 3 min. Earlier this month the thermal imagery manufacturer FLIR bought the UAV developer Aeryon Labs for $200 million, beating their previous record in publicly disclosed drone investments of $134M. 
+ 
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Drones & AI 2.0: Drone Data Analytics 5 min. One of the most important goals of AI in the drone industry is to make efficient use of large data sets which are collected by the drone.
+ 
+
+ 
+
+
+automationautonomydrone industrydrone market
+
+About the author
+
+
+ 
+Millie Radovic
+DRONEII's token social scientist, Millie has a BA in International Relations from King’s College London and an MSc from the University of Oxford. Earlier, she amongst other things researched Science & Tech policy for the NATO Parliamentary Assembly in Brussels. At DRONEII she particularly looks at drones and international development & global health projects.
+
+
+Related postsThe Drone Market 2019-2024: 5 Things You Need to Know2019-04-10Money Talks: Drone Investment Trends Update2019-02-25Drones & AI 2.0: Drone Data Analytics2019-02-12The Drone Job Market2019-02-05Report | Drone Applications 20192019-01-28The Commercial Drone Industry: Global Outlook 20192019-01-09
+
+
+
+4 Comments
+
+
+
+
+Pingback:
+DRONEII: The 6 Key Elements of a Good Drone Law - Angle News 
+
+
+
+Pingback:
+DRONEII: The 6 Key Elements of a Good Drone Law - Drones Crunch 
+
+
+
+Pingback:
+DRONEII: The 6 Key Elements of a Good Drone Law – UAV – DRONEENEWS.COM 
+
+
+
+Pingback:
+DRONEII: The 6 Key Elements of a Good Drone Law - Drones Best Reviews 
+
+
+
+Leave Comment
+
+
+ Cancel reply 
+Your email address will not be published. Required fields are marked *CommentName *
+Email *
+Website
+ Notify me of follow-up comments by email. Notify me of new posts by email. clear formSubmit
+
+ 
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter Headlines Tweets by droneii 
+Legal Information  Legal Notice 
+ Privacy-Statement 
+ GDPR 
+
+MenuHomeServicesBuy ReportsFree ResourcesBlogAboutContact
+
+
+
+
+
+
+
+
+
+Menu Fusszeile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Market Report 2019
+
+
+Get the “Drone Market Report 2019“ including forecast until 2024, regulation readiness index per country, trends, and perspectives on the commercial drone market.
+
+
+
+learn more
+
+
+			×            
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies to give you the best user experience. If you continue to use this site, we assume that you agree.
+ok
+deny
+learn more

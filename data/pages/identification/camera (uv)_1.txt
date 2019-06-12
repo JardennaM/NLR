@@ -1,0 +1,204 @@
+url: http://deeterdesigns.com/index.php/potential-new-products/drone-corona-cameras/
+
+
+
+
+
+
+
+
+Drone Corona Camera – Origo Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 480.473.1995  gpiesinger@origocorp.com    
+
+
+
+
+
+
+
+
+Remote real-time and non-real-time phase identification anywhere
+
+
+
+
+
+
+
+Home
+About Us
+
+Overview
+Our Customers
+How to Purchase
+Tradeshows
+Patents
+Newsfeed
+
+
+Products
+
+PhaseID System
+
+PhaseID Overview
+G3 Field Probe
+G3 Drone Probe
+G3 Current Adapter
+G3 Base Station
+Lineman Manual Field Probe
+Handheld Manual Field Probe
+
+
+URD Probe
+
+
+Potential New Products
+
+New Products Overview
+Smartphone Base
+Drone Corona Camera
+RF Corona Locator
+Drone Detector / Tracking
+Live URD Cable Tracer
+Thumpless Fault Locator
+Synchrophasor Network
+Wind Turbine Bird Detection
+Wide Area Wireless Network
+
+
+Technical Data
+
+Videos
+Brochures
+White Papers
+Training
+
+
+Contact Us
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Corona Camera
+Current Solar Blind Corona Cameras
+Electrical corona is a partial discharge in the air surrounding an electrical conductor. It occurs when the electric field around the conductor exceeds a minimum critical value strong enough to ionize the air surrounding the conductor but not sufficient to ionize a flash-over.
+Corona is a problem because it can cause power loss, audible noise, radio interference, and corrosive effects on conductors and insulators through the formation of nitric acid.
+Electrical corona emits spectral energy in the ultraviolet (UV) region above the normal range of human vision. However, it can be detected and viewed using corona cameras optimized for viewing UV.
+All modern corona cameras are designed for use during daylight by using a so called “solar blind” filter which removes normal sunlight but still passes some of the corona spectrum.
+A beam splitter inside the corona camera sends the faint solar blind filtered light to an image intensifier sensor and the sunlight illuminated scene light to a normal camera image sensor. Camera electronics then overlays the two images for viewing by the operator. In this way, the exact location of the corona discharge can be seen.
+Modern corona cameras are a very useful tool to detect and pinpoint electrical discharge corona on conductors and insulators. Unfortunately, daylight corona cameras are very expensive costing $40K to $90K depending on features.
+
+Origo’s Patented Low Cost Solar Blind Corona Camera
+Origo has initiated a corona camera R&D project to design and build a much lower cost solar blind corona camera ($15K to $25K), using an innovative technique that eliminates the need for a high cost image intensifier and instead allowing the use of standard low cost machine vision cameras.
+Its principal of operation is based on the fact that, in AC power circuits, corona only exists during the high positive and negative voltage peaks of the power line frequency (50 or 60 Hz).  No corona exists near the low voltage zero crossings.
+By taking pictures during both the high voltage and low voltage periods, and subtracting them, the ambient low voltage period solar corona can be subtracted from the ambient plus discharge high voltage period corona leaving only the discharge corona as illustrated below.
+
+Performance on actual corona is illustrated below.
+
+As utilities are already using drones for visual and IR inspections, Origo anticipates that a small drone corona camera would be most useful.  A mockup of the anticipated size of a stand alone corona camera is illustrated below (weighs ~24 ounces).
+
+However, the most useful version would be a multi-spectral camera which would combine visual, IR, and corona sensors in a single package as illustrated below.
+
+Origo invites comments on the desirability of both these corona and multi-spectral camera concepts.  We also welcome any teaming interest from either camera manufacturers or utilities wishing to help develop these products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About UsOrigo is a company whose mission is to design the tools you always wished you had. We look at the industry's common everyday tasks, that are currently very difficult to accomplish, and design a product to make that task easier.Linemen ensure that our end products are both useful and SIMPLE to use. Our designers use the latest technology to bring these products to life.
+Contact UsFOR SALES AND SUPPORTOrigo Corporation Phoenix, AZ Greg Piesinger (480) 473-1995gpiesinger@origocorp.com REPAIRSContact Origo Corporation for a RMA number.
+
+
+
+
+
+
+© Copyright 2018 Origo Corporation. All rights reserved.

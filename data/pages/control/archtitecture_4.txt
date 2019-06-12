@@ -1,0 +1,1349 @@
+url: https://www.mathworks.com/videos/drone-simulation-and-control-part-5-tuning-the-pid-controller-1540450868204.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Simulation and Control, Part 5: Tuning the PID Controller Video - MATLAB & Simulink
+
+
+
+
+
+
+
+
+
+
+Toggle Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+My Account
+My Community Profile
+Associate License
+Sign Out
+
+
+
+
+Products
+
+
+Solutions
+
+
+Academia
+
+
+Support
+
+
+Community
+
+
+Events
+
+
+Contact Us
+
+
+Get MATLAB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+Solutions
+
+
+Academia
+
+
+Support
+
+
+Community
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+Get MATLAB
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+My Account
+My Community Profile
+Associate License
+Sign Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos
+
+
+
+
+
+Videos
+
+
+MathWorks
+
+
+
+
+
+
+
+
+
+
+Search MathWorks.com
+
+
+
+
+MathWorks
+
+
+Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos and Webinars
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos Home 
+
+
+Search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos Home 
+
+
+Search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Contact sales
+				
+
+
+
+					Trial software
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback 
+
+
+
+
+
+
+
+
+  Register to watch video
+
+
+
+
+
+
+
+Drone Simulation and Control, Part 5: Tuning the PID Controller
+From the series: Drone Simulation and Control
+
+
+        Brian Douglas
+
+
+
+
+In the last video, we learned how accurate, nonlinear models are great for simulation but they don’t lend themselves well to linear analysis and design. This video takes the nonlinear model of the Parrot Minidrone and builds a linearizable model that can be used for tuning the 6 PID controllers in our control architecture.
+We use the PID tuner app in Simulink to tune the altitude control loop and show why having a good model of your system is fundamental to Model-Based Design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Transcript
+
+
+
+
+
+
+
+
+In the last video, we learned how accurate, nonlinear models are great for simulation, but they don’t lend themselves well to linear analysis and design. For that we need a linear model. It won’t be as accurate as our simulation model but we will be able to use it for tuning the 6 PID controllers in our control architecture. And that’s what we’re going to do in this video. I’m Brian, and welcome to a MATLAB Tech Talk.
+We’re going to spend the majority of this video working in Simulink, but rather than start here, I think everything will make more sense if I set the context first.
+
+So what do we have so far? We have a set of nonlinear models wrapped around a model of the full flight control software. This is the software that is set up for automatic code generation and it has the controllers and state estimators that are directly in the control loops, but also other logic like fault protection and data logging. Every one of these have nonlinear components to them. So it would make sense that in order to have a linear model of the entire system we need to linearize both the fight software and the models that are wrapped around it.
+
+However, in my experience it’s hard to have flight software that is set up well for automatic code generation as well as for linearization. This is because flight software has if statements and switches and state machines and all sorts of things that are needed for the code to run but are difficult or impossible to linearize. Therefore, we usually build a completely separate model for controller design. Specifically, one that is capable of being linearized. So in this video, I’ll start with the full up quadcopter model that comes with the aerospace block set and then start removing a bunch of stuff that we don’t need for controller design. Specifically all of that stuff that makes linearization difficult.
+
+Once we have that stripped down model, we’ll use the PID tuner app in Simulink to linearize this model and tune the PID controllers.
+
+If you recall from the 2nd video, our control architecture looks like this with several different control loops and 6 different PID controllers. We’ll start by tuning just a single loop, the altitude loop. Remember, this is independent of the other loops so we can tweak and adjust altitude without affecting roll, pitch, or yaw. To make sure they’re out of the equation completely, we’ll just set the commands to 0 for roll, pitch, and yaw. 
+
+We’ll also make the assumption that the sensor dynamics and noise don’t meaningfully impact the controller design. If this is true, then we can remove the sensor models and the state estimation logic as well. Basically, we’ll assume that our controller knows the true altitude of the drone perfectly. After we complete our controller tuning we’ll test the results on the full nonlinear model and see if that assumption is good. If it doesn’t work then we’ll add the sensors back in a try again. I like to start with the simplest model possible and only go more complicated if necessary.
+
+Then we’ll linearize the altitude loop and adjust the gains to get the altitude performance we’re after. Now, I’m only going to tune this one controller in this video, but the process is nearly the same for the others as well.
+
+After the altitude loop I’d move onto tuning the yaw controller, keeping roll and pitch constant and holding altitude fixed. Once that’s done I’d then move onto roll and then pitch. Once those inner loop controllers are all tuned then I’d move onto the outer loop position controller and tune that while the inner loop controllers are active and maintaining orientation. In this way, we would step through each of the 6 PID controllers and at the end have them all working together.
+
+So that’s the overview of what we’re about to do, I’ll add some more context as we go but that should be enough to understand what I’m doing as I start moving Simulink blocks around. So let’s get to it.
+
+The first thing I want to do is just see how well the stock altitude controller does. I’ll pick off the altitude from the state bus and plot it with a scope. The controller is trying to hold an altitude of 0.7 meters and remember that altitude is measured in the drone reference frame which has positive Z axis pointing down. So our controller is actually driving the altitude to -0.7. As you can see, there is a slight overshoot with the way the stock controller is tuned but it settles out nicely at -0.7. Let’s see if we can tune the controller for different performance.
+
+This is our simulation model, and I don’t want to change this. Instead, I’ll copy the whole thing and paste it in its own model that we can modify and use for controller tuning. Alright, now to start removing stuff. First, we don’t any of the visualization or the scope that I just added.
+
+We can also remove the sensor block since we’re just going to feedback a perfect altitude state. OK, now if I go into the flight control system there’s a lot in here that I don’t need. Remember we’re just focusing on the altitude controller for now. So inside the flight controller subsystem I’ll grab just the altitude reference and the controller plus the motor mixing algorithm and the thrust to motor command block. These will be the only parts of the flight code that we need to complete the altitude loop.
+
+I’ll bring those blocks up to the top level of the model and remove the rest of the flight control software. The output of these blocks are the motor speed commands which we can feed directly into the airframe model. And now I’ll set the roll, pitch, and yaw torques to 0 ensuring that as long as there are no other external forces and torques on the airframe - like wind gusts or something - then the airframe can only go up and down. I know that the environment block doesn’t model external disturbances like that so we’re good with just setting the commands to 0.
+
+Now we need to feed back our perfect altitude state into the altitude controller and we have the simplified closed loop system that I showed you earlier. So now at this point we can go into the altitude block and see what to do with the PID controller.
+
+We saw this controller in the 3rd video, but I just want to briefly describe what is going on again. First off, this is just a PD controller, and the derivative path is not fed by an actual derivative, but rather by the altitude rate that is estimated by the Kalman filter. Remember, this is a good way to set up the PD controller because we’re not taking a derivative of a noise signal, we’re estimating the rate directly. However, this set up doesn’t work when we feed back the actual state rather than going through the state estimator. That’s because we’re not also feeding back a true rate state. But that’s ok because for this model we have removed the sensor block and the noise associated with them and have a pretty clean altitude signal. So we can feed that altitude signal into a Simulink PID block which will take care of the derivative for us as well as add some filtering if needed. 
+
+I’ll set it to a PD controller and set the gains to the current values. Then I’ll remove the existing PD gains and logic and replace it with the PID Controller block. And this is now ready for autotuning. We have our altitude reference, -0.7 meters, which is compared to the true altitude in this case. The error is fed into a PD controller and then a feedforward gravity term is added in afterward. This basically adds in the amount of thrust needed to offset the weight of the drone so that the PD controller just needs to add positive thrust to go up and negative thrust to go down. We could remove that feedforward path by adding an integral to our PD controller but we’ll leave it like this since that’s the way the model is already set up.
+
+Alright, now we can open the PD block and hit the tune button to kick off the autotuner. The first thing the autotuner does is linearize the entire control loop, remember now that we removed all of the difficult components this system is capable of being linearized. The tool creates this linear model of the plant that we could export and use to design our PID gains manually. 
+
+However, we’re going to stay in the PID tuner app because it plots the closed loop response of the controller and the linearized plant for us and we can simply adjust the response time and transient behavior of the loop with the sliders at the top. You can see that the stock design, the dashed line, has a similar behavior to what we saw with the simulation model. It’s not going to be exactly the same because we removed all of the nonlinear components, but the goal is that it’s close enough for gain selection. We’ll test that out in just a bit. So now we can move the sliders around and adjust the behavior. For this design, I want to have certain frequency domain performance by setting the bandwidth to 5 rad/s and the phase margin to 60 degrees. 
+
+This produces a proportional gain of about 0.32 and a derivative gain still at 0.3.
+
+So let’s leave our design model now, and head back to the full simulation model and see how these new gains behave. I’ll go back to the altitude controller and put 0.32 in the proportional path and leave 0.3 in the derivative path and then head back up to the top level to run the simulation.
+
+And look at that, with the new gains we’ve changed the behavior of our hover control system. You’ll notice that the overshoot is gone but based on our linear analysis we would have expected the drone to still overshoot a little bit. This difference is due to us doing our analysis with an imperfect linear model. However, the result is still close to what we designed and so linear analysis gave us a really good starting point. If we weren’t completely happy with this response, we could now tweak the gains a little bit to see if we can improve the performance.
+
+The real test, however, is not testing in a simulation environment, but testing it on the real physical hardware. Now, if the hardware behaves exactly like this model, then we know that our Model-Based Design tuning will work for it as well. 
+
+But we don’t have to assume, since we can generate code for the Parrot Minidrone from this Simulink model, we can just try out our new gains on the actual hardware. 
+
+I mentioned this last time, but it bears repeating. Remember your safety goggles. You can never be 100% confident that your control law won’t cause the vehicle to go out of control and since it’s practically a flying lawn mower that can be dangerous. Alright, here we go. I have the new gains and the flight code loaded onto my mini droned ready for takeoff.
+
+OK, that didn’t work so well. So what happened?
+
+Well, I’m not 100% sure. But I do know something and that’s that the hardware doesn’t behave like the model. There is something that the model is missing or has modeled incorrectly for my hardware that gave me the impression that the control law would work. Having a good model is the foundation of Model-Based Design. And if you use Model-Based Design, I think you’ll find that you spend a lot more time creating and validating a model of your system than you will developing your control law. But that is time well spent, because once you have a good model, then designing, simulating, and verifying your system becomes so much easier than having to do all of that with physical hardware. 
+
+Some things that definitely aren’t modeled that may be important is how well the ultrasound works at low altitudes, or how the aerodynamics change when flying close to the ground. One problem in my case is that this model was developed for the general Parrot mini drone and my specific drone may have parameters that are different. The battery voltage may be low, the mass is off, the motor torques are different, and so on. 
+
+I would now want to investigate through system identification or other physical tests where this model differs from reality and make the necessary changes. But, unfortunately, I don’t have the time in this video to go into a detailed investigation of the model so I’m going to have to leave that for another time.
+
+OK, I changed my mind, I don’t want to leave this video with a failed experiment. I got to thinking about the behavior and came up with a possible issue. This feedforward term is calculated to produce the thrust needed to perfectly cancel the weight of the drone. That way the PD controller just needs to adjust the thrust slightly up and down to change the altitude. But what if this term is too low, or another way of putting it, what if the model thinks the weight of the drone is lower or the thrust produced by the rotors is higher than what it actually is? Then there will be some residual weight that the PD controller needs to handle and by lowering the proportional path we’ve reduced the ability to overcome that weight and the drone will have trouble taking off like we saw.
+
+So I did a test where I removed the feedback altitude controller and just relied on the gravity offset term to raise the drone. The stock value with my drone caused it to just sit on the ground and not take off. I then raised the value by 10% and tried it again, and then by 20%. At 20%, the drone just barely was able to rise off the ground. So, I think this is a more appropriate feedforward term for my hardware. 
+
+I then added the feedback term back in and ran the test one final time and check this out. It works. Now this was a quick fix to identify the problem. I still need to adjust the model of the drone to reflect this. And that sounds like a pretty fun project to me. So if you find yourself trying this at home, I think this will be a good introduction to Model-Based Design and give you a chance to learn how to take a model that someone else provided to you and tweak it for your particular circumstances. At the very least, if gives you an excuse to play around with developing control laws for quadcopters. I hope you find it as exciting as I have.
+
+If you don’t want to miss the next Tech Talk video, don’t forget to subscribe to this channel. Also, if you want to check out my channel, control system lectures, I cover more control theory topics there as well. Thanks for watching, I’ll see you next time.
+
+
+
+
+
+
+
+
+
+Product Focus
+
+Simulink
+Aerospace Blockset
+
+
+
+
+Other Resources
+
+
+		
+		Simulink Hardware Support Package for PARROT Minidrone
+		
+
+
+
+
+
+		Introduction to Simulink Hardware Support for PARROT Minidrones
+		 (2:08)
+
+
+
+
+
+		Quadcopter Simulation and Control Made Easy
+		 (37:56)
+
+
+
+
+
+		Modelling, Simulation, and Control of a Quadcopter
+		 (1:22:21)
+
+
+
+
+
+		Quadcopter Modelling and Simulation: A Case Study for Encouraging Deeper Learning Engagements with Students
+		 (56:34)
+
+
+
+
+
+		How to Design and Model a Quadcopter Prototype with Simulink and Arduino
+		 (25:46)
+
+
+
+
+
+		Programming Drones with Simulink
+		 (33:49)
+
+
+
+
+		
+		Quadcopter Modelling with Simulink
+		
+
+
+
+
+
+
+
+Series: Drone Simulation and Control
+
+
+
+
+
+
+
+
+
+
+
+
+14:11
+
+
+
+
+
+
+
+
+																		Part 1: Setting Up the Control Problem
+																	
+
+Many quadcopters have sophisticated programmed control systems that allow them to be stable and fly autonomously with little human intervention. This video introduces the sensors and actuators used in quadcopter control.
+
+
+
+
+
+
+
+
+
+
+
+13:22
+
+
+
+
+
+
+
+
+																		Part 2: How Do You Get a Drone to Hover?
+																	
+
+Let’s design a control system architecture that will hover a quadcopter. We’re going to figure out which states we need to feedback, how many controllers we need to build, and how those controllers interact with each other.
+
+
+
+
+
+
+
+
+
+
+
+18:00
+
+
+
+
+
+
+
+
+																		Part 3: How to Build the Flight Code
+																	
+
+Discover how to create flight software from the control architecture developed in the last video. Embed this code on the Parrot Minidrone and get the actual hardware to hover.
+
+
+
+
+
+
+
+
+
+
+
+11:45
+
+
+
+
+
+
+
+
+																		Part 4: How to Build a Model for Simulation
+																	
+
+This video describes how a good model of the drone and the environment it operates in can be used for simulation and test.  We also walk through a quadcopter model example in Simulink and point out some of the interesting features.
+
+
+
+
+
+
+
+
+
+
+
+14:28
+
+
+
+
+
+
+
+
+																		Part 5: Tuning the PID Controller
+																	
+
+This video takes the nonlinear model of the Parrot Minidrone and builds a linearizable model that can be used for tuning the 6 PID controllers in our control architecture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		Watch other MATLAB Tech Talks on Control Systems
+		
+
+
+
+
+
+
+		Related Videos and Webinars
+	
+
+
+
+
+
+
+
+
+
+
+3:38
+
+
+
+
+
+Using Gamepad/Controller for Simulation Input 
+
+
+
+
+
+
+
+
+36:39
+
+
+
+
+
+Introduction to Simulink: Quadcopter Simulation and Control 
+
+
+
+
+
+
+
+
+37:56
+
+
+
+
+
+Quadcopter Simulation and Control Made Easy 
+
+
+
+
+
+
+
+
+1:03:29
+
+
+
+
+
+Simulating a Multi-Stage Rolling Mill Process, Part 1:... 
+
+
+
+
+
+
+
+
+10:00
+
+
+
+
+
+Using an RC Controller with Arduino and Simulink 
+
+
+
+
+
+
+
+
+13:48
+
+
+
+
+
+Development of Engine Setpoint Controller Using Model-Based... 
+
+
+
+
+
+
+
+
+2:58
+
+
+
+
+
+manroland Develops High-Precision Commercial Printing Press... 
+
+
+
+
+
+
+
+
+42:03
+
+
+
+
+
+Optimizing Vehicle Performance and Fuel Economy through... 
+
+
+
+
+
+
+
+
+38:11
+
+
+
+
+
+Modeling and Simulation of a Sidewall Coring Tool 
+
+
+
+
+
+
+
+
+45:02
+
+
+
+
+
+Mobile Robot Simulation for Collision Avoidance with... 
+
+
+
+
+
+
+
+
+33:57
+
+
+
+
+
+Why Modelling and Simulation Just Got Easier 
+
+
+
+
+
+
+
+
+12:00
+
+
+
+
+
+What Is Simulation? 
+
+
+
+
+
+
+
+
+53:08
+
+
+
+
+
+Signal Processing with MATLAB: System Simulation and... 
+
+
+
+
+
+
+
+
+33:17
+
+
+
+
+
+The New Look and Feel of Simulink: Why Modeling and... 
+
+
+
+
+
+
+
+
+17:37
+
+
+
+
+
+Combustion Engine Starter Simulation in Real Time on Hybrid... 
+
+
+
+
+
+
+
+
+26:41
+
+
+
+
+
+Optimizing Transmission Shift Schedule and Powertrain... 
+
+
+
+
+
+
+
+
+3:02
+
+
+
+
+
+BAE Systems Surface Ships Develops On-Board Trainer Plant... 
+
+
+
+
+
+
+
+
+48:03
+
+
+
+
+
+Modeling and Simulation Made Easy with Simulink 
+
+
+
+
+
+
+
+
+1:35
+
+
+
+
+
+New Simulation Data Inspector 
+
+
+
+
+
+
+
+
+52:52
+
+
+
+
+
+Connecting Simulink with Other Simulation Frameworks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Select a Web Site
+Choose a web site to get translated content where available and see local events and
+							offers. Based on
+							your location, we recommend that you select: .
+						
+Select  web site
+
+
+You can also select a web site from the following list:
+ 
+How to Get Best Site Performance
+Select the China site (in Chinese or English) for best site performance. Other MathWorks country sites are not optimized for visits from your location.
+
+
+
+Americas
+
+América Latina (Español)
+							
+Canada (English)
+							
+United States (English)
+							
+
+
+
+Europe
+
+
+
+Belgium (English)
+									
+Denmark (English)
+									
+Deutschland (Deutsch)
+									
+España (Español)
+									
+Finland (English)
+									
+France (Français)
+									
+Ireland (English)
+									
+Italia (Italiano)
+									
+Luxembourg (English)
+									
+
+
+
+
+Netherlands (English)
+									
+Norway (English)
+									
+Österreich (Deutsch)
+									
+Portugal (English)
+									
+Sweden (English)
+									
+Switzerland
+										
+Deutsch
+
+English
+
+Français
+
+
+
+United Kingdom
+										(English)
+									
+
+
+
+
+
+Asia Pacific
+
+Australia (English)
+							
+India (English)
+							
+New Zealand (English)
+							
+中国
+								
+简体中文
+
+English
+
+
+
+日本 (日本語)
+							
+한국 (한국어)
+							
+
+
+
+Contact your local office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Contact sales
+				
+
+
+
+					Trial software
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Products
+
+MATLAB
+Simulink
+Student Software
+Hardware Support
+File Exchange
+
+
+
+
+
+
+
+Try or Buy
+
+Downloads
+Trial Software
+Contact Sales
+Pricing and Licensing
+How to Buy
+
+
+
+
+
+
+
+Learn to Use
+
+Documentation
+Tutorials
+Examples
+Videos and Webinars
+Training
+
+
+
+
+
+
+
+Get Support
+
+Installation Help
+Answers
+Consulting
+License Center
+
+
+
+
+
+
+
+About MathWorks
+
+Careers
+Newsroom
+Social Mission
+Contact Us
+About MathWorks
+
+
+
+
+
+
+
+
+
+
+
+MathWorks
+Accelerating the pace of engineering and science
+
+
+
+
+MathWorks is the leading developer of mathematical computing software for engineers and scientists.
+
+
+
+
+Discover…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States
+
+
+
+
+
+
+
+Patents
+
+
+Trademarks
+
+
+Privacy Policy
+
+
+Preventing Piracy
+
+
+Application Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 1994-2019 The MathWorks, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join the conversation

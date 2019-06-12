@@ -1,0 +1,343 @@
+url: http://insideunmannedsystems.com/extracting-forensic-data-from-drones/
+
+
+
+
+
+
+
+
+
+Extracting Forensic Data From Drones - Inside Unmanned Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air
+Land
+Maritime
+Cyber
+Engineering & Design
+Policy & Regulatory
+Innovation
+News & Analysis
+In Depth
+Digital Edition
+Events
+Podcasts
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air
+Land
+Maritime
+Cyber
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering & Design
+Policy & Regulatory
+Innovation
+News & Analysis
+In Depth
+Digital Edition
+Events
+Subscribe
+
+Login to manage a subscription
+
+
+
+Search for: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 4, 2018Air, Law Enforcement 
+
+								Extracting Forensic Data From Drones			
+
+
+
+By Charles Choi
+
+
+
+
+A new online database can help law enforcement glean precious details from drones.
+Kaitlyn Fox, a laboratory assistant at VTO Labs, inspects an aerial drone while VTO chief technology officer Steve Watson reviews data from the drone.
+The dream that drones may one day perform deliveries is pursued by a number of corporate giants, including Amazon, UPS, Mercedes-Benz, Domino’s Pizza and Google’s parent company Alphabet. However, industry titans are not the only enterprises pioneering drone delivery—drones have already been spotted flying over prison walls to deliver heroin and marijuana in Mansfield, Ohio, and cell phones in Pensacola, Florida. In a number of other cases, drug traffickers have flown methamphetamines, heroin and marijuana from Mexico across the U.S. border.
+Around the planet, law enforcement agencies are now investigating drones used in crimes. And drones can do more than just deliver contraband. “They’ve been used to surveil military installations and sensitive institutions, and they’ve been accused of being used to spy on neighbors and stalk people,” said Steve Watson, chief executive officer of data recovery and digital forensics firm VTO Labs in Broomfield, Colorado. “And in May, the FBI revealed drones were used to disrupt the monitoring of a hostage situation.”
+If drones used in crime do get captured, investigators will want to extract as much data from them as possible to help their cases. Now, the National Institute of Standards and Technology (NIST) has developed a website to help authorities glean “forensic images” from drones. These images are available to download for free at www.cfreds.nist.gov/drone-images.html.
+ONLINE REPOSITORIES
+A forensic image is a copy of all the data from a hard drive or other digital media. NIST maintains a repository of forensic images from a variety of devices, such as personal computers, mobile phones and tablets. Investigators can use these images to practice recovering data, while software developers can use the images to test their forensic programs. NIST’s Computer Forensic Reference Data Sets are available to download for free at www.cfreds.nist.gov.
+In 2017, the Department of Homeland Security’s Science and Technology Directorate’s Cyber Security Division awarded a research and development contract of more than $928,000 to VTO Labs to develop instructions on how to identify, collect and analyze digital evidence from drones.
+“We seek to answer basic investigative questions from data stored within the drone or its connected devices,” Watson said. “Where did the drone take off from? Has the drone flown other routes? Can we identify who the drone is registered to? What devices or networks has the drone connected to?”
+A BACKGROUND IN FORENSICS
+The researchers first proposed this drone forensics project because “we saw a gap emerging among law enforcement agencies in the knowledge and protocols for how to address these devices,” Watson said. “Agencies were receiving devices as evidence without any guidance on if data existed on the device and how to get the data off.”
+The unprecedented aspect of this research is what attracted the researchers. “Our focus at VTO Labs is on retrieving data from new technologies and problem areas,” Watson said. “Devices with no known digital forensic protocols. Prototype devices. New technologies not yet deployed to the public.”
+Watson has worked in technology for more than 20 years, nearly all of which was focused on cyber-security. “Among my colleagues I was known as the one who could get data off of old devices, new devices, rare devices and anything unusual,” Watson said. “I made my mark in this space by doing the hard things that other people didn’t know how to do.”
+“In one my first jobs in IT, I came in one morning, and my boss had unusual things happening on his computer. He got the ILOVEYOU virus, and shortly after that the Melissa virus came, so my earliest days in IT involved dealing with malware and cyber-security risks,” Watson said. “After I left that job, I started working at a startup that was purchased by Intel Corporation, and I spent nights sleeping in a sleeping bag on the floor of the data center waiting for updates to help stop malware. When you go through all that, you start wanting to understand how this malware got in, which led me on the path of digital forensics.”
+EXTRACTING DATA
+There are many different kinds of drones on the market, each potentially requiring unique approaches when it comes to data extraction.
+“The data from some drones can be retrieved while the drone is intact,” Watson noted. On the other hand, “some drones require disassembly of the aircraft; other drones require complete disassembly down to the chips. One of the premises of our research is identifying how to get the data of test devices so digital forensic practitioners have guidance when they receive devices as evidence.”
+Aerial drones at the VTO Labs field research station in Colorado.
+For each make the model of drone VTO Labs has researched, the team has purchased three systems and flown them in a controlled, geofenced environment until they accumulated a baseline amount of data. The researchers then extracted data from one while leaving it intact. They disassembled a second and extracted data from its circuit board and onboard cameras. With the third, they removed all the drone’s chips and extracted data from them directly. They also disassembled and extracted data from the pilot controls and other remotely connected devices.
+The researchers were able to retrieve serial numbers, flight paths, launch and landing
+locations, photos and videos from the drones. On one model, they even found a database that stores a user’s credit card information. One reason this might be is because a drone manufacturer sought to give users the ability to order spare parts from the apps connected with their drones, Watson said.
+The images were created using industry standard data formats so investigators can analyze them using forensic software tools and inspect their contents. The images for each drone also come with step-by-step photo-illustrated teardown instructions.
+Watson did not have any experience with drones before he and his company started this research. “However, the VTO Labs team has many years of experience retrieving data from electronic embedded devices,” he said. “By applying our embedded device experience to this new technology platform, we were successful in retrieving the data off all of the drones we have encountered so far.”
+VTO Labs has forensic images of 14 popular makes and models of drones on the site, and hopes to have images of 30 models available by the end of 2018 and 90 models supported over the next three years. “This includes full analysis and rolling data updates as new versions of software comes out,” Watson said.
+There are, of course, currently hundreds of drone models on the market and many more coming. Instead of covering all of the drones available, “our efforts will focus on the drones with the largest market share, as we then have the broadest coverage for our work,” Watson said. “If an organization receives a device not covered by our research, our team is capable of helping them with the one-off devices as they encounter them.”
+Benjamin Findlay, a senior lecturer in crime intelligence and data analytics at Teesside University in England, found this drone forensics project vital because of its proactive nature.
+“The rate at which technology develops is incredible, and often devices will be used in the commission of a crime before they are fully understood from the perspective of what data is available and how do we get it,” Findlay said. “Law enforcement and defense investigations are generally reactive in nature—therefore, by necessity, we are usually playing catch-up. Having such a research project in existence, sharing not just its findings but also the methodologies employed and the working data, provides a tangible helping hand to anyone who subsequently needs to investigate a case which involves such devices. When an individual investigator gets that first case involving drone data, here we have a valuable source of information which is not only going to make their job easier, but also provide a reference pool of data which they can check against. It helps investigators do a better job, and a better job means better delivery of justice and a safer world.”
+INTERNATIONAL INTEREST
+This drone forensic program is surveying users regarding their use of this data. “We’ve had just over 100 responses at this point from North America, South America, Europe, the Middle East, Asia, Africa, Australia—the only place we don’t have a response from is Antarctica,” Watson said. “We learned from the survey that this is a global issue being faced by law enforcement agencies around the planet.” The survey is available at droneforensics.com.
+Watson noted they have had drone operators “call us the enemy and tell them we are ruining their industry on social media,” Watson said. “We are viewed by some as a spoilsport looking to take away their hobby or their livelihood.”
+“I think it’s just that some drone operators are reticent of government regulations and how those might impact them,” Watson said. “My answer back to them is that we have no influence in what rules are made or how they are enforced—we’re just interested in what data we can learn from aircraft. If some people have violated a law or rule in a jurisdiction, the drone may be able to prove that. On the other hand, if drone operators are accused of violating a law and rule and they did not do that, the same information stored in the drone can show they did not actually do what they are accused of.”
+Ali Dehghantanha, director of the Security of Advanced Systems Lab at the University of Guelph in Canada, has been using this forensic data to create artificial intelligence (AI) software to identify drones potentially infected by malware.
+“I was amazed with the potential that all those data have in creation of AI agents that could provide active defense for drones and automatically detect those which are potentially compromised,” he said. “This project paves the way for building forensically sound methods for drone investigation and, more specifically, identifying what illicit actions were taken and when those activities took place. At the same time, we can identify gaps or weaknesses that exist in extending current forensics practices to drone investigation—if there is any missing data that is supposed to be recorded and needed during an investigation, or changing the usual investigation process when dealing with drones.”
+All in all, Watson said he felt “tremendously humbled that our research is being used all over the world. Law enforcement agencies and governments on every continent are using the scientific research we have completed to complete investigations, protect their citizens and make a difference in our world.”
+
+
+
+
+
+ 
+
+
+  
+Related Articles 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+InterDrone Returns to Las Vegas this Week
+
+
+
+
+Drones Detect Radiation
+
+
+
+
+
+
+
+ 
+Read the
+Digital Edition
+
+
+
+ 
+ 
+
+ 
+ Drone News, UAV News, Drone Magazine, Drone Regulations,Drone Applications, Drone Policy, UAV Applications Drone Research, UAV Regulations, Drone Articles, UAV Research, UAV Magazine 
+
+ 
+
+
+
+
+
+Tweets by InsideUnmanned  " 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+About
+Contact Us
+Subscribe
+Advertise
+Privacy Policy
+
+
+							© Autonomous Media, LLC.						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AirLandMaritimeCyberEngineering & DesignPolicy & RegulatoryInnovationNews & AnalysisIn DepthDigital EditionEventsAboutSubscribeAdvertiseContact UsPrivacy Policy 
+
+
+
+  

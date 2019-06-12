@@ -1,0 +1,398 @@
+url: https://arstechnica.com/cars/2018/03/first-test-of-drone-air-traffic-control-to-happen-in-switzerland-this-year/
+
+
+
+Switzerland first to test integrating drones into its air traffic control | Ars Technica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+Biz & IT
+Tech
+Science
+Policy
+Cars
+Gaming & Culture
+Store
+Forums
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+    Navigate
+  
+
+Store
+Subscribe
+Videos
+Features
+Reviews
+
+
+RSS Feeds
+Mobile Site
+
+
+About Ars
+Staff Directory
+Contact Us
+
+
+Advertise with Ars
+Reprints
+
+
+
+
+
+    Filter by topic
+  
+
+Biz & IT
+Tech
+Science
+Policy
+Cars
+Gaming & Culture
+Store
+Forums
+
+
+
+
+
+    Settings
+  
+
+
+Front page layout
+
+
+
+    Grid
+    
+
+
+
+
+
+    List
+    
+
+
+
+
+Site theme
+
+
+Black on white
+
+
+
+
+
+White on black
+
+
+
+
+
+
+
+
+
+
+      Sign in
+      
+
+
+
+
+
+        Comment activity
+      
+Sign up or login to join the discussions!
+
+
+
+
+
+
+
+
+  Stay logged in | Having trouble?
+
+
+
+
+Sign up to comment and more
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+      DRONE ZONE    —
+
+Switzerland first to test integrating drones into its air traffic control
+Think of it as automated flight authorization and cataloging for drones.
+
+
+Eric Tegler
+        -  Mar 9, 2018 2:14 pm UTC
+
+ 
+
+
+
+
+Enlarge / During the recent California wild fires, there were several reports of drones interfering with firefighting attempts.Photo by Ronen Tivony/NurPhoto via Getty Images 
+
+
+reader comments
+
+ with 16 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+Switzerland is on the cusp of becoming the first country to formally integrate drones into the air traffic management system that controls its airspace.
+The limited integration is the first to be launched under a broader European initiative called U-space, which seeks to create a digital infrastructure that would allow millions of small drones to safely operate beyond line-of-sight in approved airspace. A similar, though more modest, model in the US called Unmanned Aircraft System Traffic Management (UTM) has been developed by NASA. Managing and tracking small drones is key to opening the commercial market for drone services.
+Starting in June, Swiss air traffic control operator Skyguide will begin merging its own data and traffic management applications with a software platform developed by Santa Monica, California-based AirMap Inc. The software is called AirMap, which, as the name implies, is a digital airspace-mapping platform.
+AirMap interacts with small unmanned aerial vehicles through an Internet application interface that's also used by drone manufacturers like DJI, 3D Robotics, Yuneec, and other commercial and military small UAV manufacturers. For the Swiss U-space application, AirMap will have two main components.
+The first is a digital registry of drones and their operators, akin to the FAA aircraft registration system. The second is a data sharing and digital communication conduit that allows drone operators to quickly request air traffic control authorization to fly in a specific area and to receive notification of airspace areas that are geofenced and therefore offlimits to small drones.
+Airspace geofences are GPS-defined and routinely subject to change. Drone pilots are immediately notified via real-time traffic alerts by an AirMap app when they cross a geofence area. Alerts show up as text messages or graphic cues on the tablets or smartphones that UAV pilots typically use to control small drones.
+"We're bringing in the actual radar surveillance feeds that air traffic controllers use in providing that high fidelity data directly to drones and drone operators. The idea is to solve relatively simple problems which limit opening airspace to drones," says Ben Marcus, cofounder and chairman of AirMap.
+He points out that until the recent rollout of the more limited system in the US, it often took 90 days to get authorization to fly a low-altitude drone (less than 400 feet/120m) in controlled airspace. Speeding up that process (it can now be done in seconds), alerting drone pilots to flight restrictions, and providing air traffic managers with a basic awareness of who is flying a drone and where, should foster commercial drone activity in Switzerland.
+How Integrated?
+The rollout of drone flight management in Switzerland is symbolically important, but it's also a long way from merging millions of small UAVs into an air traffic control system. For now, you can basically think of it as automated flight authorization and cataloging for drones.
+U-space will unfold in four phases from 2018 through 2021. The first two phases will see "integration into the existing air traffic control system that will be rather limited," Marcus admits. As U-space moves into phases 3 and 4 in 2020-2021, there will be more integration, possibly including transponder-like position data broadcast from drones to Skyguide. Even this is several steps removed from full integration.
+"Air traffic control systems need a very strict safety certification standard," Marcus acknowledges, "so [further integration] will take some time."
+For the present, Switzerland, is very friendly to emerging commercial drone operators. There are few regulations and no specific legal framework tied to U-space. U-space does not even define what constitutes "low altitude" for small drone operations, the Swiss preferring to authorize drone flight on a case-by-case basis.
+EnlargeSkyguide
+Use of the Skyguide/AirMap registration and alert system is voluntary, and there is no automated enforcement of the dynamic geofencing zones it designates by the Swiss civil aviation authority. (Drone flight control systems could possibly receive direct geofence coordinates in the future, barring them from flight into those zones.)
+How many drone operators/drones will participate in Swiss U-space? Ben Marcus says "many," though he has no concrete estimate. It's reasonable to assume that recreational/hobbyist drone operators, who constitute the vast majority of current drone users, will pay little attention to U-space initially.
+Integrating drones with air traffic (and radar data) also gives rise to security concerns, and Marcus affirms that AirMap has been designed with cybersecurity in mind from the outset. However, the 4G and 5G telecom layer used to control drones is vulnerable, as multiple recent media reports illustrate.
+What may be as important is the question of whether elevating small drones to full-fledged participants in a highly monitored, regulated air traffic control system will actually consolidate drone flight, transforming it to a realm of fewer commercial operators, leaving the rest of us behind.
+"Not at all," AirMap's cofounder counters "The services we're offering are unlocking airspace that was not previously available."
+He may be right. But aviation history shows us that as flight became commercialized, its cost and regulation went up, and the number of operators declined. When drones fully join air traffic control systems in a decade or more, history could repeat itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reader comments
+
+ with 16 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+ 
+
+
+
+
+
+
+
+
+You must login or create an account to comment.
+
+
+
+
+
+Channel Ars Technica
+
+
+
+
+← Previous story Next story →
+
+
+
+
+Related Stories
+
+
+
+
+
+Sponsored Stories
+Powered by 
+
+
+
+
+
+Today on Ars
+
+
+
+
+
+
+
+
+
+
+
+
+Store
+Subscribe
+About Us
+RSS Feeds
+View Mobile Site
+
+
+
+
+Contact Us
+Staff
+Advertise with us
+Reprints
+
+
+
+
+Newsletter Signup
+Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  CNMN Collection
+  WIRED Media Group
+  © 2019 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 5/25/18) and Privacy Policy and Cookie Statement (updated 5/25/18) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices

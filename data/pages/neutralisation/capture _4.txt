@@ -1,0 +1,565 @@
+url: https://www.aerosociety.com/news/defeating-drones/
+
+
+
+
+
+Defeating drones
+
+
+
+
+
+
+
+
+
+
+
+
+Defeating drones - Royal Aeronautical Society 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    To provide you the best browsing experience possible, our site uses cookies. By continuing to use our site, you accept our use of cookies. Learn more about the cookies we use.
+                Accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                News & Expertise
+                            
+
+
+
+
+
+
+
+Aerospace Insight                        
+                    
+
+
+
+
+AEROSPACE magazine                        
+                    
+
+
+
+
+Journals & Papers                        
+                    
+
+
+
+
+National Aerospace Library                        
+                    
+
+
+
+
+Policy & Public Affairs                        
+                    
+
+
+
+
+Media Centre                        
+                    
+
+
+
+
+
+
+
+
+
+                                Events
+                            
+
+
+
+
+
+
+
+Calendar                        
+                    
+
+
+
+
+Catch up on Events                        
+                    
+
+
+
+
+Venue Hire at No.4                        
+                    
+
+
+
+
+Terms & Conditions                        
+                    
+
+
+
+
+
+
+
+
+
+                                Careers & Education
+                            
+
+
+
+
+
+
+
+Resources                        
+                    
+
+
+
+
+Guidance                        
+                    
+
+
+
+
+Schools & Outreach                        
+                    
+
+
+
+
+Bursaries                        
+                    
+
+
+
+
+
+
+
+
+
+                                Membership & Accreditation
+                            
+
+
+
+
+
+
+
+Membership Benefits                        
+                    
+
+
+
+
+Join/Upgrade                        
+                    
+
+
+
+
+My Membership                        
+                    
+
+
+
+
+Professional Registration                        
+                    
+
+
+
+
+Accreditation                        
+                    
+
+
+
+
+Professional Development                        
+                    
+
+
+
+
+
+
+
+
+
+                                Get Involved
+                            
+
+
+
+
+
+
+
+Branches & Divisions                        
+                    
+
+
+
+
+Specialist Groups                        
+                    
+
+
+
+
+Young Persons Network                        
+                    
+
+
+
+
+Women in Aviation Network                        
+                    
+
+
+
+
+Boards & Committees                        
+                    
+
+
+
+
+Recognition                        
+                    
+
+
+
+
+
+
+
+
+
+                                About Us
+                            
+
+
+
+
+
+
+
+History                        
+                    
+
+
+
+
+Partnerships                        
+                    
+
+
+
+
+Governance                        
+                    
+
+
+
+
+Fundraising                        
+                    
+
+
+
+
+Contact Us                        
+                    
+
+
+
+
+
+
+
+
+
+
+
+Apply
+
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Defeating drones
+
+
+
+
+
+
+Whether it’s defeating terrorists or protecting shy alpacas, exhibitors at the recent DSEI defence industry exhibition had a range of counter measures designed to jam, repel or capture drones that stray into areas where they shouldn’t be. BILL READ FRAeS reports.
+
+
+
+AUDs anti-AUV system, (Blighter Surveillance System)
+
+
+Among the many exhibitors at the DSEI defence industry trade show in September were a number of companies showcasing products and systems designed to ward off potentially hostile drone flights over unauthorised areas. Some of the systems had military or security scenarios in mind where the incursive drone had actual hostile intent while others were more intended to protect privacy from over-curious private operators. Here’s a selection of some of the drone counter-measure systems on offer, several of which were announced for the first time at the show:
+Jamming drones
+A consortium of three UK companies (Blighter Surveillance Systems, Chess Dynamics and Enterprise Control System) presented AUDS (Anti-UAV Defence System) designed to disrupt and neutralise unmanned aircraft systems. According to its designers, AUDS can detect, track, classify and disrupt UAVs at ranges of up to 10km - each company providing a different part of the system.
+
+
+
+The AUDS counter-drone system can identify the size, speed and position of potentially hostile drones. (Blighter Surveillance Systems)
+
+
+Drones are detected using an A400 Series electronic scanning air security radar from Blighter Surveillance Systems. According to Blighter, the radar can detect small UAVs approaching in any direction in all weathers. A Chess Dynamics Hawkeye electro-optical/infra red (EO/IR) camera system fitted with video tracking technology is track the UAV and, using radar target information, classify the target.
+
+
+
+AUDS can disable drones using a directional smart radio frequency (RF) inhibitor. (Enterprise Control System)
+
+
+If the drone enters a restricted area, an alarm is sounded. The system operator is then able to make an informed decision on whether to disrupt the flight. If the drone is considered to be posing a threat, the operator can activate a directional smart radio frequency (RF) inhibitor (from Enterprise Control systems) to block the signals that control it. These include 433 and 915 MHz frequencies commonly used by UAS, as well as 2.4GHz control band and global satellite (GNSS) bands. The developers claim that the system can detect and disrupt a variety of fixed and rotary wing drones in under 15 seconds. Trials has also proved successful in defeating attacks from drone swarms.
+AUDS software can be tailored to different organisational needs and integrated with existing systems. The system can work automatically or semi automatically with operators having as much or as little input as required. Following customer trials of the pre-production system in Europe and North America earlier this year, the first production version of AUDS was unveiled at DSEI. New features of the system included a fourth inhibitor band, an optical disruptor and additional modularity for ease of deployment.
+The AUDS counter-UAV system was selected by the Spanish Defence Ministry in June to defend critical assets and personnel from malicious drone attacks.
+A demonstration of the AUDS system can be seen on
+
+DroneShield
+
+
+
+DroneShield anti-drone system. (DroneShield)
+
+
+Australia and US-based DroneShield had a number of anti-drone systems on show. These included DroneSentry which features multi-method’ drone detection and radio-frequency jamming systems and DroneSentinel which has detection systems only in situations where operators are not permitted to deploy jamming because of regulatory restrictions. Both systems are modular and can be fitted with a variety of equipment, depending on customer requirements. These can include radar (RadarOne), radio frequency (RfOne), thermal camera (DroneHeat), optical camera (DroneOpt), acoustic (FarAlert and WideAlert) and optical range extender (DroneBeam) modules. DroneSentry can be deployed with a ‘man in the loop’ function or in automatic mode. Production of DroneSentry is expected to commence before the end of this year.
+
+
+
+DroneGun. (DroneShield)
+
+
+DroneShield also produces the DroneGun, a 6kg portable UAV jammer shaped like a gun which the company claims is able to disable drones at ranges of up to 2km. The DroneGun uses signal jamming across 2.4 and 5.8GHz frequencies and is capable of blocking GPS signals. According to the manufacturers, UAVs targeted by the DroneGun are undamaged and either perform a vertical controlled landing or return back to their starting point. DroneShield took advantage of the show to launch DroneGun MkII - a second generation version of the DroneGun featuring a more ruggedised design, lighter weight and improved jamming algorithms.
+Currently, DroneGun is not legal to be sold in the US, as it has yet to be authorised by the Federal Communications Commission (FCC). However, DroneShield reported that its products are currently being tested and evaluated by both US and Australian military forces.
+A video of DroneGun in operation can be seen here
+ 
+Electronic shields
+
+
+
+ANCILE electronic shield. (Allen-Vanguard)
+
+
+Another approach to repelling drones came from Canadian/UK electronic countermeasure specialists Allen-Vanguard which launched its new ANCILE ‘electronic shield’. ANCILE (the name comes from a Roman myth about a divine shield that fell from the sky and assured enduring protection) works by using Allen-Vanguard’s RF inhibition technology to disrupt a wide range of command and control protocols. According to its developers. ANCILE is effective against multiple, simultaneous drone threats including swarms. It can be used either on its own or integrated with other electronic systems. It can be used to protect convoys, operating bases, sensitive locations and public events. ANCILE is portable, easy to use and readily deployable anywhere, including urban environments. 
+Catching drones
+
+
+
+DroneCatcher on display.
+
+
+A more direct way to deal with drones was exhibited by Netherlands-based Delft Dynamics with its DroneCatcher multicopter UAV. As its name implies, the DroneCatcher UAV is designed to intercept and catch other drones, which is does by using an air-launched net.
+
+
+
+Shades of gladiatorial combat - DroneCatcher throws the net. (Delft Dynamics)
+
+
+The system was developed as a result of a plea in 2015 from Dutch police and military police for solutions to protect against UAVs. Delft Dynamics’ solution was to use a drone to catch a drone. The DroneCatcher system works by using a radar, optical or acoustic system, to detect a potentially hostile drone. Operated from a ground station, the DroneCatcher UAVs is then ‘scrambled’ into the air where it uses multiple onboard sensors to lock on to either a stationary or moving target. When it gets within range, the DroneCatcher fires a net onto the hostile drone which becomes entangled in its rotors and prevents it from flying. Early versions of the DroneCatcher had the incapacitated drone either being suspended beneath its attacker or else falling to the ground but the latest trials have included a parachute on the net so that the captured drone can descend gently to the ground without risk of injury to people below. A video of DroneCatcher operating the netgun and parachute system can be seen on http://www.delftdynamics.nl/movies/dronecatcher_movie2.mp4
+Surface-to-air net
+
+
+
+Skywall 300 drone netgun. (OpenWorks)
+
+
+Another system that uses nets to capture drones was on display from UK-based OpenWorks Engineering which was exhibiting its SkyWall100 and SkyWall300 drone defence systems. SkyWall100 is a man-portable system that uses compressed air to fire a net into the rotors of an UAV and return to the ground under a parachute. SkyWall300 is a larger automatic version that launches the same net capture projectiles used with the SkyWall100 handheld system. SkyWall300 can be integrated with other drone detection and command and control systems and automatically tracks any drone before a remote operator gives the command to capture a target. OpenWorks is also developing a longer-range net capture projectile, the SP40-ER, capable of capturing drones several kilometers away.
+
+
+
+Skywall 100 evaluation in New Orleans in April 2017. (OpenWorks)
+
+
+According to the company, the SkyWall100 has already been used to protect President Barack Obama during a visit to Berlin last year, as well as being evaluated at various key locations in New Orleans, including the Superdome, in which it demonstrated the system’s ability to track drone targets in low light conditions.
+Military interest
+The reason for the presence of so many counter-drone systems at DSEI is because military interest in counter-drone systems is rising. In September, the UK Ministry of Defence issued an ‘urgent requirement’ for an anti-drone system. With a potential contract value of £20m, the requirement is for a capability to detect, track, identify and defeat UASs with weight ranges of between 2-150kg with a specific area of focus on the 2-22kg range - a range that covers most hobby and consumer drones.
+
+
+                        Bill Read
+                    
+
+
+                            10 October 2017
+                        
+
+
+
+
+Avionics & Systems
+Engineering & Design
+UAS
+Weapon Systems & Technology
+Defence
+News & Features
+Industry News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related
+
+ 
+
+
+
+A game for drones - lessons from Unmanned Warrior
+As the Royal Navy’s big exercise for unmanned systems Unmanned Warrior closes, TIM ROBINSON reviews what might be the lessons for future autonomous operations from this technology demonstration.
+
+
+
+
+
+
+
+Cross drone traffic - ATM for UAVs
+BETH STEVENSON looks at proposals for the development of air traffic management (ATM) systems to include supervision of UAVs in shared airspace.
+
+
+
+
+
+
+
+Realising Market Opportunities for Drones
+The conference will provide an overview of recent developments from the UK CAA, FAA, EASA and parallel activity within ICAO together with some compelling but disparate examples of operationally important and commercially successful applications.
+
+
+
+
+
+
+
+
+
+
+Comment title
+
+
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+
+
+
+Accessibility
+
+
+Terms of Use
+
+
+Disclaimer
+
+
+Cookies Policy
+
+
+Privacy Policy
+
+
+Contact
+
+
+
+Charity Number: 313708

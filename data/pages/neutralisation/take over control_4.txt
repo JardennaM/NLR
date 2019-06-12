@@ -1,0 +1,369 @@
+url: https://www.eurocockpit.be/news/unwelcome-arrival-drones-airports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The unwelcome arrival of drones at airports | European Cockpit Association (ECA)
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+
+ Menu 
+
+
+Home
+
+
+News
+
+
+Campaigns
+
+
+About us
+
+
+Expertise
+
+
+Positions
+
+
+Media room
+
+
+Crew room
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The unwelcome arrival of drones at airports
+
+
+
+News article |
+                12 March 2019
+
+
+
+
+
+Unauthorised drones are arriving at airports and this is not good news. 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Share It On
+
+
+
+
+
+ 
+The unwelcome arrival of drones at airports
+Despite awareness raising and legislation, unauthorised drones are still spotted at places where they shouldn’t be flying. The perimeters of Gatwick, Heathrow, Dubai or Dublin airports are all no-drone zones but still have become victim of drone disruptions in the past months. In addition, immediately after the shutdown due to drone sightings, airports were somewhat unfairly criticised for being unprepared for this new threat. Should airports invest more in drone detection, identification and drone neutralisation systems? For operational reasons – the answer is probably yes, but there are reasons why the process is taking longer than needed. 
+The first one is that counter-drone technologies are still fully in the development phase. Up until recently regulators and drone manufacturers were counting on the goodwill and knowledge of drone enthusiasts, as well as the efficiency of the public awareness campaign at national and European level. While many do respect the rules, there is still a minority out there that is either uninformed and / or ignorant enough to fly in the vicinity of an airport. It is this minority that doesn’t care much about the existing safety promotion videos or educational leaflets stuck in the box of the drone. This is also the minority that is not scared of the upcoming legal framework, if at all aware of the intense ongoing rulemaking work in the pipeline. 
+ 
+
+
+
+Should airports invest more in #drone detection, identification and drone neutralisation systems?
+Share:
+
+
+
+
+ 
+For all the above reasons, drone and operator registration, training and licensing requirements, as well as clear geofencing requirements are all crucial elements that need to be hooked to clear financial & legal consequences for violating the rules. 
+Unfortunately, it is becoming clear that legal provisions or codes of conduct alone will not be sufficient to protect airports and aircraft from drones. Drone incidents and drone sightings will keep increasing.
+A recent study by Embry-Riddle Aeronautical University looked at drone flights over a two week period around Daytona Beach International Airport. The results showed 21% of the drone flights exceeded the recommended maximum altitude for the area in which they were operating. In one case, a drone was detected at an altitude of 90 feet within a quarter mile of the approach path to an active runway. In total, 8 drones were detected within one mile of the centre of the airport. (Source: Forbes.com) 
+It is therefore not surprising that some leading drone manufacturers have ramped up their efforts to integrate a more sophisticated geofencing system in their products. The improved geofencing system is creating a 3D no-go zone surrounding runway flight paths and other sensitive facilities. 
+The system uses GPS and other navigational satellite signals to prevent drones from flying near these sensitive locations or high-profile events. But what about the drone manufacturers who do not have the geofencing technology embedded? Not to mention the many available ‘do-it-yourself’ drone kits.  
+ 
+
+
+
+Legal provisions or codes of conduct alone will not be sufficient to protect airports and aircraft from #drones
+Share:
+
+
+
+
+ 
+Airports Council International (ACI) representing over 500 airports in 45 European countries is pleading for a mandatory geofencing function of all commercially sold drones. This will allow technology to either send the drones back or disable them. But EU legislation has not foreseen this yet, proposing a more ‘awareness’ based solution (e.g. ‘geo-awareness’ instead of geofencing). And this is already a second reason why airports could be reluctant to invest in counter-drone technologies. Not knowing what the future requirements and legal framework would be creates a huge investment uncertainty.
+Currently, over 155 companies worldwide work on drone defence systems (Source: ASI-MAG). These can range from SIM cards in drone to systems that enable detection, including radar, acoustics, Radio Frequency (RF) detection and thermal heat. But the most common are indeed radar & RF. 
+Vodafone is one of the players developing a European solution and has recently completed a first trial for a mobile tracking and drone detection technology. It works by inserting a standard 4G SIM card and radio into a drone. The mobile operator then tracks the drone through a method that it calls a Radio Positioning System. This system allows drones to be tracked by air traffic control agencies.
+
+
+ 
+Some more extravagant tools, such as guns that disable drones and predatory birds trained to intercept drones in flight also exist. Lasers are another option and both the US and China have experimented with anti-drone lasers, that can shoot down a drone within seconds of locating it.
+ 
+
+
+
+
+
+
+
+ 
+All these new detection and neutralisation technologies sound tempting. But this is a technology that is equally unknown and not sufficiently tested. All technology must be assessed as to possible impact to the entire aviation system. Airports could perhaps benefit from one of these but “there is currently no preferred solution”, says ACI Europe, “that is either approved or tested”. 
+One of the major concerns about all these solutions and defence systems is the potential to interfere with navigation aids and communications of manned aviation. Deploying counter-drone technology prematurely to airports could lead to making more harm than preventing harm. Counter-drone technology, no matter how sophisticated, can still create unintended safety hazards and unmitigated safety risks to manned aircraft, authorized drones and aviation infrastructure. For pilots, an efficient drone detection and neutralisation system cannot come quick enough. 
+ 
+
+
+
+
+
+
+
+
+
+
+Related content
+News
+
+
+ We are all one in the sky 
+
+News article
+Apr 08, 2019
+
+
+
+ The unwelcome arrival of drones at airports
+
+News article
+Mar 12, 2019
+
+
+
+ Drone Sighting Guidelines
+
+News article
+Jan 16, 2019
+
+
+
+
+View all news
+Shape
+
+Positions
+
+
+ Specific Operations Risk Assessment (SORA)
+
+Jan 28, 2019
+
+
+
+ Joint call to safely integrate drones into Europe’s airspace
+
+Sep 05, 2016
+
+
+
+ The RPAS ‘Open Category’ in EASA’s Concept of Operations for Drones 
+
+Jul 24, 2015
+
+
+
+
+View all positions 
+Shape
+
+Campaign
+
+
+ 
+
+
+Integrating drones safely
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More for you
+
+Previous article
+
+
+
+ 
+
+
+  ECA Helicopter pilots on a mission 
+
+
+
+
+
+
+
+Next article
+
+
+
+ 
+
+
+  Beyond breaking point – is the pilot an ‘aircraft part’, or a person?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+The European Cockpit Association represents the collective interests of professional pilots at European level, striving for the highest levels of aviation safety and fostering social rights and quality employment.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+European Cockpit Association AISBL
+Rue du Commerce 20-22
+B-1000 Brussels
+Phone: +32 2 705 32 93
+Fax: +32 2 705 08 77
+eca@eurocockpit.be
+
+
+
+
+
+
+Copyright 2019 European Cockpit Association AISBL - Design and website by EntityOne

@@ -1,0 +1,519 @@
+url: https://www.uavnavigation.com/support/kb/general/general-system-info/flight-control-system-description
+
+
+
+
+
+
+
+
+
+
+
+
+Flight Control System Description | Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+Main Web Contact
+
+
+
+ How can we help? Click here
+
+
+
+
+
+
+
+
+
+
+
+Knowledge Base
+Download Center
+Technical Support
+User account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home >>
+Kb >>
+GENERAL >>
+General System Info >>
+Flight Control System Description 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flight Control System Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1.   System Overview.   A typical UAV Navigation (UAVN) Flight Control System (FCS) consists of:
+
+	 
+
+				 
+
+Component
+
+Provided By
+
+Onboard Elements
+
+
+						Autopilot
+
+
+
+						UAV Navigation:
+
+VECTOR
+
+
+
+
+						Datalink
+
+
+
+						UAV Navigation:
+
+								900 MHz Datalink (TELEM05)
+
+
+						External supplier: RS-232/ETH capable
+
+
+
+						Peripherals
+
+
+
+						UAV Navigation:
+
+								External Magnetometer (MG01)
+
+								Target Drone Peripheral (TGTIO02)
+
+
+						External supplier: to see integrated peripherals list go to Knowledge Base article 'Introduction to Peripherals'.
+
+
+On Ground Elements
+
+
+						GCS Hardware: Modem
+
+
+
+						UAV Navigation:
+
+								Modem with external datalink (GCS03-NR)
+
+
+
+
+						Datalink
+
+
+
+						UAV Navigation:
+
+								900 MHz Datalink (TELEM05)
+
+
+						External supplier:RS-232/ETH capable
+
+
+
+						GCS Hardware: Joystick
+
+
+
+						UAV Navigation:
+
+JY02
+
+
+
+
+						GCS Software
+
+
+
+						UAV Navigation:
+
+Visionair
+
+
+
+	 
+
+	 
+
+	2.   Standard Setup: This configuration uses the VECTOR autopilot, a Joystick, an external radio (not supplied by UAVN), GCS03-NR and Visionair software.
+
+	 
+
+
+ 
+
+	3.   UAVN's APs are complete APs; they include an Air Data System (ADS - static and dynamic pressure gauges) and a GPS, both connected to an Internal Measurement System that contains accelerometers, gyroscopes, magnetometers and an internal CPU. These systems are connected to a flight control computer that implements aircraft control and communications with the GCS via a datalink and payload control.The schematic of a typical UAVN AP is as follows (VECTOR example):
+
+
+
+	 
+
+	 
+
+	4.   AP Navigation Control System Logic: the AP flies the aircraft in fully autonomous mode, from take-off to landing. Its Flight Plan Management (FPM) module will calculate the trajectory to guide the aircraft to the next waypoint (WP), and the FCS module will use the information provided by the Attitude and Heading Reference System (AHRS) to steer the aircraft in the desired trajectory. The following diagram explains the logic behind the navigation control system:
+
+	 
+
+
+
+	 
+
+	5.   Flight Modes: in the Knowledge Base article 'Basic AP Operating Modes' (Fixed Wing and Rotary Wing) a table with the main Autopilot Flight Modes is displayed. The principal flight control modes are:
+
+		TAKE-OFF: Fixed Wing and Rotary Wing
+
+		AUTO: Fixed Wing and Rotary Wing
+
+		FLY-TO: Fixed Wing and Rotary Wing
+
+		LAND: Fixed Wing and Rotary Wing
+
+HOLD (Fixed Wing) - HOVER (Rotary Wing)
+
+MANUAL
+
+		SAFE: Fixed Wing and Rotary Wing
+
+	 
+
+	6.   See also Flight Control System Operation.
+
+	 
+
+	 
+
+	 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+	UAV Navigation
+
+	Avda Pirineos 7, B11, 28703
+
+	San Sebastián de los Reyes, Spain
+
+	+34 91 657 2723
+ 
+
+
+
+
+
+
+
+
+Knowledge Base
+
+
+
+GENERAL
+
+
+ General System Info  
+
+
+
+ Operation  
+
+
+
+ Configuration  
+
+
+
+ Training  
+
+
+
+AUTOPILOTS
+
+
+ VECTOR  
+
+
+
+ AP04  
+
+
+
+AHRS-IMU
+
+
+ POLAR  
+
+
+
+GCS
+
+
+ GCS Hardware  
+
+
+
+ GCS Software  
+
+
+
+PERIPHERALS
+
+
+ Datalinks  
+
+
+
+ Magnetometers  
+
+
+
+ Target Drone Peripherals  
+
+
+
+ Servos  
+
+
+
+ Cameras  
+
+
+
+ Altitude Measurements Devices  
+
+
+
+ Engine Monitors  
+
+
+
+ Transponders  
+
+
+
+ DGPS  
+
+
+
+ Pan and Tilt Units  
+
+
+
+ICD
+
+
+ UAV Navigation Public ICD  
+
+
+
+
+
+
+
+
+
+
+
+
+User login
+ Username or e-mail *
+ Password *
+Request new password
+
+
+
+ Log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2019 UAV Navigation. All rights reserved
+General Terms & Conditions
+Privacy Policy & Website Conditions
+ 

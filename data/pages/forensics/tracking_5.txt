@@ -1,0 +1,530 @@
+url: https://articles.forensicfocus.com/2018/03/06/oxygen-drone-forensics/
+
+
+
+
+
+Oxygen Drone Forensics – How To Deal With A New Threat | Forensic Focus - Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forensic Focus – Articles
+
+Digital forensics articles and research papers
+
+
+
+
+Search
+
+
+
+Search for:
+
+Go
+
+
+
+
+
+
+Subscribe
+
+
+
+
+News
+Forums
+Webinars
+Reviews
+Articles
+Jobs
+Education
+Interviews
+Newsletter
+Events
+ 
+Subscribe to RSS
+
+
+
+
+
+
+Forensics 101
+Oxygen Drone Forensics – How To Deal With A New Threat
+
+Posted by scar ⋅ March 6, 2018 ⋅ 3 Comments
+
+
+Filed Under  computer forensics, Digital Forensics, drone forensics, oxygen 
+
+It was not too long ago when drones were discussed we would often think of military use or large commercial type applications. However, today drones are now in the hands of hobbyists who frequently use the devices for taking aerial pictures and shooting unique video footage. Not to mention law enforcement use them to monitor traffic conditions, and some companies are even starting to deliver packages in busy cities.
+Criminals have now set their sights on these easily purchased devices due to their many features, including carrying payloads, flying great distances, and their anonymity. Drones have even been used by criminals to commit stalking crimes by using them to spy on their victims. With more than 770,000 registered drones in the United States alone, the issue of drone misuse has become a part of regular news stories and is quickly getting out of control. Law enforcement is recognizing this need and are working feverishly to obtain digital evidence from recovered drones. This digital evidence is comprised of images and video footage captured by the drone; GPS logs and route information, to include the start and finish points of the most recent trips, as well as low-level information on the direction and speed of the drone.
+While there are dozens of drone manufacturers and hundreds of different models, there is still no single standard on the way these drones store digital data. The data can be stored in several different formats, while GPS coordinates can also be encoded in multiple ways. Due to the sheer variety of data formats and the potentially overwhelming amount of available evidence, manual extraction and examination of this evidence can be extremely time and labor consuming. Since drone forensics is still relatively new, very few tools exist for experts that allow the automation of these procedures.
+Oxygen Forensic Detective is one of these forensic tools that offers experts the ability to extract digital evidence from the drone’s internal storage or external SD card, parse and decode data, and present it to the investigator in a human-readable form.
+
+The content of the drone’s internal storage or SD card is just the beginning. Since drones are controlled by their respective apps via Android or iOS-based smartphones and tablets, these apps may contain additional information received from the drones. Some of that data is transmitted and stored in the user’s online account or the drone manufacturer’s cloud. This additional data represents a separate challenge since manual extraction is usually either extremely complicated or simply not possible due to the lack of documented APIs.
+Oxygen Forensic Detective can successfully extract information from many types of mobile devices, providing access to information collected by these control apps and stored on the user’s smartphone or tablet. In addition, Oxygen Forensic Detective can remotely obtain information from many different cloud services and online accounts, extracting all available evidence down to the last bit.
+
+Evidence collected from all available sources is combined into a unified data set. Oxygen Forensic Detective automatically parses GPS locations and route data and decodes information representing the drone’s speed and direction to map visual routes in human-readable form. With Oxygen Forensic Detective, the examiner can see the track and related meta-data including the speed and direction of the drone. Not only that; the built-in mapping tool, Oxygen Forensic Maps, will automatically build and display a visual route complete with points of interest (points on the map where the drone was used to shoot pictures or capture video footage). By simply clicking on a point, the expert will gain immediate access to videos and images captured by the drone.
+
+Cloud Extraction
+DJI drones routinely communicate with the cloud, storing some drone data in the user’s online account, the drone manufacturer’s cloud, or both. This additional data within the cloud represents a separate set of challenges for an expert both legally and technically, with manual extraction being extremely complicated or plain impossible.
+
+Oxygen Forensic Detective can help extract the extra information from the cloud. For DJI accounts, all that’s needed to access the data is the user’s login and password. If the password is not available, the expert has an option to use an authentication token obtained from the user’s computer that was used to access the cloud. With no two-factor authentication supported or implemented by DJI, there are no extra challenges in extracting the data.
+What exactly is stored in the user’s DJI cloud account? We’ve been able to extract information about the account, the drone model and serial number, its flight history and associated metadata.
+Conclusion
+What should you expect from a drone forensic tool? Because the number of drones is quickly growing, it should be understood that the number of drone-related criminal activities will also climb. It is essential to have automated extraction, parsing and decoding of the data, as well as convenient visualization of geo-data – as opposed to wasting time on investigating raw logs and copying the binary values representing coordinates, speed, and direction.
+Drone forensics is still in its early stages. While Oxygen Forensic Detective is currently supporting only the few popular drone models including DJI Phantom 3, DJI Phantom 4, DJI Inspire 1, Mavic, and DJI Inspire 2, our direct support for dozens of additional models is right around the corner.
+Share this:TwitterFacebookEmailLinkedInLike this:Like Loading...
+
+Related
+
+
+
+
+
+ 
+
+About scar
+					Scar de Courcier is an assistant editor at Forensic Focus.					
+
+							View all posts by scar » 
+
+
+
+
+« Evidence Acquisition Using Accessdata FTK Imager
+Forensic Acquisition Of Solid State Drives With Open Source Tools »
+
+
+
+
+Discussion
+
+3 thoughts on “Oxygen Drone Forensics – How To Deal With A New Threat”
+
+
+
+
+Great Article.
+As a qualified Drone Pilot and Forensic Consultant, I have been examining drone data for a number of years.  I use both CelleBrite and Oxygen to examine the data that can be extracted from the drones.
+This data can easily be extracted from the drones, using the DJI Assistant, which will produce the same data that both Oxygen and CelleBrite produce, although in a slightly different format, but will also produce things such as stick position and what the user was doing with the remote, eliminating such excuses as the drone did a fly away, which they can do.
+Forensic examination and investigators should also look at any other apps that the pilots/drone user may have been using.  There is considerable information stored on the mobile devices that the user uses when they are flying.  These mobile devices contain a huge amount of information.
+Other apps are also being used, where large amounts of data are stored on the net.  Investigators should look at the drone user, using apps such as ‘AirData’.  This is a sight that data from the drone, via the mobile device, is uploaded to the net and saved.  I have over 1000 flights stored on the site.  As of this morning, there were over 69,000 user, from 195 countries using this site.  It is growing all the time.
+The site records drone speeds, GPS plots, battery condition, direction and pitch of the cameras, images/video that were taken, distance the drone flew, altitude and many other aspects of the flight.  This app can explain why drones crash or how they got to where they were.  It can also prove where the camera was pointed or if photos/video’s were recorded.  It also records the serial numbers and other details of the particular drone.
+While this app, will most likely be used by genuine drone pilots/users, the more nefarious users will not be using these apps.
+In that case, then the DJI Go apps will provide a lot of the information.  Because there is only a limited number of drones that can be accessed using Oxygen and CelleBrite, I would suggest that examiners attempt to use the DJI Assistant App to examine the data from unsupported machines.  But the data can also be examined on a limited basis if the mobile device is examined that was used to control the drone.
+Of course this only relates to DJI Drones at present.
+
+
+
+				Posted by Mike Chappell | March 6, 2018, 8:05 pm 
+
+
+Reply to this comment 
+
+
+
+
+Another alternative way to explore the data received from the drone is the investigate of the photo and video. Maybe there can help the Ultimate Forensics software https://ultimateforensics.com
+
+
+
+				Posted by Reinis | March 12, 2018, 8:51 am 
+
+
+Reply to this comment 
+
+
+
+
+
+
+How can I access Oxygen Forensic Detective Demo?
+
+
+
+				Posted by MFS | December 30, 2018, 7:37 pm 
+
+
+Reply to this comment 
+
+
+
+
+
+
+
+
+Leave a Reply Cancel reply 
+
+
+
+Enter your comment here...
+
+
+
+
+Fill in your details below or click an icon to log in:
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+Email (required) (Address never made public)
+
+
+
+Name (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your WordPress.com account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Google account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Twitter account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			You are commenting using your Facebook account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+
+
+Cancel
+Connecting to %s
+
+
+
+
+ Notify me of new comments via email. Notify me of new posts via email.
+ 
+
+
+
+ 
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+
+Don't miss an article!
+
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 1,215 other followers
+
+
+
+
+
+
+
+ 
+	                    Sign me up!                    
+
+
+RSS - PostsRSS - Comments
+Categories 
+careers
+
+Child Protection
+
+Data Recovery
+
+E-Discovery
+
+Employment
+
+Events
+
+Examiner Welfare
+
+File Systems
+
+Forensic Accounting
+
+Forensics 101
+
+Hardware
+
+How-Tos
+
+Law Enforcement
+
+Legal
+
+Methodology
+
+Mobile Devices
+
+Network Forensics
+
+Organisations
+
+Regulation
+
+Research
+
+Security
+
+Software
+
+Steganography
+
+Uncategorized
+
+Walkthroughs
+
+Windows Forensics
+
+Wireless
+
+
+ 
+
+
+
+
+
+
+
+
+
+					Forensic Focus – Articles				
+
+
+
+Blog at WordPress.com. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post to
+
+
+
+Cancel
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+ 
+%d bloggers like this:

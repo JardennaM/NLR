@@ -1,0 +1,567 @@
+url: https://fstoppers.com/aerial/technical-and-legal-challenges-anti-drone-systems-193666
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Technical and Legal Challenges of Anti-Drone Systems | Fstoppers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Articles
+Tutorials
+Community
+Groups
+Contests
+
+
+
+
+
+
+Log In Sign Up
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+RSS
+
+
+Facebook
+
+
+Twitter
+
+
+You Tube
+
+
+Instagram
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+HomeAerial  The Technical and Legal Challenges of Anti-Drone Systems
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+  
+by Oliver Kmia
+August 28, 2017
+ 3 Comments
+Fstoppers Original 
+
+ 
+
+ 
+3 Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+In 2013, a small quadcopter flew close to German Chancellor Angela Merkel who was attending an outdoor political meeting. A year later an inebriated federal agent crashed his Phantom in the White House perimeter. Fortunately, the drone did not damage Michelle Obama’s vegetable garden, but following this event DJI implemented the no-fly zone feature on its entry-level drones. However, this measure is not completely effective to prevent rogue flights and authorities are looking for solutions to counter drones from flying in restricted areas. Let’s review the current anti-drone solutions and challenges associated with neutralizing a small UAVs.
+According to the FAA, in 2016 people have registered 670,000 drones in the USA and the federal administration forecasts that the hobbyist fleet will likely more than triple in size over the next 5 years, from 1.1 million units in 2016 to over 3.5 million units by 2021. The high scenario may reach 4.5 million units. Drones make headlines every week for flying near airports, dropping packages over prisons, smuggling drugs across the borders, or disrupting the flights of emergency service helicopters. There are several technologies to counter drones but each have strengths and weaknesses.
+Detection and Identification
+The first challenge is to detect and identify the threat. The difference between detection and identification is related to the level of accuracy and certainty. Detection is the ability to find and alert the presence of a threat. Identification is the capacity to classify the nature of the threat. For instance, the motion detection sensor of a home security system can detect a movement coming from a pet, a flapping window, or a person. Beyond that initial detection phase, the owner will need to check the security camera to identify the nature of the alarm: is this a cat or an intruder?
+Below are the main detection and identification technologies.
+Optical and Infrared
+A camera scans the area to detect and identify a potential drone. The monitoring can be done on the visible or infrared spectrum. The issue is that drones are small and difficult to see. They also have a limited heat signature compared to traditional aircraft with combustion engines. These type of sensors are not very suitable for the detection phase. Imagine having to scan the sky around you with a 600mm lens to find a tiny drone. But the main limitation with the optical solution is the impossibility to see at night or through clouds and fog. The infrared thermal imaging performs better but cannot completely punch through a dense layer of clouds.
+Acoustic
+Drones emit a distinctive buzzing sound that can be picked up by sensitive microphones in order to give an estimated direction and distance of the drone. Military forces already use acoustic detection systems to locate snipers. However, acoustic sensors are not able to precisely identify threats and only work at a limited range of a few hundred feet. Moreover, noisy backgrounds (e.g., airport, city downtown), or drone tuning (changing the stock propellers) will limit the detection capability.
+Electronic Support Measures
+This technology consists of scanning and “listening” to the frequencies used by drones to calculate their position. These systems are usually complex and not suitable for direct identification even though the radio signature of most consumer drones such as DJI can be entered in the system library for classification. Moreover, as a passive detection system they can only detect the radio signal emitted by a target but some drones are programed to fly autonomously by following GPS coordinates without sending any signal back to the operator. If the drone does not emit signals, there is nothing to detect.
+A variant of this technology consists of simply receiving the signal sent from the most popular consumer drones (mostly DJI) to warn the operator that a drone is flying in the area. The telemetry data can be intercepted to give additional information (GPS location, etc.). But these solutions do not work with homemade and pre-programed drones.
+Radar
+The Radio Detection and Ranging technology is the best candidate for drone detection. Most current systems are based on this technology. It’s been proven on the field for decades and can be adapted to detect drones. Contrary to common belief, drones can be seen on radars, but not the traditional ones. The key is to select the right frequency, gain, and sensitivity to detect the drone. For instance, the armed forces use radar to detect objects as small as mortar shells.
+However, drones are made out of low reflectivity materials such as the plastic frame of the DJI Phantom. The challenge of radar drone detection lies in selectivity and sensitivity. Lower the sensitivity of a radar and the operator will pick up birds as well. Fortunately, computer algorithms can discriminate the threats by analyzing the patterns of the flight trajectory. A pigeon and a Mavic do not fly the same way.
+Usually these different technologies are combined to offer detection and identification capabilities. Radar is well suited for detection while optical and infrared imaging give the operator a direct view of the object in order to confirm or dismiss the threat.
+
+
+
+Mini drones such as the DJI Spark represent a challenge for the detection and identification systems due to their small size.
+
+
+
+	Neutralization: Destruction Versus Jamming
+Once a drone has been identified, the authority can decide to intercept and destroy the drone or jam its radio signal. The drone’s destruction can be performed via firearms over short range from the ground or inflight from a helicopter. Longer reach requires missile and laser but both solutions are expensive and not ideal in the vicinity of an airport. New technologies are currently being developed such as ultrasound waves that could disrupt the onboard gyroscopes. Electromagnetic pulse and high-energy microwaves constitute potential candidates to the anti-drone race. However, all these solutions can be problematic in urban environments because intercepted drones tend fall out of the sky. Some police forces have conducted tests with birds of prey and anti-drone nets to capture drones in flight.
+Jamming or hacking is an elegant solution because most consumer drones rely on GPS and radio links for navigation. Their communication protocols are relatively simple and not encrypted. Cut the link and the drone will automatically initiate a landing procedure as a safety measure. That is the principle of operation of so-called “anti-drone guns”: point the gun at a drone and blast a powerful signal over the most common frequencies such as 2.4 GHz and 5.8 GHz. Blinded by the gun, the drone will assume that it lost connection from the pilot and initiate the return to home procedure. Add a GPS jammer to the mix and the drone will lose track of its position, drift away, or land immediately depending on its emergency protocol. Simply put, the anti-drone guns are just (overpriced) multi-band radio transmitters equipped with high gain directional antennas.
+Unfortunately, jamming is not operative against autonomous drones which follow pre-programmed routes via GPS waypoints (e.g., Pixhawk). Moreover, many custom-made drones can be fitted with different radio frequencies (72 Mhz, 433 MHz, 800/900 MHz, 1.2/1.3 GHz, etc.) to escape the scope of the drone guns. Jamming the GPS can be effective unless the drone is equipped with an inertial navigation system which allows the aircraft to navigate autonomously without the help external signals.
+The Legal Issues
+The jamming procedure is not exempt of problems due to its poor selectivity. Jamming also affects legitimate systems in the area as the FAA noted on October 2016 in a letter sent to airports:
+
+Unauthorized UAS detection and counter measure deployments can create a host of problems, such as electromagnetic and Radio Frequency (RF) interference affecting safety of flight and air traffic management issues.
+
+Indeed the airports rely on a complex suite of navigation instruments (ILS, DME, VOR, GPS), weather radar, traffic monitoring systems (Transponder, TCAS, ADB-S), and communication systems to function properly. The FAA letter also said: “Additionally, current law may impose barriers to the evaluation and deployment of certain unmanned aircraft detection and mitigation technical capabilities by most federal agencies, as well as state and local entities and private individuals.”
+On this matter, I invite the readers to consult the excellent blog of Attorney Jonathan Rupprecht who provides a constant source of valuable information regarding the legal aspects of the drone world. In summary, Rupprecht describes the existence of a whole boby of regulations at the federal and local level that prevent or strictly regulate the jamming operation.
+For instance:
+The Communications Act of 1934 “requires persons operating or using radio transmitters to be licensed or authorized under the Commission’s rules.” (47 U.S.C. § 301)
+The 47 C.F.R. Section 2.803 of the FCC “prohibits the manufacture, importation, marketing, sale or operation of these devices within the United States.”
+The U.S. criminal code (18 U.S.C. Section 1362) also “prohibits willful or malicious interference to U.S. government communications; subjects the operator to possible fines, imprisonment, or both.” This section could be applied to the GPS jammers.
+Conclusion: The Level of Threat Versus Fear-Mongering
+Most anti-drone systems combine several technologies such as radar for detection and optical camera for identification. Furthermore, many systems only work on the mainstream consumer drones and are totally ineffective against homemade platforms that fall out the range of traditional radio frequency (2.4 GHz and 5.8 GHz) and guidance systems (direct link versus autonomous flight). Unfortunately, building a custom drone is relatively easy and does not require advanced technical knowledge. Legally, the Congress passed the National Defense Authorization Act of 2017 (NDAA) in December 2016 which gives authority to the Secretary of Defense to implement anti-drone measures to protect strategic military locations.
+But let’s take a break and look at the big picture. So far, there’s been only minor incidents despite the millions of machines flying all over the world. With their limited payload and battery endurance, drones are not a good vector for terrorist attacks. Sadly, as we recently saw in Europe, trucks or assault rifles are much more effective tools for mass killing. Of course, statistics dictate that one day a drone will collide with a plane and one day a delivery drone will crash on a house. But is that the main concern here? Does the drone industry deserve this constant level of bashing fueled by cynical politicians and fear-mongering media always prone to launch “breaking news” out of a non-event? How many articles have I read about a supposed collision between a drone and an airplane when in the end nothing happened?
+Every year in the USA, 32,000 people die in car accidents and millions more get injured for a cost to the nation of $200-$300 billion. The Center for Disease Control estimates of hospital-acquired infections shows that between 50,000 to 100,000 people die every year because of pathogens transmitted in U.S. hospitals. Similarly, as many as 20,000 people die of home-related accidents every year in the country. On a funnier note, since 1990 FAA data recorded 198 airplane-to-turtle collisions on the ground (against zero for drones). And the list goes on.
+I’m not trying to minimize the risk of drones but let’s take a deep breath here and prioritize the risks. The emerging drone industry has positive and negative aspects. Some measures must be taken to ensure a certain a level of security but they must be based on actual facts, not fueled by fear and ignorance in the shadow of defense groups and K Street lobbyists seeking to sell their expensive systems. Recently, the United Kingdom Department of Transport launched an interesting initiative to study the effects of mid-air collisions against airplanes and helicopters in order to “improve our knowledge of the potential dangers of drones.” No fear-mongering nonsense here, perhaps it could be a source of inspiration?
+ 
+Posted In: AerialDroneFstoppers Originals 
+
+
+
+
+  
+
+Follow 
+
+Oliver Kmia is specialized in time-lapse, hyperlapse, and aerial videography. He also works with several drone manufacturers as a marketing and technical consultant. He is the lead brand ambassador of Hello Kitty camera, his favorite piece of equipment. Most people think Oliver is an idiot and they are probably right.
+
+
+Facebook
+
+
+Twitter
+
+
+Instagram
+
+
+YouTube
+
+
+Vimeo
+
+ 
+
+More from Oliver Kmia
+
+
+ 
+Will Elon Musk Starlink Satellites Ruin Astrophotography? 
+
+Leaked Specification of the Panasonic S1H: A Full Frame GH5? 
+
+A Music Video Highlights the Disturbing Reality of the Porn Industry [NSFW] 
+ 
+ 
+
+Related Articles
+
+
+
+
+
+
+Aerial
+The Current State of Drone Regulations, FAA Rules, and What's Coming Soon for Aerial Videographers
+April 11, 2016
+
+
+ 
+
+
+
+
+
+
+Aerial
+Overview of AeroScope, a New DJI System to Track and Identify Drones
+October 15, 2017
+
+
+ 
+
+
+
+
+
+
+Aerial
+How to Deal with People Asking Questions While You Fly Your Drone
+July 8, 2017
+
+
+ 
+
+
+  
+
+Log in or register to post comments
+3 Comments
+
+
+
+
+  
+
+Stas Aleksandersson   - August 28, 2017
+Talking about getting the priorities fucked up. I feel like people see drones as a huge war machine ready to crash into everything and cause 1000 deaths.
+
+
+
+
+ 1 
+
+ 0 
+
+
+ 
+
+
+
+
+  
+
+Oliver Kmia  Stas Aleksandersson - August 28, 2017 [Edited]
+Pretty much, the fact that drones are associated with missile launcher predators doesn't help.
+
+
+
+
+ 0 
+
+ 0 
+
+
+ 
+
+
+
+
+  
+
+Stas Aleksandersson  Oliver Kmia - August 29, 2017
+I just don't understand exactly what the problem is - the noise or the ability to take photos and videos. If it's the first then would the people also shoot down a loud Harley? If it's the second then would they snatch the iPhone out of the hands of someone taking photos and break it?
+
+
+
+
+ 0 
+
+ 0 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Follow @Fstoppers 
+
+ 
+
+Trending Articles
+
+
+
+ 
+
+Three Things I Appreciate About Canon Cameras 
+
+
+Five Signs You're Becoming a Better Photographer 
+
+
+Lifetime Review of the Canon EF 17-40mm f/4L USM Lens 
+
+
+Mac Pro 2019: Read This Before You Buy It 
+
+
+Is Photography the Lowest Paid, Least Respected Creative Art Form? 
+
+
+Check Out This Little-Known Sony Mirrorless Hack 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+Featured Photos & Videos
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Fstoppers
+
+Articles
+Tutorials
+Community
+Contests
+New Photos
+
+
+
+Community
+
+Groups
+Photo of the Day
+Popular Photos
+Popular Videos
+Editor's Picks
+Photographer of the Month
+
+
+
+Categories
+
+Fstoppers Originals
+Gear Reviews
+Commercial
+Videography
+
+
+Strobe light
+
+
+Opinion
+DIY
+Sports
+Wedding
+Portraits
+
+
+BTS
+Composite
+
+Film Photography
+Fashion
+More...
+
+
+
+About
+
+About Fstoppers
+Meet the Writers
+Contact Us
+Advertise
+Terms and Conditions
+Privacy Policy
+FAQs
+
+
+
+
+
+RSS
+
+
+Facebook
+
+
+Twitter
+
+
+You Tube
+
+
+Instagram
+
+
+©2019 Fstoppers
+
+ 
+
+
+ 
