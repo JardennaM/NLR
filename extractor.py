@@ -4,11 +4,7 @@ import time
 from bs4 import BeautifulSoup
 from nltk.corpus import wordnet as wn
 import requests
-import urllib.request
 import time
-from bs4 import BeautifulSoup
-from nltk.corpus import wordnet as wn
-from googlesearch import search 
 from nltk import sent_tokenize
 import nltk.data
 import re
