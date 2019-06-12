@@ -12,6 +12,8 @@ from nltk.corpus import wordnet
 import csv
 from cosine_similarity import *
 from scraper_jar import *
+from copy import deepcopy
+from extractor import *
 
 phases = [['detection', 'detect', 'detector', 'detects', 'detecting'], 
 ['classification', 'identification', 'classify', 'reaction', 'idenitfy'],
@@ -23,6 +25,8 @@ phases = [['detection', 'detect', 'detector', 'detects', 'detecting'],
 classes = ['detection', 'classification', 'identification', 'intent', 'decision', 'command', 'control', 'intervention', 'neutralisation', 'forensics']
 
 
+
+
 with open('keywords.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     keywords_dict = {}
@@ -31,10 +35,17 @@ with open('keywords.csv') as csv_file:
     
 
 def phase_classifier(url, terms):
-    text = url_to_text(url)
+    text = url_to_text(url).split(' ')
+    print(list(set(flatten(list(keywords_dict.values())))))
 
 
-# with open('../pages/classification/accoustic_4.txt') as f1:
-#     url = f1.readline()
-#     url = url.split(' ')[1]
-#     print(phase_classifier(url, ['main', 'overall']))
+    # term_vec = term_vector(terms)
+    # for sentence in sentences 
+    # text_vec = text_to_vector(text)
+    # determine_cosine(term_vec, vec2)
+
+
+with open('../pages/classification/accoustic_4.txt') as f1:
+    url = f1.readline()
+    url = url.split(' ')[1]
+    print(phase_classifier(url, ['main', 'overall']))
