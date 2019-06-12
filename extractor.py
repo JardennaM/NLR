@@ -32,7 +32,7 @@ def getTextFromUrl(url):
 	# if PDF
 	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
 		urlretrieve(url, "download.pdf")
-		page =  convert_pdf_to_txt("download.pdf")
+		page = convert_pdf_to_txt("download.pdf")
 	else:
 		page = urllib.request.urlopen(url).read()
 
