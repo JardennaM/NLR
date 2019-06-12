@@ -16,14 +16,75 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
 from nltk.stem import WordNetLemmatizer 
+import pandas as pd
+from urllib.request import urlretrieve
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+from io import StringIO
+
+def convert_pdf_to_txt(path):
+	"""
+	Converts a pdf file to text
+	"""
+    rsrcmgr = PDFResourceManager()
+    retstr = StringIO()
+    codec = 'utf-8'
+    laparams = LAParams()
+    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
+    fp = open(path, 'rb')
+    interpreter = PDFPageInterpreter(rsrcmgr, device)
+    password = ""
+    maxpages = 0
+    caching = True
+    pagenos=set()
+
+    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
+        interpreter.process_page(page)
+
+    text = retstr.getvalue()
+
+    fp.close()
+    device.close()
+    retstr.close()
+    return text
 
 
+def getTerms():
+	"""
+	Gets the terms from the terms.xls file
+	"""
+	terms = {}
+
+	df = pd.read_excel('terms.xls', index_row=0)
+	columnNames = df.columns 
+
+	for name in columnNames:
+		terms[name] = []
+		for item in df[name]:
+			if type(item) != float:
+				terms[name].append(item)
+	return terms
 
 
 def getPageFromUrl(url):
+	"""
+	Function extracts HTML from a webpage (or PDF webpage)
+	and returns it
+	"""
+
+	# if PDF
+	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
+		urlretrieve(url, "download.pdf")
+		return convert_pdf_to_txt("download.pdf")
+
 	return urllib.request.urlopen(url).read()
 
 def removeScriptAndStyleFromHTML(page):
+	"""
+	Take a look at function name
+	"""
 	soup = BeautifulSoup(page, 'lxml')
 	[s.extract() for s in soup('script')]
 	[s.extract() for s in soup('style')]
@@ -32,6 +93,9 @@ def removeScriptAndStyleFromHTML(page):
 
 
 def flatten(l):
+	"""
+	Function flattens a sentence and returns the flattened sentence
+	"""
 	flat_list = []
 	for sublist in l:
 	    for item in sublist:
@@ -46,7 +110,6 @@ def extract_sents(text):
 	tokenized in words.
 
 	"""
-
 	# extract sentences
 	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
 
@@ -89,3 +152,5 @@ def remove_stopwords_punctuation(sentences):
 
 
 	return new_sents
+
+

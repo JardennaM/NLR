@@ -10,27 +10,30 @@ from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 from nltk.corpus import wordnet
 
-def similarity(a, b):
-    return SequenceMatcher(None, a, b).ratio()
 
-terms = {'detection': ['accoustic', 'radio frequency', 'radar', 'camera visual daylight range', 'camera infrared', 
-'camera uv', 'camera multi-spectral', 'LIDAR']}
-
+terms = extractor.getTerms()
 
 # loading sentences
-page = extractor.getPageFromUrl('https://www.l3-droneguardian.com/')
+page = extractor.getPageFromUrl('https://www.hensoldt.net/fileadmin/hensoldt/Datenbl%C3%A4tter/0779_17_Xpeller_brochure_E_for_Email.pdf')
 text = extractor.removeScriptAndStyleFromHTML(page)
 sentences = extractor.extract_sents(text)
 lem_sents = extractor.lemmatize(sentences)
 sentences2 = extractor.remove_stopwords_punctuation(lem_sents)
 
-det_sent = []
-for s in sentences2:
-	det_terms = terms['detection']
-	for term in det_terms:
-		if term in s:
-			det_sent.append(s)
-			break
+
+dictio = {}
+
+phases = [['detect', 'detector', 'detects', 'detecting', 'detection']]
+
+for phase in phases:
+	idx = 0
+	for syn in phase:
+		for s in sentences2:
+			if syn in s:
+				idx += 1
+				stringo = str('detection') + ' ' + str(idx)
+				dictio[stringo] = s
+					
 		
 
-print(det_sent)
+print(dictio)
