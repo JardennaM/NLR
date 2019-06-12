@@ -11,7 +11,6 @@ import nltk
 from nltk.corpus import wordnet
 
 
-
 termfile = open('terms.txt').readlines()
 
 
@@ -26,8 +25,8 @@ def url_to_text(url):
             text = soup.get_text()
             return text
 
-except:
-    print('failed')
+    except:
+        print('failed')
 
 
 # Does google queries with specified terms, fetches relevant urls and extracts the text.
