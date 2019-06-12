@@ -1,0 +1,804 @@
+url: https://www.theverge.com/2019/6/9/18658901/us-army-testing-jamming-resistant-gps-global-positioning-system-russia-2nd-cavalry-regiment
+
+
+
+The US Army will test a new GPS that’s resistant to jamming this fall  - The Verge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audience is coming from. To find out more or to opt-out, please read our Cookie Policy. In addition, please read our Privacy Policy, which has also been updated and became effective May 23rd, 2018.
+By choosing I Accept, you consent to our use of cookies and other tracking technologies.
+
+
+
+        I Accept
+      
+
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In or Sign Up
+
+
+
+Log In
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Tech
+              
+                
+
+
+
+
+              Reviews
+              
+                
+
+
+
+
+              Science
+              
+                
+
+
+
+
+              Creators
+              
+                
+
+
+
+
+              Entertainment
+              
+                
+
+
+
+
+              Video
+              
+              
+
+
+
+              Features
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+              Store
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Tech
+            
+              
+
+
+
+
+Video
+
+
+Amazon
+
+
+Apple
+
+
+Facebook
+
+
+Google
+
+
+
+
+Microsoft
+
+
+Samsung
+
+
+Tesla
+
+
+AI
+
+
+Cars
+
+
+
+
+Cybersecurity
+
+
+Mobile
+
+
+Policy
+
+
+Privacy
+
+
+Scooters
+
+
+
+All Tech
+
+
+
+
+
+            Reviews
+            
+              
+
+
+
+
+Phones
+
+
+Laptops
+
+
+Headphones
+
+
+Cameras
+
+
+
+
+Tablets
+
+
+Smartwatches
+
+
+Speakers
+
+
+Drones
+
+
+
+
+Accessories
+
+
+This is my Next
+
+
+How-to
+
+
+Good Deals
+
+
+
+More from Verge Guidebook
+
+
+
+
+
+            Science
+            
+              
+
+
+
+
+Video
+
+
+Space
+
+
+NASA
+
+
+SpaceX
+
+
+
+
+Health
+
+
+Energy
+
+
+Environment
+
+
+
+All Science
+
+
+
+
+
+            Creators
+            
+              
+
+
+
+
+YouTube
+
+
+Instagram
+
+
+Adobe
+
+
+
+
+Kickstarter
+
+
+Tumblr
+
+
+Art Club
+
+
+
+
+Cameras
+
+
+Photography
+
+
+What’s in your bag?
+
+
+
+All Creators
+
+
+
+
+
+            Entertainment
+            
+              
+
+
+
+
+Film
+
+
+TV
+
+
+Games
+
+
+
+
+Fortnite
+
+
+Game of Thrones
+
+
+Books
+
+
+
+
+Comics
+
+
+Music
+
+
+
+All Entertainment
+
+
+
+
+
+            Video
+            
+          
+
+
+
+            Features
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+
+
+            Store
+            
+          
+
+✕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tech
+
+
+
+
+
+The US Army will test a new GPS that’s resistant to jamming this fall 
+
+Following allegations of Russian jamming during exercises last year
+
+  
+    By
+    
+Andrew Liptak@AndrewLiptak
+
+
+
+        Jun  9, 2019,  6:04pm EDT
+      
+
+
+
+
+
+
+Share
+
+
+
+Tweet
+
+
+
+
+
+
+Share
+
+
+
+Share
+The US Army will test a new GPS that’s resistant to jamming this fall 
+
+
+
+
+share
+
+
+
+tweet
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+Flipboard
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This fall, the US Army will test a jam-resistant GPS to try and overcome the problem, Breaking Defense, following suspicions that Russia has jammed GPS signals in Europe and elsewhere. 
+GPS jamming can also be a major liability for US and allied forces, which depend on the system for everything from troop movement to missile and drone guidance. Last fall, the US and NATO allies launched a major joint exercise in Norway called Trident Juncture, to test the joint readiness and training of a large, multinational coalition. Over the course of the exercise, the military noticed that GPS signals were being jammed, which Finland and Norway officials attributed to Russia. In April 2018, US officials said that the Russian military had been jamming the GPS systems for is drones operating in Syria. 
+Members of the 2nd Cavalry Regiment located in Germany will get the devices this fall, and the Army is reportedly looking into developing a new generation of Inertial Navigational Systems that could be used as a back up. 
+Speaking at the C4ISERnet Conference in Arlington last week, Colonel Nickolas Kioutas, the project manager for the Army’s acquisition developer Positioning, Navigation, and Timing (PNT) said that getting the devices to units quickly was essential, and that the Army is working to roll out equipment in “smaller, iterative programs.” Breaking Defense notes that getting the systems into the hands of units like the 2nd Cavalry will allow the Army to quickly evaluate the technology and improve it if needed — rather than taking years to develop and test equipment that turns out to be flawed. 
+
+
+
+
+
+
+
+    Next Up In
+    
+        Tech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Good Deals
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TCL’s 55-inch 6-Series 4K HDR TV is under $500 for the first time
+The best 4K HDR TV under $1,000 is now under $500
+
+
+
+
+
+
+
+
+
+
+
+
+The Google Pixel 3 XL with 128GB of storage is $350 off at B&H Photo
+The sale price is limited to the ‘not pink’ color variant
+
+
+
+
+
+
+More in Good Deals
+
+
+
+
+
+
+
+
+Verge3.0_Logomark_Color_1
+
+
+
+
+
+
+      Command Line
+    
+Command Line delivers daily updates from the near-future.
+
+
+
+email address...
+
+
+Subscribe
+
+
+
+
+    By signing up, you agree to our Privacy Policy and European users agree to the data transfer policy.
+    
+  
+
+
+
+  This Article has a component height of 4. The sidebar size is short.
+
+
+
+
+
+
+
+
+
+
+Loading comments...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Policy
+Cookie Policy
+GDPR Commitment
+Communications Preferences
+
+
+Contact
+Tip Us
+Community Guidelines
+About
+Ethics Statement
+
+
+
+  All Systems Operational
+  Check out our status page for more details.
+
+
+
+
+Vox Media
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2019 Vox Media, Inc. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+          tweet
+        
+
+
+
+
+          share
+        

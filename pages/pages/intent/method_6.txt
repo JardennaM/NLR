@@ -1,0 +1,464 @@
+url: https://www.leadingedgeonly.com/innovation/view/drone-pilot-detection-system
+
+
+
+
+
+
+
+
+
+
+Drone & Pilot Detection System | Leading Edge Only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            Explore
+        
+
+
+
+
+
+Discover
+
+
+Innovations
+Network Challenges
+University Portals
+Experts
+Blog
+Publications
+
+
+
+
+Sectors
+
+
+Aerospace
+Agriculture
+Banking & Finance
+Defence
+Education & Training
+Electronics
+Engineering
+
+
+Environment
+Fitness & Lifestyle
+Food & Beverage
+Healthcare & Pharmaceuticals
+Hospitality
+Manufacturing & Production
+Media & Entertainment
+
+
+Medical
+Multi Sector
+Oil & Gas
+Power & Utilities
+Professional Services
+Retail
+
+
+Sciences
+Security
+Software & Platforms
+Telecommunications
+Transport
+Wearable Technology
+
+
+
+
+
+
+
+About 
+
+
+
+LEO
+
+
+Innovations
+
+
+Network Challenges
+
+
+Experts
+
+
+University Portals
+
+
+
+
+Network Challenges
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+Login
+
+
+Create Account
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Share
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone & Pilot Detection System
+
+                            Video feed interception and pilot locating system
+                        
+
+
+The new system can detect commercially and custom homemade drones while capturing data used by the drone operator to make decisions regarding the security of the monitoring site.
+
+About
+
+                                                                    Princeton Docket # 16-3176-1
+
+Researchers at Princeton Plasma Physics Laboratory, Princeton University have designed a comprehensive, multi-dimensional intelligence system to detect, track, determine intent and locate drones and their operator&rsquo;s position.
+
+Several detection methods such as audio, video, thermal, radar and radio frequency detection are being used for drone detection. Each method has limitations if used individually -- video detection has difficulty differentiating between birds and small unmanned aerial vehicles, and most small drones do not emit enough heat to be picked up by thermal detectors. Current drone detection systems use one or a combination of detection methods to identify commercially and custom homemade drones. After a drone is identified, the system sends alerts to security staff. However, locating an operator&rsquo;s position and determine their intent in addition to drone detection would be valuable for law enforcement to deploy countermeasures to mitigate the drone threat. Moreover, it will also provide enough evidence for criminal prosecution.
+
+Present invention can go well beyond merely identifying that a drone is nearby. Using an array of sensors (radar, custom made electronic systems and subsystems), software and data systems, this new technique can detect commercially and custom homemade drones while capturing data used by the drone operator to make decisions regarding the security of the monitoring site. Data captured will then be used to search for the operator&rsquo;s location. Additionally, an algorithm acting on all sensors of the drone detection system would match identifiable characteristics of commercially available drones to those recorded in a database and provide a threat level based on any out-of-family results obtained by the system. Law enforcement can decide the next step based on threat level and exact location of drone operator.
+
+
+Princeton Plasma Physics Laboratory (PPPL) 
+
+The U.S. Department of Energy&rsquo;s Princeton Plasma Physics Laboratory (PPPL) is a collaborative national center for fusion energy research. The Laboratory advances the coupled fields of fusion energy and plasma physics research, and, with collaborators, is developing the scientific understanding and key innovations needed to realize fusion as an energy source for the world. An associated mission is providing the highest quality of scientific education.
+
+Intellectual Property &amp; Development status
+Patent protection is pending.
+Princeton is currently seeking commercial partners for the further development and commercialization of this opportunity.
+
+
+Direct Link:
+http://puotl.technologypublisher.com/technology/23396
+                                                            
+
+
+Key Benefits
+
+                                Utilizes data fusion from multiple sensors
+Locates drones and their operators position
+Provides a threat level
+                            
+
+
+Applications
+
+                                Law enforcement
+Civil Aviation
+Civil infrastructure
+Military and Homeland Security
+                            
+
+
+
+
+Register to view this innovation
+
+
+            Access all of the innovation information
+        
+
+            Contact the innovator
+        
+
+            Follow this innovation's progress
+        
+
+            View innovation updates
+        
+
+
+Get started
+
+ 
+
+
+
+
+Register to view this innovation
+
+
+            Access all of the innovation information
+        
+
+            Contact the innovator
+        
+
+            Follow this innovation's progress
+        
+
+            View innovation updates
+        
+
+
+Get started
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+LEO
+
+
+Innovations
+
+
+Network Challenges
+
+
+Experts
+
+
+University Portals
+
+
+
+
+
+
+
+
+Help
+
+
+Contact Us
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+Functions
+
+
+Add your Innovation
+
+
+Create your Network
+
+
+Become an Expert
+
+
+
+Search Innovations
+
+
+
+
+
+
+
+
+Discover
+
+
+Innovations
+
+
+Network Challenges
+
+
+University Portals
+
+
+Experts
+
+
+
+Blog
+
+
+Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+
+                

@@ -1,0 +1,126 @@
+url: https://www.researchgate.net/publication/324994744_Drone_Forensic_Analysis_Using_Open_Source_Tools_in_The_Journal_of_Digital_Forensics_Security_and_Law
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(PDF) Drone Forensic Analysis Using Open Source Tools in The Journal of Digital Forensics, Security and Law
+
+
+We use cookies to make interactions with our website easy and meaningful, to better understand the use of our services, and to tailor advertising. For further information, including about cookie settings, please read our Cookie Policy . By continuing to use this site, you consent to the use of cookies.Got itWe value your privacyWe use cookies to offer you a better experience, personalize content, tailor advertising, provide social media features, and better understand the use of our services.To learn more or modify/prevent the use of cookies, see our Cookie Policy and Privacy Policy.Accept CookiestopSee all ›18 ReferencesSee all ›11 FiguresDownload citationShare  Facebook Twitter LinkedIn RedditDownload full-text PDFDrone Forensic Analysis Using Open Source Tools in The Journal of Digital Forensics, Security and LawArticle (PDF Available) · May 2018 with 535 ReadsDOI: 10.15394/jdfsl.2018.1513  Cite this publication M A Hannan Bin Azhar7.28Canterbury Christ Church University Thomas Barton2.43Canterbury Christ Church University Tasmina Islam1.28University of KentAbstractCarrying capabilities of drones and their easy accessibility to public have led to an increase in crimes committed using drones in recent years. For this reason, the need for forensic analysis of drones captured from the crime scenes and the devices used for these drones is also paramount. This paper presents the extraction and identification of important artefacts from the recorded flight data as well as the associated mobile devices using open source tools and some basic scripts developed to aid the analysis of two popular drone systems- the DJI Phantom 3 Professional and Parrot AR. Drone 2.0. Although different drones vary in their operations, this paper extends the extraction and analysis of the data from the drones and associated devices using some generic methods which are forensically sound adhering to the guidelines of the Association of Chief Police Officers (ACPO).Discover the world's research15+ million members118+ million publications700k+ research projectsJoin for free Figures - uploaded by M A Hannan Bin AzharAuthor contentAll content in this area was uploaded by M A Hannan Bin AzharContent may be subject to copyright. .…  Error messages from attempting to mount "userdata" forensic image…  .…  +7Running "fsck.f2fs" tool on forensic image.… Content uploaded by M A Hannan Bin AzharAuthor contentAll content in this area was uploaded by M A Hannan Bin Azhar on Nov 22, 2018 Content may be subject to copyright.Download full-text PDF 
+
+
+
+
+
+
+A preview of the PDF is not available
+
+
+Citations (0)References (18)This research hasn't been cited in any other publications.Android Debug Bridge ( adb) I Android StudioMar 2017AndroidAndroid. (2017). Android Debug Bridge ( adb) 
+I Android Studio. Retrieved 24 March 
+2018, 
+from 
+https: //developer.android.com/ studio/ com 
+mand-line/ adb.htmlJan 201627-41M A H AzharBinT E A BartonAzhar, M. A. H. Bin, & Barton, T. E. A. 
+(2016). Forensic Analysis of Secure 
+Ephemeral Messaging Applications on 
+Android Platforms (pp. 27-41). Springer, 
+Cham. https: //doi.org/ 10.1007 / 978-3-31951064-4 3Burglars use drone helicopters to target homes-TelegraphMar 2015D BarrettBarrett, D. (2015). Burglars use drone 
+helicopters to target homes-Telegraph. 
+Retrieved 
+23 
+March 
+2018, 
+from 
+https: //www.telegraph.co.uk/ news/ uknews 
+/ crime/ 11613568 / Burglars-use-dronehelicopters-to-identify-targe-homes. htmlCyanogenMod android operating systemMar 2017CsvCsv. ( 2017). Csv View Downloads. Retrieved 24 
+March 
+2018, 
+from 
+https: / / datfile.net / CsvView / downloads.ht 
+ml 
+CyanogenMod. ( 2017). CyanogenMod android 
+operating system. Retrieved 24 March 
+2018, 
+from 
+https: / / github.com/ CyanogenModMexican drug cartels using drones to smuggle heroin, meth, cocaine into U.S.-Washington TimesMar 2017S DinanDinan, S. (2017). Mexican drug cartels using 
+drones to smuggle heroin, meth, cocaine 
+into U.S.-Washington Times. Retrieved 
+23 
+March 
+2018, 
+from 
+https: //www.washingtontimes.com/ news/ 2 
+017 / aug/ 20 / mexican-drug-cartels-usingdrones-to-smuggle-heroi /Android Anti-forensics: Modifying CyanogenModJan 20144828-4837K.-J KarlssonW B GlissonKarlsson, K.-J., & Glisson, W. B. (2014). 
+Android 
+Anti-forensics: 
+Modifying 
+CyanogenMod. In 2014 47th Hawaii 
+International 
+Conference 
+on 
+System 
+Sciences 
+(pp. 
+4828-4837).KingoRoot APK, the Best One-Click Android Root app for freeMar 2017KingoappKingoApp. (2017). KingoRoot APK, the Best 
+One-Click Android Root app for free. 
+Retrieved 
+24 
+March 
+2018, 
+from 
+https: / / root-apk.kingoapp.com/Open Source Forensics for a Multi-platform Drone SystemChapterOct 2017 Thomas Barton M A Hannan Bin AzharDrones or UAVs (Unmanned Air Vehicles) have a great potential to cause concerns over privacy, trespassing and safety. This is due to the increasing availability of drones and their capabilities of travelling large distances and taking high resolution photographs and videos. From a criminological perspective, drones are an ideal method of smuggling, physically removing the operator from the act. It is for this reason that drones are also being utilised as deadly weapons in conflict areas. The need for forensic research to successfully analyse captured drones is rising. The challenges that drones present include the need to interpret flight data and tackling the multi-platform nature of drone systems. This paper reports the extraction and interpretation of important artefacts found in the recorded flight logs on both the internal memory of the UAV and the controlling application, as well as analysis of media, logs and other important files for identifying artefacts. In addition, some basic scripts will be utilised to demonstrate the potential for developing fully fledged forensics tools applicable to other platforms. Tests of anti-forensics measures will also be reported.ViewShow abstractDrone forensic framework: Sensor and data identification and verificationConference PaperJan 2017Upasita JainMarcus Rogers Eric T. MatsonViewHacking and securing the AR.Drone 2.0 quadcopter - Investigations for improving the security of a toyConference PaperFull-text availableJan 2014Proceedings of SPIE Johann PlebanRicardo Band Reiner CreutzburgIn this article we describe the security problems of the Parrot AR.Drone 2.0 quadcopter. Due to the fact that it is promoted as a toy with low acquisition costs, it may end up being used by many individuals which makes it a target for harmful attacks. In addition, the videostream of the drone could be of interest for a potential attacker due to its ability of revealing confidential information. Therefore, we will perform a security threat analysis on this particular drone. We will set the focus mainly on obvious security vulnerabilities like the unencrypted Wi-Fi connection or the user management of the GNU/Linux operating system which runs on the drone. We will show how the drone can be hacked in order to hijack the AR.Drone 2.0. Our aim is to sensitize the end-user of AR.Drones by describing the security vulnerabilities and to show how the AR.Drone 2.0 could be secured from unauthorized access. We will provide instructions to secure the drones Wi-Fi connection and its operation with the official Smartphone App and third party PC software.ViewShow abstractShow moreJoin ResearchGate to find the people and research you need to help your work.15+ million members118+ million publications700k+ research projectsJoin for freeRecommendationsDiscover more publications, questions and projects in DronesProjectDrone Forensics Tasmina Islam M A Hannan Bin AzharForensic analysis of drones   View projectProjectAssistive Technology M A Hannan Bin Azhar Mohamed SakelAnthony CaseyView projectProjectStudent Research Project M A Hannan Bin Azhar Tasmina IslamMatthew AlfieriView projectProjectEvolutionary Robotics M A Hannan Bin AzharTo develop an adaptive control system to achieve tasks ,  which not fully understood by human designers  View projectChapterOpen Source Forensics for a Multi-platform Drone SystemOctober 2017 · Lecture Notes of the Institute for Computer Sciences Thomas Barton M A Hannan Bin AzharDrones or UAVs (Unmanned Air Vehicles) have a great potential to cause concerns over privacy, trespassing and safety. This is due to the increasing availability of drones and their capabilities of travelling large distances and taking high resolution photographs and videos. From a criminological perspective, drones are an ideal method of smuggling, physically removing the operator from the act. ... [Show full abstract] It is for this reason that drones are also being utilised as deadly weapons in conflict areas. The need for forensic research to successfully analyse captured drones is rising. The challenges that drones present include the need to interpret flight data and tackling the multi-platform nature of drone systems. This paper reports the extraction and interpretation of important artefacts found in the recorded flight logs on both the internal memory of the UAV and the controlling application, as well as analysis of media, logs and other important files for identifying artefacts. In addition, some basic scripts will be utilised to demonstrate the potential for developing fully fledged forensics tools applicable to other platforms. Tests of anti-forensics measures will also be reported.Read moreConference PaperForensic Analysis of Popular UAV SystemsSeptember 2017 Thomas Barton M A Hannan Bin AzharRecent technological advancements have made drones, also known as UAVs (Unmanned Air Vehicles), more accessible to the public, causing an increase in their popularity. The potential applications of drones range from simple leisure and recreational purposes to photography, transport, surveying, security, the list goes on. With the increase in demand and subsequent availability, there has also been ... [Show full abstract] a rise in drones used in crime. This creates a need for forensic analysis into devices used for drones. Due to the use of custom electronic flight systems within different drone devices, to date appropriate forensic tools have not been developed. This paper covers the use of open source tools and the development of some basic scripts to aid forensic analysis of two popular drones - the DJI Phantom 3 Professional and AR Drone 2 with the aim of reconstructing the actions taken by these drones, identification of owners or operators, and extraction of data from associated mobile devices. While different UAV systems can vary in their operations owing to their capabilities, some generic methods will be used in analysis and extraction of the data and then results will be compared between models.Read moreConference PaperForensic Analysis of Secure Ephemeral Messaging Applications on Android PlatformsJanuary 2016 M A Hannan Bin Azhar Thomas BartonSecure messaging applications have been used for the purposes of major crime, creating the need for forensic research into the area. This paper forensically analyses two secure messaging applications, Wickr and Telegram, to recover artefacts from and then to compare them to reveal the differences between the applications. The artefacts were created on Android platforms by using the secure ... [Show full abstract] features of the applications, such as ephemeral messaging, the channel function and encrypted conversations. The results of the experiments documented in this paper give insight into the organisation of the data structures by both Wickr and Telegram, as well as the exploration of mobile digital forensics techniques to recover artefacts removed by the ephemeral functions.Read moreChapterForensic Analysis of Secure Ephemeral Messaging Applications on Android PlatformsJanuary 2017 M A Hannan Bin Azhar Thomas BartonSecure messaging applications have been used for the purposes of major crime, creating the need for forensic research into the area. This paper forensically analyses two secure messaging applications, Wickr and Telegram, to recover artefacts from and then to compare them to reveal the differences between the applications. The artefacts were created on Android platforms by using the secure ... [Show full abstract] features of the applications, such as ephemeral messaging, the channel function and encrypted conversations. The results of the experiments documented in this paper give insight into the organisation of the data structures by both Wickr and Telegram, as well as the exploration of mobile digital forensics techniques to recover artefacts removed by the ephemeral functions.Read moreDiscover moreDownload citationWhat type of file do you want? RIS BibTeX Plain TextWhat do you want to download? Citation only Citation and abstractDownloadInterested in research on Drones?Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in Drones and many other scientific topics.Join for freeorDiscover by subject areaRecruit researchersJoin for freeLoginEmail Tip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password? Keep me logged inLog inorContinue with LinkedInContinue with GoogleWelcome back! Please log in.Email · HintTip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password? Keep me logged inLog inorContinue with LinkedInContinue with GoogleNo account? Sign upAboutNewsCompanyCareersSupportHelp centerFAQBusiness solutionsRecruitingAdvertising© ResearchGate 2019. All rights reserved.ImprintTermsPrivacy

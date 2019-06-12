@@ -1,0 +1,273 @@
+url: http://www.lucintsystems.com/
+
+
+
+
+
+
+Lucint Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Applications
+
+Company
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Applications
+
+Company
+
+
+☰ Menu
+
+
+
+
+Lucint builds imaging systems.
+Fully-automated and flight-ready, Lucint's multispectral photogrammetry systems provide reliable service in rugged environments.
+
+
+
+
+Automated Photogrammetric Cameras
+Lucint provides rugged, industrial-quality  cameras, systems, and components. Fragile consumer cameras can't withstand the abuse of long-term commercial field service. And, the short life cycle of consumer cameras limits the potential return on investment. We build tools, not toys.
+We design for any aerial or terrestrial platform, many spectral bands, and a wide range of spatial resolutions. Small UAVs can easily carry our Lucint12 camera - a complete aerial imaging system-in-a-box. Our systems, designed for small light manned aircraft, collect thousands of acres of imagery, faster and more cost-effectively than drones.
+ We have extensive experience designing, building, and integrating multi-camera collection systems that cover the full spectral range from UV to long wave/thermal IR. Image processing experience allows us to deliver useful, actionable final products.
+How We Configure Systems
+Lucint will rapidly configure a system to meet your imaging requirements. With our modular approach using both commercial off-the-shelf products and hardware of our own design, we can build your system quickly and cost-effectively. We cover UV, RGB visible, NIR, SWIR, and LW, thermal IR bands.  Additionally, when the application requires it, we tune the system to narrow spectral bands of interest. In addition to focal plane arrays, we also have experience blending LIDAR data with imagery.
+
+System Configuration
+
+
+
+
+Our modular approach allows us to configure a systems customized to your specifications, at an off-the-shelf price.  We can deliver your system quickly and cost effectively.
+We cover the spectral range, to cover your requirements. By integrating GPS and IMU systems, we augment the imagery with precise metadata.
+
+
+
+Image Processing
+
+
+
+
+We process the collected imagery into useful products. For agricultural applications, we deliver full-color RGB, NIR, color IR, and NDVI imagery.   For various construction, utilities, and inspection tasks, we extract 3D information, or overlay the imagery on LIDAR data.
+ Please discuss your needs with us -- we can develop custom processing algorithms to turn images into answers.
+
+
+
+
+
+Imaging System Products
+
+
+
+
+
+Lucint12 Vision
+
+Includes on-board processing, image sensor, GPS, lens controller, storage in a small, light, weatherproof enclosure.
+
+
+
+
+
+
+Multi-camera Systems
+
+Lucint can configure multiple cameras to cover multiple bands and increase swath width and coverage.
+
+
+
+
+
+
+LucintEB
+
+LucintEB controls, downloads, and synchronizes multiple thermal cameras and simplifies cabling.
+
+
+
+
+
+
+Custom Imaging Systems
+
+An imaging solution built and designed to meet your application and needs.
+
+
+
+View all Products
+
+
+
+Lucint Camera System Features
+
+  Configurable
+  Cost-Effective
+  Complete
+  Manufactured in the USA
+  Georeferencing Metadata
+  Extended Temperature Range
+
+
+
+
+Looking for a custom solution?
+Contact Us
+
+
+
+
+Applications
+Lucint develops systems for a wide variety of applications. In the growing Ag market, our ability to capture and process multi spectral data is key to maximizing yield. From utility lines to gas leak detection to corona detection, our imaging systems can provide data necessary for safety and maintenance. Surveying construction projects with multiple image collections throughout the effort gauges resource management and productivity. Call us and let’s discuss the specifics of your application. 
+Learn More
+
+
+Camera Platforms
+
+
+
+
+
+
+Manned Aircraft
+
+
+Given current limits on UAV capabilities and regulations, small light manned aircraft deliver the quickest, and most cost-effective method to cover large areas.  Our multi-camera systems were designed for ease of integration. 
+
+
+
+
+
+
+
+Heavy Lift UAV
+
+
+For heavy lift multirotor drones, we have developed multi-camera, multispectral systems including RGB, NIR, and long wave thermal imagers.
+
+
+
+
+
+
+
+Small UAV
+
+
+Our Lucint12 camera includes a sensor, GPS, lens controller, and processor in a small, light, rugged, weather-proof enclosure. At 19 ounces, medium size UAVs can easily carry this payload.
+
+
+
+
+
+
+Get in Touch!
+
+
+
+
+
+First Name: (required)
+
+
+
+Last Name: (required)
+
+
+
+
+
+Organization: 
+
+
+
+Title: 
+
+
+
+
+
+Email: (required)
+
+
+
+Telephone: 
+
+
+
+
+Comments: 
+
+
+
+
+
+
+
+
+
+
+
+Address
+6635 North Baltimore Ave 
+						Suite 283 
+						Portland, OR 97203 
+
+Phone: 503-383-1815
+
+Social
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+			© 2019 Lucint Systems, Inc. • All Rights Reserved.
+		
+
+Website by MK

@@ -1,0 +1,675 @@
+url: https://www.photonics.com/Articles/Drones_with_Multispectral_Cameras_Bring/a58350
+
+
+
+
+
+
+
+	Drones with Multispectral Cameras Bring Efficiency to High-Throughput Plant Phenotyping | Features | Apr 2016 | BioPhotonics
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+Photonics Media
+Buyers' Guide
+
+
+
+Register
+Login
+
+
+
+Publications
+News
+Features
+Products
+Technologies
+Media
+Webinars
+Events
+
+
+Subscribe
+Advertise
+About Us
+Bookstore
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Week in PhotonicsLight Matters Monthly AlertPhotonics Spectra NewsletterBioPhotonics NewsletterEuroPhotonics NewsletterAsia-Pacific Photonics NewsletterPhotonics Showcase NewsletterSpectroscopy NewsletterTradeshow Sneak PreviewsIndustrial Photonics: Lasers NewsletterVision Spectra NewsletterPhotonics in Defense & Aerospace NewsletterPhotonics Media Bookstore AlertPhotonics Marketing NewsletterPhotonics Media Press Author CommunityTechnology Newsletters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+
+
+BOOKSTORE
+
+
+SUBSCRIBE
+
+
+ADVERTISE
+
+
+
+
+Login
+Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLICATIONS
+
+Photonics Spectra
+Vision Spectra
+BioPhotonics
+EuroPhotonics
+Photonics Showcase
+Photonics Buyers' Guide
+Photonics Handbook
+Photonics Dictionary
+Newsletters
+
+
+
+
+
+NEWS
+
+Latest News
+Features
+Business
+Research & Technology
+Editors' Picks
+
+
+
+
+
+PRODUCTS
+
+Latest Products
+Photonics Showcase
+Photonics ProdSpec
+
+
+
+
+
+TECHNOLOGIES
+
+Lasers
+Optics
+Imaging
+Biophotonics
+Industrial
+Sensors & Detectors
+Test & Measurement
+Light Sources
+Fiber Optics
+Spectroscopy
+Microscopy
+Materials & Coatings
+
+
+
+
+
+WEBINARS
+
+
+
+
+WHITE PAPERS
+
+
+
+
+MEDIA
+
+Featured Videos
+Light Matters Newscast
+Breaking Through Podcast
+
+
+
+
+
+EDUCATION
+
+Handbook
+Dictionary
+Laser Timeline
+Laser Spectrum Chart
+Photonics Timeline
+Educational Institutions
+
+
+
+
+
+EVENTS
+
+Upcoming Events
+Prism Awards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drones with Multispectral Cameras Bring Efficiency to High-Throughput Plant Phenotyping
+
+
+
+
+
+
+
+
+
+
+Drone-supported multispectral imaging can help break the ‘phenotyping bottleneck’ and enable plant breeders to grow the most drought-tolerant, disease-resistant and highest-yielding genetically enhanced crops. However, shortcomings in aerial multispectral imaging technology must be overcome before it can help breeders grow the perfect plant.JAMES SCHLETT, EDITOR,  james.schlett@photonics.comIn 1866, the Brno Natural History Society, in what is now the Czech Republic, published an Austrian monk’s paper, “Experiments in Plant Hybridization,” which reviewed his observations of pea plants grown in a monastery garden. Little did the monk, Gregor Mendel, know at the time that he would become known as the father of modern genetics by hypothesizing that hereditary traits, which could be dominant or recessive, were passed from a parent plant to its offspring. These traits from the parent plants influenced everything from the purple or white color of their offspring’s flowers to roughness or smoothness of their pods1.
+
+
+Figure 1. A Raptor Maps Inc. drone flies over a wheat field showing signs of wind damage. Courtesy of Raptor Maps.
+
+Since then, genetics has literally changed the field of agriculture. Today, 150 years after the publication of Mendel’s seminal paper on plant hybridization, scientists are struggling less with altering the genetic makeup — or genotypes — of various crops and more with assessing the physical expression of genes — or phenotypes.
+
+In other words, scientists and engineers are still looking for the 21st-century equivalent of a monk collecting phenotypic data by standing over a garden. The process is known as high-throughput plant phenotyping (HTPP), and agricultural genetic engineers today are concerned with finding the optimal genes of more than just pea plants. Although scientists over the past two decades have made significant progress in gene sequencing technologies, there is currently a “phenotyping bottleneck” where the understanding of genetic information slows to a crawl because the processes for observing crop phenotypes remains slow, costly, labor-intensive and even destructive in some cases2.
+
+Multispectral imaging is emerging as the best tool for breaking that bottleneck. Even though this technology isn’t new, the literal and figurative rise of unmanned aerial vehicles (UAVs) is spurring innovation and yielding a new crop of sensors and imagers that allows researchers to collect and analyze richer spectral data on a variety of staples such as corn, cotton, potatoes, sorghum and wheat. Peas, too (Figure 2).
+
+
+Figure 2. False color high resolution aerial image (R, G, NIR) used for high-throughput phenotyping in wheat fields. The image provides insights of the wheat’s winter hardiness and can also be used for estimating yield potential. Courtesy of Washington State University.
+
+“This is the bloody cutting edge of high-throughput phenotyping,” said Kevin P. Price, the executive vice president of research and technology development for AgPixel LLC, a Johnston, Iowa-based remote sensing and geospatial analysis firm. His firm recently helped a plant breeder identify a plot of genetically engineered sorghum that exhibited phenotypes that help increase biomass, making the crop ideal for biofuel applications (Figure 3).
+
+Aerial multispectral imaging
+
+For decades, farmers and scientists have relied on multispectral images to help them obtain sweeping views of fields and the conditions of crops. The relationship, commonly referred to as precision agriculture, has been growing stronger since the launch of the first space-based multispectral imager, Landsat 1, in 1972.
+
+
+Figure 3. Increased sorghum biomass can be achieved by increasing leaf area, with the top leaves growing more vertically and the bottom leaves growing more horizontally. Using a multirotor UAV equipped with a multispectral imaging sensor, AgPixel LLC helped a plant breeder determine that genetically engineered sorghum grown in plots 24 and 41 displayed these desired phenotypes. In the chart, higher percentages of visible area for uppermost leaves suggest a more horizontal geometry; and higher percentages of visible area for lowermost leaves suggest a more vertical geometry. Courtesy of AgPixel.
+
+Multispectral imaging involves the collection of data across the electromagnetic spectrum, usually including light that is visible and invisible to the human eye. Through the use of filters, multispectral sensors capture, within broad and separate bands, the light reflected off the surface of vegetation and other objects. Given that not all objects absorb light the same way or absorb it differently under certain conditions, the amount of light they reflect, known as their spectral reflectance, likewise varies3. Loosely defined, multispectral imaging involves three to six bands. They typically include the broad bands of red, green and blue as well as a narrowband of blue or red, plus the red-edge and near-infrared (NIR). In contrast, hyperspectral imaging involves a greater number of narrower bands — sometimes more than 2,000 of them.
+
+Landsat 1 and its seven successors (Landsat 8 was launched in 2013) have provided researchers and farmers with valuable information and enabled them to establish a normalized difference vegetation index (NDVI). Using the NDVI, which is measured as NIR − red / NIR + red, researchers and farmers can obtain estimates of vegetation water content, biomass, chlorophyll content and crop productivity (Figure 4). The closer the NDVI is to positive 1, the more vegetation there is; whereas the closer the NDVI is to negative 1, the less vegetation there is4. However, spaced-based multispectral imaging does have many limitations.
+
+
+Figure 4. A TrueNDVI map of a field indicating crop stress. The normalized difference vegetation index (NDVI) is a classical index in agriculture originally developed for use in Earth-monitoring satellites. Raptor Maps’ TrueNDVI enables this historical data to be compared to drone-based imagery. Courtesy of Raptor Maps.
+
+“With newer technology, we are able to both count individual plants at emergence (when they pop out of the ground) and provide a measure of individual plant health. With older multispectral imaging technology (such as satellites), this would still appear to be a large patch of dirt,” said Nikhil Vadhavkar, the CEO of Raptor Maps Inc., a Boston-based agricultural analytics company that uses UAVs.
+
+Most modern commercial satellites can capture images at a spatial resolution of 0.5 to 2 meters, according to Laurent Bonneau, the manager of Yale University’s Center for Earth Observation. In contrast, the spatial resolution of multispectral images can be 45 mm when taken by a Cessna, 10 to 20 mm when taken by a fixed-wing UAV and 3 mm when taken by a multirotor UAV, according to Price.
+
+Bigger than a monastery garden
+Precision agriculture largely uses multispectral imaging for damage control, providing what Bonneau called an “early warning of where there is stress in a field.” These crops may be under duress because of pests or disease or insufficient water or nitrogen. According to Sindhuja Sankaran, an assistant professor at Washington State University in Pullman, Wash., HTPP, instead, uses multispectral imaging to gather data on various phenotypic traits such as emergence; plant vigor/greenness; disease resistance rating; water-, heat- and salinity-related abiotic stress tolerance; canopy closure; and yield potential.
+
+“We are just beginning to explore,” said Sankaran, who specializes in agricultural automation engineering.
+
+Just as Mendel needed to monitor more than 20,000 pea plants to statistically prove his theories on plant hybridization, crop breeders need exhaustive amounts of phenotypic data to determine which types of genetically enhanced crops are superior. But modern testing areas are far larger than a monastery garden. By increasing the data-collection rate through UAV-supported multispectral imaging, researchers are able to collect phenotype data on many more genetically enhanced plants, said Alex Thomasson, a professor of biological and agricultural engineering at Texas A&M University in College Station, Texas, who commonly uses a fixed-wing UAV.
+
+“Before aerial and ground-based robotics, phenotyping data were collected manually by graduate students/technicians walking through the field. All aerial data have previously been lacking in resolution for this level of data,” he noted.
+
+Technological advancements and setbacks
+
+Even though multispectral imaging technology designed for drones has made significant advances over the past several years, particularly in size and weight reductions, researchers Thomasson, Sankaran and Price said it is still lacking in many aspects. There is a need, for example, for higher spatial resolution, more spectral bands, faster exposure time and better software for managing images.
+
+“Spectral bands and resolution of the true multispectral sensors have not changed much, but the weight, cost and overall data quality has improved tremendously,” said Philip Ferguson, vice president of development for PrecisionHawk Inc., a Raleigh, N.C.-based remote sensing applications and data processing services provider. “The multispectral sensors we fly now are half the size and one-quarter the weight of the previous sensors.”
+
+Many of the current shortcomings in UAV multispectral imaging technology are tied to their mapping coverage area and the need to “stitch” hundreds of images together into mosaics. Vadhavkar at Raptor Maps opined about how stitching is “computationally expensive,” but his company has overcome this limitation by leveraging cloud infrastructure, such as Amazon Web Services, “to parallelize this and turn fields around in … hours, as opposed to days.”
+
+Taking images at higher altitudes reduces the need for stitching. But this approach introduces its own unique set of limitations. Thomasson’s research strives for a spatial resolution of 5 mm per pixel, which requires a camera with a large number of detector elements and a short exposure time. At an altitude of 400 ft and a speed of 30 mph, Thomasson said the ideal exposure time would be 0.1 ms to reduce pixel smear, which effectively reduces pixel resolution. In comparison, he said, currently technology under similar conditions operates with a sub-inch spatial resolution and 1-ms exposure time. Another issue is mosaicking errors, such as the appearance in images of stripes, which are artifacts of the mosaicking process (Figure 5).
+
+
+
+Figure 5. An image of a cotton field taken by a UAV at an altitude of 400 ft. The stripes running from upper right to lower left in the image are artifacts of the mosaicking process. Courtesy of Alex Thomasson.
+
+“The needs for well-defined high-resolution pixels in HTPP are: one, to differentiate sunlit plant parts from shaded plant parts and background (soil and plant residue) so that measurements like, potentially, nitrogen content can be specific to the plants; and two, to distinguish among plant parts so that morphology (lengths and angles [of] leaves, stems, etc.) can be made at a highly detailed level,” said Thomasson.
+
+Hunger for more spectral information
+
+More than anything, demand for more band options is strongest among many people involved in both precision agriculture and HTPP. Ferguson noted that phenotyping demands extremely tight spectral bands.
+
+“Bands, bands and more bands. Our clients’ hunger for more spectral information is insatiable,” Ferguson said.
+
+However, “more bands” does not mean a smorgasbord of 2,000 bands. Instead, Ferguson said, it means “dynamically selectable bands,” ideally in a hyperspectral imager being used in a multispectral mode. Ferguson said an eight- to 10-band sensor “would be a dream today.” He noted it remains a challenge to fit eight quality lenses into the belly of a small UAV.
+
+Pinpointing what discrete bands are needed, through the use of current multispectral imaging technology, can be a difficult task, according to Igno Breukers, chief commercial officer of Quest Innovations BV in Middenmeer, Netherlands. To help researchers and plant breeders identify the narrow bands they need, Quest recently rolled out the Hyperea42, a visible-NIR range hyperspectral camera (Figure 6).
+
+
+Figure 6. Quest Innovations BV’s Hyperea42, a visible-NIR range hyperspectral camera for both UAV and industrial applications. The three-way, prism-based camera has 42 spectral bands and a range from 470 to 1000 nm, with 10- to 15-nm bandwidth per channel. Courtesy of Quest Innovations.
+
+“It is an ever-evolving science in which, in many cases, it is known that a solution is to be found somewhere in the reflectance correlation between different bands, but it simply isn’t yet known where exactly to look. Hyperspectral imaging has opened those doors to define this,” said Breukers.
+
+Quest’s new three-way, prism-based camera has 42 spectral bands and a range from 470 to 1000 nm, with 10- to 15-nm bandwidth per channel. Breukers said one of the Hyperea42’s targeted customers would be UAV services providers, who can use the camera to look within multiple narrow bandwidths to identify certain reflectance peaks whenever investigating a specific issue.
+
+However, not everyone is clamoring for more bands.
+
+“Having more bands does not necessarily mean better spectral discrimination — in fact the correlation between bands can be extremely high … I have worked for 25 years in the area of hyperspectral image analysis, working with 224 bands and even 2,151 bands, and what I learned is that most of the unique information in all the bands can be explained with three or four bands,” said Price at AgPixel.
+
+
+Figure 7 . (a) Multirotor UAVs are good for low-level hovering, but the weight of their payload can significantly limit flight times. Courtesy of Washington State University. (b) Helicopter UAVs can hover with heavier payloads but are more costly. Courtesy of Quest Innovations. (c) Fixed-wing UAVs have longer flight times and typically fly at higher altitudes than multirotors, meaning the former’s spatial resolution may not be as sharp as the latter’s. Courtesy of PrecisionHawk Inc.
+
+Temporal resolution
+
+Throughout his many years of using hyperspectral imaging, Price said he has never found any “magic bands.” At a time when thousands of bands are available for plant studies, he favors fewer bands in optimal portions of the spectrum, such as red, green and blue for plant pigmentation characterization, and NIR for canopy and leaf structural characterization bands. He also stressed the importance of frequent data collection, or what in remote sensing is referred to as increased temporal resolution. Price noted that plant characteristics change rapidly over the growing season and increased temporal resolution is needed to capture important plant growth stages.
+
+“With plants, the more frequently you can get data, the more valuable it becomes. Plants change rapidly,” he said.
+
+From Mendel to UAVs, this emphasis on frequency of plant assessments has not changed. And with or without higher spatial or spectral resolution, HTPP is something to drone on about.
+
+References
+
+1. Biography.com. Gregor Mendel. www.biography.com/people/gregor-mendel-39282.
+
+2. M. Karkee et al. (November 2014). The state of drones for agriculture. Washington State Grape Society annual meeting, Grandview, Wash. www.grapesociety.org/wp-content/uploads/2015/02/Thurs_AM_3_UASs_ForAg_Karkee_khot.pdf.
+
+3. P. Shippert. Introduction to hyperspectral image analysis. Online Journal of Space Communication, http://spacejournal.ohio.edu/pdf/shippert.pdf.
+
+4. Tetracam Inc. An introduction to multispectral imaging and how growers and other users benefit from this technology. Database abstract, www.tetracam.com/MS%20Database.htm.
+
+
+
+UAVs with the right stuff
+
+Multispectral cameras are not the only tools researchers can use to assess the phenotypes of plants. Other technology includes fluorescence sensors, hyperspectral cameras, thermal cameras/sensors, spectrometers, 3D cameras and lidar. In an October 2015 European Journal of Agronomy paper reviewing the variety of UAVs and sensors that have been used in plant phenotyping studies, researchers from Washington State University and the U.S. Department of Agriculture noted that these sensors “can be based on spectral interactions between object and the electromagnetic spectrum such as refectance or emission in visible and infrared regions or time-of-fight of sound/light signals.”
+
+
+
+The researchers further noted, “The applications of time-of-light based sensors [such as 3D cameras and lidar sensors] are commonly used for evaluating physical/morphological plant characteristics such as plant growth, height, and canopy volume/vigor. These parameters are important in evaluating plant performances during breeding, and can be indicative of yield potential. In regard to the spectroscopic and imaging techniques, a number of plant phenotypes, such as disease susceptibility, susceptibility to drought stress, chlorophyll content, nutrient concentrations, growth rates, and yield potential, can be evaluated (see table).
+
+However, it is important to note that not every type of UAV will be equally effective at deploying each sensor. Factors such as payload and flight time are key considerations when selecting a multirotor, helicopter or fixed-wing UAV (Figure 7).
+BioPhotonicsApr 2016
+
+
+
+ explore related content
+
+
+
+
+ more related
+
+YOU MAY ALSO LIKE
+Sensor Balancing Act for UAVsMid-Infrared Upconversion Imaging Could Speed Medical Diagnostics2019 Prism Award Finalists AnnouncedSingle-Shot Spectrometer Offers Portability, High Resolution
+
+
+
+MORE FROM PHOTONICS MEDIA
+AmericasDr. Patricia Bath, Ophthalmology Pioneer Who Developed Laser Technique for Removing Cataracts, Dies at 76EuropeJonDeTech Appoints Lindeberg New CEOFeaturesOn the Shoulders of GiantsBiophotonicsResearchers Combine OCT and 3D Microscopy to Image Embryos
+
+
+GLOSSARYmultispectral imagingMultispectral Imaging: Creation of an image where each pixel contains more than three spectral data points, typically four to 20. This is contrasted with a standard color camera that only captures three spectral data points (called RGB), or hyperspectral cameras, which capture hundreds of spectral data points. Traditional multispectral cameras captured four data points: RGB and an NIR band. Nowadays multispectral cameras are available as commercial off-the-shelf products, with 12 custom bands...hyperspectral imagingMethods for identifying and mapping materials through spectroscopic remote sensing. Also called imaging spectroscopy; ultraspectral imaging.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            Browse Cameras & Imaging, Lasers, Optical Components, Test & Measurement, and more.
+        
+
+
+camerasSensors & Detectorsimagingmultispectral imaginghyperspectral imagingdronesunmanned aerial vehicleUAVPrecision agriculturehigh-throughput plant phenotypingHTPPJames SchlettFiltersAgPixelLandsat 1Raptor MapsQuest Innovationsnormalized difference vegetation indexNDVIinfraredmultirotorfixed-wingAmericasEuropebiotechnologyBiophotonicsFeatures
+
+
+
+
+
+
+
+
+
+
+
+				
+            The ability to post comments on Photonics.com is one benefit of a FREE Photonics.com membership.
+            
+
+Please login or register, for FREE, to post comments:
+
+
+Login
+Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LATEST HEADLINES
+Optoscribe and Sumitomo Electric Deliver Field-Deployed Testbed for MCF Communications 3 hours agoDr. Patricia Bath, Ophthalmology Pioneer Who Developed Laser Technique for Removing Cataracts, Dies at 76 1 day ago2D Material Combines Long Lifetime with Freedom of Movement 1 day agoGrowing 2D Crystals Over 3D Surfaces Could Be a Way to Engineer Quantum Emission 1 day agoSelective Formation of Excitons Could Lower OLED Energy Requirements 1 day ago
+
+ view all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LATEST PRODUCTS
+CO2 Sensor CO2Meter.comIn-Vitro Smart Camera JADAKOptical Sampling System Menlo Systems GmbHPassive Optical Networking Platform SmartopticsMIPI Camera Modules Vision Components GmbHMounted or Unmounted Spherical Mirrors Optical Surfaces Ltd.Time Delay Integration Camera Teledyne DALSA, Machine Vision OEM ComponentsBlue Laser Nuburu Inc.Erbium Ytterbium Fiber iXblue, PhotonicsFixed-Focus Germanium Lenses Resolve Optics Ltd.
+
+ view all
+
+
+
+
+
+
+
+
+
+
+
+PHOTONICS BUYERS' GUIDE
+
+        Search more than 4000 manufacturers and suppliers of photonics products and services worldwide:
+    
+
+
+
+
+
+Featured Categories33 companiesCooled CCD Cameras155 companiesOptical Coatings58 companiesLaser CrystalsFeatured CompaniesGurley Precision Instruments Inc.Navitar Inc.Prior Scientific Inc.
+
+
+
+
+
+
+BOOKSTORERemote SensingRemote Sensing – the fifth volume in the Photonics Media Press compilation series – is...BUY NOW >
+
+
+
+
+
+
+
+
+
+
+
+Terms & Conditions
+Privacy Policy
+About Us
+Contact Us
+
+
+
+
+
+Our Publications
+Photonics Spectra
+BioPhotonics
+Vision Spectra
+EuroPhotonics
+Photonics Showcase
+Photonics Buyers' Guide
+Photonics Handbook
+Photonics Dictionary
+E-Newsletters
+
+
+
+
+Sections
+News
+Features
+Products
+White Papers
+Media
+Light Matters Newscast
+Webinars
+Events & Courses Calendar
+
+
+
+
+Browse by Subject
+Lasers
+Optics
+Imaging
+Biophotonics
+Industrial
+Sensors & Detectors
+Test & Measurement
+Light Sources
+Fiber Optics
+Spectroscopy
+Microscopy
+Materials & Coatings
+
+
+
+
+Services
+Subscribe
+Login
+Register
+Advertise
+Submit a Press Release
+List in the Buyers' Guide
+Buy Wall Charts
+Terms & Conditions
+Privacy Policy
+About Us
+Contact Us
+
+
+
+
+
+
+
+
+ back to top
+
+
+
+
+
+
+
+
+
+
+
+			    ©2019 Photonics Media, 100 West St., Pittsfield, MA, 01201 USA, info@photonics.com
+
+
+
+
+
+
+x
+Subscribe to BioPhotonics magazine - FREE!
+
+
+
+
+    We use cookies to improve user experience and analyze our website traffic as stated in our Privacy Policy. By using this website, you agree to the use of cookies unless you have disabled them.
+    

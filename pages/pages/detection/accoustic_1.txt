@@ -1,0 +1,416 @@
+url: https://www.sqhead.com/drone-detection/
+
+
+
+
+
+
+Drone Detection – Precision Acoustic Detection – Squarehead Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Drone Detection
+Surveillance & Security
+
+Apply for Credentials
+Login
+
+
+Industrial Measurements
+
+Acoustic Camera
+Condition Monitoring
+
+
+News
+
+Latest News
+
+
+Company
+
+Careers
+Contact
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+Home   Drone Detection
+
+
+Drone Detection
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+Acoustic Drone Detection System Discovair – Rapid Deployable CUAS solution
+
+
+
+
+
+
+The acoustics-based Discovair G2 fills a vital gap in proximity drone detection. Strict line-of-sight to UAS targets is not needed for positive tracking. The drone can operate in urban canyons, cluttered areas, behind obstructions and in darkness or fog, out of range for radars and optics, but still within the ‘earshot’ of the Discovair G2 acoustic sensor.
+Discovair G2 utilizes patented microphone arrays. With 128 interconnected microphone elements, the Discovair sensor units are able to establish azimuth and elevation to the target in real-time using advanced digital signal processing. The acoustic sensors form a completely modular and scalable solution. Discovair G2 can be used for any purpose, from small mobile ground units to large perimeters and even borders.
+Discovair G2 can operate independently, or in conjunction with other detection and mitigation technologies.
+Discovair G2 is intended for 24/7 operations with little user intervention. When a detection is made, the operator will receive both audio and visual warnings. During a detection event, the Discovair graphical user interface (GUI) will display a map or satellite image of the protected zone. Any intruding drones will be shown in their respective sectors.
+
+
+
+
+
+
+
+
+Truly rapid deployableDetect all types of dronesPrecision controlThreat reaction deciderAcoustic verification Jammers not a problemTruly rapid deployable
+
+
+Rapid deployable / small footprint / light weight CUAS detection
+In many situations, the ability to quickly establish control matters. The Discovair system only requires the flick of a single switch to become operational within 30 seconds, when set-up can be done in less than 5 minutes, and total weight for 360 degrees of protection is less than 50 kilos.
+
+
+Detect all types of drones
+
+
+All drones detected – also those that other sensors miss
+You cannot fly a drone without moving air and creating sound, even if the drone is piloted using GPS only, 4G, or novel frequencies. Even If the drone is flown in the cluttered space near ground. Acoustics is inherently difficult to spoof, and – when audible – any drone is detected. Since Discovair uses advanced algorithms instead of libraries, also drones not yet invented or built will be detected.
+
+
+Precision control
+
+
+Precision control of your area
+When a drone is tracked by Discovair, it the track is shown on camera and in map. As the system specializes on the near field, it can enable the operator to gain knowledge of what actions the drone has performed inside the protected area.
+
+
+Threat reaction decider
+
+
+Near field threat reaction decider
+Most drones are actually not threats, but more likely to be some hobbyist flying around. If a drone is detected by Discovair, it means that It should be reacted upon. Other sensors, such as RF, can be used to provide combined alarms and heightened awareness. A drone not visible on RF, but only on Discovair should tell the operator that efforts have been made to make that particular drone hard to detect, and that immediate actions should be taken.
+
+
+Acoustic verification
+
+
+Optional acoustic verification
+Discovair can provide acoustic verification to a human operator, even in an API integration. This capability provides real time, audible, zoomed-in sound of what the system is reacting to. In some cases, the human mind is exceptional at distinguishing the minute differences in sound signature between a drone and something else.
+
+
+ Jammers not a problem
+
+
+Discovair not affected by electronic warfare
+Electronic warfare can be highly efficient as a counter measure for use against drones. However, the application of such measures may render many detection strategies useless as long as applied. How does one then know if the counter measure has effect? Discovair remains operational, even when electronic countermeasure are applied and provides real time information to the operator.
+
+
+
+How it works
+
+
+
+
+
+
+
+Use Case Scenarios
+Perimeter Protection & Defense
+
+
+
+
+
+
+
+
+Drone Detection for Perimeter Protection
+
+Sensors are spaced in a 2-1-2 pattern
+Sensor spacing pending local ambience and requirements. Standard 200 meters
+Can be outward or inward facing
+Can cover ”hidden areas” or pockets without cover
+24/7 operations, all weather
+Understand capability envelope
+
+Get in contact with us for more details.
+
+
+Mobile Deployment / FOB / Ad-hoc
+
+
+
+
+
+
+
+
+Drone Detection as Mobile Deployment / FOB / Ad-hoc.
+
+Discovair har small physical footprint (transportable)
+Deployable in 5-10 minutes
+Completely passive operation serves special needs of certain units
+Vehicle mounting, automated operation possible
+
+Get in contact with us for more details.
+
+
+Object Protection
+
+
+
+
+
+
+
+
+Drone Detection for Object Protection.
+
+Proximity detection and tracking (i.e. “What happened?)
+Directionality and roof mounting suppresses noise from streets and enables operational capability also in cities
+Permanent
+Ad-hoc
+Solo or API integration
+
+Get in contact with us for more details.
+
+
+
+Features
+Ruggedized (MIL-STD)The 2nd generation system is ruggedized (MIL-STD-810G Shock/Vibration, and IP 65) and developed with both rapid deployment as well as permanent installation in mind. The system is highly scalable as the sensor unit has the processing unit embedded.128 individual microphone elementsThe sensor is an acoustical microphone array with 128 individual microphone elements. Signal processing is performed inside the sensor unit itself (on-edge processing).The sensor connects to a computer network as a regular network device (e.g. a network camera) and is configured and operated using a web client or Command and Control (C2) system using the Discovair API.Ad-hoc and vehicle based usageFor mobile, ad-hoc and vehicle based use, from two to four sensors can be connected and powered from the ruggedized Discovair Expanded Deployment Unit (EDU). The EDU can be operated on vehicle power (9-36 VDC) and if required the contents of the unit can easily be mounted in a standard 19” rack.Flexible API for integrationThe system has a rich and flexible API for integration with C2 and scurity systems.
+Discover G2 – Product Line
+Key Components
+
+
+
+
+
+
+
+
+Discover G2 – Key Components
+
+The Discovair G2 is an acoustic drone detection and tracking system comprising a network and power case, called a Deployment Hub, and up to four microphone arrays, called Sensor Units.
+Each Sensor Unit (DISCOVAIR-G2-R) is 415 x 54 x 475 mm (16.3 x 2.1 x 18.7 in) and weighs 8.7 kg. A single Sensor Unit contains an array of 128 microphones, plus a camera. A single Sensor Unit covers approximately 105° in the horizontal direction and 105° in the vertical direction.
+The audio is captured on the microphone front plate and analyzed in the built-in signal-processing unit (SPU). Only video (on demand) and low bandwidth data such as alarm messages are transmitted over Ethernet to a client computer or C2 system.
+
+
+
+Mode of operations
+
+
+Drone Detection Discover G2 – Mode of operations
+Discovair can run in 2 modes; Operator and System.
+
+In Operator Mode, the system is run locally and operated by an operator on a connected laptop. Typically, from 1 to 5 360 degree units can be connected and shown on the screen of the operator’s console. This mode of operation requires no external software and can be run out-of-the-box. Data is visualized through Discovair’s own web based user interface.
+In System Mode, Discovair provides data to a mother system, typically a C2-system or other system providing common operational picture. Data is provided over the rich API, and displayed in whatever system absorbing the data. Discovair is specifically designed to interact with other systems.
+
+
+
+Performance
+
+
+Drone Detection Discover G2 – Performance
+The acoustic coverage of Discovair G2 is 105 degrees in azimuth and 105 degrees in elevation for a single Sensor Unit. Each Sensor Unit is typically capable of detecting drones at a range of up to 500m. Depending on drone size and sound, detections have been observed as far as 1km. Combining multiple Sensor Units into a single system can extend both range and coverage.
+
+
+User Interface
+
+
+
+
+
+
+
+
+Discover G2 – User Interface
+In Operator Mode, the system exposes a simple to use website on any device connected to the same network as the sensor units.  On the screen, the operator can keep overwatch with all the sensors in the same map – keeping control of fields of view and alerts. If needed, individual sensor views can be accessed to view a video image with detections and classifications interpolated. The sensor view is extremely easy to use and allows the operator to be fully focused, and only alerted when an actual event demands attention.
+
+
+API System Integration
+
+
+Drone Detection Discover G2 – API System Integration
+The API is exposed over the WebSocket protocol. WebSocket is a standardized protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol is standardized by the IETF as RFC 6455. Consult the RFC for details on handshake and the message framing.
+Known integrations
+Because Discovair G2 is delivered with an open API, we do not know the exact number of integrations done with the system. Know integrations can be provided on request.
+For further details please contact us.
+
+
+
+References
+
+
+
+Drone Detection System Discovair has been delivered to clients all over the world. Get in contact with us if you want to learn more about our references.
+
+
+
+Downloads
+
+
+
+
+
+Product Catalogue 
+Download the brochure for the drone detection solution “Discovair”.
+
+
+
+Download
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Norway office Visitor address (Norway)
+Squarehead Technology AS
+Nydalsveien 28
+NO-0484 Oslo
+Norway
+ 
+
+US office US Office
+Squarehead Technology, LLC
+580 Herndon Parkway
+Suite Number 350
+Herndon, VA 20170-5225
+USA
+
+Mailing address Mailing address (Norway)
+Squarehead Technology AS
+PO Box 13, Nydalen
+NO-0410 Oslo
+Norway
+ 
+
+  Latest Press Releases 
+
+Squarehead unveils Discovair G2
+
+
+New offices in USA
+
+
+Discovair deployed at G20 Summit, Hamburg
+
+
+ 
+
+
+
+
+
+
+
+Copyright 2019 | Squarehead Technology. All rights reserved
+
+
+
+ 

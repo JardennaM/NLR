@@ -1,0 +1,439 @@
+url: https://omniscient.io/products/drone-detection/
+
+
+
+
+
+
+
+
+
+Drone Detection | Drone Signal Analysis | Omniscient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered By:
+
+
+
+Features
+Solutions
+
+VIPs and HNW
+Airport Drone Protection
+Prisons
+Stadiums & Arenas
+Critical Infrastructure
+Corporate Drone Security
+
+
+Resources
+About Us
+
+Blog
+Buying Process
+Partners
+Contact
+
+
+Attend a Demonstration
+User Login
+ 
+
+
+
+
+
+
+
+
+Features
+Solutions
+
+VIPs and HNW
+Airport Drone Protection
+Prisons
+Stadiums & Arenas
+Critical Infrastructure
+Corporate Drone Security
+
+
+Resources
+About Us
+
+Blog
+Buying Process
+Partners
+Contact
+
+
+Attend a Demonstration
+User Login
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Detection | Drone Signal Analysis
+We offer the ability to detect, track and identify drones across a wide area, on land or at sea.  Using multi-sensory technologies we can give you notice of a drone operating in your airspace.  We design, install, support and update our Drone Defence systems with security-cleared experts.  Our backwards-compatible systems can be fully integrated into existing Security Management Systems (SMS) which reduces the training requirement for your staff.
+With numerous deployments around the world, we are experts in our field.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+How do we do it?
+Radio Frequency (RF) scanners provide the most cost-effective solution for detecting, tracking and identifying drones over a wide area.  They have the ability to scan the electromagnetic spectrum and identify the specific transmissions from commercial drones.  As long as the drone is transmitting a signal (like live video or telemetry) then our RF scanner will detect it.
+If the drone’s operator is also within our sensor network we have the ability to identify and track them so security services and law enforcement officials can respond.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Radio Frequency (RF) Scanning
+Acoustic Detection
+Cameras (EO/IR/Thermal)
+Radar
+
+
+
+
+
+
+
+
+Radio Frequency (RF) Scanning
+We use the latest RF detection technology supplied by leaders in their field.  With the ability to synchronize time-stamps across a number of sensors we can use this information to geo-locate a drone, its operator and track them in real-time.
+Our RF scanner can also identify the drone based on the type of command protocols it is transmitting.  With this information, we can determine the type of drone and its capabilities.  Post-incident analysis can also be conducted to determine drone types and patterns of use in an area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acoustic Detection
+Acoustics sensors can listen for the high pitched frequencies emitted by drones, their motors and propellers.  By analysing the specific noises from the drones an acoustic sensor can give short range (up to 200m) notification of a drone.  Although short ranged, acoustics work particularly well on drones with high stealth capabilities as it is very difficult to mask the noise of the motors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cameras (EO/IR/Thermal)
+Video cameras with video analytics integrate into our systems to provide situational awareness, visual identification and forensic recording. Video analytics allow for the system to distinguish drones from aeroplanes, birds and other moving objects.  Cameras are limited by line of sight, light levels, weather and ranges.  But in conjunction with other technologies, our system has the ability to correlate the information provided by the camera and present it alongside other sensor inputs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Radar
+Radar, an active system, transmits a signal which bounces off the drone and is received by the radar.  Using this information the radar can determine the position and track the drone.  By using advanced analytics some radars can determine the type of drone from the doppler signal reflected by the propellors.  Radars are good at detecting and tracking drones with high stealth capabilities but are weak at identification.  They also need line of sight to the drone so are affected by buildings and trees.  As an active system, it can sometimes be problematic obtain permissions to deploy radars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Drone Detection System Costs
+Relative Costs for a Drone Detection system depends on the technology used and requirements.  In most cases, a robust RF detection system is the most efficient option.  Where specific needs dictate then other technologies may be needed.  It is important to note that there is no ‘silver bullet’ when it comes to drone detection, like with any security product a determined assailant may find a way to defeat a security system.
+Our role is to minimise the risk to you and provide you with timely intelligence allowing you the opportunity to respond.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+3,000,000
+Drones Sold in 2017
+
+
+
+
+7,000,000
+Drones in US by 2020
+
+
+
+
+600,000
+Commercial Drones by 2018
+
+
+
+
+60%
+Annual Growth Rate
+
+
+
+
+Drone Detection
+To give early warning and time to send out an alert
+
+
+
+
+Drone Tracking
+To understand if the drone is flying into your airspace
+
+
+
+
+Drone Identification
+To give you the info you need to respond in time
+
+
+
+
+Drone Denial
+To defeat the drone at range before it is a threat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Want to learn more?
+
+
+Contact Us
+Attend a Demo
+
+
+
+
+
+
+
+
+
+Solutions
+
+VIPs and HNW
+Airport Drone Protection
+Prisons
+Stadiums & Arenas
+Critical Infrastructure
+Corporate Drone Security
+
+
+About Us
+
+About Us
+Blog
+
+
+Omniscient
+
+Features
+Buying Process
+Partners
+
+
+ 
+
+
+
+
+
+© 2019 DroneDefence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms & Conditions
+Privacy Policy
+Cookie Policy
+Acceptable Use Policy

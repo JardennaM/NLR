@@ -1,0 +1,313 @@
+url: https://www.uasvision.com/2019/01/02/rafaels-drone-dome-defeated-gatwick-drone/
+
+
+
+
+
+
+
+Rafael’s Drone Dome Defeated Gatwick Drone – UAS VISION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UAS VISION
+a global news service for the unmanned aircraft systems community
+
+
+
+Menu
+
+About
+Advertising
+Contributors
+Links
+Privacy
+Statistics
+Subscribe
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+
+
+Rafael’s Drone Dome Defeated Gatwick Drone
+
+
+
+The British Army used a cutting-edge Israeli anti-drone system to defeat the unmanned aerial vehicle (UAV) that brought misery to hundreds of thousands of people at Gatwick airport.
+At first, the Police had been seen with an off-the-shelf DJI system that tracks drones made by that manufacturer and shows officers where the operator is. However, the drone used at Gatwick is thought to have been either hacked or an advanced non-DJI drone, which rendered the commercial technology used by the police useless.
+At that point, the Army’s ‘Drone Dome’ system made by the Israeli Rafael was called in.
+Six ‘Drone Dome’ systems were bought by the British Army in 2018 for £15.8 million. A similar system was used by British and US special forces to protect them from drones while liberating Mosul in Iraq and neutralise ISIS drones in Syria, but passengers trapped at Gatwick are furious the weapons were not brought in earlier.
+Army officers use a high-tech radar and a laser rangefinder to locate drones within a 2.1 and 6.2 miles radius. Once the system has a lock on the drone, a radio frequency jammer is then used to overload the drone with signals – knocking out the commands from the unknown owner.
+This can be used to make a ‘soft-kill’ and cease control of the unmanned aerial vehicle (UAV) and land it safely.
+The British Army did not buy a version equipped with a high-powered laser which can make a ‘hard-kill’ on drones by effectively melting them.
+The system is an ‘end-to-end system designed to provide effective airspace defence against hostile drones used by terrorists to perform aerial attacks, collect intelligence, and other intimidating activities’, according to Rafael. It uses four radars to give full 360° coverage to scan the entire skyline. This detection process can spot transport aircraft from about 31 miles away but for a smaller UAV, like the one used to terrorise Gatwick, the ‘Drone Dome’ can only offer a detection range of between 2.1 and 6.2 miles.
+The system allows the authorities to perform a ‘soft-kill’ when the detection programme is integrated with the radio frequency jammer. An antennae made of gallium nitrate is used and this allows the tech to be portable and easy to set up.
+Police were forced to turn to the military devices after failing with commercially available technology. They first tried to identify the location of the drone and its operator by using a briefcase-sized piece of commercially available equipment called AeroScope. It is believed to be on loan at Gatwick airport from COPTRZ, however, it is only able to identify DJI drones from the extensive database provided by the Chinese manufacturer. This ground-based device is used throughout industry and at many events to ensure protection from drones.
+Source: iHLS
+ 
+
+ 
+   Download article as PDF   
+
+		Posted in Anti-Drone, News on January 2, 2019 by The Editor.					6 Comments 
+
+
+
+← China Delivers 100th Wing Loong for Export Insitu Gets $12M US Navy Blackjack Order →
+
+
+
+
+			6 comments		
+
+
+
+
+
+Albert Bravo says: 
+
+
+
+								January 2, 2019 at 13:16							
+
+
+
+
+Photos were of a different system – where’s the evidence of this “Drone Dome” being deployed?
+
+Reply 
+
+
+
+
+
+The Editor says: 
+
+
+
+								January 3, 2019 at 09:48							
+
+
+
+
+Albert, this photo was supplied by Rafael.
+See: MoD removes anti-drone military hardware from Gatwick Article from UK Guardian newspaper
+
+Reply 
+
+
+
+
+
+
+
+Allan says: 
+
+
+
+								January 3, 2019 at 18:50							
+
+
+
+
+Is there any proof that the Drone Dome defeated the Gatwick drone/s?
+I’ve not seen any mention of a drone being jammed by the police or army, only a senior police officer saying that there may or may not have been a drone at all.
+
+Reply 
+
+
+
+
+
+Nick Davis says: 
+
+
+
+								January 4, 2019 at 18:39							
+
+
+
+
+Drone Dome would only have pulled the drone out of the sky to enable forensic examination and hopefully lead to an apprehension of the person(s) responsible, luckily by the end of 19 there will be a drone location system that is networked across the full breadth of the UK and then rolled out globally that will see both errant drones and the operators irrespective of if they are mobile / static FPV or BLOS – basically if they “level bust” or enter a protected 3D airspace block they will very quickly either be re-educated as to the drone rules or apprehended if what they are doing is illegal – great for airports / prisons / critical national infrastructure etc… What an exciting time to be in this space now the “genie is out of the bottle”
+
+Reply 
+
+
+
+
+
+Bob says: 
+
+
+
+								January 26, 2019 at 12:17							
+
+
+
+
+This is a load of baloney.  How could such a system distinguish between a drone and a bird for example?
+
+Reply 
+
+
+
+
+
+
+
+Frank says: 
+
+
+
+								January 4, 2019 at 20:24							
+
+
+
+
+So appears from this Article that Gatwick drone or drones were Not DJI Manufacturered
+
+Reply 
+
+
+
+Leave a Reply Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+Search by CategorySearch by Category
+Select Category
+Accident Reporting
+Aerial Photography
+Agriculture
+Aircraft Propulsion & Energy
+Anti-Drone
+Applications & Testing & Experience
+Business News
+Construction
+Consumer Drones
+Control Stations & Remote Video Terminals
+Data Links & Communications
+Drone Racing
+Electronic Sub-Systems
+Events
+First Responders
+Geology
+Launchers & Recovery Systems
+Law Enforcement
+Leisure
+Lighter Than Air
+Military UAS
+National Associations
+News
+Non-Military & Commercial UAS
+OPA
+Patents
+Payloads
+Pipelines
+Power Lines
+Publications
+Radar
+Regulatory Matters
+Research
+Robotics
+Software
+SPR
+Take-Off & Landing
+Targets
+Technology
+Test Ranges
+Tethered
+Training
+Transport
+Uncategorized
+Utilities
+UTM
+Video
+VTOL
+Weapons Systems
+Working Groups
+
+
+
+Follow 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+										Copyright UASVISION 2019				

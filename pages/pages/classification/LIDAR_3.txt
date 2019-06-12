@@ -1,0 +1,1352 @@
+url: https://www.lidarusa.com/sample-data.html
+
+
+
+SAMPLE DATA - LIDAR USA - UAV DRONE 3D LIDAR MOBILE MODELING MAPPING GIS EXPERTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Home
+			
+
+
+
+				Newsletter
+			
+
+
+
+				Products
+			
+
+
+
+
+
+			Matrice 200 and 210 LiDAR
+		
+
+
+
+
+
+			Revolution 120
+		
+
+
+
+
+
+			Revolution 60
+		
+
+
+
+
+
+			Revolution HD
+		
+
+
+
+
+
+			Snoopy A-Series
+		
+
+
+
+
+
+			Snoopy miniV Riegl
+		
+
+
+
+
+
+			Snoopy VUX Riegl
+		
+
+
+
+
+
+			Snoopy DUAL VUX - Riegl
+		
+
+
+
+
+
+			ScanLook TreX
+		
+
+
+
+
+
+			Snoopy A-Series HiWay Mapper
+		
+
+
+
+
+
+			HiWay Mapper Z & Snoopy Custom
+		
+
+
+
+
+
+			PhaseOne Photogrammetry Package
+		
+
+
+
+
+
+			Supporting Products
+		>
+
+
+
+
+
+
+			DJI Enterprise Sales
+		
+
+
+
+
+
+			GoFAR All-Terrain Robot
+		
+
+
+
+
+
+			UAV / Drones
+		
+
+
+
+
+
+			GNSS Equipment
+		
+
+
+
+
+
+			Cameras
+		
+
+
+
+
+
+			Software
+		
+
+
+
+
+
+
+
+
+			Applications
+		>
+
+
+
+
+
+
+			Surveying/Mapping
+		
+
+
+
+
+
+			Education
+		
+
+
+
+
+
+			Law Enforcement
+		
+
+
+
+
+
+			Military
+		
+
+
+
+
+
+			Archeology
+		
+
+
+
+
+
+			Agriculture
+		
+
+
+
+
+
+
+
+
+
+
+				Resources
+			
+
+
+
+
+
+			myPointClouds.com
+		
+
+
+
+
+
+			Pictures
+		
+
+
+
+
+
+			Videos
+		
+
+
+
+
+
+			Financing
+		
+
+
+
+
+
+
+
+				SAMPLE DATA
+			
+
+
+
+				SUPPORT
+			
+
+
+
+
+
+			SUPPORT TICKETS
+		
+
+
+
+
+
+			Training Portal
+		
+
+
+
+
+
+			Software Downloads
+		
+
+
+
+
+
+			RESOURCES
+		>
+
+
+
+
+
+
+			Remote Support
+		
+
+
+
+
+
+			WIKI
+		
+
+
+
+
+
+			Case Studies
+		
+
+
+
+
+
+			FAQ
+		
+
+
+
+
+
+			Warranty, Terms & Conditions
+		
+
+
+
+
+
+			Learn
+		
+
+
+
+
+
+
+
+
+
+
+				News
+			
+
+
+
+				About
+			
+
+
+
+
+
+			About Us
+		
+
+
+
+
+
+			Fagerman Vlog
+		
+
+
+
+
+
+			Contact
+		
+
+
+
+
+
+			Jobs
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Series HD
+
+
+
+
+
+
+
+
+
+
+
+City Mapping
+ 
+
+
+
+
+
+
+Building
+ 
+
+
+
+
+
+
+Large Forest
+ 
+
+
+
+
+
+
+Agriculture Topo 
+ 
+
+
+
+
+Revolution HD
+
+
+
+
+
+
+
+
+
+
+
+Colorized UAV LiDAR
+ 
+
+
+
+
+
+
+Mayan Temple (La Danta)
+ 
+
+
+
+
+
+
+Mayan Elevation Grid
+ 
+
+
+
+
+
+
+Rural Transmission Lines
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Series 120
+
+
+
+
+
+Uxmal Pyramid 
+ 
+Uxmal Pyramid RGB
+ 
+Subdivision Backpack
+ 
+City Tree Count
+ 
+
+
+
+
+A-Series 120
+
+
+
+
+
+
+
+
+
+
+Powerlines
+ 
+Mexico Bare Earth Jungle
+ 
+Highway​
+ 
+Construction
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Series 60
+
+
+
+
+
+
+
+
+
+
+
+City Mapping
+ 
+
+
+
+
+
+
+Power Lines
+ 
+
+
+
+
+
+
+Railroad
+ 
+Subdivision
+ 
+
+
+
+
+Revolution 60
+
+
+
+
+
+Agriculture
+ 
+Road
+ 
+forest
+ 
+Topo
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V-Series VUX
+
+
+
+
+
+Construction
+ 
+Powerlines
+ 
+City Mapping
+ 
+Construction
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Sample Data - Click to Download
+To facilitate smaller data files and faster uploads and downloads, the sample data is generally stored as 7z files or LAZ (compressed LAS) files. 7z is a free utility and can be found at 7-zip.org.The LAZ files can be managed using LASzip.For a very brief set of instructions on using the LAZ utilities, click here, or hereTo easily read and display laz files try the free version of QtReader from www.appliedimagery.com.
+
+
+
+Revolution Series on a Drone
+
+
+
+
+
+This data set was collected with a Revolution system flying at roughly 40 meters and traveling at 6m/s. An L1/L2 external receiver was also included to correct the trajectory to survey grade GPS quality results. The data was not colorized and the data set was not cleaned to remove the noise.
+Click here to access data set #1
+Click here to access data set #2
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Rural Transmission Lines
+
+
+
+
+
+
+
+
+
+
+
+ 
+Rural transmission lines collected with an HD32 mounted to a DJI M600.
+Click here to access data
+ 
+
+
+
+
+
+
+Snoopy A-Series Drone - 40 Acre Topo
+
+
+
+
+
+It is two (laz) files. This 40 acres was clear cut 6 years ago so it's got a lot of low brush (6 to 20 ft tall). It's just about the worst case scenario for North America. This was scanned with an HD32.​1. A raw point cloud, unclassified.2. A simple bare earth classified grid of the same.This has also been field checked with survey gear with amazing results.
+Click here to access data.  ​​​
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Snoopy A-Series Drone
+
+
+
+
+
+
+
+
+
+
+
+ 
+Captured with snoopy A-Series mounted on a Drone. The data is tiled so it isn't huge. Colorized with world imagery and classified. We are only using a small percentage of the available lasers for this view.
+Click here to access data.  ​​​
+ 
+
+
+
+
+
+
+Snoopy A-Series Rail Scan
+This Snoopy Series A data set was collected from a hi rail truck on a short rail track. The resulting point cloud was colorized using imagery collected from an UAV.
+
+
+
+
+
+
+
+
+
+
+
+Colorized point cloud captured from the hi rail and colorized by imagery captured by an UAV
+Click here to access data.  ​
+ 
+
+
+
+
+
+
+Orthoimage (*.tif) captured by UAV and used to colorize the point cloud
+Click here to access data.  ​​
+ 
+
+
+
+
+
+
+ScanLook Snoopy Street Utility Collection
+
+
+
+
+
+The data set is colorized with Ladybug5 images and captured with Scanlook Snoopy mounted on a SUV.
+Click here to access data.  ​​​
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ScanLook Snoopy A-Series with Ladybug5
+
+
+
+
+
+
+
+
+
+
+
+ 
+This data set contains two laz files that have been colorized along with the corresponding Ladybug5 imagery. There is a ReadMe.txt file containing the coordinate system definition and an image index file linking the imagery to the geo-referencing information. This information is perfect for programs like VG4D.​
+Click to access 1st Colorized LAZ data.
+Click to access 2nd Colorized LAZ data.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+This data set is the Ladybug5 images and captured with Scanlook Snoopy A-Series mounted on a Truck.
+Click here to access Ladybug5 Imagery. ​​​
+ 
+
+
+
+
+
+
+Snoopy A-series Velodyne HD32 Urban Scan
+
+
+
+
+
+This data was collected from the back of a truck using a Velodyne HD32 scanner. The area is typical of a busy urban environment. There are three scan files of 630 ft over 147 seconds (including the inevitable stop for an intersection).
+Click here to access data.
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+FARO
+
+
+
+
+
+ 
+coming soon
+Click here to access data
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 1999–2019 Fagerman Technologies, dba. LiDARUSA.  All rights reserved.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+​Sales/Main: 256-274-1616sales@lidarusa.com
+ 
+Get HELP​
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    				Home
+    			
+
+
+
+    				Newsletter
+    			
+
+
+
+    				Products
+    			
+
+
+
+
+
+			Matrice 200 and 210 LiDAR
+		
+
+
+
+
+
+			Revolution 120
+		
+
+
+
+
+
+			Revolution 60
+		
+
+
+
+
+
+			Revolution HD
+		
+
+
+
+
+
+			Snoopy A-Series
+		
+
+
+
+
+
+			Snoopy miniV Riegl
+		
+
+
+
+
+
+			Snoopy VUX Riegl
+		
+
+
+
+
+
+			Snoopy DUAL VUX - Riegl
+		
+
+
+
+
+
+			ScanLook TreX
+		
+
+
+
+
+
+			Snoopy A-Series HiWay Mapper
+		
+
+
+
+
+
+			HiWay Mapper Z & Snoopy Custom
+		
+
+
+
+
+
+			PhaseOne Photogrammetry Package
+		
+
+
+
+
+
+			Supporting Products
+		>
+
+
+
+
+
+
+			DJI Enterprise Sales
+		
+
+
+
+
+
+			GoFAR All-Terrain Robot
+		
+
+
+
+
+
+			UAV / Drones
+		
+
+
+
+
+
+			GNSS Equipment
+		
+
+
+
+
+
+			Cameras
+		
+
+
+
+
+
+			Software
+		
+
+
+
+
+
+
+
+
+			Applications
+		>
+
+
+
+
+
+
+			Surveying/Mapping
+		
+
+
+
+
+
+			Education
+		
+
+
+
+
+
+			Law Enforcement
+		
+
+
+
+
+
+			Military
+		
+
+
+
+
+
+			Archeology
+		
+
+
+
+
+
+			Agriculture
+		
+
+
+
+
+
+
+
+
+
+
+    				Resources
+    			
+
+
+
+
+
+			myPointClouds.com
+		
+
+
+
+
+
+			Pictures
+		
+
+
+
+
+
+			Videos
+		
+
+
+
+
+
+			Financing
+		
+
+
+
+
+
+
+
+    				SAMPLE DATA
+    			
+
+
+
+    				SUPPORT
+    			
+
+
+
+
+
+			SUPPORT TICKETS
+		
+
+
+
+
+
+			Training Portal
+		
+
+
+
+
+
+			Software Downloads
+		
+
+
+
+
+
+			RESOURCES
+		>
+
+
+
+
+
+
+			Remote Support
+		
+
+
+
+
+
+			WIKI
+		
+
+
+
+
+
+			Case Studies
+		
+
+
+
+
+
+			FAQ
+		
+
+
+
+
+
+			Warranty, Terms & Conditions
+		
+
+
+
+
+
+			Learn
+		
+
+
+
+
+
+
+
+
+
+
+    				News
+    			
+
+
+
+    				About
+    			
+
+
+
+
+
+			About Us
+		
+
+
+
+
+
+			Fagerman Vlog
+		
+
+
+
+
+
+			Contact
+		
+
+
+
+
+
+			Jobs
+		

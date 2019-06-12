@@ -1,0 +1,329 @@
+url: https://www.highlinedivision.com/hld/php/services/servicesCorona.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corona, Infrared & HD Inspection
+
+
+
+
+
+		-
+
+
+ 
+
+ 
+		   
+		
+
+
+
+
+
+
+
+
+			      
+			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ 
+Services
+
+
+
+
+
+Hotline Insulator Washing
+
+
+
+
+
+
+Preventive Maintenance Program
+
+
+
+
+
+
+RTV High Voltage Insulator Coating in Hotline
+
+
+
+
+
+
+Corona, Infrared & HD Inspection
+
+
+
+
+
+
+Overhead Power Lines Construction
+
+
+
+
+
+
+Formation
+
+
+
+
+
+
+Engineering Services
+
+
+
+
+
+
+Laboratory & Dissolved Gas Analysis
+
+
+
+
+
+
+Calibration Services
+
+
+
+
+
+ 
+Drones
+ 
+QHSE
+
+
+
+
+
+Quality ISO 9001
+
+
+
+
+
+
+Environmental ISO 14001
+
+
+
+
+
+
+Health & Safety OHSAS 18001
+
+
+
+
+
+
+Quality, Health & Safety & Environmental Management Plan
+
+
+
+
+
+
+QHSE 2018 Integrated Policy
+
+
+
+
+
+
+
+Projects
+
+
+
+Careers
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+Corona, Infrared & HD Inspection
+High Line Division S.L. develops an exhaustive Inspection Program for Overhead Transmission & Distribution Power Lines, Substations and overhead mounted electrical equipment patrolling customers installations, where we performs a Visual inspection for recording High Definition Imagery in form of HD Pictures & Videos, Corona Detection, Partial Discharges and Arcing Inspection using the most advanced Ultraviolet Camera and Infrared Inspection & Thermal Imaging Monitoring for Hot spots detection.
+
+
+
+   Visual inspection - Inspection Team equipped with high Definition camera, binoculars and occasionally as per customer requirements with a tellurometer for installation earth resistance measurement. This team will collect all relevant data over Inspection Check List as per HLD Inspection Procedures where all inputs to be classified by relevance (0,1,2), where "0" is correct conditions, "1" existence of Non urgent anomalies to be recorded and "2" is when urgent action is required due to serious finding, in this event we record the anomaly and report immediately to customer for its attention.
+
+
+
+
+
+
+   Corona Detection, Partial Discharges and Arcing Inspection, Corona & Partial Discharges happen due to gas ionization around an high voltage overhead transmission or distribution installation. Normally appears when exist a superior gradient, normally more than 30kV/cm in the air. In overhead power lines as exist a strong electrical field, air molecules turn to ionize, it means, to win or to lose one free electron, becoming non neutral electrical loads, further this ionized particles moves around the electrical source in a continuous manner. Problem comes when electrical field exceeds certain value, then these particles start to crash each other and high quantity of energy is dissipated and areas around the conductor or hardware becomes conductive due to corona causing failures and subsequent power outages. Therefor Corona and Partial Discharges inspection becomes a major when Preventive Inspections takes place.
+
+
+
+   Infrared Inspection & Thermal Imaging Monitoring, We perform Infrared inspection and thermal imaging monitoring as a part of our Preventive Maintenance Program for the detection of Hot spots and imminent failure at:
+
+
+   Overhead Networks Cable Termination
+   Fuse Holder & Disconnect switches connections
+   Power Transformers, OCBs & SF6s
+   MV Incoming Connections
+   HV Open Switchyard connections
+   Loose breaker connection
+   Faulty crimps
+   Loose UPS cell links
+   Faulty UPS cells under discharge
+   Badly torque bus bar connections
+   HV Switchgear
+   Motors
+   HV Cables
+
+
+
+
+
+
+
+
+
+
+
+Visual, Corona & Infrared Inspection of overhead power lines and Substations can be performed in three different ways:
+
+   Land Inspection, by patrolling the lines and Substations by 4x4 vehicles
+   Aerial by Helicopters, we have achieved agreements with several helicopters operators along the globe to provide this service worldwide
+   Aerial by UAV Drones, Our partnership enable us to use Hybrid UAV Drones with almost 4 flying hours autonomy to provide this service worldwide.
+
+   LAND INSPECTION
+Crews performing land inspection patrol the lines by 4X4 vehicles with Crews equipped with hand carried HD cameras, binoculars and hand tools set. Any damage or incident encountered will be properly filmed, photographed and written down on daily work report and associated Check Lists. Besides, any relevant event observed will be immediately reported to customerÂ´s responsible for quick resolution action. Live works technicians will climb towers when necessary for accurate and detailed observation of potential incidents. Inspection to be developed in live line basis will include checkup of condition status of right of way, access, signalization, vegetation, steel structures, foundations, legs corrosion, insulators, surge arrestors, conductors, hardware and fittings comprising wind dampers, spacers, clamps, cotter keys, warning lights and spheres, and OPGW.
+
+
+
+   HELICOPTER INSPECTION:
+Aerial Inspection from Helicopters is the fastest and reliable solution to cover large distances of overhead Transmission & Distribution Power Lines. High Line Division S.L. has achieved agreements with several operators along the globe in order to provide this service worldwide. At the time we perform visual inspection recording high definition imagery, latest technology gimbals featuring infrared and ultraviolet cameras for Corona & Partial Discharges Detection
+
+
+   UAV DRONE INSPECTION:
+In order to reduce to our customers the operational time, costs and personnel involved in performing overhead transmission lines inspection, as well as following up our objective to implement the latest techniques in our operations we include the aerial UAV Drone inspection to our core business. For this purpose, at the first stage we started with the use of Helicopters and currently with Unmanned Aerial Vehicles (UAV), commonly named Drones.
+We faced the challenge of increasing the low autonomy of these aircrafts. Nowadays, with an average of half an hour power supply from electrical batteries, which in the scenario of very high voltage transmission lines (300 kV and above) forced to stop uncountable times the inspection flight to replace batteries. Finally we succeed this challenge with a Hybrid drone, Petrol and Electric supply, where the petrol engine generates electric power to refill the battery during the flight of the UAV.
+
+
+
+
+
+
+
+
+Our Aerial UAV Drones are equipped with the following features: 
+
+   High Definition imagery recording.
+   Infrared High Quality Camera for infrared inspection and thermal imaging monitoring for hotspot detections.
+   High Quality Ultraviolet Camera for Partial Discharges and Corona detection.
+   Large autonomy of flights (from 2 to 4 hours autonomy).
+   Transmission of video and data in separated frequency for HD, IR & UV signals
+   Full storing data
+   Maximum range for radio link and video transmission to  Ground Station
+   Maximum range camera control
+   Online Streaming of UAV inspection
+   Possibility to introduce geo references and automatize the inspection flight
+
+High Line Division Crews strictly follows international standards and regulations for live line works, also complies with our Company policies regarding Quality, Health & Safety and Environment Protection. Proof of our commitment is the triple certification awarded by TUV Nord Certification Organization for the ISO 9001 regarding our Quality Management System, ISO 14001 for Environmental and OHSAS 18001 for Occupational Health & Safety.
+
+
+
+
+
+
+Scroll
+
+
+
+
+High Line Division S.L.
+
+
+
+Madrid OfficeC/ Polo Sur 5.28850 Torrejon de Ardoz- Madrid, SpainPhone: +34 91 6717464
+
+
+Dubai OfficeAl Fattan Plaza #201Airport Road - P.O. Box 92434 - Dubai, UAEPhone: +971 4 286 8982 - Fax: +971 4 286 8983
+
+
+
+
+
+
+				©
+				2019				High Line Division S.L.
+			
+
+				Designed by  
+				
+
+					 HighLine Division S.L.
+				
+
+
+
+ 

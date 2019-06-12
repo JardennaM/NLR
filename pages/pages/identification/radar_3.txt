@@ -1,0 +1,312 @@
+url: https://www.aerodefensetech.com/component/content/article/adt/features/articles/33023
+
+
+
+
+
+
+
+
+
+
+Detecting Drones with Doppler-Based Radar - Tech Briefs :: Aerospace & Defense Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																						Username													
+
+
+
+
+																						Password													
+
+
+
+Remember Me
+
+
+
+													Log in							
+
+
+
+
+																			Forgot Login?											
+
+
+
+																			Sign up											
+
+
+
+
+
+
+
+
+
+HomeTech BriefsWhitepapersFeaturesNewsProductsWebcasts
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Topics
+
+
+Electronics & ComputersSemiconductors & ICsMechanical ComponentsManufacturing & PrototypingSoftwarePhotonicsMachinery & AutomationMaterialsTest & MeasurementSensorsMedicalMEMsResearch LabImagingInformation SciencePhysical Sciences
+
+
+
+
+
+
+
+
+
+ 
+Newsletter
+
+Subscribe today to receive the INSIDER, a FREE e-mail newsletter from Aerospace & Defense Technology featuring exclusive previews of upcoming articles, late breaking industry news, hot products and design ideas, links to online resources, and much more.
+Sign up now >> 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+					Features				
+
+
+
+
+
+
+
+
+				Detecting Drones with Doppler-Based Radar			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, 01 October 2018	
+
+
+
+
+
+As drones become more commonplace, the need to secure facilities from the high-definition cameras and potential dangerous payloads has caused a rapid growth of counter-drone technologies.
+
+DMT, LLC started making radar systems in 2002, and rapidly grew to build and sell these systems across the globe. The commercial radars produced by DMT employ pulsed-Doppler technology. Pulsed-Doppler radar is perhaps the most versatile of radar technologies and is known for its ability to operate in a wide array of environments and applications. DMT uses Doppler radar to track objects on land, sea and in the air. In 2015 it began testing its pulsed-Doppler radars against commonly available drones. Today it produces the longest-range, drone-detection radar systems on the market.
+When people hear “Doppler radar” mentioned, they most often think of weather radars. Pulsed-Doppler security radars use similar technology, but instead of trying to detect and display weather, these radars choose to detect and ignore weather while seeking intruders.
+In addition to seeing through weather, the security Doppler radar also tries to ignore the reflected radar energy from vegetation, waves, and more. Anything that is being detected by the radar that is not the desired object is referred to as clutter. And the ability to remove clutter is commonly known as clutter rejection.
+ Figure 1. When DMT's Black Marlin radar detects and tracks a drone, it automatically points the camera for identification.
+
+A radar signal is a sinusoidal wave of RF (radio frequency) energy that is transmitted in the air like ripples on water. The wavelength is the distance (usually in centimeters) over which the wave repeats. It is equal to the inverse of the transmitted frequency of the radar. A Doppler radar monitors the reflected RF waves from objects over time. The typical pulsed radar system will transmit bursts (pulses) of RF energy. The time between the pulses is used to measure the range to objects. The pulsed-Doppler radar transmits groups of pulses (i.e., the radar dwell), and then monitors changes in frequency across those pulses. The changes in the frequency are due to the stretching and compressing of the waves of the radar signal by the movement of the object away from or toward the radar, respectively. This is identical to the change of tone due to the stretching and compression of sound waves from the horn of a car that passes by an observer. A Fast-Fourier Transform (a mathematical algorithm) applied to the digitized reflected radar signal supplies a measure of all frequency changes from the object, and frequency can be converted to radial velocities. Radial velocities are the speeds of objects in the direction of the radar. As long as the proper waveform is used, all velocities present on the object will be measured. For example, for a human the main body velocity (from the torso in this case) as well as the arm and leg radial velocities will be measured. If you watch the Doppler response long enough, the gait of a person can be established.
+ Figure 2. In this graph, the pulse width of the radar is 50 nanoseconds. The blue line is S/C, the red line is S/N, and the green line represents the threshold condition for comparing the two curves. In this case, the green curve is set to 5 dB above the noise floor. This radar's detection range is limited by the S/C to about 2.5 km. Since S/N is not the issue, the pulse width should be shortened.
+
+The Doppler velocities from other than the main body are often referred to as micro-Doppler signatures. For quadcopter drones, the responses from the blades and motors constitutes the micro-Doppler signatures. With sufficient testing, a database of signatures unique to each drone can be generated. Each future Doppler signature measured by that radar can be compared to that database for drone characterization. The stored signatures can also be used to eliminate objects that are not drone-like.
+If a radar can detect a small drone, it will also detect birds. The main-body signature of a bird can resemble that of a drone, especially for larger birds that are flying in straight-line paths or spiral-ing slowly on thermal updrafts. The micro-Doppler signature, however, will be substantially different.
+Characterization of drones using micro-Doppler requires:
+ The correct frequency, PRF (pulse repetition frequency), and pulse width;
+
+A sufficient number of pulses to obtain the micro-Doppler components;
+
+High sampling rates in the analog-to-digital hardware;
+
+FFT analysis of data collected over a group of pulses (the dwell), and clutter rejection algorithms that operate in the frequency domain.
+
+
+The ability to resolve an object is a function of the transmitted frequency. At a minimum, the size of the object of interest should be several times greater than the wavelength of the radar. For example, the largest dimension of a DJI Phantom 4 is 15 inches, or 38.1 cm. Assuming a factor of 3 (object size to wavelength), the wavelength should be about 2.4 GHz or greater. However, the Phantom 4 is made of plastic that is largely transparent to the radar. The battery, camera, and motors are the main radar reflective components of the drone. The maximum dimension of the Phantom 4 battery is about 4.5 inches, or 11.43 cm. Therefore, the radar transmitted frequency should be 7.9 GHz or greater. And the frequency cannot be too high, or the radar will not be able to see through rain, fog, and smoke. If the drones are flying over trees on the way to the radar, the clutter rejection of the tree limbs and leaves becomes imperative. Clutter rejection of vegetation is much more difficult with frequencies greater than 12 GHz. Of course, as the drone drops in size, the required frequency will also change.
+The PRF will determine the maximum speed that can be measured unambiguously. For example, an X-Band radar with a 4 kHz PRF rate can measure speeds up to 72 mph. The radar will continue to detect objects faster than that speed, but the wrong speed and wrong direction of motion will be reported. In terms of drones, the PRF is important for micro-Doppler feature detection. DMT has found that certain selections of PRF will amplify micro-Doppler features.
+ Figure 3. This graph represents a radar with a 25-nanosecond pulse width. Both the S/C and S/N curves the minimum threshold at 5 km, so this radar has a longer range than the radar in Figure 2 even though it has a lower transmitted power.
+
+The signal-to-noise ratio (S/N) is the ratio of reflected energy from the object to internal noise sources. People often use the radar range equation to calculate the maximum range of the radar for a given object, and the minimum detectable S/N is one of the equation's parameters. If S/N is insufficient, then additional transmitted power or a bigger antenna or both is needed. The bigger the pulse width, the greater the transmitted power becomes, and the greater the range. Since drones are small, the signal-to-clutter ratio (S/C) also affects range. The S/C is the amount of reflected energy from the object of interest relative to the amount of reflected energy from everything else. The antenna beamwidth and the pulse width determine S/C. The smaller the pulse width, the greater the S/C. So, increasing transmitted power by increasing the pulse width may improve range, but only if the S/C isn't overly reduced. Micro-Doppler signatures can be blurred or corrupted if S/C is too low. The ability to change pulse width is important for a drone detection radar. Figures 2 and 3 show radar range against drones based on the pulse width of the radar.
+ Figure 4. This is a Doppler-Time-Intensity plot for a pulsed-Doppler radar. The plot shows all Doppler signatures from one aspect of a drone. The main body is clearly visible. The micro-Doppler signatures are also present. Most environmental reflections from vegetation and weather appear close to 0 mph and are ignored.
+
+The number of pulses determine the Doppler resolution of a radar. An X-Band radar with 256 pulses in the dwell will have a Doppler resolution of 7.8125 Hertz, which is equal to a speed resolution of 0.283 mph. Drop the number of pulses to 128, and the speed resolution goes up to 0.567 mph. As the speed resolution decreases, the micro-Doppler improves. If the speed resolution is too large, the main body signature dominates and the ability to characterize diminishes to unusable levels.
+Once the parameters are set on the pulsed-Doppler radar, all the Doppler signatures from the drone may be measured. By creating a database of Doppler signatures (as in Figure 4) from a wide variety of drone types and aspect angles, the radar will easily characterize drones and eliminate all other false-positives, such as bird signatures.
+This article was written by Eddie Hughes, Founder, DMT Radar Systems (Palmetto, FL). For more information, visit here.
+
+
+
+
+
+View the discussion thread.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Technology Leaders
+
+
+
+
+
+ADT Digital Edition
+
+ 
+
+
+
+
+
+
+
+
+ 
+TRENDING THIS MONTH
+
+
+
+Underwater Drone Technology
+NASA’s New UAV is 80% 3D-Printed
+NASA Funds All-Electric Aircraft Research
+Wearable Sensors Could Monitor Personal, Environmental Data
+Hydraulic Propulsion an Alternative to Drone Batteries
+Multi-Domain Command and Control (MDC2)
+Projection System to Study Insect Vision Could Lead to New Navigational Aids
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Publications: 
+
+Tech BriefsMedical Design Briefs
+
+
+
+LegalPrivacyCookie UsageFeedbackSubscribeAdvertiseContact
+
+
+
+
+© 2009-2019 
