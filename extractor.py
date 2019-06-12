@@ -20,10 +20,83 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 
+
+### MAIN FUNCTIONS
+
+def getTextFromUrl(url):
+	"""
+	Function extracts HTML from a webpage (or PDF webpage)
+	and returns it
+	"""
+
+	# if PDF
+	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
+		urlretrieve(url, "download.pdf")
+		page =  convert_pdf_to_txt("download.pdf")
+	else:
+		page = urllib.request.urlopen(url).read()
+
+	soup = BeautifulSoup(page, 'lxml')
+	[s.extract() for s in soup('script')]
+	[s.extract() for s in soup('style')]
+	text = soup.get_text()
+	return text.rstrip("\n\r")
+
+
+
+def extractSents(text):
+	"""
+	This function extracts the sentences of a string and returns a list with sentences, 
+	tokenized in words.
+
+	"""
+	# extract sentences
+	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
+
+	# lower senteces
+	l_sents = []
+	for sent in sentences:
+		new_sent = sent.lower()
+		tokens = word_tokenize(new_sent)
+		l_sents.append(tokens)
+	
+	return l_sents
+
+def lemmatize(sentences):
+	"""
+	Function lemmatizes a list of sentences
+	"""
+	lemmatizer = WordNetLemmatizer()
+	lemmatized_sentences = []
+	for s in sentences:
+		lemmatized_s = []
+		for word in s:
+			lemmatized_s.append(lemmatizer.lemmatize(word))
+		lemmatized_sentences.append(lemmatized_s)
+
+	return lemmatized_sentences
+
+
+def shorten(sentences):
+	"""
+	This function removes the punctuation and the stopwords.
+	Returns a list of shortened sentences.
+	"""
+	new_sents = []
+	for s in sentences:
+		
+		# removes stopwords and punctuation
+		cleaned = list((set(s) - set(stopwords.words('english'))) - set(string.punctuation))
+		if not cleaned == [] and not len(cleaned) < 2 and not len(flatten(cleaned)) < 6:
+			new_sents.append(cleaned)
+
+
+	return new_sents
+
+
+### HELPER FUNCTIONS
+
 def convert_pdf_to_txt(path):
-	"""
-	Converts a pdf file to text
-	"""
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
@@ -64,30 +137,6 @@ def getTerms():
 	return terms
 
 
-def getPageFromUrl(url):
-	"""
-	Function extracts HTML from a webpage (or PDF webpage)
-	and returns it
-	"""
-
-	# if PDF
-	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
-		urlretrieve(url, "download.pdf")
-		return convert_pdf_to_txt("download.pdf")
-
-	return urllib.request.urlopen(url).read()
-
-def removeScriptAndStyleFromHTML(page):
-	"""
-	Take a look at function name
-	"""
-	soup = BeautifulSoup(page, 'lxml')
-	[s.extract() for s in soup('script')]
-	[s.extract() for s in soup('style')]
-	text = soup.get_text()
-	return text.rstrip("\n\r")
-
-
 def flatten(l):
 	"""
 	Function flattens a sentence and returns the flattened sentence
@@ -98,55 +147,5 @@ def flatten(l):
 	        flat_list.append(item)
 
 	return flat_list
-
-
-def extract_sents(text):
-	"""
-	This function extracts the sentences of a string and returns a list with sentences, 
-	tokenized in words.
-
-	"""
-	# extract sentences
-	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
-
-	# lower senteces
-	l_sents = []
-	for sent in sentences:
-		new_sent = sent.lower()
-		tokens = word_tokenize(new_sent)
-		l_sents.append(tokens)
-	
-	return l_sents
-
-def lemmatize(sentences):
-	"""
-	Function lemmatizes a list of sentences
-	"""
-	lemmatizer = WordNetLemmatizer()
-	lemmatized_sentences = []
-	for s in sentences:
-		lemmatized_s = []
-		for word in s:
-			lemmatized_s.append(lemmatizer.lemmatize(word))
-		lemmatized_sentences.append(lemmatized_s)
-
-	return lemmatized_sentences
-
-
-def remove_stopwords_punctuation(sentences):
-	"""
-	This function removes the punctuation and the stopwords.
-	Returns a list of sentences.
-	"""
-	new_sents = []
-	for s in sentences:
-		
-		# removes stopwords and punctuation
-		cleaned = list((set(s) - set(stopwords.words('english'))) - set(string.punctuation))
-		if not cleaned == [] and not len(cleaned) < 2 and not len(flatten(cleaned)) < 6:
-			new_sents.append(cleaned)
-
-
-	return new_sents
 
 

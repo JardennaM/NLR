@@ -13,12 +13,11 @@ from nltk.corpus import wordnet
 
 terms = extractor.getTerms()
 
-# loading sentences
-page = extractor.getPageFromUrl('https://www.hensoldt.net/fileadmin/hensoldt/Datenbl%C3%A4tter/0779_17_Xpeller_brochure_E_for_Email.pdf')
-text = extractor.removeScriptAndStyleFromHTML(page)
-sentences = extractor.extract_sents(text)
+# extracting webpage and loading sentences
+text = extractor.getTextFromUrl('https://www.hensoldt.net/fileadmin/hensoldt/Datenbl%C3%A4tter/0779_17_Xpeller_brochure_E_for_Email.pdf')
+sentences = extractor.extractSents(text)
 lem_sents = extractor.lemmatize(sentences)
-sentences2 = extractor.remove_stopwords_punctuation(lem_sents)
+sentences2 = extractor.shorten(lem_sents)
 
 
 dictio = {}
@@ -35,5 +34,4 @@ for phase in phases:
 				dictio[stringo] = s
 					
 		
-
 print(dictio)
