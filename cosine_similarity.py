@@ -10,16 +10,13 @@ from tabulate import tabulate
 import nltk
 from nltk.corpus import wordnet
 
-
 termfile = open('terms.txt').readlines()
-
 
 # Extracts text from website
 def url_to_text(url):
     try:
-        file = open('%s.txt'%i, 'w')
         html = urllib.request.urlopen(url).read()
-        soup = BeautifulSoup(html, parser='lxml')
+        soup = BeautifulSoup(html, features="html.parser")
         [s.extract() for s in soup('script')]
         [s.extract() for s in soup('style')]
         text = soup.get_text()
@@ -83,8 +80,7 @@ def term_vector(terms):
     term_vec = {}
     for term in terms:
         set1 = Counter(find_synset(term))
-        dict1 = term_vector(term)
-        term_vec = merge_two_dicts(term_vec, dict1)
+        term_vec = merge_two_dicts(term_vec, set1)
     return term_vec
 
 
@@ -95,10 +91,9 @@ def calculate_co(terms, url):
 
 
 
-with open('../pages/classification/accoustic_4.txt') as f:
-    url = f.readline()
-    print(url_to_text(url))
-    # print(text_to_vector(url_to_text(url)))
-    # print(calculate_co(termfile, url))
+# with open('../pages/classification/accoustic_4.txt') as f1:
+#     url = f1.readline()
+#     url = url.split(' ')[1]
+#     print(calculate_co(['logging', 'tracking'], url))
 
 
