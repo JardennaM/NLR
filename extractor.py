@@ -15,13 +15,16 @@ import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+from nltk.stem import WordNetLemmatizer 
+
+
 
 
 def getPageFromUrl(url):
 	return urllib.request.urlopen(url).read()
 
 def removeScriptAndStyleFromHTML(page):
-	soup = BeautifulSoup(page, 'html')
+	soup = BeautifulSoup(page, 'lxml')
 	[s.extract() for s in soup('script')]
 	[s.extract() for s in soup('style')]
 	text = soup.get_text()
@@ -39,16 +42,10 @@ def flatten(l):
 
 def extract_sents(text):
 	"""
-	This function extract the sentences of a txt file and return a list with sentences, 
+	This function extracts the sentences of a string and returns a list with sentences, 
 	tokenized in words.
 
 	"""
-	# for txt file
-
-	#with open(txtfile) as f:
-		#text = f.read()
-
-
 
 	# extract sentences
 	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
@@ -61,6 +58,20 @@ def extract_sents(text):
 		l_sents.append(tokens)
 	
 	return l_sents
+
+def lemmatize(sentences):
+	"""
+	Function lemmatizes a list of sentences
+	"""
+	lemmatizer = WordNetLemmatizer()
+	lemmatized_sentences = []
+	for s in sentences:
+		lemmatized_s = []
+		for word in s:
+			lemmatized_s.append(lemmatizer.lemmatize(word))
+		lemmatized_sentences.append(lemmatized_s)
+
+	return lemmatized_sentences
 
 
 def remove_stopwords_punctuation(sentences):
