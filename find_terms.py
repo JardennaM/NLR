@@ -12,7 +12,7 @@ from nltk.corpus import wordnet
 from wordfreq import word_frequency
 import string
 
-### TOP DOWN METHOD TO FIND TERMS AND ATTRIBUTES ###
+### TOP DOWN METHOD TO FIND PHASES AND THEIR KEYWORDS ###
 
 terms = extractor.getTerms()
 
@@ -29,7 +29,7 @@ dictio = {}
 
 phases = [['detection', 'detect', 'detector', 'detects', 'detecting'], ['classification', 'identification', 'classify', 'identification', 'idenitfy'],
 ['intent', 'intentionality', 'intention'], ['decision', 'decision support', 'decide'], ['command', 'control', 'overall', 'main'], 
-['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise', 'frequency', 'frequencies'], ['forensics']]
+['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise'], ['forensics']]
 
 for phase in phases:
 	idx = 0
@@ -41,11 +41,11 @@ for phase in phases:
 				dictio[stringo] = s
 					
 		
-#for key, value in dictio.items():
-	#print(key, value)
-
 
 def getLeastFrequentWords(sentence):
+	"""
+	Extracts and returns the 5 least frequent words of a given sentence
+	"""
 	freq_list = []
 	for index, word in enumerate(sentence):
 		if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
@@ -61,6 +61,22 @@ def getLeastFrequentWords(sentence):
 
 	# return list of words in logical order
 	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
+
+
+def getSystemsFromText(textfile):
+	file = open(textfile).readlines()
+
+	systems = []
+
+	for line in file:
+		line = line.rstrip('\n').split('|')
+		if len(line) == 1:
+			systems.append([line[0], ''])
+		else:
+			systems.append(line)
+	return systems
+
+
 
 for key in dictio.keys():
 	print(key, ':', getLeastFrequentWords(dictio[key]))
