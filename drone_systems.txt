@@ -1,23 +1,17 @@
 Manufacturer|Product Name
 Aaronia AG|RF Drone
-Accipter|"NM1-8A Drone
- Radar System"
-Accipter|"NM1-KHSxV Secu-
- rity Radar System"
+Accipter|NM1-8A Drone Radar System
+Accipter|NM1-KHSxV Security Radar System
 Advanced Protection Systems|ctrl+sky
-"Advanced Radar
- Technologies"|Drone Sentinel
+Advanced Radar Technologies|Drone Sentinel
 Airbus DS Electronics/Hensoldt|Xpeller
-Airbus Group SE|"Counter UAV
- System"
+Airbus Group SE|Counter UAV System
 Airspace Systems|Airspace
-"Alion Science and
- Technology"|
+Alion Science and Technology|
 Allen-Vanguard|ANCILE
 ALX Systems|Sentinel
 ALX Systems|Spartiath
-"AMTEC Less
- Lethal Systems"|Skynet
+AMTEC Less Lethal Systems|Skynet
 ApolloShield|CyberBox
 ArtSYS360|RS500
 Ascent Vision|CM202U
@@ -26,23 +20,15 @@ Aselsan Corporation|IHTAR
 Aveillant|Gamekeeper 16U
 Babcock|LDEW-CD
 BATS|Drone Guard
-Battelle|"Drone Defender
- (handheld)"
-Battelle|"Drone Defender
- (land-based unit)"
-"Black Sage/IEC
- Infrared"|UAVX
-Blighter/Chess Dynamics/Enterprise Control Systems|"AUDS Anti-UAV
- Defence System"
+Battelle|Drone Defender (handheld)
+Battelle|Drone Defender (land-based unit)
+Black Sage/IEC Infrared|UAVX
+Blighter/Chess Dynamics/Enterprise Control Systems|AUDS Anti-UAV Defence System
 Blind Tiger|Wireless Intrusion Detection and Defeat System
 Boeing|Laser Avenger
-"Boeing/General
- Dynamics"|MEHEL 2.0
-"Broadfield Security
- Services"|Drone Blocker
-"Broadfield Security
- Services"|"UAS Detection and
- Verification System"
+Boeing/General Dynamics|MEHEL 2.0
+Broadfield Security Services|Drone Blocker
+Broadfield Security Services|UAS Detection and Verification System
 BYLBOS/Roboost|SPID
 CACI|SkyTracker
 CellAntenna|D3T
@@ -59,19 +45,10 @@ Chenega Europe|dronevigil Field Mobile
 Chenega Europe|dronevigil Holographic
 Cintel|N/A
 CITADEL|DFU3000
-"Cobham Antenna
- Systems"|"Directional Flat
- Panel Antenna"
-"Cobham Antenna
- Systems"|"Directional Helix
- Antenna"
-"Cobham Antenna
- Systems"|"High Power
- Ultra-Wideband
- Directional Antenna"
-"Cobham Antenna
- Systems"|"Wideband Om-
- ni-Directional"
+Cobham Antenna Systems|Directional Flat Panel Antenna
+Cobham Antenna Systems|Directional Helix Antenna
+Cobham Antenna Systems|High Power Ultra-Wideband Directional Antenna
+Cobham Antenna Systems|Wideband Omni-Directional
 Controp|SPEED-BIRD
 Controp|Tornado
 Convexum|
@@ -80,12 +57,10 @@ CTS|Drone Jammer
 D-Fend Solutions|N/A
 DeDrone, Inc.|DroneTracker
 Delft Dynamics|DroneCatcher
-"Department 13
- International"|MESMER
+Department 13 International|MESMER
 DeTect, Inc|DroneWatcherAPP
 DeTect, Inc|DroneWatcherRF
-DeTect, Inc|"HARRIER Drone
- Surveillance Radar"
+DeTect, Inc|HARRIER Drone Surveillance Radar
 Deutsche Telekom|Magenta
 Diehl Defence|HPEMcounterUAS
 Digitech Info Technology|JAM-1000
@@ -98,8 +73,7 @@ Drone Defence|SkyFence
 Drone Go Home|
 Drone Hunter|
 Drone Labs|Drone Detector
-"Drone Security
- Defence"|
+Drone Security Defence|
 Dronefence|
 DroneShield|DroneBeam
 DroneShield|DroneHeat
@@ -113,10 +87,7 @@ DroneShield|WideAlert Sensor
 DroneShield|DroneGun MKII
 DroneShield|DroneGun Tactical
 DroneShield|RadarZero
-DRS/Moog|"Mobile Low, Slow
- Unmanned Aerial
- Vehicle Integrated
- Defense Systems"
+DRS/Moog|Mobile Low, Slow Unmanned Aerial Vehicle Integrated Defense Systems
 DRS/Moog|SABRE
 Dynetics|GroundAware
 ECA Group|EC-180
@@ -128,43 +99,29 @@ esc Aerospace|CUAS
 Exponent|Drone Hunter
 Fortem Technologies|Drone Hunter
 Fovea Aero|CCOD
-Fuyuda|"Portable Counter
- Drone Defence
- System"
+Fuyuda|Portable Counter Drone Defence System
 General Atomics|Fencepost
 GEW Technologies|SkyScan 2
-"Groupe ADP/DSNA
- Services"|Hologarde
+Groupe ADP/DSNA Services|Hologarde
 Groupe Assman|MTX-8
 Gryphon Sensors|Skylight
 Gryphon Sensors|Skylight Mobile
 Harp Arge|Drone Savar
-"HGH Infared
- Systems"|Spynel M
+HGH Infared Systems|Spynel M
 HiGH + MiGHTY|SKYNET
-Hikvision|"Defender Series
- UAV-D04JA"
-"HP Marketing and
- Consulting"|HP 3962 H
-"HP Marketing and
- Consulting"|HP 47
-IACIT|"DRONEBlocker
- 0100"
-IACIT|"DRONEBlocker
- 0200"
-IMI Systems|"Red Sky 2 Drone
- Defender System"
+Hikvision|Defender Series UAV-D04JA
+HP Marketing and Consulting|HP 3962 H
+HP Marketing and Consulting|HP 47
+IACIT|DRONEBlocker 0100
+IACIT|DRONEBlocker 0200
+IMI Systems|Red Sky 2 Drone Defender System
 IXI Technology|Drone Killer
 JCPX Development/DSNA Services/Aveillant|UWAS
 Jiun An Technology|Raysun MD1
-"Kalashnikov/ZALA
- Aero Group"|REX 1
-"KB Radar Design
- Bureau"|Groza-R
-"KB Radar Design
- Bureau"|Groza-S
-"KB Radar Design
- Bureau"|Groza-Z
+Kalashnikov/ZALA Aero Group|REX 1
+KB Radar Design Bureau|Groza-R
+KB Radar Design Bureau|Groza-S
+KB Radar Design Bureau|Groza-Z
 Kelvin Hughes|SharpEye
 Kirintec|Recurve
 Kirintec|Sky Net Longbow
@@ -176,8 +133,7 @@ Lockheed Martin|ATHENA
 Lockheed Martin|ICARUS
 LocMas|STUPOR
 Marduk Technologies|Shark
-MBDA Deutschland|"High Energy Laser
- Weapon System"
+MBDA Deutschland|High Energy Laser Weapon System
 MC-CLIC|Anti-UAV Rifle
 Meritis|ADS-2000
 Meritis|P6
@@ -189,11 +145,8 @@ Meritis|SC-1500T
 Meritis|SkyCleaner
 Meritis|SR-9000S
 Microflown AVISA|SKYSENTRY
-Miltronix|"Drone Detection
- Radar"
-"Mitsubishi Electric
- Corporation"|"Drone Deterrence
- System"
+Miltronix|Drone Detection Radar
+Mitsubishi Electric Corporation|Drone Deterrence System
 MyDefence Communication ApS|EAGLE
 MyDefence Communication ApS|KNOX system
 MyDefence Communication ApS|WATCHDOG
@@ -201,19 +154,13 @@ MyDefence Communication ApS|WOLFPACK
 MySky Technoligies|
 Nammo|
 NEC|
-Netline Communications|"C-GUARD
- DRONENET"
-Netline Communications|"WOODPECKER
- LIGHT"
+Netline Communications|C-GUARD DRONENET
+Netline Communications|WOODPECKER LIGHT
 NNIIRT|1L121-E
-Northrop Grumman|"Drone Restricted
- Access Using
- Known EW"
+Northrop Grumman|Drone Restricted Access Using Known EW
 Northrop Grumman|Mobile Application for UAS Identification
 Northrop Grumman|Venom
-OIS-AT|"3D Air Surveillance
- UAV Detection
- Radar"
+OIS-AT|3D Air Surveillance UAV Detection Radar
 Open Works Engineering|Skywall 100
 Open Works Engineering|Skywall 200
 Open Works Engineering|Skywall 300
@@ -221,50 +168,35 @@ Optix|Anti-Drone
 Orad|DROM
 Orelia|Drone Detector
 Panasonic|Drone Finder
-Phantom Technologies|"Eagle108 Tactial
- Drone Jammer"
+Phantom Technologies|Eagle108 Tactial Drone Jammer
 Poly Technologies|Silent Hunter
-"Prime Consulting &
- Technologies"|GROK Jammer
-"Prime Consulting &
- Technologies"|GROK Mobile Gun
-"Prime Consulting &
- Technologies"|Mini-range counter-UAV system
-"Prime Consulting &
- Technologies"|Small-range counter-UAV system
+Prime Consulting & Technologies|GROK Jammer
+Prime Consulting & Technologies|GROK Mobile Gun
+Prime Consulting & Technologies|Mini-range counter-UAV system
+Prime Consulting & Technologies|Small-range counter-UAV system
 QinetiQ|OBSIDIAN
 Quantum Aviation|DroneProtect
-"RADA Electronic
- Industries"|"Multi-Mission
- Hemispheric Radars"
-"RADA Electronic
- Industries"|RPS-42
+RADA Electronic Industries|Multi-Mission Hemispheric Radars
+RADA Electronic Industries|RPS-42
 Radio Hill Technologies|Dronebuster
 Radio Hill Technologies|Dronebuster LE
-"Rafael Advanced
- Defense Systems"|Drone Dome
+Rafael Advanced Defense Systems|Drone Dome
 Rajant Corp|MANET
 Raytheon|MRZR
 Repulse|Repulse 24
 Repulse|Repulse 2458E
-Repulse|"Repulse 2458H
- Handheld"
+Repulse|Repulse 2458H Handheld
 Repulse|Repulse 360
-Rheinmetall AG|"HEL Effector
- Wheel XX"
+Rheinmetall AG|HEL Effector Wheel XX
 Rinicom|Sky Patriot
 Robin Radar Systems|Elvira
 Robodub|N/A
 Rohde & Schwarz|ARDRONIS
-"Rohde & Schwarz/
- ESG/Diehl"|Guardion
+Rohde & Schwarz/ ESG/Diehl|Guardion
 Rostec|Shipovnik-Aero
 Saab Group|Giraffe 1x
-"SC Scientific and
- Technical Center of
- Electronic Warfare"|Repellent-1
-"SCG/Van Cleve &
- Associates"|DroneRANGER
+SC Scientific and Technical Center of Electronic Warfare|Repellent-1
+SCG/Van Cleve & Associates|DroneRANGER
 SCI Technology|AeroGuard
 Search Systems|Sparrowhawk
 Selex|Falcon Shield
@@ -273,16 +205,13 @@ SESP|Drone Defeater
 Sierra Nevada Corporation|SkyCAP
 SkySafe|Skysafe
 Skysec|Sentinel Catch
-Skysec|"Sentinel Catch&-
- Carry"
-"Sohgo Security
- Services"|
+Skysec|Sentinel Catch&- Carry
+Sohgo Security Services|
 SpotterRF|A-Series Counter-Drone Radar
 Squarehead|Discovair
 SRC|Silent Archer
 ST Kinetics|C-UAS Grenade
-SteelRock Technologies|"Fixed Perimeter
- System"
+SteelRock Technologies|Fixed Perimeter System
 SteelRock Technologies|NightFighter
 TCI|Blackbird
 Telaforce|
@@ -290,20 +219,16 @@ TeleRadio Engineering|SkyDroner 1000
 TeleRadio Engineering|SkyDroner 500
 Terra Hexen|Droneblocker System-Omnidirectional
 Terra Hexen|SAFESKY
-Terra Hexen|"Unidirectional
- Neutralizer"
+Terra Hexen|Unidirectional Neutralizer
 Thales|Gecko
 Thales|Margot 8000
 Thales|Squire
-"Thales-Raytheon
- Systems"|"""AN/MPQ-64F1 Improved Sentinel”"
-Theiss UAV Solutions|"Excipio Aerial
- Netting System"
-TRD Consultancy|"Orion-7 MP Drone
- Slayer"
+Thales-Raytheon Systems|AN/MPQ-64F1 Improved Sentinel”
+Theiss UAV Solutions|Excipio Aerial
+ Netting System
+TRD Consultancy|Orion-7 MP Drone Slayer
 TRD Consultancy|Orion-D
-TRD Consultancy|"Orion-H Drone
- Slayer"
+TRD Consultancy|Orion-H Drone Slayer
 TrustComs|DroneBlocker
 Vector Solution|
 Veth Systems|Drone Hunter
