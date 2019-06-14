@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from nltk.corpus import wordnet as wn
 import requests
 import time
+from nltk import tokenize
 from nltk import sent_tokenize
 import nltk.data
 import re
@@ -51,8 +52,8 @@ def extractSents(text):
 
 	"""
 	# extract sentences
-	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
-
+	sentences = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', text)
+	
 	# lower senteces
 	l_sents = []
 	for sent in sentences:
