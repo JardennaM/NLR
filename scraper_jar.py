@@ -20,7 +20,7 @@ def url_to_text(url):
         [s.extract() for s in soup('script')]
         [s.extract() for s in soup('style')]
         text = soup.get_text()
-        return text
+        return text.lower()
 
     except:
         print('failed')
