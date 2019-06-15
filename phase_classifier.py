@@ -127,13 +127,7 @@ def phase_classifier(url, terms):
     freq_sur_keyw, sur_text = freq_sur_keywords(indices, search_terms, text)
     # Determine most_likely_phase for a word at a certain index
     most_likely_phase = most_likely_phases(indices, freq_sur_keyw, terms, text)
-    print(most_likely_phase)
-     
-
-
-    # most_likely_phase = most_likely_phase(freq_sur_keyw, search_terms)
-    
-
+    return most_likely_phase
 
 
     # term_vec = term_vector(terms)
