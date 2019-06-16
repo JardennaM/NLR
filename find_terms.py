@@ -14,10 +14,10 @@ import string
 
 ### TOP DOWN METHOD TO FIND PHASES AND THEIR KEYWORDS ###
 
-terms = extractor.getTerms()
+
 
 # extracting webpage and loading sentences
-text = extractor.getTextFromUrl('https://www.accipiterradar.com/products/safety/drone-uav-detection-tracking-alerting/')
+text = extractor.getTextFromUrl('http://www.sarahespino.com/pdf/aaronia/Aaronia_AARTOS-Drone-Detection-System_broshure.pdf')
 sentences = extractor.extractSents(text)
 # shorten the sentences
 #lem_sents = extractor.lemmatize(sentences)
