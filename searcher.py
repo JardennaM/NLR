@@ -19,7 +19,9 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
+from io import BytesIO
 from io import StringIO
+import os
 
 from extractor import *
 
@@ -82,13 +84,13 @@ def google_terms(searchterms, excluded, number_of_urls_per_term=25):
 			for url in search(term, tld="co.in", num=25, stop=10, pause=1):
 				if not site_in_excluded(url, excluded):
 					# print(term.split()[:-1])
-					urls.append('%s| %s'%(' '.join(term.split()[:-1]),url))
+					urls.append('%s|%s'%(' '.join(term.split()[:-1]),url))
 			count += 1
 		except:
 			print('wait')
 			time.sleep(900)
 
-	with open('urls.txt', 'w') as file:
+	with open('results/urls.txt', 'w') as file:
 		for url in urls:
 			file.write('%s\n'%url)
 	file.close()
@@ -97,10 +99,8 @@ def google_terms(searchterms, excluded, number_of_urls_per_term=25):
 def read_urls_from_file(path):
 	urls = []
 	for line in open(path).readlines():
-		print(line)
 		if not line.startswith('>>>') and not line.startswith('<<<'):
-			line = line.split('|')
-			print(line)
+			line = line.rstrip('\n').split('|')
 			urls.append([line[0], line[1]])
 	return urls
 
@@ -122,16 +122,35 @@ def write_page_to_file(text, url, term):
 	file.write(text)
 	file.close()
 
+def getTextFromUrl(url):
+	"""
+	Function extracts HTML from a webpage (or PDF webpage)
+	and returns it
+	"""
 
-systems = get_systems_from_file('data/drone_systems.txt')
-excluded = get_excluded_from_file('data/excluded.txt')
-searchterms = get_searchterms_from_file('data/search_terms.txt')
-searchterm_list = create_search_terms_list(systems, searchterms)[:5]
+	# if PDF
+	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
+		urlretrieve(url, "download.pdf")
+		page = convert_pdf_to_txt("download.pdf")
+	else:
+		page = urllib.request.urlopen(url).read()
 
-urls = google_terms(searchterm_list, excluded)
+	soup = BeautifulSoup(page, 'lxml')
+	[s.extract() for s in soup('script')]
+	[s.extract() for s in soup('style')]
+	text = soup.get_text()
+	return text.rstrip("\n\r")
+# systems = get_systems_from_file('data/drone_systems.txt')
+# excluded = get_excluded_from_file('data/excluded.txt')
+# searchterms = get_searchterms_from_file('data/search_terms.txt')
+# searchterm_list = create_search_terms_list(systems, searchterms)[:5]
 
-# urls = read_urls_from_file('results/urls.txt')
-# for url in urls:
-# 	print(url)
+# urls = google_terms(searchterm_list, excluded)
+
+urls = read_urls_from_file('results/urls.txt')
+for url in urls[2:]:
+	os.system('clear')
+	print('url', url[1])
+	text = getTextFromUrl(url[1])
 
 
