@@ -23,25 +23,27 @@ from io import StringIO
 
 ### MAIN FUNCTIONS
 
-# def getTextFromUrl(url):
-# 	"""
-# 	Function extracts HTML from a webpage (or PDF webpage)
-# 	and returns it
-# 	"""
+def getTextFromUrl(url):
+	"""
+	Function extracts HTML from a webpage (or PDF webpage)
+	and returns it
+	"""
 
-# 	# if PDF
-# 	print('url in function', url)
-# 	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
-# 		urlretrieve(url, "download.pdf")
-# 		page = convert_pdf_to_txt("download.pdf")
-# 	else:
-# 		page = urllib.request.urlopen(url).read()
+	# if PDF
+	try:
+		if url[-3:] == 'pdf' or url[-3:] == 'PDF':
+			urlretrieve(url, "download.pdf")
+			page = convert_pdf_to_txt("download.pdf")
+		else:
+			page = urllib.request.urlopen(url).read()
 
-# 	soup = BeautifulSoup(page, 'lxml')
-# 	[s.extract() for s in soup('script')]
-# 	[s.extract() for s in soup('style')]
-# 	text = soup.get_text()
-# 	return text.rstrip("\n\r")
+		soup = BeautifulSoup(page, 'lxml')
+		[s.extract() for s in soup('script')]
+		[s.extract() for s in soup('style')]
+		text = soup.get_text()
+		return text.rstrip("\n\r")
+	except:
+		return None
 
 
 

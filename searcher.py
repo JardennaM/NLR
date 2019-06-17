@@ -110,47 +110,35 @@ def write_page_to_file(text, url, term):
 	except:
 		pass
 	try:
-		os.mkdir('results/pages/%s-%s'%(manufacturer, system))
+		os.mkdir('results/pages/%s'%(term))
 	except:
 		pass
 	try:
-		index = max([filename.split('.')[0]])
+		index = max([int(filename.split('.')[0]) for filename in os.listdir('results/pages/%s'%(term))]) + 1	
 	except:
 		index = 1
+
 	file = open('results/pages/%s/%i.txt'%(term, index), 'w')
 	file.write('%s\n'%url)
 	file.write(text)
 	file.close()
 
-def getTextFromUrl(url):
-	"""
-	Function extracts HTML from a webpage (or PDF webpage)
-	and returns it
-	"""
-
-	# if PDF
-	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
-		urlretrieve(url, "download.pdf")
-		page = convert_pdf_to_txt("download.pdf")
-	else:
-		page = urllib.request.urlopen(url).read()
-
-	soup = BeautifulSoup(page, 'lxml')
-	[s.extract() for s in soup('script')]
-	[s.extract() for s in soup('style')]
-	text = soup.get_text()
-	return text.rstrip("\n\r")
 # systems = get_systems_from_file('data/drone_systems.txt')
 # excluded = get_excluded_from_file('data/excluded.txt')
 # searchterms = get_searchterms_from_file('data/search_terms.txt')
-# searchterm_list = create_search_terms_list(systems, searchterms)[:5]
+# searchterm_list = create_search_terms_list(systems, searchterms)[:25]
 
 # urls = google_terms(searchterm_list, excluded)
 
+pattern = re.compile(r'\s+')
+
 urls = read_urls_from_file('results/urls.txt')
 for url in urls[2:]:
-	os.system('clear')
-	print('url', url[1])
 	text = getTextFromUrl(url[1])
-
-
+	if text != None:
+		sentences = nltk.sent_tokenize(text)
+		sentences = [sentence.replace('\n', '') for sentence in sentences]
+		sentences = [sentence.replace('\t', '') for sentence in sentences]
+		text = ' '.join(sentences)
+		write_page_to_file(text, url[1], url[0])
+		print('written')
