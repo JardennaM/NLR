@@ -124,7 +124,6 @@ def get_maximum(phase):
 
 
 
-
 with open('../pages/classification/camera (uv)_2.txt') as f1:
     url = f1.readline()
     url = url.split(' ')[1]
