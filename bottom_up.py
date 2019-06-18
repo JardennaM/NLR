@@ -3,6 +3,7 @@ from collections import Counter
 import urllib
 import urllib.request
 import sys
+from urllib.parse import urlparse
 import operator
 import csv
 from bs4 import BeautifulSoup
@@ -15,15 +16,25 @@ from copy import deepcopy
 import extractor
 import string
 import operator
+import validators
+from validator_collection import validators, checkers
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+from numpy import dot
+from numpy.linalg import norm
 
-phases = [['detection', 'detect', 'detector', 'detects', 'detecting'], 
+
+phases = [['detection', 'detect', 'detector', 'detects', 'detecting', 'recognize'], 
 ['classification', 'identification', 'classify', 'reaction', 'idenitfy'],
-['intent', 'intentionality', 'intention'], ['decision', 'decision support', 'decide'], 
+['intent', 'intentionality', 'intention'], 
+['decision', 'decision support', 'decide'], 
 ['command', 'control', 'overall', 'main'], 
 ['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise'], 
-['forensics']]
+['forensics', 'forensic']]
 
-classes = ['detection', 'classification', 'identification', 'intent', 'decision', 'command', 'control', 'intervention', 'neutralisation', 'forensics']
+print(np.array(phases).shape)
+classes = ['detection', 'classification', 'intent', 'decision', 'command/control', 'intervention/neutralisation', 'forensics']
+
 
 
 def determine_terms():
@@ -37,11 +48,12 @@ def determine_terms():
             keywords_dict[str(row[0])] = row[1:]
     return keywords_dict
     
-searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera', 'uv camera', 'multi-spectral camera', 'LIDAR', 'jamming']
+searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera', 'uv camera', 'multi-spectral camera', 'LIDAR', 'jamming',
+'gui', 'method', 'integration', 'architecture', 'capture', 'kinetic', 'datalink jamming', 'gps jamming', 'laser', 'microwave']
 
 
 
-
+# get text by url
 url = 'https://www.dronedefence.co.uk/app/uploads/2018/12/SkyFence-brochure-2018121c.pdf'
 text = extractor.getTextFromUrl(url)
 
@@ -83,35 +95,80 @@ def surrounding_text(index, text, selection):
         return text[0:len(text)]
 
 				
-def freq_of_words(sur_text, search_terms):
-    overlapping_words = set(sur_text) & set(search_terms)
-    word_freqs = Counter(sur_text)
-    freq_dict = {}
-    for word in overlapping_words:
-        freq_dict[word] = word_freqs[word]
-    return freq_dict
+def phase_vector(sur_text, phases):
+	vec_matrix = [[0, 0, 0, 0 ,0, 0],
+				  [0, 0, 0, 0, 0],
+				  [0, 0, 0],
+				  [0, 0, 0],
+				  [0, 0, 0, 0],
+				  [0, 0, 0, 0, 0, 0],
+				  [0, 0]]
+
+	for word in sur_text:
+		for i, phase in enumerate(phases):
+			for j, syn in enumerate(phase):
+				if word == syn:
+					vec_matrix[i][j] += 1
+	return np.array(extractor.flatten(vec_matrix))
 
 
+
+def cos_sim(a, b):
+	if (norm(a)*norm(b)) == 0:
+		normv = 0.000000000001
+	else:
+		normv = (norm(a)*norm(b))
+	return dot(a, b)/normv
 
 # Get surrounding text to classify
 keyword_indices, sent_indices = find_indices_of_terms(searchterms, worded_text, sentences)
-print(keyword_indices, sent_indices)
 
 
-surr = surrounding_text(keyword_indices[0], worded_text, 20)
+print('Keyword to test:',worded_text[keyword_indices[0]])
 
-# remove punctuation from surrounding text
-surr = [x for x in surr if not x in string.punctuation]
+
+# classify with cosine similarity
+def get_cosine_sims_classify(index, phases, worded_text, selection):
+
+	surr = surrounding_text(index, worded_text, selection)
+	vector = phase_vector(surr, phases)
+
+	
+	cosine_sims = []
+
+	for i in range(0, 7):
+		zeros = [[0, 0, 0, 0, 0, 0],
+			 [0, 0, 0, 0, 0],
+			 [0, 0, 0],
+			 [0, 0, 0],
+			 [0, 0, 0, 0],
+			 [0, 0, 0, 0, 0, 0],
+		     [0, 0]]
+		zeros[i] = list(np.ones(len(zeros[i])))
+
+		class_vector = np.array(extractor.flatten(zeros))
+
+		cosine_sims.append(cos_sim(vector, class_vector))
+
+
+	return np.argmax(cosine_sims)
 	
 
-# now I want the keyword info from the sentence it is in
 
-key_surr = surrounding_text(keyword_indices[0], worded_text, 5)	
+# Testing the classification
+for index, i in enumerate(keyword_indices):
 
-key = find_terms.getLeastFrequentWords(key_surr, 6)
+	key_sent = sentences[sent_indices[index]]
+	# remove punctuation from key info, as well as urls
+	key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘']]
 
-print(worded_text[keyword_indices[0]])
-print(key_surr)
-print(key)
+	key = find_terms.getLeastFrequentWords(key_sent, 6)
+
+	print('Key info:', key)
+	print('Classified as:', classes[get_cosine_sims_classify(i, phases, worded_text, 20)])
+	print('----')
+
+
+
 
 
