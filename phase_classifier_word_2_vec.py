@@ -138,20 +138,17 @@ def generate_batch(data, batch_size, num_skips, skip_window):
 
 
 
-
-
-
-
 words = read_data('../pages/classification/camera (uv)_2.txt')
 
 terms = getTerms()
 
-vocabulary_size = 10
+vocabulary_size = 100
 
 data, count, dictionary, reversed_dictionary = build_dataset(words, vocabulary_size)
 
 batch, context = generate_batch(data, batch_size=5, num_skips=1, skip_window=2)
 
+print(batch)
 print(context)
 
 train_context = context
@@ -170,7 +167,7 @@ valid_examples = np.random.choice(valid_window, valid_size, replace=False)
 
 batch_size = 5
 embedding_size = 5  # Dimension of the embedding vector.
-skip_window = 64       # How many words to consider left and right.
+skip_window = 2       # How many words to consider left and right.
 num_skips = 2         # How many times to reuse an input to generate a context.
 
 train_inputs = tf.placeholder(tf.int32, shape=[batch_size])
@@ -187,6 +184,7 @@ valid_dataset = tf.constant(valid_examples, dtype=tf.int32)
 embeddings = tf.Variable(
     tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
 embed = tf.nn.embedding_lookup(embeddings, train_inputs)
+
 
 
 # Construct the variables for the softmax
@@ -211,6 +209,7 @@ valid_embeddings = tf.nn.embedding_lookup(
 
 similarity = tf.matmul(
       valid_embeddings, normalized_embeddings, transpose_b=True)
+
 
 
 
