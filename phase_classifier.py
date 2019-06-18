@@ -55,6 +55,7 @@ def phase_classifier(url, terms):
     indices = find_index_of_term(search_terms, text)
     # Make dictionary with key the word and as value the surrounding keywords and their frequency.
     freq_sur_keyw = freq_sur_keywords(indices, search_terms, text)
+    print(freq_sur_keyw)
     # Determine most_likely_phase for a word at a certain index
     most_likely_phase = most_likely_phases(indices, freq_sur_keyw, terms, text)
     return most_likely_phase
@@ -146,8 +147,7 @@ def get_maximum(phase):
 
 
 
-
-with open('../pages/classification/camera (uv)_2.txt') as f1:
+with open('../pages/classification/accoustic_2.txt') as f1:
     url = f1.readline()
     url = url.split(' ')[1]
     print(phase_classifier(url, determine_terms()))
