@@ -167,10 +167,6 @@ def fillDict(keyword_indices, sent_indices, nFreqWords, nSelection):
 		
 
 
-	for key in main_dict.keys():
-
-		print(key, main_dict[key], '\n')
-
 	return main_dict
 
 # TESTING CODE
@@ -196,7 +192,7 @@ searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera
 
 
 # get text by url
-url = 'https://www.l3-droneguardian.com/'
+url = 'https://www.dronedefence.co.uk/products/paladyne-e1000mp/'
 text = extractor.getTextFromUrl(url)
 
 # split text in sentences
