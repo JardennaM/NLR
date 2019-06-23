@@ -72,25 +72,7 @@ def reduceToPhases(phases, sentences):
 
 ## HELPER FUNCTIONS				
 
-def getLeastFrequentWords(sentence, n):
-	"""
-	Extracts and returns the 5 least frequent words of a given sentence
-	"""
-	freq_list = []
-	for index, word in enumerate(sentence):
-		if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
-			continue
-		# make sure frequencies are in there (hardcoded)
-		if 'ghz' in word:
-			freq_list.append((index, word, 0.0))
-		else:
-			freq_list.append((index, word, word_frequency(word, 'en')))
 
-	# sort words in least frequency
-	sorted_on_freq = [(x[0], x[1]) for x in set(sorted(freq_list, key=lambda tup: tup[2])[0:n])]
-
-	# return list of words in logical order
-	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
 
 
 

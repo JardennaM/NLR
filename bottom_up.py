@@ -11,7 +11,6 @@ from tabulate import tabulate
 import nltk
 from nltk.corpus import wordnet
 import csv
-import find_terms
 from copy import deepcopy
 import extractor
 import string
@@ -22,7 +21,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from numpy import dot
 from numpy.linalg import norm
-
+from wordfreq import word_frequency
 
 
 # gets the index in the worded_text and the sentence indices
@@ -75,7 +74,25 @@ def phase_vector(sur_text, phases):
 					vec_matrix[i][j] += 1
 	return np.array(extractor.flatten(vec_matrix))
 
+def getLeastFrequentWords(sentence, n):
+	"""
+	Extracts and returns the n least frequent words of a given sentence
+	"""
+	freq_list = []
+	for index, word in enumerate(sentence):
+		if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
+			continue
+		# make sure frequencies are in there (hardcoded)
+		if 'ghz' in word:
+			freq_list.append((index, word, 0.0))
+		else:
+			freq_list.append((index, word, word_frequency(word, 'en')))
 
+	# sort words in least frequency
+	sorted_on_freq = [(x[0], x[1]) for x in set(sorted(freq_list, key=lambda tup: tup[2])[0:n])]
+
+	# return list of words in logical order
+	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
 
 def cos_sim(a, b):
 	if (norm(a)*norm(b)) == 0:
@@ -118,8 +135,19 @@ def get_cosine_sims_classify(index, phases, worded_text, selection):
 	
 
 # fills dictionary with phase, keywords and keyword info
-def fillDict(keyword_indices, sent_indices, nFreqWords, nSelection):
+def fillDict(searchterms, sentences, worded_text, phases, classes, nFreqWords, nSelection):
+	"""
+	PARAMS
+	searchterms: keywords that will be searched in the text
+	sentences: the text splitted in sentences
+	worded_text: the text splittted in words
+	phases: list of (synonyms) of phases
+	classes: simple list of phases/classes
+	nFreqWords: number of freq to shorten sentence
+	nSelection: number of surroundings to use around keywords
+	"""
 
+	keyword_indices, sent_indices = find_indices_of_terms(searchterms, worded_text, sentences)
 	main_dict = {}
 	for index, i in enumerate(keyword_indices):
 
@@ -145,16 +173,20 @@ def fillDict(keyword_indices, sent_indices, nFreqWords, nSelection):
 
 		# --------
 
+		# remove duplicates
+		key_sent = list(dict.fromkeys(key_sent))
 
-		key_sent = list(set(key_sent))
-		# remove punctuation from key info, as well as urls
+		# remove punctuation from key info
 		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...']]
 
 		
 
 		# info to fill dictionary with
 		phase = classes[get_cosine_sims_classify(i, phases, worded_text, nSelection)]
-		key_info = find_terms.getLeastFrequentWords(key_sent, nFreqWords)
+
+		key_info = getLeastFrequentWords(key_sent, nFreqWords)
+
+		print(key_sent, key_info)
 		keyword =  worded_text[i]
 
 		if phase not in main_dict.keys():
@@ -190,7 +222,7 @@ searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera
 'gui', 'method', 'integration', 'architecture', 'capture', 'kinetic', 'datalink jamming', 'gps jamming', 'laser', 'microwave']
 
 
-
+# TEXT EXTRACTION USING EXTRACTOR
 # get text by url
 url = 'https://www.dronedefence.co.uk/products/paladyne-e1000mp/'
 text = extractor.getTextFromUrl(url)
@@ -201,13 +233,10 @@ sentences = extractor.extractSents(text)
 # also make a word splitted text
 worded_text = extractor.flatten(sentences)	
 
-# Get surrounding text to classify
-keyword_indices, sent_indices = find_indices_of_terms(searchterms, worded_text, sentences)
-
-# test code
+# GET NEEDED INFO
 nFreqWords = 6
 nSelection = 20
-dictio = fillDict(keyword_indices, sent_indices, nFreqWords, nSelection)
+dictio = fillDict(searchterms, sentences, worded_text, phases, classes, nFreqWords, nSelection)
 print(dictio)
 
 
