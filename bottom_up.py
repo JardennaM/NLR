@@ -24,42 +24,6 @@ from numpy import dot
 from numpy.linalg import norm
 
 
-phases = [['detection', 'detect', 'detector', 'detects', 'detecting', 'recognize'], 
-['classification', 'identification', 'classify', 'reaction', 'idenitfy'],
-['intent', 'intentionality', 'intention'], 
-['decision', 'decision support', 'decide'], 
-['command', 'control', 'overall', 'main'], 
-['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise'], 
-['forensics', 'forensic']]
-
-print(np.array(phases).shape)
-classes = ['detection', 'classification', 'intent', 'decision', 'command/control', 'intervention/neutralisation', 'forensics']
-
-
-
-def determine_terms():
-    """ 
-        Creates a dictionary with all phases as key and as value their corresponding keywords stored in a list.
-    """
-    with open('keywords.csv') as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=',')
-        keywords_dict = {}
-        for row in csv_reader:
-            keywords_dict[str(row[0])] = row[1:]
-    return keywords_dict
-    
-searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera', 'uv camera', 'multi-spectral camera', 'LIDAR', 'jamming',
-'gui', 'method', 'integration', 'architecture', 'capture', 'kinetic', 'datalink jamming', 'gps jamming', 'laser', 'microwave']
-
-
-
-# get text by url
-url = 'https://www.dronedefence.co.uk/app/uploads/2018/12/SkyFence-brochure-2018121c.pdf'
-text = extractor.getTextFromUrl(url)
-
-sentences = extractor.extractSents(text)
-worded_text = extractor.flatten(sentences)
-
 
 # gets the index in the worded_text and the sentence indices
 def getSentenceIndex(index, sentences):
@@ -73,6 +37,10 @@ def getSentenceIndex(index, sentences):
 
 
 def find_indices_of_terms(search_terms, text, sentences):
+	"""
+	This function, given search terms, return the word indices in de worded_text
+	and the sentences indices in the sentence-splitted text for all found search terms.
+	"""
 	word_indices = [i for i, word in enumerate(text) for term in search_terms if word == term]
 	sentence_indices = []
 	for i in word_indices:
@@ -80,8 +48,7 @@ def find_indices_of_terms(search_terms, text, sentences):
 	return word_indices, sentence_indices
     
 
-
-
+# gets surrounding text with selection parameter around keyword in text
 def surrounding_text(index, text, selection):
     range_1 = index - selection
     range_2 = index + selection + 1
@@ -96,13 +63,10 @@ def surrounding_text(index, text, selection):
 
 				
 def phase_vector(sur_text, phases):
-	vec_matrix = [[0, 0, 0, 0 ,0, 0],
-				  [0, 0, 0, 0, 0],
-				  [0, 0, 0],
-				  [0, 0, 0],
-				  [0, 0, 0, 0],
-				  [0, 0, 0, 0, 0, 0],
-				  [0, 0]]
+	"""
+	Creates a phase_vector of the surrounding text of a keyword
+	"""
+	vec_matrix = createZerosList(phases)
 
 	for word in sur_text:
 		for i, phase in enumerate(phases):
@@ -120,11 +84,17 @@ def cos_sim(a, b):
 		normv = (norm(a)*norm(b))
 	return dot(a, b)/normv
 
-# Get surrounding text to classify
-keyword_indices, sent_indices = find_indices_of_terms(searchterms, worded_text, sentences)
 
 
-print('Keyword to test:',worded_text[keyword_indices[0]])
+def createZerosList(listOfLists):
+	"""
+	Helper function, creates a zeros list of a list of lists
+	"""
+	mainList = []
+	for subList in listOfLists:
+		n = len(subList)
+		mainList.append([0]*n)
+	return mainList
 
 
 # classify with cosine similarity
@@ -134,41 +104,115 @@ def get_cosine_sims_classify(index, phases, worded_text, selection):
 	vector = phase_vector(surr, phases)
 
 	
+	# get cosine sim for each class
 	cosine_sims = []
-
 	for i in range(0, 7):
-		zeros = [[0, 0, 0, 0, 0, 0],
-			 [0, 0, 0, 0, 0],
-			 [0, 0, 0],
-			 [0, 0, 0],
-			 [0, 0, 0, 0],
-			 [0, 0, 0, 0, 0, 0],
-		     [0, 0]]
+		zeros = createZerosList(phases)
 		zeros[i] = list(np.ones(len(zeros[i])))
-
 		class_vector = np.array(extractor.flatten(zeros))
-
 		cosine_sims.append(cos_sim(vector, class_vector))
 
 
+	# return class index with highest cosine similarity
 	return np.argmax(cosine_sims)
 	
 
+# fills dictionary with phase, keywords and keyword info
+def fillDict(keyword_indices, sent_indices, nFreqWords, nSelection):
 
-# Testing the classification
-for index, i in enumerate(keyword_indices):
-
-	key_sent = sentences[sent_indices[index]]
-	# remove punctuation from key info, as well as urls
-	key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘']]
-
-	key = find_terms.getLeastFrequentWords(key_sent, 6)
-
-	print('Key info:', key)
-	print('Classified as:', classes[get_cosine_sims_classify(i, phases, worded_text, 20)])
-	print('----')
+	main_dict = {}
+	for index, i in enumerate(keyword_indices):
 
 
+		key_sent = sentences[sent_indices[index]]
+
+		# A PRIORI RULES
+
+		# hardcoded, given rule for frequency ghz
+		if 'ghz' in key_sent:
+			
+			j = key_sent.index('ghz')
+			if key_sent[j-1].isdigit():
+				key_sent[j] = key_sent[j-1] + key_sent[j]
+				key_sent.pop(j-1)
+			
+		# hardcoded, given rule for frequency mhz
+		if 'mhz' in key_sent:
+			j = key_sent.index('mhz')
+			if key_sent[j-1].isdigit():
+				key_sent[j] = key_sent[j-1] + key_sent[j]
+				key_sent.pop(j-1)
+
+		# --------
+
+
+		key_sent = list(set(key_sent))
+		# remove punctuation from key info, as well as urls
+		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...']]
+
+		
+
+		# info to fill dictionary with
+		phase = classes[get_cosine_sims_classify(i, phases, worded_text, nSelection)]
+		key_info = find_terms.getLeastFrequentWords(key_sent, nFreqWords)
+		keyword =  worded_text[i]
+
+		if phase not in main_dict.keys():
+			main_dict[phase] = []
+			main_dict[phase].append({keyword : key_info})
+		else:
+			if not {keyword : key_info} in main_dict[phase]:
+				main_dict[phase].append({keyword : key_info})
+
+		
+
+
+	for key in main_dict.keys():
+
+		print(key, main_dict[key], '\n')
+
+	return main_dict
+
+# TESTING CODE
+
+
+# synonyms for phases
+phases = [['detection', 'detect', 'detector', 'detects', 'detecting', 'recognize'], 
+['classification', 'identification', 'classify', 'reaction', 'idenitfy'],
+['intent', 'intentionality', 'intention'], 
+['decision', 'decision support', 'decide'], 
+['command', 'control', 'overall', 'main'], 
+['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise'], 
+['forensics', 'forensic']]
+
+# the actual classes (phases)
+classes = ['detection', 'classification', 'intent', 'decision', 'command/control', 'intervention/neutralisation', 'forensics']
+
+    
+# the keyword terms to search for in the text
+searchterms = ['acoustic', 'frequency', 'frequencies', 'radar', 'infrared camera', 'uv camera', 'multi-spectral camera', 'LIDAR', 'jamming', 'jammer'
+'gui', 'method', 'integration', 'architecture', 'capture', 'kinetic', 'datalink jamming', 'gps jamming', 'laser', 'microwave']
+
+
+
+# get text by url
+url = 'https://www.l3-droneguardian.com/'
+text = extractor.getTextFromUrl(url)
+
+# split text in sentences
+sentences = extractor.extractSents(text)
+
+# also make a word splitted text
+worded_text = extractor.flatten(sentences)	
+
+# Get surrounding text to classify
+keyword_indices, sent_indices = find_indices_of_terms(searchterms, worded_text, sentences)
+
+# test code
+nFreqWords = 6
+nSelection = 20
+dictio = fillDict(keyword_indices, sent_indices, nFreqWords, nSelection)
+print(dictio)
 
 
 
