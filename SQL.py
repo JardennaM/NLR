@@ -12,7 +12,7 @@ def create_database_if_not_exists(database_name):
         )
         print("database already exists")
 
-        return db
+        return db.cursor()
 
     except:
         mydb = mysql.connector.connect(
@@ -23,9 +23,15 @@ def create_database_if_not_exists(database_name):
         mycursor = mydb.cursor()
         print("database created!")
         mycursor.execute("CREATE DATABASE %s"%database_name)
+        db = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            passwd="root",
+            database="%s"%database_name
+        )
 
 
-        return mydb
+        return db
 
 def create_phase_table(database):
     """
@@ -75,7 +81,7 @@ def create_systems_table(database):
 
 def create_information_table(database):
     """
-    Function for creatnig the information table within the c_uas
+    Function for creating the information table within the c_uas
 
     Parameters:
     database (string): SQL mycursor
@@ -90,6 +96,17 @@ def create_information_table(database):
 
 
 def initiate_db_tables(database_name):
+    """
+    Function for initiating a database, and creating the initiate_db_tables
+
+    Parameters:
+    database_name (string): name of the database_name
+
+    Returns:
+    Database and tables
+
+    """
+
     db = create_database_if_not_exists(database_name)
     create_phase_table(db)
     create_manufacturers_table(db)
@@ -102,26 +119,48 @@ def initiate_db_tables(database_name):
 
 
 
-def insert_in_phases(name):
+def insert_in_phases(database, phase_name):
     """
-    def some function
+    Function for inserting rows in the phases table
+
+    Parameters:
+    database (string): SQL cursor
+    phase_name (string): name of the phases
+
+    Returns:
+    Boolean True or False
+
 
     """
-    mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="root",
-    database="c_uas"
-    )
+    try:
+        database.execute("INSERT INTO phases (phase) VALUES (%s) "%phase_name)
+        database.commit()
 
-    mycursor = mydb.cursor()
+        print("Phase with name %s inserted."%phase_name)
+
+        return True
+    except:
+        print("Phase with name %s already exists"%phase_name)
+        return False
+
+def insert_in_manufacturers(database, manufacturer_name):
+    """
+    Function for inserting rows in the phases table
+
+    Parameters:
+    database (string): SQL cursor
+    manufacturer_name (string): name of the manufacturer
+
+    Returns:
+    Boolean True or False
+    """
 
 
-    txt = "INSERT INTO {} ({}) VALUES ({}) "
-    input = txt.format(table_name, column_names, data)
+    database.execute("INSERT INTO manufacturers (manufacturer) VALUES (%s) "%manufacturer_name)
+    database.commit()
 
-    mycursor.execute(input)
-
-    mydb.commit()
-
-    print("name inserted.")
+    print("Manufacturer with name %s is inserted."%manufacturer_name)
+    return True
+    # except:
+    #     print("Manufacturer with name %s is already inserted."%manufacturer_name)
+    #     return False
