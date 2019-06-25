@@ -1,157 +1,137 @@
-"""
-scraper.py
-
-Contains a scraper class with a content property with all the content
-from the pages found on the internet based on a file with terms to look for.
-"""
-
-import pandas as pd
-from googlesearch import search
-from bs4 import BeautifulSoup
+import requests
 import urllib.request
-import os
 import time
+from bs4 import BeautifulSoup
+from nltk.corpus import wordnet as wn
+import requests
+import time
+from nltk import sent_tokenize
+import nltk.data
+import re
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+import string
+from nltk.stem import WordNetLemmatizer 
+from urllib.request import urlretrieve
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+from io import StringIO
 
-class Scraper(object):
-	def __init__(self, termsLink, numberOfPagesPerTerm=10, storeLinks=False, storeContent=False):
-		self.termsLink = termsLink
-		self.numberOfPagesPerTerm = numberOfPagesPerTerm
-		self.terms = self.getTerms()
-		self.excludedSources = [line.strip('\n') for line in open('excluded_sources.txt').readlines()]
-		self.storeContent = storeContent
-		if os.path.isfile('links.txt'):
-			self.links = self.getLinksFromFile()
-		else:
-			self.links = self.getLinks(storeLinks)
-		self.content = self.getContent()
+def get_text_from_url(url):
+	"""Takes a url as input and returns the text on that page as output.
 
-	def getTerms(self):
-		"""Extract the terms from in the specified file and store them
-		in a dictionary where the key is the phase"""
-		terms = {}
+	Paramters:
+	url (string): link to a webpage
 
-		df = pd.read_excel('%s'%self.termsLink, index_row=0)
-		columnNames = df.columns 
-		for name in columnNames:
-			terms[name] = []
-			for item in df[name]:
-				if type(item) != float:
-					terms[name].append(item)
-		return terms
+	Returns:
+	content (string): the text from the webpage
 
-	def getLinks(self, storeLinks):
-		"""Return a dictorary of links based on the first N results from
-		a google search. Optionaly write these links to a file."""
-		file = open('links.txt', 'w')
-		totalNumberOfTerms = self.getNumberOfTerms()
-		count = 1
-		links = {}
-		for phase in self.terms:
-			links[phase] = {}
-			for term in self.terms[phase]:
-				links[phase][term] = []
-				searchTerm = 'drone %s %s'%(phase, term)
-				os.system('clear')
-				print('finished searching for %i/%i terms'%(count, totalNumberOfTerms))
-				count += 1
-				for url in search(searchTerm, tld="co.in", num=self.numberOfPagesPerTerm, stop=self.numberOfPagesPerTerm, pause=2):
-					if not self.linkInExclude(url) and not url.endswith('.pdf'):
-						links[phase][term].append(url)
-						file.write('%s|%s|%s\n'%(phase, term, url))
-			time.sleep(5)
-		return links
+	"""
+	if url[-3:] == 'pdf' or url[-3:] == 'PDF':
+		urlretrieve(url, "download.pdf")
+		page = convert_pdf_to_txt("download.pdf")
+	else:
+		page = urllib.request.urlopen(url).read()
 
-	def downloadPage(self, url):
-		"""Returns the content of a page given a url."""
-		return urllib.request.urlopen(url).read()
+	soup = BeautifulSoup(page, 'lxml')
+	[s.extract() for s in soup('script')]
+	[s.extract() for s in soup('style')]
+	text = soup.get_text()
+	return text.rstrip("\n\r")
 
-	def getTextFromPage(self, page):
-		"""Returns a string with only the html content of a given page."""
-		soup = BeautifulSoup(page, 'html')
-		[s.extract() for s in soup('script')]
-		[s.extract() for s in soup('style')]
-		text = soup.get_text()
-		return text.rstrip("\n\r")
+def convert_pdf_to_txt(path):
+	"""Takes the path to a PDF file as input and returns the text that is on 
+	the page.
 
-	def getNumberOfTerms(self):
-		"""Returns the total number of terms that need to be googled."""
-		count = 0
-		for phase in self.terms:
-			for term in self.terms[phase]:
-				count += 1
-		return count
+	Parameters:
 
-	def getNumberOfLinks(self):
-		"""Returns the number of links of the pages that 
-		need to be downloaded."""
-		count = 0
-		for phase in self.links:
-			for term in self.links[phase]:
-				for link in self.links[phase][term]:
-					count += 1
-		return count
+	Returns:
 
-	def getLinksFromFile(self):
-		"""Return a dictionary with the same schema as the getLinks function
-		but use the links in the links.txt file instead of googeling them."""
-		links = {}
-		for phase in self.terms:
-			links[phase] = {}
-			for term in self.terms[phase]:
-				links[phase][term] = []
-		file = open('links.txt').readlines()
 
-		for line in file:
-			line = line.split('|')
-			links[line[0]][line[1]].append(line[2])
-		return links
+	"""
+	rsrcmgr = PDFResourceManager()
+	retstr = StringIO()
+	codec = 'utf-8'
+	laparams = LAParams()
+	device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
+	fp = open(path, 'rb')
+	interpreter = PDFPageInterpreter(rsrcmgr, device)
+	password = ""
+	maxpages = 0
+	caching = True
+	pagenos=set()
 
-	def getContent(self):
-		"""Returns a dictorary with the texts from the content of the links
-		in stringform."""
-		content = {}
+	for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
+		interpreter.process_page(page)
+
+	text = retstr.getvalue()
+
+	fp.close()
+	device.close()
+	retstr.close()
+	return text
+
+def extractSents(text):
+	"""
+	This function extracts the sentences of a string and returns a list with sentences, 
+	tokenized in words.
+	"""
+	# extract sentences
+	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
+
+	# lower senteces
+	sentences_list = []
+	for sentence in sentences:
+		sentence = sentence.lower()
+		tokens = word_tokenize(sentence)
+		sentences_list.append(tokens)
+	
+	return sentences_list
+
+def lemmatize(sentences):
+	"""
+	Function lemmatizes a list of sentences
+	"""
+	lemmatizer = WordNetLemmatizer()
+	lemmatized_sentences = []
+	for s in sentences:
+		lemmatized_s = []
+		for word in s:
+			lemmatized_s.append(lemmatizer.lemmatize(word))
+		lemmatized_sentences.append(lemmatized_s)
+
+	return lemmatized_sentences
+
+def flatten(lst):
+	"""
+	Function flattens a sentence and returns the flattened sentence
+	"""
+	flattend_list = []
+	for sublist in lst:
+	    for item in sublist:
+	        flattend_list.append(item)
+
+	return flattend_list
+
+def shorten(sentences):
+	"""This function removes the punctuation and the stopwords.
+	Returns a list of shortened sentences.
+	"""
+	new_sentence = []
+	for sentence in sentences:
 		
-		numberOfLinks = self.getNumberOfLinks()
-		totalCount = 1
-		for phase in self.links:
-			content[phase] = {}
-			for term in self.links[phase]:
-				content[phase][term] = []
-				count = 1
-				for url in self.links[phase][term]:
-					try:
-						page = self.downloadPage(url)
-						text = self.getTextFromPage(page)
-						content[phase][term].append(text)
-						os.system('clear')
-						print('finished downloading for %i/%i pages'%(totalCount, numberOfLinks))
-						totalCount += 1
-						if self.storeContent:
-							self.storePage(phase, term, text, url, count)
-							count += 1
-					except:
-						pass
-		return content
+		# removes stopwords and punctuation
+		cleaned = list((set(sentence) - set(stopwords.words('english'))) - set(string.punctuation))
+		if not cleaned == [] and not len(cleaned) < 2 and not len(flatten(cleaned)) < 6:
+			new_sentence.append(cleaned)
+	return new_sentence
 
-	def storePage(self, phase, method, page, url, index):
-		"""Store the text of a page in the correct folder."""
-		try:
-			os.mkdir('pages')
-		except:
-			pass
-		try:
-			os.mkdir('pages/%s'%phase)
-		except:
-			pass
-		file =  open('pages/%s/%s_%i.txt'%(phase, method, index), 'w')
-		file.write('url: %s\n'%url)
-		file.write(page)
-		file.close()
+def extract_cleaned_sentences(text):
+	sentences = extractSents(text)
+	lemmatized = lemmatize(sentences)
+	shortened = shorten(lemmatized)
+	return shortened
 
-	def linkInExclude(self, link):
-		for source in self.excludedSources:
-			if source in link:
-				return True
-		return False
-		
-		
+
