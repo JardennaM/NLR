@@ -34,16 +34,6 @@ def getSentenceIndex(index, sentences):
 			if idx_count == index:
 				return sent_i
 
-def flatten(l):
-	"""
-	Function flattens a sentence and returns the flattened sentence
-	"""
-	flat_list = []
-	for sublist in l:
-	    for item in sublist:
-	        flat_list.append(item)
-
-	return flat_list
 
 
 def find_indices_of_terms(search_terms, text, sentences):
@@ -91,16 +81,15 @@ def getLeastFrequentWords(sentence, n):
 	"""
 	freq_list = []
 	for index, word in enumerate(sentence):
-		
-		if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
-			continue
-		# make sure frequencies are in there (hardcoded)
-		if 'ghz' in word:
-			freq_list.append((index, word, 0.0))
-		else:
-			freq_list.append((index, word, word_frequency(word, 'en')))
+		if wordNotFiltered(word):
+			if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
+				continue
+			# make sure frequencies are in there (hardcoded)
+			if 'ghz' in word:
+				freq_list.append((index, word, 0.0))
+			else:
+				freq_list.append((index, word, word_frequency(word, 'en')))
 
-	print('freqs', freq_list)
 	# sort words in least frequency
 	sorted_on_freq = [(x[0], x[1]) for x in set(sorted(freq_list, key=lambda tup: tup[2])[0:n])]
 
@@ -188,21 +177,18 @@ def fillDict(searchterms, sentences, worded_text, phases, classes, nFreqWords, n
 				key_sent[j] = key_sent[j-1] + key_sent[j]
 				key_sent.pop(j-1)
 
-		# --------
-
 		# remove duplicates
 		key_sent = list(dict.fromkeys(key_sent))
 
 		# remove punctuation from key info
 		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...']]
 
-
-		# info to fill dictionary with
+			# info to fill dictionary with
 		phase = classes[get_cosine_sims_classify(i, phases, worded_text, nSelection)]
 
 		key_info = getLeastFrequentWords(key_sent, nFreqWords)
 
-		print(key_sent, key_info)
+		# print(key_sent, key_info)
 		keyword =  worded_text[i]
 
 		if phase not in main_dict.keys():
