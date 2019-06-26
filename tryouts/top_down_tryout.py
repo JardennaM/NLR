@@ -17,9 +17,9 @@ import pandas as pd
 ### TOP DOWN METHOD TO FIND PHASES AND THEIR KEYWORDS ###
 
 # extracting webpage and loading sentences
-url = 'https://www.dronedefence.co.uk/app/uploads/2018/12/SkyFence-brochure-2018121c.pdf'
-text = extractor.getTextFromUrl(url)
-sentences = extractor.extractSents(text)
+url = 'https://phantom-technologies.com/eagle108-drone-detection-jamming-system/'
+text = extractor.get_text_from_url(url)
+sentences = extractor.extract_sents(text)
 
 # shorten the sentences
 #lem_sents = extractor.lemmatize(sentences)
@@ -34,6 +34,25 @@ phases = [
 ['command', 'control', 'overall', 'main'], # command/control
 ['intervention', 'intervene', 'interventions', 'neutralisation', 'neutralize', 'neutralise'], # intervention
 ['forensics']] # forensics
+def getLeastFrequentWords(sentence, n):
+	"""
+	Extracts and returns the n least frequent words of a given sentence
+	"""
+	freq_list = []
+	for index, word in enumerate(sentence):
+		if word in ['•', '’', '”', '“', ')', '–', '»'] or word in string.punctuation:
+			continue
+		# make sure frequencies are in there (hardcoded)
+		if 'ghz' in word:
+			freq_list.append((index, word, 0.0))
+		else:
+			freq_list.append((index, word, word_frequency(word, 'en')))
+
+	# sort words in least frequency
+	sorted_on_freq = [(x[0], x[1]) for x in set(sorted(freq_list, key=lambda tup: tup[2])[0:n])]
+
+	# return list of words in logical order
+	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
 
 
 def reduceToPhases(phases, sentences):

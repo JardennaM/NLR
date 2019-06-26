@@ -1,9 +1,0 @@
-detection,accoustic,radio frequency(RF),radar,camera (visual/daylightrange),camera (infrared),camera (uv),camera (multi-spectral),LIDAR
-classification,accoustic,radio frequency(RF),radar,camera (visual/daylightrange),camera (infrared),camera (uv),camera (multi-spectral),LIDAR
-identification,accoustic,radio frequency(RF),radar,camera (visual/daylightrange),camera (infrared),camera (uv),camera (multi-spectral),LIDAR
-intent,method
-dicision support,GUI,method
-command,GUI,system,integration,archtitecture,open,closed,total crew required
-control,GUI,system,integration,archtitecture,open,closed,total crew required
-intervention,capture,take over control,kinetic (bullets),kinetic (missiles),Datalink jamming,GPS jamming,Laser,High Power Microwave
-neutralisation,capture,take over control,kinetic (bullets),kinetic (missiles),Datalink jamming,GPS jamming,Laser,High Power Microwave
