@@ -12,7 +12,7 @@ def create_database_if_not_exists(database_name):
         )
         print("database already exists")
 
-        return db.cursor()
+        return db
 
     except:
         mydb = mysql.connector.connect(
@@ -29,7 +29,6 @@ def create_database_if_not_exists(database_name):
             passwd="root",
             database="%s"%database_name
         )
-
 
         return db
 
@@ -90,7 +89,7 @@ def create_information_table(database):
     The information table within the c_uas database
 
     """
-    database.cursor().execute("CREATE TABLE information (id INT AUTO_INCREMENT PRIMARY KEY, man_id INT, sys_id INT, phase_id INT, URL VARCHAR(255), information TEXT)")
+    database.cursor().execute("CREATE TABLE information (id INT AUTO_INCREMENT PRIMARY KEY, sys_id INT, phase_id INT, URL TEXT, information_keywords TEXT, text TEXT)")
 
     print("Information table created!")
 
@@ -113,6 +112,10 @@ def initiate_db_tables(database_name):
     create_systems_table(db)
     create_information_table(db)
 
+    insert_in_phases(db, "detection")
+    insert_in_phases(db, "classification")
+    insert_in_phases(db, "command and control")
+
     print("Database initiated and phase, manufacturers, systems and information table created!")
 
 
@@ -133,15 +136,16 @@ def insert_in_phases(database, phase_name):
 
     """
     try:
-        database.execute("INSERT INTO phases (phase) VALUES (%s) "%phase_name)
+        text = '"'
+        database.cursor().execute("INSERT INTO phases (phase) VALUES (' %s ')" %phase_name)
         database.commit()
 
-        print("Phase with name %s inserted."%phase_name)
+        print("Phase with name %s inserted."%phase_name)\
 
         return True
     except:
-        print("Phase with name %s already exists"%phase_name)
-        return False
+         print("Failed to insert.")
+         return False
 
 def insert_in_manufacturers(database, manufacturer_name):
     """
@@ -155,12 +159,61 @@ def insert_in_manufacturers(database, manufacturer_name):
     Boolean True or False
     """
 
+    try:
+        database.cursor().execute("INSERT INTO manufacturers (manufacturer) VALUES ('%s') "%manufacturer_name)
+        database.commit()
 
-    database.execute("INSERT INTO manufacturers (manufacturer) VALUES (%s) "%manufacturer_name)
-    database.commit()
+        print("Manufacturer with name %s is inserted."%manufacturer_name)
+        return True
+    except:
+        print("Failed to insert.")
+        return False
 
-    print("Manufacturer with name %s is inserted."%manufacturer_name)
-    return True
-    # except:
-    #     print("Manufacturer with name %s is already inserted."%manufacturer_name)
-    #     return False
+def insert_in_systems(database, man_id, parent_id, system_name):
+    """
+    Function for inserting rows in the phase table
+
+    Parameters:
+    database (string): SQL cursor
+    man_id (INT): manufacturers
+    parent_id (INT): parental system
+    system_name (string): name of the system
+
+    Returns:
+    Boolean True or False
+    """
+    try:
+        database.cursor().execute("INSERT INTO systems (man_id, parent_id, system) VALUES ('%s', '%s', '%s') "% (man_id, parent_id, system_name))
+        database.commit()
+
+        print("System %s inserted." %system_name)
+        return True
+    except:
+        print("Failed to insert.")
+        return False
+
+
+def insert_in_information(database, sys_id, phase_id, URL, information_keywords, text):
+    """
+    Function for inserting rows in the phase table
+
+    Parameters:
+    database (string): SQL cursor
+    sys_id (INT): id of the system in question
+    phase_id (INT): id of the phase in
+    URL (string): URL where the information in this row is extracted from
+    information_keywords (string): keywords and extracted information found at the website
+    text (string): alinea where the information is found
+
+    Returns:
+    Boolean True or False
+    """
+    try:
+        database.cursor().execute("INSERT INTO information (sys_id, phase_id, URL, information_keywords, text) VALUES ('%s', '%s', '%s', '%s', '%s') " % (sys_id, phase_id, URL, information_keywords, text))
+        database.commit()
+
+        print("Information inserted.")
+        return True
+    except:
+        print("Failed to insert.")
+        return False
