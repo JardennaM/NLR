@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from nltk.corpus import wordnet
-import extractor
+import scraper
 from word_forms.word_forms import get_word_forms
 import numpy as np
 
@@ -45,7 +45,7 @@ def create_search_terms(methods, relevant_info):
 		class_terms = []
 		for method in class_methods:
 			class_terms.append(method)
-			for info_piece in relevant_info[i]:
+			for info_piece in relevant_info[i]:w
 				class_terms.append(method + info_piece)
 		searchterms.append(class_terms)
 

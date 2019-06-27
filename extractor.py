@@ -23,7 +23,7 @@ from numpy import dot
 from numpy.linalg import norm
 from wordfreq import word_frequency
 from input_structure_reader import excel_to_classes_and_searchterms
-from extractor import flatten
+from scraper import flatten
 
 
 
@@ -230,6 +230,9 @@ def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_ran
 # Get info from excel file 
 classes, classes_vec, searchterms = excel_to_classes_and_searchterms('terms.xlsx', classes_wordforms_expansion=True, classes_full_expansion=False)
 
+print(classes, '\n')
+print(classes_vec, '\n')
+print(searchterms, '\n')
 
 # CODE TO EXTRACT RELEVANT INFO FROM ONE PAGE
 # get text by url
