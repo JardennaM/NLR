@@ -12,7 +12,7 @@ import nltk
 from nltk.corpus import wordnet
 import csv
 from copy import deepcopy
-import extractor
+import scraper
 import string
 import operator
 import validators
@@ -228,7 +228,7 @@ def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_ran
 # TESTING
 
 # Get info from excel file 
-classes, classes_vec, searchterms = excel_to_classes_and_searchterms('terms.xlsx', classes_wordforms_expansion=True, classes_full_expansion=False)
+classes, classes_vec, searchterms = excel_to_classes_and_searchterms('terms.xlsx', classes_wordforms_expansion=True, classes_full_expansion=False, expansion_depth=1)
 
 print(classes, '\n')
 print(classes_vec, '\n')
@@ -237,11 +237,11 @@ print(searchterms, '\n')
 # CODE TO EXTRACT RELEVANT INFO FROM ONE PAGE
 # get text by url
 url = 'https://phantom-technologies.com/eagle108-drone-detection-jamming-system/'
-text = extractor.get_text_from_url(url)
+text = scraper.get_text_from_url(url)
 
 
 # split text in sentences
-sentences = extractor.extract_sents(text)
+sentences = scraper.extract_sents(text)
 
 # GET NEEDED INFO
 nFreqWords = 6

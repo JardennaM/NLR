@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from nltk.corpus import wordnet
 import scraper
+from scraper import flatten
 from word_forms.word_forms import get_word_forms
 import numpy as np
 
@@ -10,7 +11,7 @@ def get_all_word_forms(word):
 	# get all word forms of a word in a list
 	forms_dict = get_word_forms(word)
 
-	return list(dict.fromkeys(extractor.flatten(forms_dict.values())))
+	return list(dict.fromkeys(flatten(forms_dict.values())))
 
 
 
@@ -24,7 +25,7 @@ def get_synonyms(word, depth):
 		synonyms.append([x.name() for i, x in enumerate(syn.lemmas()) if i < depth])
 
 	# list the synonyms for the word
-	synonyms = list(dict.fromkeys(extractor.flatten(synonyms)))
+	synonyms = list(dict.fromkeys(flatten(synonyms)))
 
 	return synonyms
 
@@ -32,7 +33,7 @@ def synset_classes(classes, depth):
 	main_categories = []
 	for main_cat in classes:
 		synonyms = get_synonyms(main_cat, depth)
-		all_forms = extractor.flatten([get_all_word_forms(x) for x in synonyms])
+		all_forms = flatten([get_all_word_forms(x) for x in synonyms])
 		all_forms = [x for x in all_forms if '_' not in x]
 		main_categories.append(all_forms)
 
@@ -45,7 +46,7 @@ def create_search_terms(methods, relevant_info):
 		class_terms = []
 		for method in class_methods:
 			class_terms.append(method)
-			for info_piece in relevant_info[i]:w
+			for info_piece in relevant_info[i]:
 				class_terms.append(method + info_piece)
 		searchterms.append(class_terms)
 
