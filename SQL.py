@@ -10,7 +10,6 @@ def create_database_if_not_exists(database_name):
             passwd="root",
             database="%s"%database_name
         )
-        print("database already exists")
 
         return db
 
@@ -21,7 +20,7 @@ def create_database_if_not_exists(database_name):
             passwd="root"
             )
         mycursor = mydb.cursor()
-        print("database created!")
+
         mycursor.execute("CREATE DATABASE %s"%database_name)
         db = mysql.connector.connect(
             host="localhost",
@@ -46,7 +45,7 @@ def create_phase_table(database):
 
     database.cursor().execute("CREATE TABLE phases (id INT AUTO_INCREMENT PRIMARY KEY, phase TEXT)")
 
-    print("Phases table created!")
+
 
 def create_manufacturers_table(database):
     """
@@ -61,7 +60,6 @@ def create_manufacturers_table(database):
     """
     database.cursor().execute("CREATE TABLE manufacturers (id INT AUTO_INCREMENT PRIMARY KEY, manufacturer TEXT)")
 
-    print("Manufacturers table created!")
 
 def create_systems_table(database):
     """
@@ -76,7 +74,6 @@ def create_systems_table(database):
     """
     database.cursor().execute("CREATE TABLE systems (id INT AUTO_INCREMENT PRIMARY KEY, man_id INT, parent_id INT, system TEXT)")
 
-    print("Systems table created!")
 
 def create_information_table(database):
     """
@@ -91,7 +88,6 @@ def create_information_table(database):
     """
     database.cursor().execute("CREATE TABLE information (id INT AUTO_INCREMENT PRIMARY KEY, sys_id INT, phase_id INT, URL TEXT, information_keywords TEXT, text TEXT)")
 
-    print("Information table created!")
 
 
 def initiate_db_tables(database_name):
@@ -114,13 +110,7 @@ def initiate_db_tables(database_name):
 
     insert_in_phases(db, "detection")
     insert_in_phases(db, "classification")
-    insert_in_phases(db, "command and control")
-
-    print("Database initiated and phase, manufacturers, systems and information table created!")
-
-
-
-
+    insert_in_phases(db, "intervention")
 
 def insert_in_phases(database, phase_name):
     """
@@ -140,11 +130,8 @@ def insert_in_phases(database, phase_name):
         database.cursor().execute("INSERT INTO phases (phase) VALUES (' %s ')" %phase_name)
         database.commit()
 
-        print("Phase with name %s inserted."%phase_name)\
-
         return True
     except:
-         print("Failed to insert.")
          return False
 
 def insert_in_manufacturers(database, manufacturer_name):
@@ -163,10 +150,9 @@ def insert_in_manufacturers(database, manufacturer_name):
         database.cursor().execute("INSERT INTO manufacturers (manufacturer) VALUES ('%s') "%manufacturer_name)
         database.commit()
 
-        print("Manufacturer with name %s is inserted."%manufacturer_name)
         return True
     except:
-        print("Failed to insert.")
+
         return False
 
 def insert_in_systems(database, man_id, parent_id, system_name):
@@ -186,10 +172,9 @@ def insert_in_systems(database, man_id, parent_id, system_name):
         database.cursor().execute("INSERT INTO systems (man_id, parent_id, system) VALUES ('%s', '%s', '%s') "% (man_id, parent_id, system_name))
         database.commit()
 
-        print("System %s inserted." %system_name)
         return True
     except:
-        print("Failed to insert.")
+
         return False
 
 
@@ -212,8 +197,7 @@ def insert_in_information(database, sys_id, phase_id, URL, information_keywords,
         database.cursor().execute("INSERT INTO information (sys_id, phase_id, URL, information_keywords, text) VALUES ('%s', '%s', '%s', '%s', '%s') " % (sys_id, phase_id, URL, information_keywords, text))
         database.commit()
 
-        print("Information inserted.")
         return True
     except:
-        print("Failed to insert.")
+
         return False
