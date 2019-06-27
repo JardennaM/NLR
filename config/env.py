@@ -7,5 +7,5 @@ env = {
 	'nFreqWords': 6,
 	'surr_range': 1,
 	'sql_username': 'root',
-	'sql_password': 'root!'
+	'sql_password': 'HoiHoi1!'
 }

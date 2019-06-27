@@ -118,9 +118,14 @@ def insert_in_sub_categories(database, sub_category_name):
     Boolean True or False
     """
     mycursor = database.cursor()
-    mycursor.execute("INSERT INTO sub_categories (name) VALUES ('%s')"%sub_category_name)
-    database.commit()
-    return mycursor.lastrowid
+    mycursor.execute("SELECT * FROM sub_categories WHERE name = '%s'"%sub_category_name)
+    ids = [identifier[0] for identifier in mycursor]
+    if ids == []:
+        mycursor.execute("INSERT INTO sub_categories (name) VALUES ('%s')"%sub_category_name)
+        database.commit()
+        return mycursor.lastrowid
+    else:
+        return ids[0]
     
 def insert_in_manufacturers(database, manufacturer_name):
     """
