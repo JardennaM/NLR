@@ -151,6 +151,18 @@ def isTermUnique(term, searchterms):
 	else:
 		return True
 
+def remove_duplicates(dict_in_dict):
+	for class_, sub in dict_in_dict.items():
+		sub2 = []
+		for subdict in sub:
+			if not subdict in sub2:
+				sub2.append(subdict)
+
+		dict_in_dict[class_] = sub2
+
+	return dict_in_dict
+
+
 # fills dictionary with phase, keywords and keyword info
 def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
 	"""
@@ -218,4 +230,9 @@ def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_ran
 			if not {keyword : key_info} in main_dict[c]:
 				main_dict[c].append({keyword : [key_info, ' '.join(surrounding_text(index, sentences, surr_range))]})
 
+	main_dict = remove_duplicates(main_dict)
+
 	return main_dict
+
+
+
