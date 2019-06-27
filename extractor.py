@@ -84,6 +84,8 @@ def getLeastFrequentWords(sentence, n):
 	"""
 	freq_list = []
 	for index, word in enumerate(sentence):
+		if isAWebsite(word):
+			continue
 		if word in ['•', '’', '”', '“', ')', '–', '»', '“'] or word in string.punctuation:
 			continue
 		# make sure frequencies are in there (hardcoded)
@@ -105,7 +107,11 @@ def cos_sim(a, b):
 		normv = (norm(a)*norm(b))
 	return dot(a, b)/normv
 
-
+def isAWebsite(word):
+	for element in ['www.', 'http', '.com', '.co']:
+		if element in word:
+			return True
+	return False
 
 def createZerosList(listOfLists):
 	"""
