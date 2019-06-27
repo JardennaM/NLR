@@ -1,37 +1,24 @@
-import requests
-import urllib.request
-import time
-from bs4 import BeautifulSoup
-from nltk.corpus import wordnet as wn
 from googlesearch import search 
-import requests
 import time
-from nltk import sent_tokenize
-import nltk.data
-import re
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import string
-from nltk.stem import WordNetLemmatizer 
-import pandas as pd
-from urllib.request import urlretrieve
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.converter import TextConverter
-from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPage
-from io import BytesIO
-from io import StringIO
-import os
-
-from extractor import *
 
 def get_systems_from_file(path):
-	"""Takes the path to systems.txt as input and returns a list of lists
-	where each item constains a manufacturer and a drone system."""
+	"""Functions takes the path to the systems.txt file as input
+	and return a list of lists where each sublist contains the manufacturer
+	and the name of the product. System.txt should contain the name of the
+	manufacturer and the name of the product, seperated by a '|' symbol. 
+
+	Parameters:
+	path (string): Path to systems.txt
+
+	Returns:
+	list(systems): list of systems to examine later.
+
+	"""
+
 	file = open(path).readlines()
 
 	systems = []
-	for line in file[1:]:
+	for line in file:
 		line = line.rstrip('\n').split('|')
 		if len(line) == 1:
 			systems.append([line[0], ''])
@@ -39,106 +26,82 @@ def get_systems_from_file(path):
 			systems.append(line)
 	return systems
 
-def get_excluded_from_file(path):
-	"""Takes the path to excluded.txt as input and returns a list of 
-	excluded sources."""
+def get_excluded_sources_from_file(path):
+	"""Functions takes the path to the excluded_sources.txt file as input
+	and return a list of excluded sources. Excluded_sources.txt should contain
+	an excluded source on each line.
+
+	Parameters:
+	path (string): Path to excluded_sources.txt
+
+	Returns:
+	list(excluded_sources): list of excluded source to remove from the
+	searcher.
+
+	"""
 	return [item.rstrip('\n') for item in open(path).readlines()]
 
 def get_searchterms_from_file(path):
-	"""Takes the path to search_terms.txt as input and returns a list of 
-	search terms."""
+	"""Functions takes the path to the searchterms.txt file as input
+	and return a list of terms to search for. Searchterms.txt should contain
+	a searchterm on each line.
+
+	Parameters:
+	path (string): Path to searchterms.txt
+
+	Returns:
+	list(searchterms): list of searchterms to search for each system.
+
+	"""
 	return [item.rstrip('\n') for item in open(path).readlines()]
 
 def site_in_excluded(url, excluded):
-	"""Takes a url and a list of excluded sources and returns True if the
-	url is in the excluded list. Returns False if it is not in the list."""
+	"""Returns true if the url originates from an excluded source, otherwise
+	returns false.
+
+	Parameters:
+	url (string): path to website
+	excluded (list): list of excluded sources
+
+	Returns:
+	boolean
+
+	"""
 	for site in excluded:
 		if site in url:
-			return True
-	return False
+			return False
+	return True
 
-def create_search_terms_list(systems, searchterms):
-	to_search = []
-	for system in systems:
-		system_list = []
-		if system[1] != '':
-			for term in searchterms:
-				system_list.append(system[0] + ' ' + system[1] + ' ' + term)
-				#system_list.append(system[1] + ' ' + term)
-		[to_search.append(item) for item in system_list]
-	return to_search
+def create_to_search(system, searchterm):
+	if system[1] == '':
+		return '%s %s'%(system[0], searchterm)
+	else:
+		return '%s %s %s'%(system[0], system[1], searchterm)
 
-def google_terms(searchterms, excluded, number_of_urls_per_term=25):
-	"""Given a list of search terms and a list of excluded sources
-	it returns a list of urls returned by a google search. By default
-	the number of urls returned per searchterm is 25 but this can be 
-	altered by an extra input argument.""" 
+def google_term(to_search, excluded_sources, number_of_top_results=25):
+	"""Takes a list of terms to search for using a search engine as input and 
+	returns the urls of the top results as list. The list is also stored in a 
+	urls.txt file. When recieving a server_overflow error, the program waits 15
+	minutes before trying to 
+
+	Parameters:
+	to_search (list): list of terms to search for
+	excluded_sources (list): list of sources to exclude from the search results
+	@optional number_of_top_results (int): the number of results per 
+											term to return.
+
+	Returns:
+	urls (list): a list of urls to retrieve the content from.
+
+	"""
+
 	urls = []
 
-	count = 0
-	number_of_searchterms = len(searchterms)
-	while count < number_of_searchterms:
-		print(count, 'van de', number_of_searchterms)
-		term = searchterms[count]
-		try:
-			for url in search(term, tld="co.in", num=25, stop=10, pause=1):
-				if not site_in_excluded(url, excluded):
-					# print(term.split()[:-1])
-					urls.append('%s|%s'%(' '.join(term.split()[:-1]),url))
-			count += 1
-		except:
-			print('wait')
-			time.sleep(900)
-
-	with open('results/urls.txt', 'w') as file:
-		for url in urls:
-			file.write('%s\n'%url)
-	file.close()
+	try:
+		for url in search(to_search, tld="co.in", num=number_of_top_results, stop=10, pause=1):
+			if site_in_excluded(url, excluded_sources):
+				urls.append(url)
+	except:
+		print('waiting')
+		time.sleep(900)
 	return urls
-
-def read_urls_from_file(path):
-	urls = []
-	for line in open(path).readlines():
-		if not line.startswith('>>>') and not line.startswith('<<<'):
-			line = line.rstrip('\n').split('|')
-			urls.append([line[0], line[1]])
-	return urls
-
-def write_page_to_file(text, url, term):
-	try:
-		os.mkdir('results/pages')
-	except:
-		pass
-	try:
-		os.mkdir('results/pages/%s'%(term))
-	except:
-		pass
-	try:
-		index = max([int(filename.split('.')[0]) for filename in os.listdir('results/pages/%s'%(term))]) + 1	
-	except:
-		index = 1
-
-	file = open('results/pages/%s/%i.txt'%(term, index), 'w')
-	file.write('%s\n'%url)
-	file.write(text)
-	file.close()
-
-# systems = get_systems_from_file('data/drone_systems.txt')
-# excluded = get_excluded_from_file('data/excluded.txt')
-# searchterms = get_searchterms_from_file('data/search_terms.txt')
-# searchterm_list = create_search_terms_list(systems, searchterms)[:25]
-
-# urls = google_terms(searchterm_list, excluded)
-
-pattern = re.compile(r'\s+')
-
-urls = read_urls_from_file('results/urls.txt')
-for url in urls[2:]:
-	text = getTextFromUrl(url[1])
-	if text != None:
-		sentences = nltk.sent_tokenize(text)
-		sentences = [sentence.replace('\n', '') for sentence in sentences]
-		sentences = [sentence.replace('\t', '') for sentence in sentences]
-		text = ' '.join(sentences)
-		write_page_to_file(text, url[1], url[0])
-		print('written')

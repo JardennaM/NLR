@@ -1,154 +1,221 @@
-import requests
+import re, math
+from collections import Counter
+import urllib
 import urllib.request
-import time
+import sys
+from urllib.parse import urlparse
+import operator
+import csv
 from bs4 import BeautifulSoup
-from nltk.corpus import wordnet as wn
-import requests
-import time
-from nltk import sent_tokenize
-import nltk.data
-import re
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+from tabulate import tabulate
+import nltk
+from nltk.corpus import wordnet
+import csv
+from copy import deepcopy
+import scraper
 import string
-from nltk.stem import WordNetLemmatizer 
-import pandas as pd
-from urllib.request import urlretrieve
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.converter import TextConverter
-from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPage
-from io import StringIO
+import operator
+import validators
+from validator_collection import validators, checkers
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+from numpy import dot
+from numpy.linalg import norm
+from wordfreq import word_frequency
+from input_structure_reader import excel_to_classes_and_searchterms
+from scraper import flatten
 
 
-### MAIN FUNCTIONS
 
-def getTextFromUrl(url):
+
+
+def find_indices_of_terms(search_terms, sentences):
 	"""
-	Function extracts HTML from a webpage (or PDF webpage)
-	and returns it
+	This function, given search terms, return the word indices in de worded_text
+	and the sentences indices in the sentence-splitted text for all found search terms.
 	"""
+	indices = []
 
-	# if PDF
-	try:
-		if url[-3:] == 'pdf' or url[-3:] == 'PDF':
-			urlretrieve(url, "download.pdf")
-			page = convert_pdf_to_txt("download.pdf")
+	for index, sentence in enumerate(sentences):
+		for c, class_terms in enumerate(search_terms):
+			for term in class_terms:
+
+				# morgen nog even naar kijken, naar de manier hoe ik dit doe
+				if set(term).issubset(set(sentence)):
+					if isTermUnique(term, search_terms):
+						class_ = c
+					else:
+						class_ = -1
+					indices.append((term, index, class_))
+
+	return indices
+
+
+def surrounding_text(index, sentences, surr_range):
+	range_1 = index - surr_range
+	range_2 = index + surr_range + 1
+	if range_1 >= 0 and range_2 <= len(sentences):
+	    return flatten(sentences[range_1:range_2])
+	elif range_1 >= 0:
+	    return flatten(sentences[range_1:len(sentences)])
+	elif range_2 <= len(sentences):
+	    return flatten(sentences[0:range_2])
+	else:
+	    return flatten(sentences[0:len(sentences)])
+
+
+
+				
+def phase_vector(sur_text, classes_vec):
+	"""
+	Creates a phase_vector of the surrounding text of a keyword
+	"""
+	vec_matrix = createZerosList(classes_vec)
+	for word in sur_text:
+		for i, c in enumerate(classes_vec):
+			for j, syn in enumerate(c):
+				if word == syn:
+					vec_matrix[i][j] += 1
+	return np.array(flatten(vec_matrix))
+
+def getLeastFrequentWords(sentence, n):
+	"""
+	Extracts and returns the n least frequent words of a given sentence
+	"""
+	freq_list = []
+	for index, word in enumerate(sentence):
+		if word in ['•', '’', '”', '“', ')', '–', '»', '“'] or word in string.punctuation:
+			continue
+		# make sure frequencies are in there (hardcoded)
+		if 'ghz' in word:
+			freq_list.append((index, word, 0.0))
 		else:
-			page = urllib.request.urlopen(url).read()
+			freq_list.append((index, word, word_frequency(word, 'en')))
 
-		soup = BeautifulSoup(page, 'lxml')
-		[s.extract() for s in soup('script')]
-		[s.extract() for s in soup('style')]
-		text = soup.get_text()
-		return text.rstrip("\n\r")
-	except:
-		return None
+	# sort words in least frequency
+	sorted_on_freq = [(x[0], x[1]) for x in set(sorted(freq_list, key=lambda tup: tup[2])[0:n])]
+
+	# return list of words in logical order
+	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
+
+def cos_sim(a, b):
+	if (norm(a)*norm(b)) == 0:
+		normv = 0.000000000001
+	else:
+		normv = (norm(a)*norm(b))
+	return dot(a, b)/normv
 
 
 
-def extractSents(text):
+def createZerosList(listOfLists):
 	"""
-	This function extracts the sentences of a string and returns a list with sentences, 
-	tokenized in words.
-
+	Helper function, creates a zeros list of a list of lists
 	"""
-	# extract sentences
-	sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
+	mainList = []
+	for subList in listOfLists:
+		n = len(subList)
+		mainList.append([0]*n)
+	return mainList
 
-	# lower senteces
-	l_sents = []
-	for sent in sentences:
-		new_sent = sent.lower()
-		tokens = word_tokenize(new_sent)
-		l_sents.append(tokens)
+
+# classify with cosine similarity
+def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
+
+
+	# first we check whether classification is necessary
+
 	
-	return l_sents
+	surr = surrounding_text(index, sentences, surr_range)
+	vector = phase_vector(surr, classes_vec)
 
-def lemmatize(sentences):
-	"""
-	Function lemmatizes a list of sentences
-	"""
-	lemmatizer = WordNetLemmatizer()
-	lemmatized_sentences = []
-	for s in sentences:
-		lemmatized_s = []
-		for word in s:
-			lemmatized_s.append(lemmatizer.lemmatize(word))
-		lemmatized_sentences.append(lemmatized_s)
-
-	return lemmatized_sentences
+	
+	# get cosine sim for each class
+	cosine_sims = []
+	for i in range(len(classes_vec)-1):
+		zeros = createZerosList(classes_vec)
+		zeros[i] = list(np.ones(len(zeros[i])))
+		class_vector = np.array(flatten(zeros))
+		cosine_sims.append(cos_sim(vector, class_vector))
 
 
-def shorten(sentences):
+	# return class index with highest cosine similarity
+	return np.argmax(cosine_sims)
+	
+def isTermUnique(term, searchterms):
+	count = 0
+	for term2 in flatten(searchterms):
+		if term == term2:
+			count += 1
+	if count >= 2:
+		return False
+	else:
+		return True
+
+# fills dictionary with phase, keywords and keyword info
+def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
 	"""
-	This function removes the punctuation and the stopwords.
-	Returns a list of shortened sentences.
+	PARAMS
+	searchterms: keywords that will be searched in the text
+	sentences: the text splitted in sentences
+	worded_text: the text splittted in words
+	phases: list of (synonyms) of phases
+	classes: simple list of phases/classes
+	nFreqWords: number of freq to shorten sentence
+	nSelection: number of surroundings to use around keywords
 	"""
-	new_sents = []
-	for s in sentences:
+
+	sent_indices = find_indices_of_terms(search_terms, sentences)
+
+	main_dict = {}
+	for term, index, class_ in sent_indices:
+
+
+		key_sent = sentences[index]
+
+		# A PRIORI RULES
+
+		# hardcoded, given rule for frequency ghz
+		if 'ghz' in key_sent:
+			
+			j = key_sent.index('ghz')
+			if key_sent[j-1].isdigit():
+				key_sent[j] = key_sent[j-1] + key_sent[j]
+				key_sent.pop(j-1)
+			
+		# hardcoded, given rule for frequency mhz
+		if 'mhz' in key_sent:
+			j = key_sent.index('mhz')
+			if key_sent[j-1].isdigit():
+				key_sent[j] = key_sent[j-1] + key_sent[j]
+				key_sent.pop(j-1)
+
+		# --------
+
+		# remove duplicates
+		key_sent = list(dict.fromkeys(key_sent))
+		# remove punctuation from key info, as well as urls
+		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...']]
+
 		
-		# removes stopwords and punctuation
-		cleaned = list((set(s) - set(stopwords.words('english'))) - set(string.punctuation))
-		if not cleaned == [] and not len(cleaned) < 2 and not len(flatten(cleaned)) < 6:
-			new_sents.append(cleaned)
 
+		# info to fill dictionary with
 
-	return new_sents
+		# if not classified, classify (if not unique)
+		if class_ == -1:
+			c = classes[get_cosine_sims_classify(index, classes_vec, sentences, surr_range)]
 
+		else:
+			c = classes[class_]
 
-### HELPER FUNCTIONS
+		key_info = getLeastFrequentWords(key_sent, nFreqWords)
 
-def convert_pdf_to_txt(path):
-    rsrcmgr = PDFResourceManager()
-    retstr = StringIO()
-    codec = 'utf-8'
-    laparams = LAParams()
-    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
-    fp = open(path, 'rb')
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    password = ""
-    maxpages = 0
-    caching = True
-    pagenos=set()
+		keyword =  ' '.join(term)
 
-    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
-        interpreter.process_page(page)
+		if c not in main_dict.keys():
+			main_dict[c] = []
+			main_dict[c].append({keyword : [key_info, ' '.join(surrounding_text(index, sentences, surr_range))]})
+		else:
+			if not {keyword : key_info} in main_dict[c]:
+				main_dict[c].append({keyword : [key_info, ' '.join(surrounding_text(index, sentences, surr_range))]})
 
-    text = retstr.getvalue()
-
-    fp.close()
-    device.close()
-    retstr.close()
-    return text
-
-
-def getTerms():
-	"""
-	Gets the terms from the terms.xls file
-	"""
-	terms = {}
-
-	df = pd.read_excel('terms.xls', index_row=0)
-	columnNames = df.columns 
-
-	for name in columnNames:
-		terms[name] = []
-		for item in df[name]:
-			if type(item) != float:
-				terms[name].append(item)
-	return terms
-
-
-def flatten(l):
-	"""
-	Function flattens a sentence and returns the flattened sentence
-	"""
-	flat_list = []
-	for sublist in l:
-	    for item in sublist:
-	        flat_list.append(item)
-
-	return flat_list
-
-
+	return main_dict
