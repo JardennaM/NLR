@@ -5,8 +5,8 @@ $ python3 script.py
 The following packages need to be installed  with $ pip3 install package_name
 
 ### Package names
-mysql
-google
+mysql \n
+google \n
 requests
 time
 string
