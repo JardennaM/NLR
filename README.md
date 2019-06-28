@@ -1,4 +1,5 @@
 ## How to run
+Only works for python3.x!
 
 `$ python3 script.py`
 
