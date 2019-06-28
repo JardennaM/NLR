@@ -1,10 +1,10 @@
-How to run:
+## How to run
 
 $ python3 script.py
 
 The following packages need to be installed  with $ pip3 install package_name
 
-### package_name
+### Package names
 mysql
 google
 requests
@@ -29,6 +29,7 @@ wordfreq
 ### Special installation
 word_forms package
 github link: https://github.com/gutfeeling/word_forms
+
 How to install:
 - First clone:
 $ git clone https://github.com/gutfeeling/word_forms.git
