@@ -4,9 +4,7 @@ $ python3 script.py
 
 The following packages need to be installed  with $ pip3 install package_name
 
-package_name:
----------
-
+### package_name
 mysql
 google
 requests
@@ -28,9 +26,7 @@ validator_collection
 numpy
 wordfreq
 
----------
-
---Special installation---
+### Special installation
 word_forms package
 github link: https://github.com/gutfeeling/word_forms
 How to install:
