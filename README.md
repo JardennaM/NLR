@@ -6,45 +6,26 @@ Only works for python3.x!
 The following packages need to be installed  with `$ pip3 install package_name`
 
 ### Package names
-mysql
-
-google
-
-requests
-
-time
-
-string
-
-pdfminer.six
-
-pandas
-
-collections
-
-math
-
-re
-
-urllib
-
-operator
-
-beautifulsoup4
-
-tabulate
-
-nltk
-
-copy
-
-validators
-
-validator_collection
-
-numpy
-
-wordfreq
+mysql<br/>
+google<br/>
+requests<br/>
+time<br/>
+string<br/>
+pdfminer.six<br/>
+pandas<br/>
+collections<br/>
+math<br/>
+re<br/>
+urllib<br/>
+operator<br/>
+beautifulsoup4<br/>
+tabulate<br/>
+nltk<br/>
+copy<br/>
+validators<br/>
+validator_collection<br/>
+numpy<br/>
+wordfreq<br/>
 
 ### Special installation
 word_forms package
