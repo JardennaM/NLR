@@ -3,6 +3,9 @@ Only works for python3.x!
 
 `$ python3 script.py`
 
+Before running the script, make sure there is an active SQL server.
+Hint: Easiest solution is to download XAMPP https://www.apachefriends.org/download.html. Open the XAMPP application and start the MySQL server.
+
 The following packages need to be installed  with `$ pip3 install package_name`
 
 In order install wordfreq, Visual Studio is required. Download it from http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe
@@ -41,6 +44,10 @@ How to install:
 `$ git clone https://github.com/gutfeeling/word_forms.git`
 - Then install:
 `$ pip3 install -e word_forms`
+
+Setup SQL database to store results:
+- Easiest solution is to download XAMPP on https://www.apachefriends.org/download.html
+- Before runni
 
  How to fix "Resource 'tokenizers/punkt/english.pickle' not found."
  - Enter python command prompt:
