@@ -18,6 +18,7 @@ pandas<br/>
 collections<br/>
 math<br/>
 xlrd<br/>
+lxml<br/>
 re<br/>
 sklearn<br/>
 urllib<br/>
