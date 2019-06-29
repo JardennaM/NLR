@@ -41,3 +41,11 @@ How to install:
 `$ git clone https://github.com/gutfeeling/word_forms.git`
 - Then install:
 `$ pip3 install -e word_forms`
+
+ How to fix "Resource 'tokenizers/punkt/english.pickle' not found."
+ `$ python`
+ `>>> import nltk`
+ `>>> nltk.download()`
+ Select the 'all' option and click on download
+
+
