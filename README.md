@@ -8,7 +8,7 @@ The following packages need to be installed  with `$ pip3 install package_name`
 In order install wordfreq, Visual Studio is required. Download it from http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe
 
 ### Package names
-mysql<br/>
+mysql-connector<br/>
 google<br/>
 requests<br/>
 time<br/>
