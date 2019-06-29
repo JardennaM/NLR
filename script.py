@@ -44,7 +44,7 @@ for system in systems:
 	print_status(to_print + 'started extracting information about system number %d '%count)
 	manufacturer_id = storer.insert_in_manufacturers(db, system[0])
 	if system[1] != '':
-		#system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
+		system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
 	for google_search_term in google_search_terms:
 		to_search = searcher.create_to_search(system, google_search_term)
 		
