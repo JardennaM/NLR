@@ -43,9 +43,13 @@ How to install:
 `$ pip3 install -e word_forms`
 
  How to fix "Resource 'tokenizers/punkt/english.pickle' not found."
+ - Enter python command prompt:
  `$ python`
+ - Import nltk library:
  `>>> import nltk`
+ - Enter nltk download screen:
  `>>> nltk.download()`
+ - Download modules:
  Select the 'all' option and click on download
 
 
