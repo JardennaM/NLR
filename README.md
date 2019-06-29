@@ -17,6 +17,7 @@ pdfminer.six<br/>
 pandas<br/>
 collections<br/>
 math<br/>
+xlrd<br/>
 re<br/>
 sklearn<br/>
 urllib<br/>
