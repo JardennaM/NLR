@@ -44,7 +44,7 @@ for system in systems:
 	print_status(to_print + 'started extracting information about system number %d '%count)
 	manufacturer_id = storer.insert_in_manufacturers(db, system[0])
 	if system[1] != '':
-		system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
+		#system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
 	for google_search_term in google_search_terms:
 		to_search = searcher.create_to_search(system, google_search_term)
 		
@@ -55,6 +55,7 @@ for system in systems:
 			if text:
 				sentences = scraper.extract_sents(text)
 				dictio = extractor.fillDict(searchterms, sentences, classes_vec, classes, env['nFreqWords'], env['surr_range'])
+				print(dictio)
 				for main_category in dictio:
 					main_category_id = storer.insert_in_main_categories(db, main_category)
 					for category in dictio[main_category]:

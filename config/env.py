@@ -12,7 +12,7 @@ if sys.platform.startswith('win'):
 		'sql_username': 'root',
 		'sql_password': ''
 	}
-elif sys.platform == 'Darwin':
+else:
 	env = {
 		'systems_path': 'config/systems.txt',
 		'excluded_sources_path': 'config/excluded_sources.txt',

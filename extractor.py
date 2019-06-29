@@ -66,9 +66,9 @@ def surrounding_text(index, sentences, surr_range):
 
 
 				
-def phase_vector(sur_text, classes_vec):
+def context_vector(sur_text, classes_vec):
 	"""
-	Creates a phase_vector of the surrounding text of a keyword
+	Creates a context_vector of the surrounding text of a keyword
 	"""
 	vec_matrix = createZerosList(classes_vec)
 	for word in sur_text:
@@ -78,7 +78,7 @@ def phase_vector(sur_text, classes_vec):
 					vec_matrix[i][j] += 1
 	return np.array(flatten(vec_matrix))
 
-def getLeastFrequentWords(sentence, n):
+def get_least_frequent_words(sentence, n):
 	"""
 	Extracts and returns the n least frequent words of a given sentence
 	"""
@@ -107,13 +107,13 @@ def cos_sim(a, b):
 		normv = (norm(a)*norm(b))
 	return dot(a, b)/normv
 
-def isAWebsite(word):
+def is_a_website(word):
 	for element in ['www.', 'http', '.com', '.co']:
 		if element in word:
 			return True
 	return False
 
-def createZerosList(listOfLists):
+def create_zeros_list(listOfLists):
 	"""
 	Helper function, creates a zeros list of a list of lists
 	"""
@@ -147,7 +147,7 @@ def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
 	# return class index with highest cosine similarity
 	return np.argmax(cosine_sims)
 	
-def isTermUnique(term, searchterms):
+def is_term_unique(term, searchterms):
 	count = 0
 	for term2 in flatten(searchterms):
 		if term == term2:
@@ -170,7 +170,7 @@ def remove_duplicates(dict_in_dict):
 
 
 # fills dictionary with phase, keywords and keyword info
-def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
+def get_relevant_info(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
 	"""
 	PARAMS
 	searchterms: keywords that will be searched in the text
