@@ -5,7 +5,7 @@ Only works for python3.x!
 
 The following packages need to be installed  with `$ pip3 install package_name`
 
-In order install wordfreq, Visual Studio is required. Download it from https://visualstudio.microsoft.com/downloads/
+In order install wordfreq, Visual Studio is required. Download it from http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe
 
 ### Package names
 mysql<br/>
