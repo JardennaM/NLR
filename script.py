@@ -1,12 +1,14 @@
 import os
 import sys
+import io
 
-
-def print_status(string):
-	os.system('clear')
-	print(string)
-
-os.system('clear')
+def print_status(string=None):
+	if sys.platform.startswith('win'):
+		os.system('cls')
+	else:
+		os.system('clear')
+	if string != None:
+		print(string)
 
 to_print = ''
 
@@ -15,6 +17,8 @@ sys.path.insert(0, '%s/config'%current_directory)
 sys.path.insert(0, '%s/objects'%current_directory)
 
 from env import *
+import imports
+print_status()
 import searcher
 import scraper
 import extractor
@@ -43,7 +47,9 @@ for system in systems:
 		system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
 	for google_search_term in google_search_terms:
 		to_search = searcher.create_to_search(system, google_search_term)
+		
 		urls = searcher.google_term(to_search, excluded_sources, env['number_of_search_results'])
+		
 		for url in urls:
 			text = scraper.get_text_from_url(url)
 			if text:
@@ -57,6 +63,5 @@ for system in systems:
 						keyterms = ' '.join(list(category.values())[0][0])
 						context = list(category.values())[0][1]
 						storer.insert_in_information(db, system_id, main_category_id, category_name, keyterms, url, context)
-	print_status(to_print + '%d out of the %d systems searched, extracted and stored'%(count, number_of_systems))
 	count += 1
 

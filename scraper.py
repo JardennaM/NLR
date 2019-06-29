@@ -29,15 +29,12 @@ def get_text_from_url(url):
 	Function extracts HTML from a webpage (or PDF webpage)
 	and returns it
 	"""
-
 	try:
-		# if PDF
 		if url[-3:] == 'pdf' or url[-3:] == 'PDF':
 			urlretrieve(url, "download.pdf")
 			page =  convert_pdf_to_txt("download.pdf")
 		else:
 			page = urllib.request.urlopen(url).read()
-
 		soup = BeautifulSoup(page, 'lxml')
 		[s.extract() for s in soup('script')]
 		[s.extract() for s in soup('style')]
@@ -45,7 +42,6 @@ def get_text_from_url(url):
 		return text.rstrip("\n\r")
 	except:
 		return False
-
 
 def extract_sents(text):
 	"""
