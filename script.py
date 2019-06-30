@@ -2,9 +2,13 @@ import os
 import sys
 
 
-def print_status(string):
-	os.system('clear')
-	print(string)
+def print_status(string=None):
+	if sys.platform.startswith('win'):
+		os.system('cls')
+	else:
+		os.system('clear')
+	if string != None:
+		print(string)
 
 os.system('clear')
 
