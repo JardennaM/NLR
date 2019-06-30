@@ -58,7 +58,6 @@ def create_search_terms(methods, relevant_info):
 	return searchterms
 
 def reshape_input(input):
-
 	for index, value in enumerate(input):
 		split_list = [x.strip() for x in value.split(',')]
 		split_list = [x.split(' ') for x in split_list]
