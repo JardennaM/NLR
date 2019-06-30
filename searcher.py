@@ -1,5 +1,7 @@
 from googlesearch import search 
 import time
+import sys
+import io
 
 def get_systems_from_file(path):
 	"""Functions takes the path to the systems.txt file as input
@@ -14,8 +16,10 @@ def get_systems_from_file(path):
 	list(systems): list of systems to examine later.
 
 	"""
-
-	file = open(path).readlines()
+	if sys.platform.startswith('win'):
+		file = open((path), "r", encoding='UTF8').readlines()
+	else:
+		file = open(path).readlines()
 
 	systems = []
 	for line in file:
@@ -39,7 +43,11 @@ def get_excluded_sources_from_file(path):
 	searcher.
 
 	"""
-	return [item.rstrip('\n') for item in open(path).readlines()]
+	if sys.platform.startswith('win'):
+		file = open((path), "r", encoding='UTF8').readlines()
+	else:
+		file = open(path).readlines()
+	return [item.rstrip('\n') for item in file]
 
 def get_searchterms_from_file(path):
 	"""Functions takes the path to the searchterms.txt file as input
@@ -53,7 +61,11 @@ def get_searchterms_from_file(path):
 	list(searchterms): list of searchterms to search for each system.
 
 	"""
-	return [item.rstrip('\n') for item in open(path).readlines()]
+	if sys.platform.startswith('win'):
+		file = open((path), "r", encoding='UTF8').readlines()
+	else:
+		file = open(path).readlines()
+	return [item.rstrip('\n') for item in file]
 
 def site_in_excluded(url, excluded):
 	"""Returns true if the url originates from an excluded source, otherwise
@@ -108,7 +120,8 @@ def google_term(to_search, excluded_sources, number_of_top_results=25):
 	"""
 
 	urls = []
-
+	text_trap = io.StringIO()
+	sys.stdout = text_trap
 	try:
 		for url in search(to_search, tld="co.in", num=number_of_top_results, stop=10, pause=1):
 			if site_in_excluded(url, excluded_sources):
@@ -116,4 +129,5 @@ def google_term(to_search, excluded_sources, number_of_top_results=25):
 	except:
 		print('waiting')
 		time.sleep(900)
+	sys.stdout = sys.__stdout__	
 	return urls

@@ -42,7 +42,7 @@ def find_indices_of_terms(search_terms, sentences):
 
 				# morgen nog even naar kijken, naar de manier hoe ik dit doe
 				if set(term).issubset(set(sentence)):
-					if isTermUnique(term, search_terms):
+					if is_term_unique(term, search_terms):
 						class_ = c
 					else:
 						class_ = -1
@@ -66,11 +66,11 @@ def surrounding_text(index, sentences, surr_range):
 
 
 				
-def phase_vector(sur_text, classes_vec):
+def context_vector(sur_text, classes_vec):
 	"""
-	Creates a phase_vector of the surrounding text of a keyword
+	Creates a context_vector of the surrounding text of a keyword
 	"""
-	vec_matrix = createZerosList(classes_vec)
+	vec_matrix = create_zeros_list(classes_vec)
 	for word in sur_text:
 		for i, c in enumerate(classes_vec):
 			for j, syn in enumerate(c):
@@ -78,7 +78,7 @@ def phase_vector(sur_text, classes_vec):
 					vec_matrix[i][j] += 1
 	return np.array(flatten(vec_matrix))
 
-def getLeastFrequentWords(sentence, n):
+def get_least_frequent_words(sentence, n):
 	"""
 	Extracts and returns the n least frequent words of a given sentence
 	"""
@@ -101,19 +101,22 @@ def getLeastFrequentWords(sentence, n):
 	return [x[1] for x in sorted(sorted_on_freq, key=lambda tup: tup[0])]
 
 def cos_sim(a, b):
+	"""
+	Calculats the cosine similarity between two vectors
+	"""
 	if (norm(a)*norm(b)) == 0:
 		normv = 0.000000000001
 	else:
 		normv = (norm(a)*norm(b))
 	return dot(a, b)/normv
 
-def isAWebsite(word):
+def is_a_website(word):
 	for element in ['www.', 'http', '.com', '.co']:
 		if element in word:
 			return True
 	return False
 
-def createZerosList(listOfLists):
+def create_zeros_list(listOfLists):
 	"""
 	Helper function, creates a zeros list of a list of lists
 	"""
@@ -132,13 +135,13 @@ def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
 
 	
 	surr = surrounding_text(index, sentences, surr_range)
-	vector = phase_vector(surr, classes_vec)
+	vector = context_vector(surr, classes_vec)
 
 	
 	# get cosine sim for each class
 	cosine_sims = []
 	for i in range(len(classes_vec)-1):
-		zeros = createZerosList(classes_vec)
+		zeros = create_zeros_list(classes_vec)
 		zeros[i] = list(np.ones(len(zeros[i])))
 		class_vector = np.array(flatten(zeros))
 		cosine_sims.append(cos_sim(vector, class_vector))
@@ -147,7 +150,7 @@ def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
 	# return class index with highest cosine similarity
 	return np.argmax(cosine_sims)
 	
-def isTermUnique(term, searchterms):
+def is_term_unique(term, searchterms):
 	count = 0
 	for term2 in flatten(searchterms):
 		if term == term2:
@@ -170,7 +173,7 @@ def remove_duplicates(dict_in_dict):
 
 
 # fills dictionary with phase, keywords and keyword info
-def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
+def get_relevant_info(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
 	"""
 	PARAMS
 	searchterms: keywords that will be searched in the text
@@ -212,7 +215,7 @@ def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_ran
 		# remove duplicates
 		key_sent = list(dict.fromkeys(key_sent))
 		# remove punctuation from key info, as well as urls
-		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...']]
+		key_sent = [x for x in key_sent if not x in string.punctuation and not x in ['•', '’', '”', '“', ')', '–', '»', '‘', '...'] and not is_a_website(x)]
 
 		
 
@@ -225,7 +228,7 @@ def fillDict(search_terms, sentences, classes_vec, classes, nFreqWords, surr_ran
 		else:
 			c = classes[class_]
 
-		key_info = getLeastFrequentWords(key_sent, nFreqWords)
+		key_info = get_least_frequent_words(key_sent, nFreqWords)
 
 		keyword =  ' '.join(term)
 

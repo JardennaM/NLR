@@ -25,6 +25,7 @@ from io import StringIO
 ### MAIN FUNCTIONS
 
 def get_text_from_url(url):
+<<<<<<< HEAD
 	"""Takes a url as input and returns the text on the specific page as a string.
 	Returns False if the text could not be retrieved.
 
@@ -34,16 +35,19 @@ def get_text_from_url(url):
 	Returns:
 	text (string): the content on the page or False if the retrieval
 
+=======
+	"""
+	Function extracts HTML from a webpage (or PDF webpage)
+	and returns it
+>>>>>>> 55bb0000da3d53af5575e7207f528fbfdeb88613
 	"""
 	try:
-		# if PDF
 		if url[-3:] == 'pdf' or url[-3:] == 'PDF':
 			urlretrieve(url, "download.pdf")
 			page =  convert_pdf_to_txt("download.pdf")
 			os.remove("download.pdf")
 		else:
 			page = urllib.request.urlopen(url).read()
-
 		soup = BeautifulSoup(page, 'lxml')
 		[s.extract() for s in soup('script')]
 		[s.extract() for s in soup('style')]
@@ -51,7 +55,6 @@ def get_text_from_url(url):
 		return text.rstrip("\n\r")
 	except:
 		return False
-
 
 def extract_sents(text):
 	"""
