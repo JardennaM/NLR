@@ -15,7 +15,7 @@ def get_systems_from_file(path):
 
 	"""
 
-	file = open(path).readlines()
+	file = open(path, encoding="utf8").readlines()
 
 	systems = []
 	for line in file:
@@ -39,7 +39,7 @@ def get_excluded_sources_from_file(path):
 	searcher.
 
 	"""
-	return [item.rstrip('\n') for item in open(path).readlines()]
+	return [item.rstrip('\n') for item in open(path, encoding="utf8").readlines()]
 
 def get_searchterms_from_file(path):
 	"""Functions takes the path to the searchterms.txt file as input
@@ -53,7 +53,7 @@ def get_searchterms_from_file(path):
 	list(searchterms): list of searchterms to search for each system.
 
 	"""
-	return [item.rstrip('\n') for item in open(path).readlines()]
+	return [item.rstrip('\n') for item in open(path, encoding="utf8").readlines()]
 
 def site_in_excluded(url, excluded):
 	"""Returns true if the url originates from an excluded source, otherwise

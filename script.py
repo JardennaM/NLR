@@ -10,7 +10,7 @@ def print_status(string=None):
 	if string != None:
 		print(string)
 
-os.system('clear')
+print_status()
 
 to_print = ''
 
@@ -25,6 +25,7 @@ import extractor
 import storer
 import input_structure_reader
 
+print(env)
 systems = searcher.get_systems_from_file(env['systems_path'])
 number_of_systems = len(systems)
 
