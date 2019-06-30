@@ -54,7 +54,7 @@ for system in systems:
 			text = scraper.get_text_from_url(url)
 			if text:
 				sentences = scraper.extract_sents(text)
-				dictio = extractor.fillDict(searchterms, sentences, classes_vec, classes, env['nFreqWords'], env['surr_range'])
+				dictio = extractor.get_relevant_info(searchterms, sentences, classes_vec, classes, env['nFreqWords'], env['surr_range'])
 				print(dictio)
 				for main_category in dictio:
 					main_category_id = storer.insert_in_main_categories(db, main_category)
