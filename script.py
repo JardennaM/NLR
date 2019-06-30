@@ -10,8 +10,6 @@ def print_status(string=None):
 	if string != None:
 		print(string)
 
-print_status()
-
 to_print = ''
 
 current_directory = os.getcwd()
@@ -25,7 +23,7 @@ import extractor
 import storer
 import input_structure_reader
 
-print(env)
+print_status()
 systems = searcher.get_systems_from_file(env['systems_path'])
 number_of_systems = len(systems)
 
