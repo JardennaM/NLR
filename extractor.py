@@ -84,7 +84,7 @@ def get_least_frequent_words(sentence, n):
 	"""
 	freq_list = []
 	for index, word in enumerate(sentence):
-		if isAWebsite(word):
+		if is_a_website(word):
 			continue
 		if word in ['•', '’', '”', '“', ')', '–', '»', '“'] or word in string.punctuation:
 			continue

@@ -17,13 +17,13 @@ sys.path.insert(0, '%s/config'%current_directory)
 sys.path.insert(0, '%s/objects'%current_directory)
 
 from env import *
-import imports
-print_status()
 import searcher
 import scraper
 import extractor
 import storer
 import input_structure_reader
+
+print_status()
 
 systems = searcher.get_systems_from_file(env['systems_path'])
 number_of_systems = len(systems)
@@ -55,7 +55,6 @@ for system in systems:
 			if text:
 				sentences = scraper.extract_sents(text)
 				dictio = extractor.get_relevant_info(searchterms, sentences, classes_vec, classes, env['nFreqWords'], env['surr_range'])
-				print(dictio)
 				for main_category in dictio:
 					main_category_id = storer.insert_in_main_categories(db, main_category)
 					for category in dictio[main_category]:
