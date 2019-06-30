@@ -7,8 +7,15 @@ from word_forms.word_forms import get_word_forms
 import numpy as np
 
 def get_all_word_forms(word):
+	"""Takes a word as input and returns a collection of variants of the word.
 
-	# get all word forms of a word in a list
+	Parameters:
+	word (string): a specific word
+
+	Returns:
+	words (list): the different variants of the input word
+
+	"""
 	forms_dict = get_word_forms(word)
 
 	return list(dict.fromkeys(flatten(forms_dict.values())))

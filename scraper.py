@@ -25,16 +25,22 @@ from io import StringIO
 ### MAIN FUNCTIONS
 
 def get_text_from_url(url):
-	"""
-	Function extracts HTML from a webpage (or PDF webpage)
-	and returns it
-	"""
+	"""Takes a url as input and returns the text on the specific page as a string.
+	Returns False if the text could not be retrieved.
 
+	Parameters:
+	url (string): path to website
+
+	Returns:
+	text (string): the content on the page or False if the retrieval
+
+	"""
 	try:
 		# if PDF
 		if url[-3:] == 'pdf' or url[-3:] == 'PDF':
 			urlretrieve(url, "download.pdf")
 			page =  convert_pdf_to_txt("download.pdf")
+			os.remove("download.pdf")
 		else:
 			page = urllib.request.urlopen(url).read()
 

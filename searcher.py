@@ -73,6 +73,18 @@ def site_in_excluded(url, excluded):
 	return True
 
 def create_to_search(system, searchterm):
+	"""Combine a system and all searchterms to a single list
+	of queries to enter in the search engine..
+
+	Parameters:
+	system (list): first element is the manufacturer, second element is the
+				   name of the system
+	searchterms (list): list of all searchterms
+
+	Returns:
+	to_search (list): list of queries to enter in search engine.
+
+	"""
 	if system[1] == '':
 		return '%s %s'%(system[0], searchterm)
 	else:

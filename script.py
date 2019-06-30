@@ -37,7 +37,7 @@ print_status(to_print)
 
 count = 1
 for system in systems:
-	print_status(to_print + 'started extracting information about system number %d '%count)
+	print_status(to_print + 'extracting information about system %d of %d'%(count, number_of_systems))
 	manufacturer_id = storer.insert_in_manufacturers(db, system[0])
 	if system[1] != '':
 		system_id = storer.insert_in_systems(db, manufacturer_id, system[1])
