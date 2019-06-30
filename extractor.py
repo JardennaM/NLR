@@ -52,6 +52,11 @@ def find_indices_of_terms(search_terms, sentences):
 
 
 def surrounding_text(index, sentences, surr_range):
+	"""
+	This functions returns the surrounding text given a specific index
+	in the sentence-splitted text. The variable surr_range determines
+	the range of the sentences you take as context.
+	"""
 	range_1 = index - surr_range
 	range_2 = index + surr_range + 1
 	if range_1 >= 0 and range_2 <= len(sentences):
@@ -111,6 +116,9 @@ def cos_sim(a, b):
 	return dot(a, b)/normv
 
 def is_a_website(word):
+	"""
+	Returns True if a word is a website, False otherwise.
+	"""
 	for element in ['www.', 'http', '.com', '.co']:
 		if element in word:
 			return True
@@ -126,14 +134,13 @@ def create_zeros_list(listOfLists):
 		mainList.append([0]*n)
 	return mainList
 
-
-# classify with cosine similarity
 def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
+	"""
+	This function classifies a context in the right main category.
+	It returns the argmax of the most similar class, using cosine similarity.
+	"""
 
 
-	# first we check whether classification is necessary
-
-	
 	surr = surrounding_text(index, sentences, surr_range)
 	vector = context_vector(surr, classes_vec)
 
@@ -151,6 +158,10 @@ def get_cosine_sims_classify(index, classes_vec, sentences, surr_range):
 	return np.argmax(cosine_sims)
 	
 def is_term_unique(term, searchterms):
+	"""
+	This function returns True if a given search term also appears
+	in another main category, False otherwise.
+	"""
 	count = 0
 	for term2 in flatten(searchterms):
 		if term == term2:
@@ -161,6 +172,10 @@ def is_term_unique(term, searchterms):
 		return True
 
 def remove_duplicates(dict_in_dict):
+	"""	
+	This function removes the duplicates from the dictionary
+	created in get_relevant_info
+	"""
 	for class_, sub in dict_in_dict.items():
 		sub2 = []
 		for subdict in sub:
@@ -175,14 +190,8 @@ def remove_duplicates(dict_in_dict):
 # fills dictionary with phase, keywords and keyword info
 def get_relevant_info(search_terms, sentences, classes_vec, classes, nFreqWords, surr_range):
 	"""
-	PARAMS
-	searchterms: keywords that will be searched in the text
-	sentences: the text splitted in sentences
-	worded_text: the text splittted in words
-	phases: list of (synonyms) of phases
-	classes: simple list of phases/classes
-	nFreqWords: number of freq to shorten sentence
-	nSelection: number of surroundings to use around keywords
+	This function returns combines all functions above and implements the bottom up method.
+	It returns a dictionary with the relevant information of the searchterms and their context.
 	"""
 
 	sent_indices = find_indices_of_terms(search_terms, sentences)
