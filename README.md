@@ -37,10 +37,6 @@ How to install:
 - Then install:
 `$ pip3 install -e word_forms`
 
-Setup SQL database to store results:
-- Easiest solution is to download XAMPP on https://www.apachefriends.org/download.html
-- Before runni
-
  How to fix "Resource 'tokenizers/punkt/english.pickle' not found."
  - Enter python command prompt:
  `$ python`
